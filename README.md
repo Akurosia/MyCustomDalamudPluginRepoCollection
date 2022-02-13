@@ -1,7 +1,7 @@
 # MyCustomDalamudPluginRepoCollection
 A collection of multiple dalamud repos, merged into a single file for easier distribution to friends
 
-# These repos are currently included
+## These repos are currently included
 - https://github.com/Aireil/MyDalamudPlugins/raw/master/pluginmaster.json
 - https://github.com/daemitus/MyDalamudPlugins/raw/master/pluginmaster.json
 - https://github.com/kalilistic/DalamudPluginRepo/raw/master/pluginmaster.json
