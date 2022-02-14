@@ -1,13 +1,4 @@
 [
-    "https://raw.githubusercontent.com/MgAl2O4/FFTriadBuddyDalamud/main/experimental/pluginmaster.json",
-    "https://raw.githubusercontent.com/josephleewilliams/DalamudPlugins/master/pluginmaster.json",
-    "https://raw.githubusercontent.com/Ottermandias/DalamudRepos/master/repo.json",
-    "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/api4/pluginmaster.json",
-    "https://github.com/daemitus/MyDalamudPlugins/raw/api4/pluginmaster.json",
-    "https://raw.githubusercontent.com/Aireil/MyDalamudPlugins/api4/pluginmaster.json",
-    "https://repo.horoscope.dev/dist/stable/pluginmaster.json",
-    "https://repo.horoscope.dev/dist/testing/pluginmaster.json",
-    "https://raw.githubusercontent.com/Chalkos/Marketbuddy/api4/repo.json",
     "https://repo.caraxian.com/",
     "https://raw.githubusercontent.com/maributt/xivplugins/main/repo.json",
     "https://raw.githubusercontent.com/unconnecteduk/ffxivshit/main/priceinsight.json",
@@ -44,7 +35,6 @@
     "https://raw.githubusercontent.com/PrototypeSeiren/DalamudPlugins/master/pluginmaster.json",
     "https://raw.githubusercontent.com/PunishedPineapple/DalamudPlugins/master/pluginmaster.json",
     "https://raw.githubusercontent.com/Sag64/DalamudPlugins/master/pluginmaster.json",
-    "https://raw.githubusercontent.com/ShadyWhite/DalamudPlugins-EasyAccess/master/pluginmaster.json",
     "https://raw.githubusercontent.com/SheepGoMeh/DalamudPlugins/master/pluginmaster.json",
     "https://raw.githubusercontent.com/Shima-M/DalamudPlugins/master/pluginmaster.json",
     "https://raw.githubusercontent.com/Strati/DalamudPlugins/master/pluginmaster.json",
@@ -93,7 +83,5 @@
     "https://raw.githubusercontent.com/Akurosia/DalamudPlugins/master/pluginmaster.json",
     "https://raw.githubusercontent.com/lichie567/DalamudPlugins/api4/pluginmaster.json",
     "https://raw.githubusercontent.com/MidoriKami/DalamudPlugins/api5/pluginmaster.json",
-    "https://repo.waitingway.com",
-    "https://raw.githubusercontent.com/lichie567/XIVAuras/api5/repo.json",
     "https://raw.githubusercontent.com/xorus/DalamudPlugins/master/pluginmaster.json"
 ]

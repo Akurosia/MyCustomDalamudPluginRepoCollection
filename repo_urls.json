@@ -1,9 +1,7 @@
 [
-    "https://github.com/Aireil/MyDalamudPlugins/raw/master/pluginmaster.json",
-    "https://github.com/daemitus/MyDalamudPlugins/raw/master/pluginmaster.json",
-    "https://github.com/kalilistic/DalamudPluginRepo/raw/master/pluginmaster.json",
     "https://plugins.annaclemens.io/",
     "https://plugins.annaclemens.io/unofficial",
+    "https://repo.horoscope.dev/dist/pluginmaster.json",
     "https://raw.githubusercontent.com/Aireil/MyDalamudPlugins/master/pluginmaster.json",
     "https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json",
     "https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json",
@@ -33,5 +31,7 @@
     "https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json",
     "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/api5/pluginmaster.json",
     "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/repo.json",
-    "https://raw.githubusercontent.com/aulus-asina/resonant/main/repo/latest.json"
+    "https://raw.githubusercontent.com/aulus-asina/resonant/main/repo/latest.json",
+    "https://raw.githubusercontent.com/lichie567/XIVAuras/main/repo.json",
+    "https://raw.githubusercontent.com/Ottermandias/DalamudPlugins/master/pluginmaster.json"
 ]
