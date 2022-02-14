@@ -1,5 +1,7 @@
 [
     "https://repo.caraxian.com/",
+    "https://repo.caraxian.com/pluginmaster.json",
+    "https://gitlab.com/kaminariss/nextui-repo/-/raw/main/pluginmaster.json",
     "https://raw.githubusercontent.com/Ottermandias/DalamudPlugins/master/pluginmaster.json",
     "https://raw.githubusercontent.com/maributt/xivplugins/main/repo.json",
     "https://raw.githubusercontent.com/unconnecteduk/ffxivshit/main/priceinsight.json",
@@ -72,7 +74,6 @@
     "https://raw.githubusercontent.com/uk959595/DalamudPlugins/master/pluginmaster.json",
     "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/master/pluginmaster.json",
     "https://raw.githubusercontent.com/zhudotexe/DalamudPlugins/master/pluginmaster.json",
-    "https://repo.caraxian.com/pluginmaster.json",
     "https://raw.githubusercontent.com/Arrenton/DalamudPlugins/master/pluginmaster.json",
     "https://raw.githubusercontent.com/MgAl2O4/DalamudPlugins/master/pluginmaster.json",
     "https://raw.githubusercontent.com/UnknownX7/DalamudPlugins/master/pluginmaster.json",
