@@ -52,23 +52,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "v2.2-alpha",
-        "Author": "markjsosnowski",
-        "DalamudApiLevel": 5,
-        "Description": "",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/markjsosnowski/OceanFishin/releases/download/v2.2-alpha/latest.zip",
-        "DownloadLinkTesting": "https://github.com/markjsosnowski/OceanFishin/releases/download/v2.2-alpha/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/markjsosnowski/OceanFishin/releases/download/v2.2-alpha/latest.zip",
-        "InternalName": "OceanFishin_aku",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LastUpdate": 1639471772.0,
-        "Name": "OceanFishin_aku",
-        "RepoUrl": "https://github.com/markjsosnowski/OceanFishin"
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.12.1.0",
         "Author": "ascclemens",
         "DalamudApiLevel": 5,
