@@ -155,7 +155,7 @@
         "InternalName": "Divination.InstanceIDViewer",
         "IsHide": false,
         "IsTestingExclusive": true,
-        "LastUpdated": 1644955562,
+        "LastUpdated": 1644959061,
         "LoadPriority": 0,
         "Name": "InstanceIDViewer [Aku API 5]",
         "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
