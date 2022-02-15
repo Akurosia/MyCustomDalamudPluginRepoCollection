@@ -1,6 +1,23 @@
 [
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.0.0",
+        "Author": "Judisch",
+        "DalamudApiLevel": 5,
+        "Description": "",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/Judisch/FastPraetorium/releases/download/1.0.0.0/FastPraetorium.zip",
+        "DownloadLinkTesting": "https://github.com/Judisch/FastPraetorium/releases/download/1.0.0.0/FastPraetorium.zip",
+        "DownloadLinkUpdate": "https://github.com/Judisch/FastPraetorium/releases/download/1.0.0.0/FastPraetorium.zip",
+        "InternalName": "FastPraetorium_aku",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": 1639164460.0,
+        "Name": "FastPraetorium_aku",
+        "RepoUrl": "https://github.com/Judisch/FastPraetorium"
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.12.1.0",
         "Author": "ascclemens",
         "DalamudApiLevel": 5,
@@ -121,7 +138,7 @@
         "InternalName": "Divination.InstanceIDViewer",
         "IsHide": false,
         "IsTestingExclusive": true,
-        "LastUpdated": 1644912288,
+        "LastUpdated": 1644916167,
         "LoadPriority": 0,
         "Name": "InstanceIDViewer [Aku API 5]",
         "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
@@ -1892,6 +1909,27 @@
         "RepoUrl": "https://github.com/serifine/XIV-Chat-Scanner",
         "Tags": [
             "Serifine"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.7.8037.2602",
+        "Author": "digital pet",
+        "DalamudApiLevel": 5,
+        "Description": "An advanced haptic feedback plugin for game controllers, adult toys, and more using the Buttplug.io library. Requires Intiface Desktop to operate.\n (https://raw.githubusercontent.com/aka-tamagotchi/EgirlPlugins/main/repo.json)",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/digital-pet/EgirlPlugins/main/plugins/AetherSenseRedux/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/digital-pet/EgirlPlugins/main/plugins/AetherSenseRedux/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/digital-pet/EgirlPlugins/main/plugins/AetherSenseRedux/latest.zip",
+        "InternalName": "AetherSenseRedux",
+        "LoadPriority": 0,
+        "Name": "AetherSense Redux (18+) [Aku API 5]",
+        "Punchline": "Advanced haptic feedback using Intiface",
+        "RepoUrl": "https://github.com/digital-pet/AetherSenseRedux",
+        "Tags": [
+            "parsing",
+            "buttplug",
+            "haptic",
+            "erp"
         ]
     }
 ]
