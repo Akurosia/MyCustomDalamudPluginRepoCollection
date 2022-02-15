@@ -18,6 +18,57 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.1.0.0",
+        "Author": "Tenrys",
+        "DalamudApiLevel": 5,
+        "Description": "",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/Tenrys/FATEAutoSync/releases/download/1.1.0.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Tenrys/FATEAutoSync/releases/download/1.1.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Tenrys/FATEAutoSync/releases/download/1.1.0.0/latest.zip",
+        "InternalName": "FATEAutoSync_aku",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": 1644520775.0,
+        "Name": "FATEAutoSync_aku",
+        "RepoUrl": "https://github.com/Tenrys/FATEAutoSync"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.2.4",
+        "Author": "lmcintyre",
+        "DalamudApiLevel": 5,
+        "Description": "",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/lmcintyre/Housemate/releases/download/1.0.2.4/Housemate.zip",
+        "DownloadLinkTesting": "https://github.com/lmcintyre/Housemate/releases/download/1.0.2.4/Housemate.zip",
+        "DownloadLinkUpdate": "https://github.com/lmcintyre/Housemate/releases/download/1.0.2.4/Housemate.zip",
+        "InternalName": "Housemate_aku",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": 1641912990.0,
+        "Name": "Housemate_aku",
+        "RepoUrl": "https://github.com/lmcintyre/Housemate"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "v2.2-alpha",
+        "Author": "markjsosnowski",
+        "DalamudApiLevel": 5,
+        "Description": "",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/markjsosnowski/OceanFishin/releases/download/v2.2-alpha/latest.zip",
+        "DownloadLinkTesting": "https://github.com/markjsosnowski/OceanFishin/releases/download/v2.2-alpha/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/markjsosnowski/OceanFishin/releases/download/v2.2-alpha/latest.zip",
+        "InternalName": "OceanFishin_aku",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": 1639471772.0,
+        "Name": "OceanFishin_aku",
+        "RepoUrl": "https://github.com/markjsosnowski/OceanFishin"
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.12.1.0",
         "Author": "ascclemens",
         "DalamudApiLevel": 5,
@@ -1930,6 +1981,29 @@
             "buttplug",
             "haptic",
             "erp"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.0.1",
+        "Author": "Redeven",
+        "DalamudApiLevel": 5,
+        "Description": "/fflogs\n (https://raw.githubusercontent.com/redeven/FFLogsLookup/main/repository.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/redeven/FFLogsLookup/main/Build/FFLogsLookup/FFLogsLookup/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/redeven/FFLogsLookup/main/Build/FFLogsLookup/FFLogsLookup/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/redeven/FFLogsLookup/main/Build/FFLogsLookup/FFLogsLookup/latest.zip",
+        "InternalName": "FFLogsLookup",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": 1641890692,
+        "Name": "FFLogs Lookup [Aku API 5]",
+        "Punchline": "Quickly look up your party members in FFLogs to avoid trap parties",
+        "RepoUrl": "https://github.com/redeven/FFLogsLookup",
+        "Tags": [
+            "plugin",
+            "fflogs",
+            "parse"
         ]
     }
 ]
