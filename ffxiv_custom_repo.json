@@ -1784,31 +1784,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.2.2",
-        "Author": "Cair",
-        "DalamudApiLevel": 5,
-        "Description": "Allows you to customize target priorities for individual actions. Type /redirect to configure.\n (https://raw.githubusercontent.com/cairthenn/CairDalamudPlugins/main/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/cairthenn/CairDalamudPlugins/main/plugins/Redirect/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/cairthenn/CairDalamudPlugins/main/testing/Redirect/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/cairthenn/CairDalamudPlugins/main/plugins/Redirect/latest.zip",
-        "InternalName": "Redirect",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LastUpdate": "1640899383",
-        "LoadPriority": 0,
-        "Name": "Redirect [Aku API 5]",
-        "Punchline": "Change where your actions are going. Facilitates seamless mouseover targeting and ground action placement.",
-        "Tags": [
-            "redirect",
-            "action",
-            "cair",
-            "mouseover"
-        ],
-        "TestingAssemblyVersion": "1.0.0.0"
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "0.0.0.6",
         "Author": "veyn",
         "DalamudApiLevel": 5,
