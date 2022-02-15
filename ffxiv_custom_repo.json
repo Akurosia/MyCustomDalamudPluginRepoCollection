@@ -343,33 +343,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.0",
-        "Author": "Kouzukii",
-        "CategoryTags": [
-            "utility",
-            "ui"
-        ],
-        "DalamudApiLevel": 5,
-        "Description": "Refine the character panel to display useful information like crit and direct hit chance\n (https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/CharacterPanelRefined/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/CharacterPanelRefined/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/CharacterPanelRefined/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/Kouzukii/ffxiv-characterstatus-refined/master/images/icon.png",
-        "ImageUrls": [
-            "https://raw.githubusercontent.com/Kouzukii/ffxiv-characterstatus-refined/master/images/image1.png",
-            "https://raw.githubusercontent.com/Kouzukii/ffxiv-characterstatus-refined/master/images/image2.png"
-        ],
-        "InternalName": "CharacterPanelRefined",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LastUpdate": "1642988871",
-        "LoadPriority": 0,
-        "Name": "Character Panel Refined [Aku API 5]",
-        "RepoUrl": "https://github.com/Kouzukii/ffxiv-characterstatus-refined"
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.2.0.0",
         "Author": "Kouzukii",
         "CategoryTags": [
