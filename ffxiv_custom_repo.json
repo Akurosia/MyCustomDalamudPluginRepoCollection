@@ -155,7 +155,7 @@
         "InternalName": "Divination.InstanceIDViewer",
         "IsHide": false,
         "IsTestingExclusive": true,
-        "LastUpdated": 1645009670,
+        "LastUpdated": 1645013218,
         "LoadPriority": 0,
         "Name": "InstanceIDViewer [Aku API 5]",
         "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
@@ -833,6 +833,26 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.3.3.0",
+        "Author": "kalilistic",
+        "DalamudApiLevel": 5,
+        "Description": "Allows you to translate player and NPC chat messages/bubbles.\nSupported languages include: Pirate, Urianger, Leet, Pig Latin, and Turkey.\n (https://raw.githubusercontent.com/kalilistic/DalamudPluginRepo/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
+        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
+        "InternalName": "SillyChat",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "1645016980",
+        "Name": "SillyChat [Aku API 5]",
+        "RepoUrl": "https://github.com/kalilistic/SillyChat",
+        "Tags": [
+            "chat"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.3.4.0",
         "Author": "kalilistic",
         "DalamudApiLevel": 5,
@@ -844,7 +864,7 @@
         "InternalName": "Kapture",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1643563565",
+        "LastUpdated": "1645016980",
         "Name": "Kapture [Aku API 5]",
         "RepoUrl": "https://github.com/kalilistic/Dalamud.Kapture",
         "Tags": [
