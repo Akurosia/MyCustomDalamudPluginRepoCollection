@@ -1119,10 +1119,10 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.3.0",
+        "AssemblyVersion": "1.2.0.1",
         "Author": "yomishino",
         "CategoryTags": [],
-        "Changelog": "- Actions can now be \"blacklisted\": blacklisted actions will not be drawn regardless of other settings.",
+        "Changelog": "- New setting to enable/disable drawing for actions of Special/Artillery categories",
         "DalamudApiLevel": 5,
         "Description": "This plugin provides a visual cue on the effect range of the AoE action you just used.\n\nMay be used as a supplement/replacement to the actions' VFXs in showing effect range related information, such as where has the action landed and how large an area it covered.\n (https://raw.githubusercontent.com/yomishino/MyDalamudPlugins/main/plugins.json)",
         "DownloadCount": 0,
@@ -1134,7 +1134,7 @@
         "InternalName": "ActionEffectRange",
         "IsHide": "False",
         "IsTestingExclusive": "True",
-        "LastUpdate": "1644859263",
+        "LastUpdate": "1645023371",
         "LoadPriority": 0,
         "Name": "ActionEffectRange [TEST] [Aku API 5]",
         "Punchline": "Provides a visual cue on the effect range of the AoE action just used.",
@@ -1145,7 +1145,7 @@
             "Action",
             "EffectRange"
         ],
-        "TestingAssemblyVersion": "1.0.3.0"
+        "TestingAssemblyVersion": "1.2.0.1"
     },
     {
         "ApplicableVersion": "any",
