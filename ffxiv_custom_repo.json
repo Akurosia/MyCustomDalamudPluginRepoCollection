@@ -155,7 +155,7 @@
         "InternalName": "Divination.InstanceIDViewer",
         "IsHide": false,
         "IsTestingExclusive": true,
-        "LastUpdated": 1645106832,
+        "LastUpdated": 1645110568,
         "LoadPriority": 0,
         "Name": "InstanceIDViewer [Aku API 5]",
         "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
@@ -211,7 +211,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.3.0.6",
+        "AssemblyVersion": "2.3.0.7",
         "Author": "Eternita",
         "DalamudApiLevel": 5,
         "Description": "\n (https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json)",
