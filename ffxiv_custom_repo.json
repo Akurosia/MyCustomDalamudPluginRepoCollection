@@ -1861,7 +1861,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.2.2",
+        "AssemblyVersion": "0.0.2.3",
         "Author": "Youri",
         "Changelog": "Added minute groupings",
         "DalamudApiLevel": 5,
