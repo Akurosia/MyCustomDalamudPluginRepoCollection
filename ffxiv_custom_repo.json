@@ -1395,7 +1395,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.3.4.4",
+        "AssemblyVersion": "1.3.5.0",
         "Author": "attick, daemitus, alymphocyte, grammernatzi, kam",
         "DalamudApiLevel": 5,
         "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!\nUpdated for API5\n (https://raw.githubusercontent.com/captainbinary/MyDalamudPlugins/master/pluginmaster.json)",
