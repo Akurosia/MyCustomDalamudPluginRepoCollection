@@ -155,7 +155,7 @@
         "InternalName": "Divination.InstanceIDViewer",
         "IsHide": false,
         "IsTestingExclusive": true,
-        "LastUpdated": 1645329890,
+        "LastUpdated": 1645333529,
         "LoadPriority": 0,
         "Name": "InstanceIDViewer [Aku API 5]",
         "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
@@ -1292,7 +1292,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.6.0",
+        "AssemblyVersion": "1.0.7.0",
         "Author": "Bluefissure",
         "DalamudApiLevel": 5,
         "Description": "Fallback in-game IME to system IME.\n (https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/Bluefissure/pluginmaster.json)",
@@ -1303,7 +1303,7 @@
         "InternalName": "IMEPlugin",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": "1645330946",
+        "LastUpdate": "1645336898",
         "Name": "IMEPlugin [Aku API 5]",
         "RepoUrl": "https://github.com/Bluefissure/IMEPlugin",
         "Tags": [
