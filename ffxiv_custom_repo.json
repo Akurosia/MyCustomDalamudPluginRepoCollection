@@ -1462,14 +1462,14 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.4.7.6",
+        "AssemblyVersion": "0.4.7.7",
         "Author": "Adam",
         "DalamudApiLevel": 5,
         "Description": "Runtime mod loader and manager.\n (https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json)",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/xivdev/Penumbra/releases/download/0.4.7.6/Penumbra.zip",
-        "DownloadLinkTesting": "https://github.com/xivdev/Penumbra/releases/download/0.4.7.6/Penumbra.zip",
-        "DownloadLinkUpdate": "https://github.com/xivdev/Penumbra/releases/download/0.4.7.6/Penumbra.zip",
+        "DownloadLinkInstall": "https://github.com/xivdev/Penumbra/releases/download/0.4.7.7/Penumbra.zip",
+        "DownloadLinkTesting": "https://github.com/xivdev/Penumbra/releases/download/0.4.7.7/Penumbra.zip",
+        "DownloadLinkUpdate": "https://github.com/xivdev/Penumbra/releases/download/0.4.7.7/Penumbra.zip",
         "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
         "InternalName": "Penumbra",
         "IsHide": "False",
@@ -1478,7 +1478,7 @@
         "LoadPriority": 69420,
         "Name": "Penumbra [Aku API 5]",
         "RepoUrl": "https://github.com/xivdev/Penumbra",
-        "TestingAssemblyVersion": "0.4.7.6"
+        "TestingAssemblyVersion": "0.4.7.7"
     },
     {
         "ApplicableVersion": "any",
