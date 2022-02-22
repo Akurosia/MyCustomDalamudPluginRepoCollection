@@ -770,29 +770,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.1.1.2",
-        "Author": "daemitus",
-        "DalamudApiLevel": 5,
-        "Description": "This plugin prints the probability of getting a row in Wondrous Tails to the in-game display along with the average probability of what would happen if you shuffled.\n (https://raw.githubusercontent.com/daemitus/MyDalamudPlugins/master/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
-        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/daemitus/WondrousTailsSolver/master/res/icon.png",
-        "ImageUrls": [
-            "https://raw.githubusercontent.com/daemitus/WondrousTailsSolver/master/res/image1.png"
-        ],
-        "InternalName": "WondrousTailsSolver",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdate": "1645497311",
-        "LoadPriority": 0,
-        "Name": "ezWondrousTails [Aku API 5]",
-        "Punchline": "Adds row probabilities to the Wondrous Tails display.",
-        "RepoUrl": "https://github.com/daemitus/WondrousTailsSolver"
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.2.0.18",
         "Author": "daemitus",
         "DalamudApiLevel": 5,
