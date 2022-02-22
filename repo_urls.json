@@ -39,7 +39,6 @@
     "https://raw.githubusercontent.com/mousseng/xivtools/main/pluginmaster.json",
     "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/pluginmaster.json",
     "https://raw.githubusercontent.com/Caraxi/MyPlugins/main/pluginmaster.json",
-    "https://raw.githubusercontent.com/cairthenn/CairDalamudPlugins/main/pluginmaster.json",
     "https://raw.githubusercontent.com/awgil/ffxiv_plugin_distribution/master/pluginmaster.json",
     "https://raw.githubusercontent.com/Athavar/Athavar.FFXIV.DalaRepo/master/pluginmaster.json",
     "https://raw.githubusercontent.com/abighairyspider/MyDalamudPlugins/main/pluginmaster.json",
@@ -47,6 +46,5 @@
     "https://raw.githubusercontent.com/serifine/XIV-Chat-Scanner/main/repo.json",
     "https://raw.githubusercontent.com/aka-tamagotchi/EgirlPlugins/main/repo.json",
     "https://raw.githubusercontent.com/redeven/FFLogsLookup/main/repository.json",
-    "https://raw.githubusercontent.com/awgil/ffxiv_plugin_distribution/master/pluginmaster.json",
-    "https://raw.githubusercontent.com/Samuelkaa/DalamudPlugins/api5/pluginmaster.json"
+    "https://raw.githubusercontent.com/awgil/ffxiv_plugin_distribution/master/pluginmaster.json"
 ]
