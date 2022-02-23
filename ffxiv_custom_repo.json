@@ -1019,7 +1019,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "3.0.6.3",
+        "AssemblyVersion": "3.0.6.4",
         "Author": "attick,Kami,Daemitus,Grammernatzi,Aki,Iaotle,Codemned,PrincessRTFM,damolitionn,ele-starshade",
         "Changelog": "Added MCH Features and fixed barrel drift feature since it was broken",
         "DalamudApiLevel": 5,
@@ -1035,7 +1035,7 @@
         "InternalName": "XIVSlothCombo",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1645516708",
+        "LastUpdated": "1645606350",
         "LoadPriority": 0,
         "Name": "XIVSlothCombo [Aku API 5]",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
