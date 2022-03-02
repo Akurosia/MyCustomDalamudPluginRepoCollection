@@ -148,7 +148,7 @@
         "Changelog": null,
         "DalamudApiLevel": 5,
         "Description": "show instance id in chat when instance changed\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
-        "DownloadCount": 81,
+        "DownloadCount": 83,
         "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.InstanceIDViewer",
         "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.InstanceIDViewer",
         "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
