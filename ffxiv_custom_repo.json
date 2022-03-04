@@ -1857,14 +1857,14 @@
         "InternalName": "Athavar.FFXIV.StreamDeckPlugin",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1640730595",
+        "LastUpdated": "1646422909",
         "Name": "StreamDeck Integration [Aku API 5]",
         "Punchline": "Enchant your experience.",
         "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.StreamDeckPlugin"
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.2.0.0",
+        "AssemblyVersion": "1.2.1.0",
         "Author": "Athavar",
         "DalamudApiLevel": 5,
         "Description": "Various tools for private use.\n (https://raw.githubusercontent.com/Athavar/Athavar.FFXIV.DalaRepo/master/pluginmaster.json)",
@@ -1877,7 +1877,7 @@
         "InternalName": "Athavar.FFXIV.Plugin",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1640730595",
+        "LastUpdated": "1646422909",
         "Name": "Athavar's ToolBox [Aku API 5]",
         "Punchline": "Various tools for private use.",
         "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.Plugin"
