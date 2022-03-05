@@ -351,26 +351,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.3",
-        "Author": "Eternita",
-        "DalamudApiLevel": 5,
-        "Description": "\n (https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/Eternita-S/MyDalamudPlugins/raw/main/JustBackup/latest.zip",
-        "DownloadLinkTesting": "https://github.com/Eternita-S/MyDalamudPlugins/raw/main/JustBackup/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Eternita-S/MyDalamudPlugins/raw/main/JustBackup/latest.zip",
-        "IconUrl": "",
-        "ImageUrls": [],
-        "InternalName": "JustBackup",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdated": "0",
-        "Name": "JustBackup [Aku API 5]",
-        "Punchline": "Automatically backup your game and plugin configuration (upon game starting).",
-        "RepoUrl": "https://github.com/Eternita-S/JustBackup"
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.1.0.0",
         "Author": "Kouzukii",
         "CategoryTags": [
