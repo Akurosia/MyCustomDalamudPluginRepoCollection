@@ -123,7 +123,7 @@
         "Changelog": "0965641: Update Dalamud.Divination.AetheryteLinkInChat.sln\nb0c84af: Update LICENSE\nfe813ff: Delete .gitmodules\naba06ed: Fixed a bug that prevented it from starting when there was no configuration.\n\nunload Divination.Common and change config language\n19d7db7: Dalamud api 5\n92abc49: Fix missing inheritance of IDalamudPlugin",
         "DalamudApiLevel": 5,
         "Description": "Dalamud Plugin to add a link to teleport to the nearest aetheryte. Teleporter plugin required!\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
-        "DownloadCount": 375,
+        "DownloadCount": 377,
         "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.AetheryteLinkInChat",
         "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.AetheryteLinkInChat",
         "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
@@ -467,13 +467,13 @@
         "InternalName": "TinyCmds",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1647047029",
+        "LastUpdated": "1647069221",
         "Name": "TinyCommands [Aku API 5]",
         "RepoUrl": "https://github.com/PrincessRTFM/TinyCommands"
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "4.0.8106.1898",
+        "AssemblyVersion": "4.0.8106.12993",
         "Author": "attick, daemitus, VariableVixen",
         "DalamudApiLevel": 5,
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.\n (https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json)",
@@ -484,9 +484,9 @@
         "InternalName": "XIVComboVX",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1647047029",
+        "LastUpdated": "1647069221",
         "Name": "XIV Combo Very Expanded [Aku API 5]",
-        "RepoUrl": ""
+        "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin"
     },
     {
         "ApplicableVersion": "any",
@@ -1946,6 +1946,67 @@
             "plugin",
             "fflogs",
             "parse"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.4.0",
+        "Author": "zhudotexe",
+        "DalamudApiLevel": 5,
+        "Description": "Generates a random Arc Sys countdown message on /rcd <time>. Time must be between 5 and 30 seconds.\n (https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/manifest.json)",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_CountdownMessages/CountdownMessages.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_CountdownMessages/CountdownMessages.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_CountdownMessages/CountdownMessages.zip",
+        "InternalName": "CountdownMessages",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": 1647057477,
+        "LoadPriority": 0,
+        "Name": "Countdown Messages for Xeyr [Aku API 5]",
+        "RepoUrl": "https://github.com/zhudotexe/FFXIV_CountdownMessages",
+        "Tags": [
+            "meme"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.0.0",
+        "Author": "zhudotexe",
+        "DalamudApiLevel": 5,
+        "Description": "YEAAAAAAAAHT\n (https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/manifest.json)",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_VieraVoice4/VieraVoice4.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_VieraVoice4/VieraVoice4.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_VieraVoice4/VieraVoice4.zip",
+        "IconUrl": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_VieraVoice4/images/icon.png",
+        "InternalName": "VieraVoice4",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": 1641709529,
+        "LoadPriority": 0,
+        "Name": "YEAAAAAAHT [Aku API 5]",
+        "RepoUrl": "https://github.com/zhudotexe/FFXIV_VieraVoice4",
+        "Tags": [
+            "meme"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.0.1.0",
+        "Author": "zhudotexe",
+        "DalamudApiLevel": 5,
+        "Description": "This plugin replaces active ready checks with a passive system like those in multiplayer game lobbies, allowing players to mark themselves as ready instead of relying on someone to start a ready check.\n (https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/manifest.json)",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_ReadyCheck/ReadyCheck.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_ReadyCheck/ReadyCheck.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_ReadyCheck/ReadyCheck.zip",
+        "InternalName": "ReadyCheck",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": 1642571762,
+        "LoadPriority": 0,
+        "Name": "ReadyCheck [Aku API 5]",
+        "RepoUrl": "https://github.com/zhudotexe/FFXIV_ReadyCheck",
+        "Tags": [
+            "utility"
         ]
     }
 ]
