@@ -467,13 +467,13 @@
         "InternalName": "TinyCmds",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1647399894",
+        "LastUpdated": "1647424070",
         "Name": "TinyCommands [Aku API 5]",
         "RepoUrl": "https://github.com/PrincessRTFM/TinyCommands"
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "5.0.8110.5522",
+        "AssemblyVersion": "5.0.8110.17616",
         "Author": "attick, daemitus, VariableVixen",
         "DalamudApiLevel": 5,
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.\n (https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json)",
@@ -484,7 +484,7 @@
         "InternalName": "XIVComboVX",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1647399894",
+        "LastUpdated": "1647424070",
         "Name": "XIV Combo Very Expanded [Aku API 5]",
         "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin"
     },
