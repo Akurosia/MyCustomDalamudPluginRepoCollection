@@ -2008,5 +2008,25 @@
         "Tags": [
             "utility"
         ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.0.0",
+        "Author": "Ricimon",
+        "DalamudApiLevel": 5,
+        "Description": "Trigger OBS effects with in-game actions\n (https://raw.githubusercontent.com/Ricimon/FFXIV-StreamKit/main/repo.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/Ricimon/FFXIV-StreamKit/releases/download/0.1.0.0/StreamKitDalamud.zip",
+        "DownloadLinkTesting": "https://github.com/Ricimon/FFXIV-StreamKit/releases/download/0.1.0.0/StreamKitDalamud.zip",
+        "DownloadLinkUpdate": "https://github.com/Ricimon/FFXIV-StreamKit/releases/download/0.1.0.0/StreamKitDalamud.zip",
+        "IconUrl": "https://raw.githubusercontent.com/Ricimon/FFXIV-StreamKit/main/images/icon.png",
+        "InternalName": "StreamKitDalamud",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": 0,
+        "LoadPriority": 69420,
+        "Name": "StreamKit [Aku API 5]",
+        "RepoUrl": "https://github.com/Ricimon/FFXIV-StreamKit",
+        "TestingAssemblyVersion": "0.1.0.0"
     }
 ]
