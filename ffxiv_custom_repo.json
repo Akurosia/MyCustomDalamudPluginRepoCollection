@@ -870,7 +870,7 @@
         "InternalName": "DrawCure",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1647534815",
+        "LastUpdated": "1647580189",
         "Name": "DrawCure [Aku API 5]",
         "Punchline": "显示治疗范围",
         "RepoUrl": ""
@@ -890,7 +890,7 @@
         "InternalName": "SeletRollItem",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1647534815",
+        "LastUpdated": "1647580189",
         "Name": "SeletRollItem [Aku API 5]",
         "Punchline": "自定义快捷键后，鼠标移动到物品上快速roll点或放弃",
         "RepoUrl": ""
@@ -910,7 +910,7 @@
         "InternalName": "SeeBuff",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1647534815",
+        "LastUpdated": "1647580189",
         "Name": "SeeBuff [Aku API 5]",
         "Punchline": "buff显示",
         "RepoUrl": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip"
@@ -930,7 +930,7 @@
         "InternalName": "Line",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1647534815",
+        "LastUpdated": "1647580189",
         "Name": "Line [Aku API 5]",
         "Punchline": "",
         "RepoUrl": ""
@@ -950,7 +950,7 @@
         "InternalName": "Zoom",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1647534815",
+        "LastUpdated": "1647580189",
         "Name": "Zoom [Aku API 5]",
         "Punchline": "视距",
         "RepoUrl": ""
@@ -970,14 +970,14 @@
         "InternalName": "XIVComboExpandedest",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1647534815",
+        "LastUpdated": "1647580189",
         "Name": "XIVComboExpandedest [Aku API 5]",
         "Punchline": "1-1-1.",
         "RepoUrl": ""
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.9",
+        "AssemblyVersion": "1.0.1.0",
         "Author": "",
         "DalamudApiLevel": 5,
         "Description": "锁定BOSS /LockBOSS change 1 靠近水晶切换1号线路\n/LockBOSS qi骑上最近的人\n/LockBOSS cai采集最近的矿,\n (https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json)",
@@ -990,7 +990,7 @@
         "InternalName": "Lock",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1647534815",
+        "LastUpdated": "1647580189",
         "Name": "Lock [Aku API 5]",
         "Punchline": "锁定",
         "RepoUrl": ""
