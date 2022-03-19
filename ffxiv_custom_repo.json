@@ -2028,5 +2028,30 @@
         "Name": "StreamKit [Aku API 5]",
         "RepoUrl": "https://github.com/Ricimon/FFXIV-StreamKit",
         "TestingAssemblyVersion": "0.1.0.0"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.1.0.0",
+        "Author": "Asvel",
+        "CategoryTags": [
+            "social",
+            "utility"
+        ],
+        "DalamudApiLevel": 5,
+        "Description": "Turn map coordinates literal into interactable map link when you post in-game chat messages.\nWARNING: currently it's only tested under Chinese version FFXIV client.\n (https://asvel.github.io/ffxiv-literal-map-link/)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://asvel.github.io/ffxiv-literal-map-link/1.1.0.0.zip",
+        "DownloadLinkTesting": "https://asvel.github.io/ffxiv-literal-map-link/1.1.0.0.zip",
+        "DownloadLinkUpdate": "https://asvel.github.io/ffxiv-literal-map-link/1.1.0.0.zip",
+        "InternalName": "LiteralMapLink",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": "1647667268",
+        "Name": "Literal Map Link [Aku API 5]",
+        "RepoUrl": "https://github.com/Asvel/ffxiv-literal-map-link",
+        "Tags": [
+            "Chat",
+            "Utility"
+        ]
     }
 ]
