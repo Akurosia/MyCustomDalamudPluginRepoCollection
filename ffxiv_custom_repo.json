@@ -1107,12 +1107,12 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.3.4.1",
+        "AssemblyVersion": "1.4.0.1",
         "Author": "yomishino",
         "CategoryTags": [
             "UI"
         ],
-        "Changelog": "- Quest Compass has been added as an experimental compass. \nNote: It has been available for quite some time in test builds across several versions. Not much has changed since then in terms of functionality though, and no changes to it from the previous test build. It is included in stable version now so you don't have to install test builds simply for this one compass if you happen to be using it.\n\n------------\n\nOther major (and not so major) changes since v1.2.0.2 (as the stable release has skipped several minor versions):\n\n- Update to Mob Hunt Compass: detecting SS Minions separated from detecting ordinary B Ranks, different icons on screen for different ranks \n- Configuration window redesigned\n- Update to performance\n- Update to visuals regarding marking-on-screen: adjustable label text size, one-line label text, better marker positioning and arrangement, right-alignment for text when placed on the left-hand side of icons, and so on\n- Bug fixes including incorrect flag positions set by the \"Set flag on map\" button on some maps and lowercased mob hunt mark names",
+        "Changelog": "- New settings for on-screen marker visibility",
         "DalamudApiLevel": 5,
         "Description": "This plugin detects certain objects/NPCs such as Aether Currents nearby and shows where they are by various ways, e.g. pointing to their locations on screen and notifying you in Chat.\n\nCurrently detects:\n\t- Aether Currents\n\t- Mob Hunt Elite Marks\n\t- Gathering Points\n\t- [Experimental] Quest-related NPCs/Objects \n\nNote: Because most objects/NPCs are not loaded when they are too faraway or when there are too many entities nearby (such as too many player characters), they will not be detected in this case.\n (https://raw.githubusercontent.com/yomishino/MyDalamudPlugins/main/plugins.json)",
         "DownloadCount": 0,
@@ -1124,7 +1124,7 @@
         "InternalName": "AetherCompass",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": "1646217876",
+        "LastUpdate": "1647851316",
         "LoadPriority": 0,
         "Name": "Aether Compass [Aku API 5]",
         "Punchline": "Compasses that detect and mark certain nearby objects/NPCs",
