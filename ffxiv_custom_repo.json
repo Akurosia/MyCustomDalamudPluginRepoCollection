@@ -1474,7 +1474,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.4.3",
+        "AssemblyVersion": "1.4.4",
         "Author": "Sevii",
         "DalamudApiLevel": 5,
         "Description": "Auto updating Material UI with customizable accent color and more. Icon by Meconate\n (https://raw.githubusercontent.com/Sevii77/ffxiv_materialui_accent/master/repo.json)",
@@ -1498,7 +1498,7 @@
             "accent",
             "color"
         ],
-        "TestingAssemblyVersion": "1.4.3"
+        "TestingAssemblyVersion": "1.4.4"
     },
     {
         "ApplicableVersion": "any",
