@@ -2021,5 +2021,26 @@
             "Chat",
             "Utility"
         ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.1.4",
+        "Author": "Koenari",
+        "DalamudApiLevel": 5,
+        "Description": "A collection of useful tools for RaidGroups, including loot management\n (https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/main/pluginmaster.json)",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/master/plugins/HimbeerToniRaidTool/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/master/testing/HimbeerToniRaidTool/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/master/plugins/HimbeerToniRaidTool/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/Koenari/HimbeertoniRaidTool/master/images/icon.png",
+        "InternalName": "HimbeertoniRaidTool",
+        "IsTestingExclusive": "False",
+        "LoadPriority": 0,
+        "Name": "Himbeertoni Raid Tool [Aku API 5]",
+        "Punchline": "All you need for Raiding",
+        "RepoUrl": "https://github.com/Koenari/HimbeertoniRaidTool",
+        "Tags": [
+            "raid",
+            "plugin"
+        ]
     }
 ]
