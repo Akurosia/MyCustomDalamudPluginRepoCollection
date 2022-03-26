@@ -997,26 +997,26 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "3.0.7.6",
-        "Author": "attick,Kami,Daemitus,Grammernatzi,Aki,Iaotle,Codemned,PrincessRTFM,damolitionn,ele-starshade",
-        "Changelog": "Added MCH Features and fixed barrel drift feature since it was broken",
+        "AssemblyVersion": "3.0.7.7",
+        "Author": "attick,Kami,Daemitus,Grammernatzi,Aki,Iaotle,Codemned,PrincessRTFM,damolitionn,ele-starshade, k-kz",
+        "Changelog": "Icon update",
         "DalamudApiLevel": 5,
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.\n (https://raw.githubusercontent.com/Nik-Potokar/MyDalamudPlugins/main/pluginmaster.json)",
         "DownloadCount": 0,
         "DownloadLinkInstall": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
         "DownloadLinkTesting": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
-        "IconUrl": "https://cdn.discordapp.com/attachments/594230324209123330/905362481671720970/akified.png",
+        "IconUrl": "https://i.imgur.com/UeRukF8.png",
         "ImageUrls": [
-            "https://cdn.discordapp.com/attachments/594230324209123330/905362481671720970/akified.png"
+            "https://i.imgur.com/UeRukF8.png"
         ],
         "InternalName": "XIVSlothCombo",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1648287639",
+        "LastUpdated": "1648298404",
         "LoadPriority": 0,
         "Name": "XIVSlothCombo [Aku API 5]",
-        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
+        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
         "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo"
     },
     {
