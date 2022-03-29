@@ -813,6 +813,29 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "2.1.6.0",
+        "Author": "kalilistic, karashiiro",
+        "DalamudApiLevel": 5,
+        "Description": "NeatNoter allows you to take notes without switching windows or any of that.\n (https://raw.githubusercontent.com/kalilistic/DalamudPluginRepo/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/NeatNoter/latest.zip",
+        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/NeatNoter/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/NeatNoter/latest.zip",
+        "InternalName": "NeatNoter",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "1648593058",
+        "Name": "NeatNoter [Aku API 5]",
+        "RepoUrl": "https://github.com/kalilistic/NeatNoter",
+        "Tags": [
+            "note",
+            "utility",
+            "tool",
+            "overlay"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.1.0",
         "Author": "SaltyCog",
         "DalamudApiLevel": 5,
