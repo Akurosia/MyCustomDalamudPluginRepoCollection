@@ -143,6 +143,41 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.0.41",
+        "Author": "Asteria Nocturna",
+        "CategoryTags": [
+            "other",
+            "jobs",
+            "ui",
+            "minigames",
+            "inventory",
+            "sound",
+            "social",
+            "utility"
+        ],
+        "Changelog": "dabbe6d: feat: Support Dalamud API 5\n90ee97a: Merge branch 'master' of https://github.com/SlashNephy/Dalamud.Divination.Calculator\nd1278a2: Update workflow",
+        "DalamudApiLevel": 5,
+        "Description": "Simple plugin to just add /calc command.\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
+        "DownloadCount": 5,
+        "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.Calculator",
+        "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.Calculator",
+        "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
+        "ImageUrls": [],
+        "InternalName": "Divination.Calculator",
+        "IsHide": false,
+        "IsTestingExclusive": true,
+        "LastUpdated": 0,
+        "LoadPriority": 0,
+        "Name": "Divination.Calculator [Aku API 5]",
+        "Punchline": "/calc 33 - 4",
+        "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator",
+        "Tags": [
+            "utility"
+        ],
+        "TestingAssemblyVersion": "0.1.0.41"
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "0.1.0.36",
         "Author": "Asteria Nocturna",
         "CategoryTags": [
@@ -158,7 +193,7 @@
         "Changelog": "bae282b: delete: /cc command\n\nbecause native console is no longer used\nd20ae01: feat: readable columns\nfeaa556: feat: Support Dalamud API 5\nd7968ae: Merge branch 'master' of https://github.com/SlashNephy/Dalamud.Divination.Debugger\n9859748: Control window should open at startup",
         "DalamudApiLevel": 5,
         "Description": "Tiny tool to inspect game...\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
-        "DownloadCount": 26,
+        "DownloadCount": 28,
         "DownloadLinkInstall": "https://dl.horoscope.dev/stable/Divination.Debugger",
         "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.Debugger",
         "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
@@ -175,11 +210,11 @@
             "Development",
             "Debug"
         ],
-        "TestingAssemblyVersion": "0.1.0.45"
+        "TestingAssemblyVersion": "0.1.0.46"
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.0.44",
+        "AssemblyVersion": "0.1.0.45",
         "Author": "Asteria Nocturna",
         "CategoryTags": [
             "other",
@@ -194,7 +229,7 @@
         "Changelog": "7a84d1e: feat: Support Patch 6.0x\n189acf0: Logging on receiving payloads\n7e2ebc3: Export constants\nf1007d2: Re-support IPC features\n3b1c6fc: Fix Verbose logging\n6718b89: Fix Title offset invalid",
         "DalamudApiLevel": 5,
         "Description": "Dalamud Plugin to support Rich Presence for FFXIV.\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
-        "DownloadCount": 13,
+        "DownloadCount": 15,
         "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.DiscordIntegration",
         "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.DiscordIntegration",
         "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
@@ -210,7 +245,7 @@
         "Tags": [
             "Discord"
         ],
-        "TestingAssemblyVersion": "0.1.0.44"
+        "TestingAssemblyVersion": "0.1.0.45"
     },
     {
         "ApplicableVersion": "any",
@@ -219,7 +254,7 @@
         "Changelog": null,
         "DalamudApiLevel": 5,
         "Description": "show instance id in chat when instance changed\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
-        "DownloadCount": 116,
+        "DownloadCount": 117,
         "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.InstanceIDViewer",
         "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.InstanceIDViewer",
         "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
@@ -231,6 +266,112 @@
         "Name": "InstanceIDViewer [Aku API 5]",
         "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
         "TestingAssemblyVersion": "0.1.0.0"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.0.45",
+        "Author": "Asteria Nocturna",
+        "CategoryTags": [
+            "other",
+            "jobs",
+            "ui",
+            "minigames",
+            "inventory",
+            "sound",
+            "social",
+            "utility"
+        ],
+        "Changelog": "7245a13: feat: Support Dalamud API 5\nb2ad1e6: Update build.yml\n9a10147: Update build.yml\ncbc810c: Update build.yml\n9aca661: Update build.yml\n0d7aea6: Update build.yml\nf5b1206: Update build.yml\n5c2e270: Revert to conventional commands\n062e5a6: fix poweroff args",
+        "DalamudApiLevel": 5,
+        "Description": "Add /power save, /power balance, /power perf, /monitoroff commands for power management\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
+        "DownloadCount": 10,
+        "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.PowerUtils",
+        "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.PowerUtils",
+        "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
+        "ImageUrls": [],
+        "InternalName": "Divination.PowerUtils",
+        "IsHide": false,
+        "IsTestingExclusive": true,
+        "LastUpdated": 0,
+        "LoadPriority": 0,
+        "Name": "Divination.PowerUtils [Aku API 5]",
+        "Punchline": "Save Energy!",
+        "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils",
+        "Tags": [
+            "Command"
+        ],
+        "TestingAssemblyVersion": "0.1.0.45"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.0.42",
+        "Author": "Asteria Nocturna",
+        "CategoryTags": [
+            "other",
+            "jobs",
+            "ui",
+            "minigames",
+            "inventory",
+            "sound",
+            "social",
+            "utility"
+        ],
+        "Changelog": "39f73bc: feat: Support Dalamud API 5\n6974726: Update workflow\n9a95360: Update Common to cd683d4169d8869d272bb0c442c81d5b0021c5ba",
+        "DalamudApiLevel": 5,
+        "Description": "Dalamud Plugin to add tweet function and Twitter timeline in FFXIV chat\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
+        "DownloadCount": 10,
+        "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.TwitterIntegration",
+        "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.TwitterIntegration",
+        "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
+        "ImageUrls": [],
+        "InternalName": "Divination.TwitterIntegration",
+        "IsHide": false,
+        "IsTestingExclusive": true,
+        "LastUpdated": 0,
+        "LoadPriority": 0,
+        "Name": "Divination.TwitterIntegration [Aku API 5]",
+        "Punchline": "Tweet in FFXIV chat.",
+        "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration",
+        "Tags": [
+            "Twitter"
+        ],
+        "TestingAssemblyVersion": "0.1.0.42"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.0.41",
+        "Author": "Asteria Nocturna",
+        "CategoryTags": [
+            "other",
+            "jobs",
+            "ui",
+            "minigames",
+            "inventory",
+            "sound",
+            "social",
+            "utility"
+        ],
+        "Changelog": "08b6aaf: feat: Support Dalamud API 6\n118accc: Update workflow",
+        "DalamudApiLevel": 5,
+        "Description": "Add /voiceroid2 command into FFXIV. Require SimpleVoiceroid2Proxy (https://github.com/SlashNephy/SimpleVoiceroid2Proxy).\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
+        "DownloadCount": 10,
+        "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.Voiceroid2Talker",
+        "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.Voiceroid2Talker",
+        "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
+        "ImageUrls": [],
+        "InternalName": "Divination.Voiceroid2Talker",
+        "IsHide": false,
+        "IsTestingExclusive": true,
+        "LastUpdated": 0,
+        "LoadPriority": 0,
+        "Name": "Divination.Voiceroid2Talker [Aku API 5]",
+        "Punchline": "Text-to-Speech for Voiceroid2",
+        "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker",
+        "Tags": [
+            "Text-to-speech",
+            "Voiceroid"
+        ],
+        "TestingAssemblyVersion": "0.1.0.41"
     },
     {
         "ApplicableVersion": "any",
