@@ -1025,6 +1025,23 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.0.0",
+        "Author": "kalilistic",
+        "DalamudApiLevel": 5,
+        "Description": "Developed by goat for April Fools 2021 and unnecessarily resurrected by kal.\n\nHandcrafted by our finest code artisans with special AI, \nhe will analyze your playstyle to give you useful tips to get your GAMING to the next level.\n\nSome things he can do:\n* He can give general tips about the game\n* He can give tips about the job you're playing\n* He can report on your battle performance\n* He will respect your feelings\n (https://raw.githubusercontent.com/kalilistic/DalamudPluginRepo/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Tippy/latest.zip",
+        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Tippy/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Tippy/latest.zip",
+        "InternalName": "Tippy",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "1648842836",
+        "Name": "Tippy [Aku API 5]",
+        "RepoUrl": "https://github.com/kalilistic/tippy"
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.1.0",
         "Author": "SaltyCog",
         "DalamudApiLevel": 5,
