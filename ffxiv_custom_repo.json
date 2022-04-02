@@ -1206,7 +1206,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "3.0.8.4",
+        "AssemblyVersion": "3.0.8.5",
         "Author": "attick, Kami, Daemitus, Grammernatzi, Aki, Iaotle, Codemned, PrincessRTFM, damolitionn, ele-starshade, k-kz",
         "Changelog": "Huge DNC update, with Features and Fixes. Please see the project's GitHub page for a full changelog.",
         "DalamudApiLevel": 5,
@@ -1222,7 +1222,7 @@
         "InternalName": "XIVSlothCombo",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1648870412",
+        "LastUpdated": "1648873158",
         "LoadPriority": 0,
         "Name": "XIVSlothCombo [Aku API 5]",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
