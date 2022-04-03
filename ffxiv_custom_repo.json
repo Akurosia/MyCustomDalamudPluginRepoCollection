@@ -659,13 +659,13 @@
         "InternalName": "TinyCmds",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1648340741",
+        "LastUpdated": "1648956828",
         "Name": "TinyCommands [Aku API 5]",
         "RepoUrl": "https://github.com/PrincessRTFM/TinyCommands"
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "5.1.8121.750",
+        "AssemblyVersion": "5.1.8128.6397",
         "Author": "attick, daemitus, VariableVixen",
         "DalamudApiLevel": 5,
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.\n (https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json)",
@@ -676,7 +676,7 @@
         "InternalName": "XIVComboVX",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1648340741",
+        "LastUpdated": "1648956828",
         "Name": "XIV Combo Very Expanded [Aku API 5]",
         "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin"
     },
@@ -1079,7 +1079,7 @@
         "InternalName": "DrawCure",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1648741703",
+        "LastUpdated": "1648956768",
         "Name": "DrawCure [Aku API 5]",
         "Punchline": "",
         "RepoUrl": ""
@@ -1099,14 +1099,14 @@
         "InternalName": "SeletRollItem",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1648741703",
+        "LastUpdated": "1648956768",
         "Name": "SeletRollItem [Aku API 5]",
         "Punchline": "自定义快捷键后，鼠标移动到物品上快速roll点或放弃",
         "RepoUrl": ""
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.1.1",
+        "AssemblyVersion": "1.0.1.2",
         "Author": "",
         "DalamudApiLevel": 5,
         "Description": "SeeBuff/n 能通过/SeeBuff ID buffid time 来自定义显示buff\n (https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json)",
@@ -1119,7 +1119,7 @@
         "InternalName": "SeeBuff",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1648741703",
+        "LastUpdated": "1648956768",
         "Name": "SeeBuff [Aku API 5]",
         "Punchline": "buff显示",
         "RepoUrl": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip"
@@ -1139,7 +1139,7 @@
         "InternalName": "Line",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1648741703",
+        "LastUpdated": "1648956768",
         "Name": "Line [Aku API 5]",
         "Punchline": "",
         "RepoUrl": ""
@@ -1159,14 +1159,14 @@
         "InternalName": "Zoom",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1648741703",
+        "LastUpdated": "1648956768",
         "Name": "Zoom [Aku API 5]",
         "Punchline": "视距",
         "RepoUrl": ""
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.1.1",
+        "AssemblyVersion": "1.0.1.2",
         "Author": "attick, daemitus",
         "DalamudApiLevel": 5,
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.\n (https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json)",
@@ -1179,7 +1179,7 @@
         "InternalName": "XIVComboExpandedest",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1648741703",
+        "LastUpdated": "1648956768",
         "Name": "XIVComboExpandedest [Aku API 5]",
         "Punchline": "1-1-1.",
         "RepoUrl": ""
@@ -1199,7 +1199,7 @@
         "InternalName": "Lock",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1648741703",
+        "LastUpdated": "1648956768",
         "Name": "Lock [Aku API 5]",
         "Punchline": "锁定",
         "RepoUrl": ""
