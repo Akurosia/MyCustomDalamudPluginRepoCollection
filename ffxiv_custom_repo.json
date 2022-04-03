@@ -115,12 +115,12 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.0.44",
+        "AssemblyVersion": "0.1.0.45",
         "Author": "Horoscope developers",
         "CategoryTags": [
             "utility"
         ],
-        "Changelog": "7109dd2: Update Dalamud.Divination.AetheryteLinkInChat.sln\na849804: Update LICENSE\n5a98520: Delete .gitmodules\ndc9700b: Fixed a bug that prevented it from starting when there was no configuration.\n\nunload Divination.Common and change config language\nd8fabbd: Dalamud api 5\n92abc49: Fix missing inheritance of IDalamudPlugin",
+        "Changelog": "7109dd2: Update Dalamud.Divination.AetheryteLinkInChat.sln\na849804: Update LICENSE\n5a98520: Delete .gitmodules\ndc9700b: Fixed a bug that prevented it from starting when there was no configuration.\n\nunload Divination.Common and change config language\nd8fabbd: Dalamud api 5",
         "DalamudApiLevel": 5,
         "Description": "Dalamud Plugin to add a link to teleport to the nearest aetheryte. Teleporter plugin required!\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
         "DownloadCount": 436,
@@ -139,11 +139,11 @@
         "Tags": [
             "teleporter"
         ],
-        "TestingAssemblyVersion": "0.1.0.44"
+        "TestingAssemblyVersion": "0.1.0.45"
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.0.42",
+        "AssemblyVersion": "0.1.0.45",
         "Author": "Asteria Nocturna",
         "CategoryTags": [
             "other",
@@ -155,7 +155,7 @@
             "social",
             "utility"
         ],
-        "Changelog": "dabbe6d: feat: Support Dalamud API 5\n90ee97a: Merge branch 'master' of https://github.com/SlashNephy/Dalamud.Divination.Calculator\nd1278a2: Update workflow",
+        "Changelog": "dabbe6d: feat: Support Dalamud API 5",
         "DalamudApiLevel": 5,
         "Description": "Simple plugin to just add /calc command.\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
         "DownloadCount": 12,
@@ -174,7 +174,7 @@
         "Tags": [
             "utility"
         ],
-        "TestingAssemblyVersion": "0.1.0.42"
+        "TestingAssemblyVersion": "0.1.0.45"
     },
     {
         "ApplicableVersion": "any",
@@ -190,7 +190,7 @@
             "social",
             "utility"
         ],
-        "Changelog": "bae282b: delete: /cc command\n\nbecause native console is no longer used\nd20ae01: feat: readable columns\nfeaa556: feat: Support Dalamud API 5\nd7968ae: Merge branch 'master' of https://github.com/SlashNephy/Dalamud.Divination.Debugger\n9859748: Control window should open at startup",
+        "Changelog": "c451ef4: fix: allow unsafe codes\n39638e2: feat: readable memory data view\nbae282b: delete: /cc command\n\nbecause native console is no longer used\nd20ae01: feat: readable columns\nfeaa556: feat: Support Dalamud API 5\nd7968ae: Merge branch 'master' of https://github.com/SlashNephy/Dalamud.Divination.Debugger\n9859748: Control window should open at startup",
         "DalamudApiLevel": 5,
         "Description": "Tiny tool to inspect game...\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
         "DownloadCount": 48,
@@ -210,7 +210,7 @@
             "Development",
             "Debug"
         ],
-        "TestingAssemblyVersion": "0.1.0.47"
+        "TestingAssemblyVersion": "0.1.0.52"
     },
     {
         "ApplicableVersion": "any",
@@ -269,7 +269,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.0.47",
+        "AssemblyVersion": "0.1.0.50",
         "Author": "Asteria Nocturna",
         "CategoryTags": [
             "other",
@@ -281,7 +281,7 @@
             "social",
             "utility"
         ],
-        "Changelog": "7245a13: feat: Support Dalamud API 5\nb2ad1e6: Update build.yml\n9a10147: Update build.yml\ncbc810c: Update build.yml\n9aca661: Update build.yml\n0d7aea6: Update build.yml\nf5b1206: Update build.yml\n5c2e270: Revert to conventional commands\n062e5a6: fix poweroff args",
+        "Changelog": "7245a13: feat: Support Dalamud API 5\nb2ad1e6: Update build.yml\n9a10147: Update build.yml\ncbc810c: Update build.yml\n9aca661: Update build.yml\n0d7aea6: Update build.yml\nf5b1206: Update build.yml\n5c2e270: Revert to conventional commands",
         "DalamudApiLevel": 5,
         "Description": "Add /power save, /power balance, /power perf, /monitoroff commands for power management\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
         "DownloadCount": 12,
@@ -300,11 +300,11 @@
         "Tags": [
             "Command"
         ],
-        "TestingAssemblyVersion": "0.1.0.47"
+        "TestingAssemblyVersion": "0.1.0.50"
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.0.42",
+        "AssemblyVersion": "0.1.0.47",
         "Author": "Asteria Nocturna",
         "CategoryTags": [
             "other",
@@ -316,7 +316,7 @@
             "social",
             "utility"
         ],
-        "Changelog": "39f73bc: feat: Support Dalamud API 5\n6974726: Update workflow\n9a95360: Update Common to cd683d4169d8869d272bb0c442c81d5b0021c5ba",
+        "Changelog": "39f73bc: feat: Support Dalamud API 5",
         "DalamudApiLevel": 5,
         "Description": "Dalamud Plugin to add tweet function and Twitter timeline in FFXIV chat\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
         "DownloadCount": 11,
@@ -335,11 +335,11 @@
         "Tags": [
             "Twitter"
         ],
-        "TestingAssemblyVersion": "0.1.0.42"
+        "TestingAssemblyVersion": "0.1.0.47"
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.0.42",
+        "AssemblyVersion": "0.1.0.45",
         "Author": "Asteria Nocturna",
         "CategoryTags": [
             "other",
@@ -351,7 +351,7 @@
             "social",
             "utility"
         ],
-        "Changelog": "08b6aaf: feat: Support Dalamud API 6\n118accc: Update workflow",
+        "Changelog": "08b6aaf: feat: Support Dalamud API 6",
         "DalamudApiLevel": 5,
         "Description": "Add /voiceroid2 command into FFXIV. Require SimpleVoiceroid2Proxy (https://github.com/SlashNephy/SimpleVoiceroid2Proxy).\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
         "DownloadCount": 16,
@@ -371,7 +371,7 @@
             "Text-to-speech",
             "Voiceroid"
         ],
-        "TestingAssemblyVersion": "0.1.0.42"
+        "TestingAssemblyVersion": "0.1.0.45"
     },
     {
         "ApplicableVersion": "any",
