@@ -123,7 +123,7 @@
         "Changelog": "7109dd2: Update Dalamud.Divination.AetheryteLinkInChat.sln\na849804: Update LICENSE\n5a98520: Delete .gitmodules\ndc9700b: Fixed a bug that prevented it from starting when there was no configuration.\n\nunload Divination.Common and change config language\nd8fabbd: Dalamud api 5",
         "DalamudApiLevel": 5,
         "Description": "Dalamud Plugin to add a link to teleport to the nearest aetheryte. Teleporter plugin required!\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
-        "DownloadCount": 555,
+        "DownloadCount": 556,
         "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.AetheryteLinkInChat",
         "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.AetheryteLinkInChat",
         "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
