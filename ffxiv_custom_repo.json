@@ -354,7 +354,7 @@
         "Changelog": "08b6aaf: feat: Support Dalamud API 6",
         "DalamudApiLevel": 5,
         "Description": "Add /voiceroid2 command into FFXIV. Require SimpleVoiceroid2Proxy (https://github.com/SlashNephy/SimpleVoiceroid2Proxy).\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
-        "DownloadCount": 20,
+        "DownloadCount": 21,
         "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.Voiceroid2Talker",
         "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.Voiceroid2Talker",
         "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
