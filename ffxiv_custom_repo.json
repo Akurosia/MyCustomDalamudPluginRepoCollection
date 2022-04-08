@@ -354,7 +354,7 @@
         "Changelog": "08b6aaf: feat: Support Dalamud API 6",
         "DalamudApiLevel": 5,
         "Description": "Add /voiceroid2 command into FFXIV. Require SimpleVoiceroid2Proxy (https://github.com/SlashNephy/SimpleVoiceroid2Proxy).\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
-        "DownloadCount": 26,
+        "DownloadCount": 27,
         "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.Voiceroid2Talker",
         "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.Voiceroid2Talker",
         "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
@@ -1749,7 +1749,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.1.0",
         "Author": "xPumaa",
         "DalamudApiLevel": 5,
         "Description": "Print the entering content name to chat\n (https://raw.githubusercontent.com/xPumaa/DalamudPlugins/api5/pluginmaster.json)",
