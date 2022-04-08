@@ -319,7 +319,7 @@
         "Changelog": "39f73bc: feat: Support Dalamud API 5",
         "DalamudApiLevel": 5,
         "Description": "Dalamud Plugin to add tweet function and Twitter timeline in FFXIV chat\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
-        "DownloadCount": 17,
+        "DownloadCount": 18,
         "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.TwitterIntegration",
         "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.TwitterIntegration",
         "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
