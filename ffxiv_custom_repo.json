@@ -1306,10 +1306,10 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.2.0.1",
+        "AssemblyVersion": "1.3.0.0",
         "Author": "yomishino",
         "CategoryTags": [],
-        "Changelog": "- New setting to enable/disable drawing for actions of Special/Artillery categories",
+        "Changelog": "- Drawing of Cone AoEs can now be customised in the Cone AoE Edit window \n- Opening the Edit window (including Action Blacklist Edit window) will no longer freeze other windows \n- Fix a bug where Stellar Detonation (AST) would not be treated as beneficial type AoE. (It is treated as both benficial and harmful now.)",
         "DalamudApiLevel": 5,
         "Description": "This plugin provides a visual cue on the effect range of the AoE action you just used.\n\nMay be used as a supplement/replacement to the actions' VFXs in showing effect range related information, such as where has the action landed and how large an area it covered.\n (https://raw.githubusercontent.com/yomishino/MyDalamudPlugins/main/plugins.json)",
         "DownloadCount": 0,
@@ -1321,7 +1321,7 @@
         "InternalName": "ActionEffectRange",
         "IsHide": "False",
         "IsTestingExclusive": "True",
-        "LastUpdate": "1645023371",
+        "LastUpdate": "1649516079",
         "LoadPriority": 0,
         "Name": "ActionEffectRange [TEST] [Aku API 5]",
         "Punchline": "Provides a visual cue on the effect range of the AoE action just used.",
@@ -1332,7 +1332,7 @@
             "Action",
             "EffectRange"
         ],
-        "TestingAssemblyVersion": "1.2.0.1"
+        "TestingAssemblyVersion": "1.3.0.0"
     },
     {
         "ApplicableVersion": "any",
