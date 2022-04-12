@@ -2025,7 +2025,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.0.30",
+        "AssemblyVersion": "0.0.0.31",
         "Author": "veyn",
         "DalamudApiLevel": 5,
         "Description": "A bunch of utilities to simplify bosses. ***very early alpha, use at your own risk***\n (https://raw.githubusercontent.com/awgil/ffxiv_plugin_distribution/master/pluginmaster.json)",
@@ -2035,7 +2035,7 @@
         "InternalName": "BossMod",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": "1648246107",
+        "LastUpdate": "1649277272",
         "LoadPriority": 0,
         "Name": "Boss Mod [Aku API 5]",
         "RepoUrl": "https://github.com/awgil/ffxiv_bossmod"
