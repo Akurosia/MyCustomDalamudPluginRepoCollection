@@ -189,6 +189,32 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "2.0.3.2",
+        "Author": "UnknownX",
+        "CategoryTags": [
+            "utility"
+        ],
+        "Changelog": "",
+        "DalamudApiLevel": 6,
+        "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoomhack, if you aren't comfortable with that fact, don't install it.\n (https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "InternalName": "Cammy",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": "1649961212",
+        "Name": "Cammy [Aku API 6]",
+        "Punchline": "A simple editor for the game's camera settings",
+        "RepoUrl": "https://github.com/UnknownX7/Cammy"
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.3.3.2",
         "Author": "attick, daemitus",
         "DalamudApiLevel": 6,
@@ -346,6 +372,28 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "4.0",
+        "Author": "Liza Carvelli",
+        "DalamudApiLevel": 6,
+        "Description": "Shows where Bamboo falls.\n (https://raw.githubusercontent.com/carvelli/Dalamud-Plugins/master/dist/pluginmaster.json)",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/carvelli/Dalamud-Plugins/master/dist/SliceIsRight/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/carvelli/Dalamud-Plugins/master/dist/SliceIsRight/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/carvelli/Dalamud-Plugins/master/dist/SliceIsRight/latest.zip",
+        "InternalName": "SliceIsRight",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "1649962087",
+        "LoadPriority": 0,
+        "Name": "Slice is Right [Aku API 6]",
+        "Punchline": "Shows where Bamboo falls.",
+        "RepoUrl": "https://github.com/carvelli/Slice-Is-Right",
+        "Tags": [
+            "gold saucer",
+            "yojimbo"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "3.1.0.0",
         "Author": "Liza Carvelli",
         "DalamudApiLevel": 6,
@@ -411,6 +459,27 @@
         "Name": "Neon Castbar [Aku API 6]",
         "Punchline": "Modifies target castbars to be more noticeable",
         "RepoUrl": "https://github.com/oorzkws/DamageInfoPlugin"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.1.1",
+        "Author": "Det",
+        "DalamudApiLevel": 6,
+        "Description": "Hooks for you\n (https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/pluginmaster.json)",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/master/AutoHook/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/master/AutoHook/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/master/AutoHook/latest.zip",
+        "InternalName": "AutoHook",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "1649962171",
+        "LoadPriority": 0,
+        "Name": "Auto Hook [Aku API 6]",
+        "Punchline": "Auto Hook",
+        "RepoUrl": "https://github.com/InitialDet/AutoHook",
+        "Tags": [
+            "fishing"
+        ]
     },
     {
         "ApplicableVersion": "any",
