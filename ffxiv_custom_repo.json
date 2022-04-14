@@ -30,6 +30,25 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "0.2.2.3",
+        "Author": "Chalkos",
+        "Changelog": "0.2.2.3: set api version 6\n0.2.2.2: set api version 5\nThere were no code changes as everything appears to be working.",
+        "DalamudApiLevel": 6,
+        "Description": "Helper for your day-to-day market operations.\n (https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
+        "DownloadLinkTesting": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
+        "InternalName": "Marketbuddy",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "1632409367",
+        "Name": "Marketbuddy [Aku API 6]",
+        "Punchline": "Less clicks, more gil!",
+        "RepoUrl": "https://github.com/chalkos/Marketbuddy"
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.0.1",
         "Author": "Eternita",
         "DalamudApiLevel": 6,
@@ -324,6 +343,27 @@
         "Name": "Penumbra [Aku API 6]",
         "RepoUrl": "https://github.com/xivdev/Penumbra",
         "TestingAssemblyVersion": "0.4.8.1"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "3.1.0.0",
+        "Author": "Liza Carvelli",
+        "DalamudApiLevel": 6,
+        "Description": "Plays a sound when a fish is caught, depending on tug-strength\n (https://raw.githubusercontent.com/carvelli/Dalamud-Plugins/master/dist/pluginmaster.json)",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/carvelli/Dalamud-Plugins/master/dist/FishNotify/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/carvelli/Dalamud-Plugins/master/dist/FishNotify/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/carvelli/Dalamud-Plugins/master/dist/FishNotify/latest.zip",
+        "InternalName": "FishNotify",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "1649957802",
+        "LoadPriority": 0,
+        "Name": "Fish Notify [Aku API 6]",
+        "Punchline": "Plays a sound when a fish is caught",
+        "RepoUrl": "https://github.com/carvelli/Fish-Notify",
+        "Tags": [
+            "fishing"
+        ]
     },
     {
         "ApplicableVersion": "any",
