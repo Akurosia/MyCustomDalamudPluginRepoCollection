@@ -137,5 +137,52 @@
         "Name": "ZodiacBuddy [Aku API 6]",
         "Punchline": "Complete your Zodiac relic with style.",
         "RepoUrl": "https://github.com/daemitus/ZodiacBuddy"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.4.6",
+        "Author": "Sevii",
+        "DalamudApiLevel": 6,
+        "Description": "Auto updating Material UI with customizable accent color and more. Icon by Meconate\n (https://raw.githubusercontent.com/Sevii77/ffxiv_materialui_accent/master/repo.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/Sevii77/ffxiv_materialui_accent/raw/master/release.zip",
+        "DownloadLinkTesting": "https://github.com/Sevii77/ffxiv_materialui_accent/raw/master/release.zip",
+        "DownloadLinkUpdate": "https://github.com/Sevii77/ffxiv_materialui_accent/raw/master/release.zip",
+        "IconUrl": "https://raw.githubusercontent.com/Sevii77/ffxiv_materialui_accent/master/images/icon.png",
+        "InternalName": "MaterialUI",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": 0,
+        "Name": "Material UI [Aku API 6]",
+        "RepoUrl": "https://github.com/Sevii77/ffxiv_materialui_accent",
+        "Tags": [
+            "ui",
+            "penumbra",
+            "material",
+            "skotlex",
+            "sevii",
+            "accent",
+            "color"
+        ],
+        "TestingAssemblyVersion": "1.4.6"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.4.1.0",
+        "Author": "perchbird, forked by mootykins",
+        "DalamudApiLevel": 6,
+        "Description": "Modifies target/focus target castbars to be a gradient based on how close the cast is to completing\n (https://raw.githubusercontent.com/oorzkws/DalamudPlugins/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/oorzkws/DalamudPlugins/raw/master/plugins/NeonCastbarPlugin/latest.zip",
+        "DownloadLinkTesting": "https://github.com/oorzkws/DalamudPlugins/raw/master/plugins/NeonCastbarPlugin/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/oorzkws/DalamudPlugins/raw/master/plugins/NeonCastbarPlugin/latest.zip",
+        "InternalName": "NeonCastbarPlugin",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "1649940694",
+        "LoadPriority": 0,
+        "Name": "Neon Castbar [Aku API 6]",
+        "Punchline": "Modifies target castbars to be more noticeable",
+        "RepoUrl": "https://github.com/oorzkws/DamageInfoPlugin"
     }
 ]
