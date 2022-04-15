@@ -189,7 +189,33 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.4.0.6",
+        "AssemblyVersion": "1.1.5.1",
+        "Author": "UnknownX",
+        "CategoryTags": [
+            "jobs"
+        ],
+        "Changelog": "Auto Refocus Target",
+        "DalamudApiLevel": 6,
+        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.\n (https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "InternalName": "ReAction",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": "1649990917",
+        "Name": "ReAction [Aku API 6]",
+        "Punchline": "QoL for the battle system.",
+        "RepoUrl": "https://github.com/UnknownX7/ReAction"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.4.0.7",
         "Author": "UnknownX",
         "CategoryTags": [
             "jobs",
@@ -209,7 +235,7 @@
         "InternalName": "NoClippy",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1649989584",
+        "LastUpdate": "1649990917",
         "Name": "NoClippy [Aku API 6]",
         "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
         "RepoUrl": "https://github.com/UnknownX7/NoClippy"
@@ -235,7 +261,7 @@
         "InternalName": "Cammy",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1649989584",
+        "LastUpdate": "1649990917",
         "Name": "Cammy [Aku API 6]",
         "Punchline": "A simple editor for the game's camera settings",
         "RepoUrl": "https://github.com/UnknownX7/Cammy"
@@ -258,7 +284,7 @@
         "InternalName": "Fractionality",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1649989584",
+        "LastUpdate": "1649990917",
         "Name": "Fractionality [Aku API 6]",
         "Punchline": "Changes /wait and <wait> to support fractions",
         "RepoUrl": "https://github.com/UnknownX7/Fractionality"
@@ -284,7 +310,7 @@
         "InternalName": "DalamudRepoBrowser",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1649989584",
+        "LastUpdate": "1649990917",
         "Name": "DalamudRepoBrowser [Aku API 6]",
         "Punchline": "Browse and add third party repositories in an instant",
         "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser"
@@ -401,6 +427,29 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "2.2.0.0",
+        "Author": "kalilistic, karashiiro",
+        "DalamudApiLevel": 6,
+        "Description": "NeatNoter allows you to take notes without switching windows or any of that.\n (https://raw.githubusercontent.com/kalilistic/DalamudPluginRepo/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/NeatNoter/latest.zip",
+        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/NeatNoter/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/NeatNoter/latest.zip",
+        "InternalName": "NeatNoter",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "1649991423",
+        "Name": "NeatNoter [Aku API 6]",
+        "RepoUrl": "https://github.com/kalilistic/NeatNoter",
+        "Tags": [
+            "note",
+            "utility",
+            "tool",
+            "overlay"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "2.2.1.0",
         "Author": "kalilistic",
         "DalamudApiLevel": 6,
@@ -412,13 +461,35 @@
         "InternalName": "PriceCheck",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1649988795",
+        "LastUpdated": "1649991423",
         "Name": "PriceCheck [Aku API 6]",
         "RepoUrl": "https://github.com/kalilistic/PriceCheck",
         "Tags": [
             "price",
             "marketboard",
             "universalis"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.4.0.0",
+        "Author": "kalilistic",
+        "DalamudApiLevel": 6,
+        "Description": "Kapture is a loot tracker to capture drops, obtained items, rolls, and more.\nUse the roll monitor to see who you are waiting on to roll.\n (https://raw.githubusercontent.com/kalilistic/DalamudPluginRepo/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
+        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
+        "InternalName": "Kapture",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "1649991423",
+        "Name": "Kapture [Aku API 6]",
+        "RepoUrl": "https://github.com/kalilistic/Dalamud.Kapture",
+        "Tags": [
+            "loot",
+            "track",
+            "roll"
         ]
     },
     {
