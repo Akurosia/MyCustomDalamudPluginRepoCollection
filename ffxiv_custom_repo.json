@@ -739,6 +739,26 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "0.2.2.0",
+        "Author": "Lichie",
+        "DalamudApiLevel": 6,
+        "Description": "Customizable status and cooldown tracking.\n (https://raw.githubusercontent.com/lichie567/XIVAuras/main/repo.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/lichie567/XIVAuras/releases/download/0.2.2.0/XIVAuras.zip",
+        "DownloadLinkTesting": "https://github.com/lichie567/XIVAuras/releases/download/0.2.2.0/XIVAuras.zip",
+        "DownloadLinkUpdate": "https://github.com/lichie567/XIVAuras/releases/download/0.2.2.0/XIVAuras.zip",
+        "IconUrl": "https://raw.githubusercontent.com/lichie567/XIVAuras/main/XIVAuras/Media/Images/icon.png",
+        "InternalName": "XIVAuras",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": 0,
+        "LoadPriority": 69420,
+        "Name": "XIVAuras [Aku API 6]",
+        "RepoUrl": "https://github.com/lichie567/XIVAuras",
+        "TestingAssemblyVersion": "0.2.2.0"
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.4.1.0",
         "Author": "perchbird, forked by mootykins",
         "DalamudApiLevel": 6,
@@ -776,6 +796,23 @@
         "Tags": [
             "fishing"
         ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.0.0.33",
+        "Author": "veyn",
+        "DalamudApiLevel": 6,
+        "Description": "A bunch of utilities to simplify bosses. ***very early alpha, use at your own risk***\n (https://raw.githubusercontent.com/awgil/ffxiv_plugin_distribution/master/pluginmaster.json)",
+        "DownloadLinkInstall": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/BossMod/latest.zip",
+        "DownloadLinkTesting": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/BossMod/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/BossMod/latest.zip",
+        "InternalName": "BossMod",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": "1649781225",
+        "LoadPriority": 0,
+        "Name": "Boss Mod [Aku API 6]",
+        "RepoUrl": "https://github.com/awgil/ffxiv_bossmod"
     },
     {
         "ApplicableVersion": "any",
