@@ -595,7 +595,7 @@
         "InternalName": "NeatNoter",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1650042454",
+        "LastUpdated": "1650059801",
         "Name": "NeatNoter [Aku API 6]",
         "RepoUrl": "https://github.com/kalilistic/NeatNoter",
         "Tags": [
@@ -603,6 +603,28 @@
             "utility",
             "tool",
             "overlay"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "2.5.0.0",
+        "Author": "kalilistic",
+        "DalamudApiLevel": 6,
+        "Description": "PlayerTrack helps you keep a record of who you meet and the content you played together.\nOrganize players into categories, keep notes, and track them across name/world changes.\nCustomization options include colors, icons, nameplates, and alerts.\n (https://raw.githubusercontent.com/kalilistic/DalamudPluginRepo/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
+        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
+        "InternalName": "PlayerTrack",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "1650059801",
+        "Name": "PlayerTrack [Aku API 6]",
+        "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
+        "Tags": [
+            "player",
+            "track",
+            "orwell"
         ]
     },
     {
@@ -618,7 +640,7 @@
         "InternalName": "PriceCheck",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1650042454",
+        "LastUpdated": "1650059801",
         "Name": "PriceCheck [Aku API 6]",
         "RepoUrl": "https://github.com/kalilistic/PriceCheck",
         "Tags": [
@@ -640,7 +662,7 @@
         "InternalName": "Kapture",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1650042454",
+        "LastUpdated": "1650059801",
         "Name": "Kapture [Aku API 6]",
         "RepoUrl": "https://github.com/kalilistic/Dalamud.Kapture",
         "Tags": [
