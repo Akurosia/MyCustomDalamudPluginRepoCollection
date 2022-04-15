@@ -189,6 +189,33 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.2.1.0",
+        "Author": "Kouzukii",
+        "CategoryTags": [
+            "inventory",
+            "utility"
+        ],
+        "DalamudApiLevel": 6,
+        "Description": "See item marketboard prices on hover!\n (https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/PriceInsight/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/PriceInsight/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/PriceInsight/latest.zip",
+        "InternalName": "PriceInsight",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": "1639252441",
+        "LoadPriority": 0,
+        "Name": "Price Insight [Aku API 6]",
+        "RepoUrl": "https://github.com/kouzukii/ffxiv-priceinsight",
+        "Tags": [
+            "marketboard",
+            "items",
+            "price"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.4.2",
         "Author": "LeonBlade",
         "DalamudApiLevel": 6,
@@ -238,6 +265,23 @@
             "offset",
             "leonblade"
         ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "4.4.8140.25176",
+        "Author": "VariableVixen",
+        "DalamudApiLevel": 6,
+        "Description": "Adds tiny and simple but useful chat commands, and nothing more. It doesn't even have a UI.\n (https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
+        "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
+        "InternalName": "TinyCmds",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "1650031184",
+        "Name": "TinyCommands [Aku API 6]",
+        "RepoUrl": "https://github.com/PrincessRTFM/TinyCommands"
     },
     {
         "ApplicableVersion": "any",
