@@ -617,14 +617,14 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.4.8.1",
+        "AssemblyVersion": "0.4.8.2",
         "Author": "Adam",
         "DalamudApiLevel": 6,
         "Description": "Runtime mod loader and manager.\n (https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json)",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/xivdev/Penumbra/releases/download/0.4.8.1/Penumbra.zip",
-        "DownloadLinkTesting": "https://github.com/xivdev/Penumbra/releases/download/0.4.8.1/Penumbra.zip",
-        "DownloadLinkUpdate": "https://github.com/xivdev/Penumbra/releases/download/0.4.8.1/Penumbra.zip",
+        "DownloadLinkInstall": "https://github.com/xivdev/Penumbra/releases/download/0.4.8.2/Penumbra.zip",
+        "DownloadLinkTesting": "https://github.com/xivdev/Penumbra/releases/download/0.4.8.2/Penumbra.zip",
+        "DownloadLinkUpdate": "https://github.com/xivdev/Penumbra/releases/download/0.4.8.2/Penumbra.zip",
         "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
         "InternalName": "Penumbra",
         "IsHide": "False",
@@ -633,7 +633,7 @@
         "LoadPriority": 69420,
         "Name": "Penumbra [Aku API 6]",
         "RepoUrl": "https://github.com/xivdev/Penumbra",
-        "TestingAssemblyVersion": "0.4.8.1"
+        "TestingAssemblyVersion": "0.4.8.2"
     },
     {
         "ApplicableVersion": "any",
@@ -705,6 +705,25 @@
             "color"
         ],
         "TestingAssemblyVersion": "1.4.6"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.1.1",
+        "Author": "xPumaa",
+        "Changelog": "Updated to Dalamud API6",
+        "DalamudApiLevel": 6,
+        "Description": "Announces the name of the loading duty roulette\n (https://raw.githubusercontent.com/xPumaa/DalamudPlugins/api5/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/DutyAnnouncer/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/DutyAnnouncer/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/DutyAnnouncer/latest.zip",
+        "InternalName": "DutyAnnouncer",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": "1650014524",
+        "LoadPriority": 0,
+        "Name": "Duty Announcer [Aku API 6]",
+        "RepoUrl": "https://github.com/xPumaa/DutyAnnouncer"
     },
     {
         "ApplicableVersion": "any",
