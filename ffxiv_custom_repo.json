@@ -1018,6 +1018,26 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "2.0.1",
+        "Author": "Serifine",
+        "DalamudApiLevel": 6,
+        "Description": "Easily filter messages in crowded environments, bringings some sanity back to RP. \n \n Use /chatScanner settings to opent he settings window.\n (https://raw.githubusercontent.com/serifine/XIV-Chat-Scanner/main/repo.json)",
+        "DownloadCount": 420,
+        "DownloadLinkInstall": "https://github.com/serifine/XIV-Chat-Scanner/releases/download/2.0.1/ChatScanner.zip",
+        "DownloadLinkTesting": "https://github.com/serifine/XIV-Chat-Scanner/releases/download/2.0.1/ChatScanner.zip",
+        "DownloadLinkUpdate": "https://github.com/serifine/XIV-Chat-Scanner/releases/download/2.0.1/ChatScanner.zip",
+        "InternalName": "ChatScanner",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdated": 1642896928265,
+        "Name": "Chat Scanner [Aku API 6]",
+        "RepoUrl": "https://github.com/serifine/XIV-Chat-Scanner",
+        "Tags": [
+            "Serifine"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "0.7.8140.18602",
         "Author": "digital pet",
         "DalamudApiLevel": 6,
