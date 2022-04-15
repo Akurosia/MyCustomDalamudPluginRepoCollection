@@ -959,7 +959,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.7.8139.27010",
+        "AssemblyVersion": "0.7.8140.18602",
         "Author": "digital pet",
         "DalamudApiLevel": 6,
         "Description": "An advanced haptic feedback plugin for game controllers, adult toys, and more using the Buttplug.io library. Requires Intiface Desktop to operate.\n (https://raw.githubusercontent.com/aka-tamagotchi/EgirlPlugins/main/repo.json)",
