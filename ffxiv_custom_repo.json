@@ -628,6 +628,30 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.1.0.1",
+        "Author": "SaltyCog",
+        "DalamudApiLevel": 6,
+        "Description": "Perform various behaviors/commands right after logging into a character.\n (https://raw.githubusercontent.com/saltycog/DalamudPlugins/master/repo.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/saltycog/ffxiv-startup-commands/releases/download/1.1.0.1/ffxiv-startup-commands.zip",
+        "DownloadLinkTesting": "https://github.com/saltycog/ffxiv-startup-commands/releases/download/1.1.0.1/ffxiv-startup-commands.zip",
+        "DownloadLinkUpdate": "https://github.com/saltycog/ffxiv-startup-commands/releases/download/1.1.0.1/ffxiv-startup-commands.zip",
+        "IconUrl": "https://raw.githubusercontent.com/saltycog/ffxiv-startup-commands/master/icon.png",
+        "InternalName": "StartupCommands",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": 1633826656,
+        "Name": "Startup Commands [Aku API 6]",
+        "RepoUrl": "https://github.com/saltycog/ffxiv-startup-commands",
+        "Tags": [
+            "startup",
+            "login",
+            "commands",
+            "saltycog"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "3.0.10.0",
         "Author": "attick, Kami, Daemitus, Grammernatzi, Aki, Iaotle, Codemned, PrincessRTFM, damolitionn, ele-starshade, k-kz, Taurenkey, Augporto, grimgal",
         "Changelog": "v3.0.10.0 - [6.1 Compatibility Patch] Updates to all 6.1 jobs, improvements to framework and submodules. Please check the project's GitHub or Discord for a full changelog.",
@@ -766,6 +790,36 @@
             "compass",
             "aether-currents",
             "mob-hunt"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.4.0",
+        "Author": "yomishino",
+        "CategoryTags": [
+            "UI"
+        ],
+        "Changelog": "Patch 6.1 update",
+        "DalamudApiLevel": 6,
+        "Description": "Rename a title displayed on the nameplate to something else.\nOptionally, hide a specific title.\n (https://raw.githubusercontent.com/yomishino/MyDalamudPlugins/main/plugins.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/TitleRenamed/latest.zip",
+        "DownloadLinkTesting": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/TitleRenamed/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/TitleRenamed/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/yomishino/FFXIVTitleRenamed/master/res/img/icon.png",
+        "ImageUrls": null,
+        "InternalName": "TitleRenamed",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": "1650048150",
+        "LoadPriority": 0,
+        "Name": "Title Renamed [Aku API 6]",
+        "Punchline": "Check out my new title! ... Uhmm, renamed, I mean.",
+        "RepoUrl": "https://github.com/yomishino/FFXIVTitleRenamed",
+        "Tags": [
+            "UI",
+            "title",
+            "nameplate"
         ]
     },
     {
