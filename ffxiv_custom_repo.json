@@ -584,7 +584,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.2.0.0",
+        "AssemblyVersion": "2.2.1.0",
         "Author": "kalilistic, karashiiro",
         "DalamudApiLevel": 6,
         "Description": "NeatNoter allows you to take notes without switching windows or any of that.\n (https://raw.githubusercontent.com/kalilistic/DalamudPluginRepo/master/pluginmaster.json)",
@@ -595,7 +595,7 @@
         "InternalName": "NeatNoter",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1650060638",
+        "LastUpdated": "1650062894",
         "Name": "NeatNoter [Aku API 6]",
         "RepoUrl": "https://github.com/kalilistic/NeatNoter",
         "Tags": [
@@ -618,7 +618,7 @@
         "InternalName": "PlayerTrack",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1650060638",
+        "LastUpdated": "1650062894",
         "Name": "PlayerTrack [Aku API 6]",
         "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
         "Tags": [
@@ -640,7 +640,7 @@
         "InternalName": "SillyChat",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1650060638",
+        "LastUpdated": "1650062894",
         "Name": "SillyChat [Aku API 6]",
         "RepoUrl": "https://github.com/kalilistic/SillyChat",
         "Tags": [
@@ -662,7 +662,7 @@
         "InternalName": "PriceCheck",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1650060638",
+        "LastUpdated": "1650062894",
         "Name": "PriceCheck [Aku API 6]",
         "RepoUrl": "https://github.com/kalilistic/PriceCheck",
         "Tags": [
@@ -684,7 +684,7 @@
         "InternalName": "Kapture",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1650060638",
+        "LastUpdated": "1650062894",
         "Name": "Kapture [Aku API 6]",
         "RepoUrl": "https://github.com/kalilistic/Dalamud.Kapture",
         "Tags": [
