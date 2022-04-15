@@ -1030,9 +1030,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.3.5.0",
+        "AssemblyVersion": "1.3.6.0",
         "Author": "Athavar",
-        "Changelog": "Update for API 6",
+        "Changelog": "Update for API 6. Fix macro module for crafting commands",
         "DalamudApiLevel": 6,
         "Description": "Various tools for private use.\n (https://raw.githubusercontent.com/Athavar/Athavar.FFXIV.DalaRepo/master/pluginmaster.json)",
         "DownloadCount": 0,
@@ -1044,7 +1044,7 @@
         "InternalName": "Athavar.FFXIV.Plugin",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1649945315",
+        "LastUpdated": "1650046766",
         "Name": "Athavar's ToolBox [Aku API 6]",
         "Punchline": "Various tools for private use.",
         "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.Plugin"
