@@ -572,7 +572,7 @@
         "InternalName": "NeatNoter",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1649991423",
+        "LastUpdated": "1650042454",
         "Name": "NeatNoter [Aku API 6]",
         "RepoUrl": "https://github.com/kalilistic/NeatNoter",
         "Tags": [
@@ -584,7 +584,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.2.1.0",
+        "AssemblyVersion": "2.2.2.0",
         "Author": "kalilistic",
         "DalamudApiLevel": 6,
         "Description": "To check prices, hold your keybind and then hover over an item or via the item's context menu.\nThe prices are pulled from the crowd-sourced site Universalis.\n (https://raw.githubusercontent.com/kalilistic/DalamudPluginRepo/master/pluginmaster.json)",
@@ -595,7 +595,7 @@
         "InternalName": "PriceCheck",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1649991423",
+        "LastUpdated": "1650042454",
         "Name": "PriceCheck [Aku API 6]",
         "RepoUrl": "https://github.com/kalilistic/PriceCheck",
         "Tags": [
@@ -617,7 +617,7 @@
         "InternalName": "Kapture",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1649991423",
+        "LastUpdated": "1650042454",
         "Name": "Kapture [Aku API 6]",
         "RepoUrl": "https://github.com/kalilistic/Dalamud.Kapture",
         "Tags": [
@@ -735,6 +735,28 @@
             "EffectRange"
         ],
         "TestingAssemblyVersion": "1.4.0.0"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "2.13",
+        "Author": "Jawslouis",
+        "DalamudApiLevel": 6,
+        "Description": "Automatically save & load the positions of house furniture. Import/export layouts from the MakePlace program.\n (https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/MakePlacePlugin.json)",
+        "DownloadCount": 8403,
+        "DownloadLinkInstall": "https://github.com/jawslouis/MakePlacePlugin/releases/download/v2.13/MakePlacePlugin.zip",
+        "DownloadLinkTesting": "https://github.com/jawslouis/MakePlacePlugin/releases/download/v2.13/MakePlacePlugin.zip",
+        "DownloadLinkUpdate": "https://github.com/jawslouis/MakePlacePlugin/releases/download/v2.13/MakePlacePlugin.zip",
+        "IconUrl": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/icon.png",
+        "InternalName": "MakePlacePlugin",
+        "LoadPriority": 0,
+        "Name": "MakePlace Plugin [Aku API 6]",
+        "RepoUrl": "https://github.com/jawslouis/MakePlacePlugin",
+        "Tags": [
+            "makeplace",
+            "housing",
+            "furniture",
+            "jawslouis"
+        ]
     },
     {
         "ApplicableVersion": "any",
