@@ -767,5 +767,88 @@
             "haptic",
             "erp"
         ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.2.3.0",
+        "Author": "zhudotexe",
+        "DalamudApiLevel": 6,
+        "Description": "Looking for that perfect house? PaissaHouse lets you receive notifications when a new plot of land is up for sale on your home world.\n\nWant to contribute? Check out the repository (globe icon below) for instructions.\n (https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/manifest.json)",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_PaissaHouse/autoSweep.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_PaissaHouse/autoSweep.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_PaissaHouse/autoSweep.zip",
+        "IconUrl": "https://raw.githubusercontent.com/zhudotexe/FFXIV_PaissaHouse/main/images/icon.png",
+        "InternalName": "autoSweep",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": 1649980891,
+        "LoadPriority": 0,
+        "Name": "PaissaHouse [Aku API 6]",
+        "Punchline": "Chat alerts for player housing.",
+        "RepoUrl": "https://github.com/zhudotexe/FFXIV_PaissaHouse",
+        "Tags": [
+            "housing"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.4.1",
+        "Author": "zhudotexe",
+        "DalamudApiLevel": 6,
+        "Description": "Generates a random Arc Sys countdown message on /rcd <time>. Time must be between 5 and 30 seconds.\n (https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/manifest.json)",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_CountdownMessages/CountdownMessages.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_CountdownMessages/CountdownMessages.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_CountdownMessages/CountdownMessages.zip",
+        "InternalName": "CountdownMessages",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": 1649976253,
+        "LoadPriority": 0,
+        "Name": "Countdown Messages for Xeyr [Aku API 6]",
+        "RepoUrl": "https://github.com/zhudotexe/FFXIV_CountdownMessages",
+        "Tags": [
+            "meme"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.0.0",
+        "Author": "zhudotexe",
+        "DalamudApiLevel": 6,
+        "Description": "YEAAAAAAAAHT\n (https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/manifest.json)",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_VieraVoice4/VieraVoice4.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_VieraVoice4/VieraVoice4.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_VieraVoice4/VieraVoice4.zip",
+        "IconUrl": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_VieraVoice4/images/icon.png",
+        "InternalName": "VieraVoice4",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": 1649975981,
+        "LoadPriority": 0,
+        "Name": "YEAAAAAAHT [Aku API 6]",
+        "RepoUrl": "https://github.com/zhudotexe/FFXIV_VieraVoice4",
+        "Tags": [
+            "meme"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.0.2.0",
+        "Author": "zhudotexe",
+        "DalamudApiLevel": 6,
+        "Description": "This plugin replaces active ready checks with a passive system like those in multiplayer game lobbies, allowing players to mark themselves as ready instead of relying on someone to start a ready check.\n (https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/manifest.json)",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_ReadyCheck/ReadyCheck.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_ReadyCheck/ReadyCheck.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_ReadyCheck/ReadyCheck.zip",
+        "InternalName": "ReadyCheck",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": 1649976442,
+        "LoadPriority": 0,
+        "Name": "ReadyCheck [Aku API 6]",
+        "RepoUrl": "https://github.com/zhudotexe/FFXIV_ReadyCheck",
+        "Tags": [
+            "utility"
+        ]
     }
 ]
