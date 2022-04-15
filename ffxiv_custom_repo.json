@@ -595,7 +595,7 @@
         "InternalName": "NeatNoter",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1650059801",
+        "LastUpdated": "1650060638",
         "Name": "NeatNoter [Aku API 6]",
         "RepoUrl": "https://github.com/kalilistic/NeatNoter",
         "Tags": [
@@ -618,13 +618,35 @@
         "InternalName": "PlayerTrack",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1650059801",
+        "LastUpdated": "1650060638",
         "Name": "PlayerTrack [Aku API 6]",
         "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
         "Tags": [
             "player",
             "track",
             "orwell"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.4.0.0",
+        "Author": "kalilistic",
+        "DalamudApiLevel": 6,
+        "Description": "Allows you to translate player and NPC chat messages/bubbles.\nSupported languages include: Pirate, Urianger, Leet, Pig Latin, and Turkey.\n (https://raw.githubusercontent.com/kalilistic/DalamudPluginRepo/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
+        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
+        "InternalName": "SillyChat",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "1650060638",
+        "Name": "SillyChat [Aku API 6]",
+        "RepoUrl": "https://github.com/kalilistic/SillyChat",
+        "Tags": [
+            "chat",
+            "owo",
+            "urianger"
         ]
     },
     {
@@ -640,7 +662,7 @@
         "InternalName": "PriceCheck",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1650059801",
+        "LastUpdated": "1650060638",
         "Name": "PriceCheck [Aku API 6]",
         "RepoUrl": "https://github.com/kalilistic/PriceCheck",
         "Tags": [
@@ -662,7 +684,7 @@
         "InternalName": "Kapture",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1650059801",
+        "LastUpdated": "1650060638",
         "Name": "Kapture [Aku API 6]",
         "RepoUrl": "https://github.com/kalilistic/Dalamud.Kapture",
         "Tags": [
@@ -1072,7 +1094,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.1.0.0",
+        "AssemblyVersion": "1.1.0.1",
         "Author": "Renji",
         "CategoryTags": [
             "utility"
@@ -1087,14 +1109,14 @@
         "InternalName": "Cosmetic",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": 1650056645,
+        "LastUpdate": 1650060604,
         "Name": "Cosmetic [Aku API 6]",
         "Punchline": "Requested by the Candyman.",
         "RepoUrl": "https://github.com/SigoDest/sigodest.github.io",
         "Tags": [
             "utility"
         ],
-        "TestingAssemblyVersion": "1.1.0.0"
+        "TestingAssemblyVersion": "1.1.0.1"
     },
     {
         "ApplicableVersion": "any",
