@@ -1191,7 +1191,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.1.0.3",
+        "AssemblyVersion": "1.1.0.4",
         "Author": "Renji",
         "CategoryTags": [
             "utility"
@@ -1199,21 +1199,21 @@
         "DalamudApiLevel": 6,
         "Description": "Change your race and your face!\n\nUse /xlcosmetic to open settings.\n (https://raw.githubusercontent.com/SigoDest/sigodest.github.io/main/repo.json)",
         "DownloadCount": 1,
-        "DownloadLinkInstall": "https://github.com/SigoDest/sigodest.github.io/raw/main/latest.zip",
-        "DownloadLinkTesting": "https://github.com/SigoDest/sigodest.github.io/raw/main/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/SigoDest/sigodest.github.io/raw/main/latest.zip",
+        "DownloadLinkInstall": "https://github.com/SigoDest/sigodest.github.io/raw/main/Cosmetic-latest.zip",
+        "DownloadLinkTesting": "https://github.com/SigoDest/sigodest.github.io/raw/main/Cosmetic-latest.zip",
+        "DownloadLinkUpdate": "https://github.com/SigoDest/sigodest.github.io/raw/main/Cosmetic-latest.zip",
         "IconUrl": "https://sigodest.github.io/images/renvolt.png",
         "InternalName": "Cosmetic",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": 1650127538,
+        "LastUpdate": 1650137883,
         "Name": "Cosmetic [Aku API 6]",
         "Punchline": "Requested by the Candyman.",
         "RepoUrl": "https://github.com/SigoDest/sigodest.github.io",
         "Tags": [
             "utility"
         ],
-        "TestingAssemblyVersion": "1.1.0.3"
+        "TestingAssemblyVersion": "1.1.0.4"
     },
     {
         "ApplicableVersion": "any",
