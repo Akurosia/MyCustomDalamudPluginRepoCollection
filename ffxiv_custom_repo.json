@@ -1488,7 +1488,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.5.8",
+        "AssemblyVersion": "0.1.5.9",
         "Author": "Koenari",
         "DalamudApiLevel": 6,
         "Description": "A collection of useful tools for RaidGroups, including loot management\n (https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/main/pluginmaster.json)",
