@@ -1382,7 +1382,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.2.3.0",
+        "AssemblyVersion": "1.3.0.0",
         "Author": "zhudotexe",
         "DalamudApiLevel": 6,
         "Description": "Looking for that perfect house? PaissaHouse lets you receive notifications when a new plot of land is up for sale on your home world.\n\nWant to contribute? Check out the repository (globe icon below) for instructions.\n (https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/manifest.json)",
@@ -1393,7 +1393,7 @@
         "InternalName": "autoSweep",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": 1649980891,
+        "LastUpdated": 1650101514,
         "LoadPriority": 0,
         "Name": "PaissaHouse [Aku API 6]",
         "Punchline": "Chat alerts for player housing.",
@@ -1461,6 +1461,27 @@
         "RepoUrl": "https://github.com/zhudotexe/FFXIV_ReadyCheck",
         "Tags": [
             "utility"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.5.8",
+        "Author": "Koenari",
+        "DalamudApiLevel": 6,
+        "Description": "A collection of useful tools for RaidGroups, including loot management\n (https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/main/pluginmaster.json)",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/master/plugins/HimbeerToniRaidTool/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/master/testing/HimbeerToniRaidTool/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/master/plugins/HimbeerToniRaidTool/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/Koenari/HimbeertoniRaidTool/master/images/icon.png",
+        "InternalName": "HimbeertoniRaidTool",
+        "IsTestingExclusive": "False",
+        "LoadPriority": 0,
+        "Name": "Himbeertoni Raid Tool [Aku API 6]",
+        "Punchline": "All you need for Raiding",
+        "RepoUrl": "https://github.com/Koenari/HimbeertoniRaidTool",
+        "Tags": [
+            "raid",
+            "plugin"
         ]
     }
 ]
