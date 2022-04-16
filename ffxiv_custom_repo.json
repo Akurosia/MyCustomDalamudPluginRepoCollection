@@ -939,6 +939,29 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.5.0",
+        "Author": "Bluefissure",
+        "DalamudApiLevel": 6,
+        "Description": "Double weaving in high latency network.\n (https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/Bluefissure/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/DoubleWeaver/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/DoubleWeaver/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/DoubleWeaver/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/Bluefissure/DoubleWeaver/master/images/icon.png",
+        "InternalName": "DoubleWeaver",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": "1650117101",
+        "Name": "Double Weaver [Aku API 6]",
+        "Punchline": "Double weaving with high latency",
+        "RepoUrl": "https://github.com/Bluefissure/DoubleWeaver",
+        "Tags": [
+            "bluefissure",
+            "doublewaver"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "0.1.6.0",
         "Author": "Lichie",
         "DalamudApiLevel": 6,
@@ -1168,7 +1191,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.1.0.1",
+        "AssemblyVersion": "1.1.0.3",
         "Author": "Renji",
         "CategoryTags": [
             "utility"
@@ -1183,14 +1206,14 @@
         "InternalName": "Cosmetic",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": 1650060604,
+        "LastUpdate": 1650127538,
         "Name": "Cosmetic [Aku API 6]",
         "Punchline": "Requested by the Candyman.",
         "RepoUrl": "https://github.com/SigoDest/sigodest.github.io",
         "Tags": [
             "utility"
         ],
-        "TestingAssemblyVersion": "1.1.0.1"
+        "TestingAssemblyVersion": "1.1.0.3"
     },
     {
         "ApplicableVersion": "any",
