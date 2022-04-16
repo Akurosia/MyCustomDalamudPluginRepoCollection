@@ -220,7 +220,7 @@
         "Author": "LeonBlade",
         "DalamudApiLevel": 6,
         "Description": "Move around housing items with coordinates and allows you to place anywhere.\n (https://raw.githubusercontent.com/LeonBlade/DalamudPlugins/main/repo.json)",
-        "DownloadCount": 499,
+        "DownloadCount": 2795,
         "DownloadLinkInstall": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.4.2/BDTHPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.4.2/BDTHPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.4.2/BDTHPlugin.zip",
@@ -247,7 +247,7 @@
         "Author": "LeonBlade",
         "DalamudApiLevel": 6,
         "Description": "Offsets your character off the ground for when wearing heels.\n (https://raw.githubusercontent.com/LeonBlade/DalamudPlugins/main/repo.json)",
-        "DownloadCount": 160,
+        "DownloadCount": 1058,
         "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.1.7/HeelsPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.1.7/HeelsPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.1.7/HeelsPlugin.zip",
@@ -1117,6 +1117,35 @@
             "utility"
         ],
         "TestingAssemblyVersion": "1.1.0.1"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "2.13.0.0",
+        "Author": "Jawslouis (modified by Renji)",
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 6,
+        "Description": "Automatically save & load the positions of house furniture. Import/export layouts from the MakePlace program.\n (https://raw.githubusercontent.com/SigoDest/sigodest.github.io/main/repo.json)",
+        "DownloadCount": 1,
+        "DownloadLinkInstall": "https://github.com/SigoDest/sigodest.github.io/raw/main/MakePlacePlugin-latest.zip",
+        "DownloadLinkTesting": "https://github.com/SigoDest/sigodest.github.io/raw/main/MakePlacePlugin-latest.zip",
+        "DownloadLinkUpdate": "https://github.com/SigoDest/sigodest.github.io/raw/main/MakePlacePlugin-latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/icon.png",
+        "InternalName": "MakePlacePlugin",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": 1650070385,
+        "Name": "MakePlace Plugin [Aku API 6]",
+        "Punchline": "Also requested by the Candyman.",
+        "RepoUrl": "https://github.com/SigoDest/sigodest.github.io",
+        "Tags": [
+            "makeplace",
+            "housing",
+            "furniture",
+            "jawslouis"
+        ],
+        "TestingAssemblyVersion": "2.13.0.0"
     },
     {
         "ApplicableVersion": "any",
