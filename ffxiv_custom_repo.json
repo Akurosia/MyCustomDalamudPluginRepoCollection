@@ -1,6 +1,90 @@
 [
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.0.45",
+        "Author": "Asteria Nocturna",
+        "CategoryTags": [
+            "utility"
+        ],
+        "Changelog": "70a64f8: feat: Support Patch 6.1\ndabbe6d: feat: Support Dalamud API 5",
+        "DalamudApiLevel": 6,
+        "Description": "Simple plugin to just add /calc command.\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
+        "DownloadCount": 42,
+        "DownloadLinkInstall": "https://dl.horoscope.dev/stable/Divination.Calculator",
+        "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.Calculator",
+        "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
+        "ImageUrls": [],
+        "InternalName": "Divination.Calculator",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": 0,
+        "LoadPriority": 0,
+        "Name": "Divination.Calculator [Aku API 6]",
+        "Punchline": "/calc 33 - 4",
+        "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator",
+        "Tags": [
+            "utility"
+        ],
+        "TestingAssemblyVersion": "0.1.0.46"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.0.51",
+        "Author": "Asteria Nocturna",
+        "CategoryTags": [
+            "utility"
+        ],
+        "Changelog": "c48c154: feat: Support Patch 6.1\n7245a13: feat: Support Dalamud API 5\nb2ad1e6: Update build.yml\n9a10147: Update build.yml\ncbc810c: Update build.yml\n9aca661: Update build.yml\n0d7aea6: Update build.yml\nf5b1206: Update build.yml\n5c2e270: Revert to conventional commands",
+        "DalamudApiLevel": 6,
+        "Description": "Add /power save, /power balance, /power perf, /monitoroff commands for power management\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
+        "DownloadCount": 23,
+        "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.PowerUtils",
+        "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.PowerUtils",
+        "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
+        "ImageUrls": [],
+        "InternalName": "Divination.PowerUtils",
+        "IsHide": false,
+        "IsTestingExclusive": true,
+        "LastUpdated": 0,
+        "LoadPriority": 0,
+        "Name": "Divination.PowerUtils [Aku API 6]",
+        "Punchline": "Save Energy!",
+        "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils",
+        "Tags": [
+            "Command"
+        ],
+        "TestingAssemblyVersion": "0.1.0.51"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.0.48",
+        "Author": "Asteria Nocturna",
+        "CategoryTags": [
+            "social"
+        ],
+        "Changelog": "e88a5f9: feat: Support Patch 6.1\n39f73bc: feat: Support Dalamud API 5",
+        "DalamudApiLevel": 6,
+        "Description": "Dalamud Plugin to add tweet function and Twitter timeline in FFXIV chat\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
+        "DownloadCount": 29,
+        "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.TwitterIntegration",
+        "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.TwitterIntegration",
+        "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
+        "ImageUrls": [],
+        "InternalName": "Divination.TwitterIntegration",
+        "IsHide": false,
+        "IsTestingExclusive": true,
+        "LastUpdated": 0,
+        "LoadPriority": 0,
+        "Name": "Divination.TwitterIntegration [Aku API 6]",
+        "Punchline": "Tweet in FFXIV chat.",
+        "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration",
+        "Tags": [
+            "Twitter"
+        ],
+        "TestingAssemblyVersion": "0.1.0.48"
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.5.7.4",
         "Author": "Aireil",
         "Changelog": "- Disable context menu button on 6.1",
