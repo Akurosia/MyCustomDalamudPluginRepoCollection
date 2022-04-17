@@ -1,7 +1,7 @@
 [
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "Release",
+        "AssemblyVersion": "0.1.0.45",
         "Author": "pynom",
         "CategoryTags": [
             "akurosia_repo"
@@ -21,7 +21,7 @@
         "Tags": [
             "akurosia_repo"
         ],
-        "TestingAssemblyVersion": "Release"
+        "TestingAssemblyVersion": "0.1.0.45"
     },
     {
         "ApplicableVersion": "any",
