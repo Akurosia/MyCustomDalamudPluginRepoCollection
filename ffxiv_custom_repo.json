@@ -3,18 +3,25 @@
         "ApplicableVersion": "any",
         "AssemblyVersion": "Release",
         "Author": "pynom",
+        "CategoryTags": [
+            "akurosia_repo"
+        ],
         "DalamudApiLevel": 6,
         "Description": "https://api.github.com/repos/pynom/ChatBubbles/releases/latest",
         "DownloadCount": 0,
         "DownloadLinkInstall": "https://github.com/pynom/ChatBubbles/releases/download/Release/ChatBubbles.zip",
         "DownloadLinkTesting": "https://github.com/pynom/ChatBubbles/releases/download/Release/ChatBubbles.zip",
-        "DownloadLinkUpdate": "https://github.com/pynom/ChatBubbles/releases/download/Release/ChatBubbles.zip",
         "InternalName": "ChatBubbles_aku",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
+        "IsHide": false,
+        "IsTestingExclusive": false,
         "LastUpdate": 1650135256,
+        "LoadPriority": 0,
         "Name": "ChatBubbles_aku",
-        "RepoUrl": "https://github.com/pynom/ChatBubbles"
+        "RepoUrl": "https://github.com/pynom/ChatBubbles",
+        "Tags": [
+            "akurosia_repo"
+        ],
+        "TestingAssemblyVersion": "Release"
     },
     {
         "ApplicableVersion": "any",
