@@ -1,6 +1,23 @@
 [
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "Release",
+        "Author": "pynom",
+        "DalamudApiLevel": 6,
+        "Description": "https://api.github.com/repos/pynom/ChatBubbles/releases/latest",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/pynom/ChatBubbles/releases/download/Release/ChatBubbles.zip",
+        "DownloadLinkTesting": "https://github.com/pynom/ChatBubbles/releases/download/Release/ChatBubbles.zip",
+        "DownloadLinkUpdate": "https://github.com/pynom/ChatBubbles/releases/download/Release/ChatBubbles.zip",
+        "InternalName": "ChatBubbles_aku",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": 1650135256,
+        "Name": "ChatBubbles_aku",
+        "RepoUrl": "https://github.com/pynom/ChatBubbles"
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "0.1.0.45",
         "Author": "Asteria Nocturna",
         "CategoryTags": [
