@@ -1,6 +1,23 @@
 [
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "Release",
+        "Author": "pynom",
+        "DalamudApiLevel": "6",
+        "Description": "https://api.github.com/repos/pynom/ChatBubbles/releases/latest",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/pynom/ChatBubbles/releases/download/Release/ChatBubbles.zip",
+        "DownloadLinkTesting": "https://github.com/pynom/ChatBubbles/releases/download/Release/ChatBubbles.zip",
+        "DownloadLinkUpdate": "https://github.com/pynom/ChatBubbles/releases/download/Release/ChatBubbles.zip",
+        "InternalName": "ChatBubbles_aku",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": 1650135256.0,
+        "Name": "ChatBubbles_aku",
+        "RepoUrl": "https://github.com/pynom/ChatBubbles"
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "0.1.0.45",
         "Author": "Asteria Nocturna",
         "CategoryTags": [
@@ -9,7 +26,7 @@
         "Changelog": "70a64f8: feat: Support Patch 6.1\ndabbe6d: feat: Support Dalamud API 5",
         "DalamudApiLevel": 6,
         "Description": "Simple plugin to just add /calc command.\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
-        "DownloadCount": 46,
+        "DownloadCount": 47,
         "DownloadLinkInstall": "https://dl.horoscope.dev/stable/Divination.Calculator",
         "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.Calculator",
         "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
