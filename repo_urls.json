@@ -36,7 +36,6 @@
     "https://raw.githubusercontent.com/awgil/ffxiv_plugin_distribution/master/pluginmaster.json",
     "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/manifest.json",
     "https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/main/pluginmaster.json",
-    "https://raw.githubusercontent.com/laillearda/ffxivbase/main/repo.json",
     "https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/master/pluginmaster.json",
 
     "https://plugins.annaclemens.io/",
@@ -54,5 +53,6 @@
     "https://raw.githubusercontent.com/abighairyspider/MyDalamudPlugins/main/pluginmaster.json",
     "https://raw.githubusercontent.com/Ricimon/FFXIV-StreamKit/main/repo.json",
     "https://asvel.github.io/ffxiv-literal-map-link/",
+    "https://raw.githubusercontent.com/laillearda/ffxivbase/main/repo.json",
     "https://hildaware.github.io/xiv/"
 ]
