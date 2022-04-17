@@ -61,7 +61,7 @@
         "Changelog": "c48c154: feat: Support Patch 6.1\n7245a13: feat: Support Dalamud API 5\nb2ad1e6: Update build.yml\n9a10147: Update build.yml\ncbc810c: Update build.yml\n9aca661: Update build.yml\n0d7aea6: Update build.yml\nf5b1206: Update build.yml\n5c2e270: Revert to conventional commands",
         "DalamudApiLevel": 6,
         "Description": "Add /power save, /power balance, /power perf, /monitoroff commands for power management\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
-        "DownloadCount": 27,
+        "DownloadCount": 28,
         "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.PowerUtils",
         "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.PowerUtils",
         "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
