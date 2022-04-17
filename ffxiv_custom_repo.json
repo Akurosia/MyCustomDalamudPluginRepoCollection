@@ -1429,6 +1429,29 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.0.2",
+        "Author": "Redeven",
+        "DalamudApiLevel": 6,
+        "Description": "/fflogs\n (https://raw.githubusercontent.com/redeven/FFLogsLookup/main/repository.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/redeven/FFLogsLookup/main/Build/FFLogsLookup/FFLogsLookup/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/redeven/FFLogsLookup/main/Build/FFLogsLookup/FFLogsLookup/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/redeven/FFLogsLookup/main/Build/FFLogsLookup/FFLogsLookup/latest.zip",
+        "InternalName": "FFLogsLookup",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": 1650149353,
+        "Name": "FFLogs Lookup [Aku API 6]",
+        "Punchline": "Quickly look up your party members in FFLogs to avoid trap parties",
+        "RepoUrl": "https://github.com/redeven/FFLogsLookup",
+        "Tags": [
+            "plugin",
+            "fflogs",
+            "parse"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.3.0.0",
         "Author": "zhudotexe",
         "DalamudApiLevel": 6,
