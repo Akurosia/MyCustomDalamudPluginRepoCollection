@@ -9,7 +9,7 @@
         "Changelog": "70a64f8: feat: Support Patch 6.1\ndabbe6d: feat: Support Dalamud API 5",
         "DalamudApiLevel": 6,
         "Description": "Simple plugin to just add /calc command.\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
-        "DownloadCount": 42,
+        "DownloadCount": 46,
         "DownloadLinkInstall": "https://dl.horoscope.dev/stable/Divination.Calculator",
         "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.Calculator",
         "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
@@ -37,7 +37,7 @@
         "Changelog": "c48c154: feat: Support Patch 6.1\n7245a13: feat: Support Dalamud API 5\nb2ad1e6: Update build.yml\n9a10147: Update build.yml\ncbc810c: Update build.yml\n9aca661: Update build.yml\n0d7aea6: Update build.yml\nf5b1206: Update build.yml\n5c2e270: Revert to conventional commands",
         "DalamudApiLevel": 6,
         "Description": "Add /power save, /power balance, /power perf, /monitoroff commands for power management\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
-        "DownloadCount": 23,
+        "DownloadCount": 25,
         "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.PowerUtils",
         "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.PowerUtils",
         "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
@@ -65,7 +65,7 @@
         "Changelog": "e88a5f9: feat: Support Patch 6.1\n39f73bc: feat: Support Dalamud API 5",
         "DalamudApiLevel": 6,
         "Description": "Dalamud Plugin to add tweet function and Twitter timeline in FFXIV chat\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
-        "DownloadCount": 29,
+        "DownloadCount": 31,
         "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.TwitterIntegration",
         "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.TwitterIntegration",
         "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
@@ -82,6 +82,35 @@
             "Twitter"
         ],
         "TestingAssemblyVersion": "0.1.0.48"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.0.46",
+        "Author": "Asteria Nocturna",
+        "CategoryTags": [
+            "utility"
+        ],
+        "Changelog": "9808e0c: feat: Support Patch 6.1\n08b6aaf: feat: Support Dalamud API 6",
+        "DalamudApiLevel": 6,
+        "Description": "Add /voiceroid2 command into FFXIV. Require SimpleVoiceroid2Proxy (https://github.com/SlashNephy/SimpleVoiceroid2Proxy).\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
+        "DownloadCount": 27,
+        "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.Voiceroid2Talker",
+        "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.Voiceroid2Talker",
+        "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
+        "ImageUrls": [],
+        "InternalName": "Divination.Voiceroid2Talker",
+        "IsHide": false,
+        "IsTestingExclusive": true,
+        "LastUpdated": 0,
+        "LoadPriority": 0,
+        "Name": "Divination.Voiceroid2Talker [Aku API 6]",
+        "Punchline": "Text-to-Speech for Voiceroid2",
+        "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker",
+        "Tags": [
+            "Text-to-speech",
+            "Voiceroid"
+        ],
+        "TestingAssemblyVersion": "0.1.0.46"
     },
     {
         "ApplicableVersion": "any",
