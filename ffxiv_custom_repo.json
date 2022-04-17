@@ -3,7 +3,7 @@
         "ApplicableVersion": "any",
         "AssemblyVersion": "Release",
         "Author": "pynom",
-        "DalamudApiLevel": "6",
+        "DalamudApiLevel": 6,
         "Description": "https://api.github.com/repos/pynom/ChatBubbles/releases/latest",
         "DownloadCount": 0,
         "DownloadLinkInstall": "https://github.com/pynom/ChatBubbles/releases/download/Release/ChatBubbles.zip",
