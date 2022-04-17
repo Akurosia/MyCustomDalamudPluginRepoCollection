@@ -1466,5 +1466,26 @@
             "raid",
             "plugin"
         ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.3.1.1",
+        "Author": "attick, daemitus, alymphocyte, grammernatzi, kam",
+        "DalamudApiLevel": 6,
+        "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!\nUpdated for API5\n (https://raw.githubusercontent.com/captainbinary/MyDalamudPlugins/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/captainbinary/MyDalamudPlugins/raw/master/plugins/XIVComboKamified/latest.zip",
+        "DownloadLinkTesting": "https://github.com/captainbinary/MyDalamudPlugins/raw/master/plugins/XIVComboKamified/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/captainbinary/MyDalamudPlugins/raw/master/plugins/XIVComboKamified/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/captainbinary/XIVComboPluginKamified/master/res/icon.png",
+        "ImageUrls": [],
+        "InternalName": "XIVComboKamified",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "1639062456",
+        "LoadPriority": 0,
+        "Name": "XIV Combo Kamified [Aku API 6]",
+        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button. Plus extras.",
+        "RepoUrl": "https://github.com/captainbinary/XIVComboPluginKamified"
     }
 ]
