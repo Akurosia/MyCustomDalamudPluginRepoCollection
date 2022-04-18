@@ -416,13 +416,13 @@
         "InternalName": "XIVComboVX",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1650055369",
+        "LastUpdated": "1650321279",
         "Name": "XIV Combo Very Expanded [Aku API 6]",
         "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin"
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "4.4.8140.25176",
+        "AssemblyVersion": "4.4.8143.40621",
         "Author": "VariableVixen",
         "DalamudApiLevel": 6,
         "Description": "Adds tiny and simple but useful chat commands, and nothing more. It doesn't even have a UI.\n (https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json)",
@@ -433,7 +433,7 @@
         "InternalName": "TinyCmds",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1650055369",
+        "LastUpdated": "1650321279",
         "Name": "TinyCommands [Aku API 6]",
         "RepoUrl": "https://github.com/PrincessRTFM/TinyCommands"
     },
