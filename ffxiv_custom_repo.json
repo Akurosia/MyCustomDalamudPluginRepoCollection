@@ -33,7 +33,7 @@
         "Changelog": "70a64f8: feat: Support Patch 6.1\ndabbe6d: feat: Support Dalamud API 5",
         "DalamudApiLevel": 6,
         "Description": "Simple plugin to just add /calc command.\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
-        "DownloadCount": 61,
+        "DownloadCount": 62,
         "DownloadLinkInstall": "https://dl.horoscope.dev/stable/Divination.Calculator",
         "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.Calculator",
         "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
@@ -89,7 +89,7 @@
         "Changelog": "e88a5f9: feat: Support Patch 6.1\n39f73bc: feat: Support Dalamud API 5",
         "DalamudApiLevel": 6,
         "Description": "Dalamud Plugin to add tweet function and Twitter timeline in FFXIV chat\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
-        "DownloadCount": 40,
+        "DownloadCount": 41,
         "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.TwitterIntegration",
         "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.TwitterIntegration",
         "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
@@ -1535,23 +1535,6 @@
             "Character"
         ],
         "TestingAssemblyVersion": "0.1.0.45"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.2.0.0",
-        "Author": "kalilistic",
-        "DalamudApiLevel": 6,
-        "Description": "Developed by goat for April Fools 2021 and unnecessarily resurrected by kal.\n\nHandcrafted by our finest code artisans with special AI, \nhe will analyze your playstyle to give you useful tips to get your GAMING to the next level.\n\nSome things he can do:\n* He can give general tips about the game\n* He can give tips about the job you're playing\n* He can report on your battle performance\n* He will respect your feelings\n (https://raw.githubusercontent.com/kalilistic/DalamudPluginRepo/master/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Tippy/latest.zip",
-        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Tippy/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Tippy/latest.zip",
-        "InternalName": "Tippy",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdated": "1650327356",
-        "Name": "Tippy [Aku API 6]",
-        "RepoUrl": "https://github.com/kalilistic/tippy"
     },
     {
         "ApplicableVersion": "any",
