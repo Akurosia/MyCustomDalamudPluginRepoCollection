@@ -117,7 +117,7 @@
         "Changelog": "9808e0c: feat: Support Patch 6.1\n08b6aaf: feat: Support Dalamud API 6",
         "DalamudApiLevel": 6,
         "Description": "Add /voiceroid2 command into FFXIV. Require SimpleVoiceroid2Proxy (https://github.com/SlashNephy/SimpleVoiceroid2Proxy).\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
-        "DownloadCount": 30,
+        "DownloadCount": 31,
         "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.Voiceroid2Talker",
         "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.Voiceroid2Talker",
         "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
@@ -1488,7 +1488,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.2.0.0",
+        "AssemblyVersion": "1.2.0.0",
         "Author": "kalilistic",
         "DalamudApiLevel": 6,
         "Description": "Developed by goat for April Fools 2021 and unnecessarily resurrected by kal.\n\nHandcrafted by our finest code artisans with special AI, \nhe will analyze your playstyle to give you useful tips to get your GAMING to the next level.\n\nSome things he can do:\n* He can give general tips about the game\n* He can give tips about the job you're playing\n* He can report on your battle performance\n* He will respect your feelings\n (https://raw.githubusercontent.com/kalilistic/DalamudPluginRepo/master/pluginmaster.json)",
@@ -1499,7 +1499,7 @@
         "InternalName": "Tippy",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1650325912",
+        "LastUpdated": "1650327356",
         "Name": "Tippy [Aku API 6]",
         "RepoUrl": "https://github.com/kalilistic/tippy"
     },
