@@ -1488,6 +1488,33 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.0.45",
+        "Author": "Khagan",
+        "CategoryTags": [
+            "racemods"
+        ],
+        "DalamudApiLevel": 6,
+        "Description": "Lala delete!\n (https://raw.githubusercontent.com/abighairyspider/MyDalamudPlugins/main/pluginmaster.json)",
+        "DownloadCount": 1,
+        "DownloadLinkInstall": "https://github.com/abighairyspider/MyDalamudPlugins/raw/main/AwayWithYou/latest.zip",
+        "DownloadLinkTesting": "https://github.com/abighairyspider/MyDalamudPlugins/raw/main/AwayWithYou/latest.zip",
+        "IconUrl": "https://github.com/abighairyspider/MyDalamudPlugins/raw/main/AwayWithYou/icon.png",
+        "ImageUrls": [],
+        "InternalName": "AwayWithYou",
+        "IsHide": false,
+        "IsTestingExclusive": true,
+        "LastUpdated": 1648971344,
+        "LoadPriority": 0,
+        "Name": "Away With You [Aku API 6]",
+        "Punchline": "No moar lalas",
+        "RepoUrl": "https://github.com/abighairyspider/AwayWithYou",
+        "Tags": [
+            "Character"
+        ],
+        "TestingAssemblyVersion": "0.1.0.45"
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.2.0.0",
         "Author": "kalilistic",
         "DalamudApiLevel": 6,
@@ -1523,32 +1550,5 @@
         "Name": "XIV Combo Kamified [Aku API 6]",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button. Plus extras.",
         "RepoUrl": "https://github.com/captainbinary/XIVComboPluginKamified"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.0.45",
-        "Author": "Khagan",
-        "CategoryTags": [
-            "racemods"
-        ],
-        "DalamudApiLevel": 6,
-        "Description": "Lala delete!\n (https://raw.githubusercontent.com/abighairyspider/MyDalamudPlugins/main/pluginmaster.json)",
-        "DownloadCount": 1,
-        "DownloadLinkInstall": "https://github.com/abighairyspider/MyDalamudPlugins/raw/main/AwayWithYou/latest.zip",
-        "DownloadLinkTesting": "https://github.com/abighairyspider/MyDalamudPlugins/raw/main/AwayWithYou/latest.zip",
-        "IconUrl": "https://github.com/abighairyspider/MyDalamudPlugins/raw/main/AwayWithYou/icon.png",
-        "ImageUrls": [],
-        "InternalName": "AwayWithYou",
-        "IsHide": false,
-        "IsTestingExclusive": true,
-        "LastUpdated": 1648971344,
-        "LoadPriority": 0,
-        "Name": "Away With You [Aku API 6]",
-        "Punchline": "No moar lalas",
-        "RepoUrl": "https://github.com/abighairyspider/AwayWithYou",
-        "Tags": [
-            "Character"
-        ],
-        "TestingAssemblyVersion": "0.1.0.45"
     }
 ]
