@@ -167,9 +167,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.2.2.3",
+        "AssemblyVersion": "0.2.2.4",
         "Author": "Chalkos",
-        "Changelog": "0.2.2.3: set api version 6\n0.2.2.2: set api version 5\nThere were no code changes as everything appears to be working.",
+        "Changelog": "* 0.2.2.4\n  * allow setting a custom undercut amount\n  * some UI changes\n  * fix a bug that (with a certain configuration setup) would close the item window and leave the price list open\n* 0.2.2.3\n  * set api version 6 (no code changes)",
         "DalamudApiLevel": 6,
         "Description": "Helper for your day-to-day market operations.\n (https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json)",
         "DownloadCount": 0,
@@ -179,7 +179,7 @@
         "InternalName": "Marketbuddy",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1632409367",
+        "LastUpdated": "1632409368",
         "Name": "Marketbuddy [Aku API 6]",
         "Punchline": "Less clicks, more gil!",
         "RepoUrl": "https://github.com/chalkos/Marketbuddy"
