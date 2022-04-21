@@ -1247,10 +1247,10 @@
         "InternalName": "AutoHook",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1650516050",
+        "LastUpdate": "1650518498",
         "Name": "Auto Hook [Aku API 6]",
         "Punchline": "Makes fishing less boring",
-        "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser"
+        "RepoUrl": "https://github.com/InitialDet/AutoHook"
     },
     {
         "ApplicableVersion": "any",
