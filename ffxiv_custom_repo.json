@@ -1228,27 +1228,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.1.1",
-        "Author": "Det",
-        "DalamudApiLevel": 6,
-        "Description": "Hooks for you\n (https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/pluginmaster.json)",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/master/AutoHook/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/master/AutoHook/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/master/AutoHook/latest.zip",
-        "InternalName": "AutoHook",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdated": "1649962171",
-        "LoadPriority": 0,
-        "Name": "Auto Hook [Aku API 6]",
-        "Punchline": "Auto Hook",
-        "RepoUrl": "https://github.com/InitialDet/AutoHook",
-        "Tags": [
-            "fishing"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.0.5",
         "Author": "Caraxi",
         "DalamudApiLevel": 6,
