@@ -731,7 +731,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.4.1.0",
+        "AssemblyVersion": "1.4.2.0",
         "Author": "yomishino",
         "CategoryTags": [],
         "Changelog": "Fix incorrect drawing for some Patch 6.1 skills \n\n(Note: Fixing for some of the new skills is still ongoing.)",
@@ -746,7 +746,7 @@
         "InternalName": "ActionEffectRange",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": "1650528926",
+        "LastUpdate": "1650537674",
         "LoadPriority": 0,
         "Name": "ActionEffectRange [Aku API 6]",
         "Punchline": "Provides a visual cue on the effect range of the AoE action just used.",
