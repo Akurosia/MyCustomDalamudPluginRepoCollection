@@ -1237,9 +1237,9 @@
         "DalamudApiLevel": 6,
         "Description": "It just hooks the fish for you\n (https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/pluginmaster.json)",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/AutoHook/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/AutoHook/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/AutoHook/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/plugins/AutoHook/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/plugins/AutoHook/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/plugins/AutoHook/latest.zip",
         "IconUrl": "",
         "ImageUrls": [
             ""
@@ -1247,7 +1247,7 @@
         "InternalName": "AutoHook",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1650518498",
+        "LastUpdate": "1650585000",
         "Name": "Auto Hook [Aku API 6]",
         "Punchline": "Makes fishing less boring",
         "RepoUrl": "https://github.com/InitialDet/AutoHook"
