@@ -1663,5 +1663,19 @@
         "Name": "XIV Combo Kamified [Aku API 6]",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button. Plus extras.",
         "RepoUrl": "https://github.com/captainbinary/XIVComboPluginKamified"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.0.2",
+        "Author": "Haselnussbomber",
+        "DalamudApiLevel": 6,
+        "Description": "\n (https://raw.githubusercontent.com/Haselnussbomber/DalamudPlugins/main/repo.json)",
+        "DownloadCount": 1,
+        "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.0.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.0.2/latest.zip",
+        "InternalName": "HaselTweaks",
+        "LastUpdate": 1650737121,
+        "Name": "HaselTweaks [Aku API 6]",
+        "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks"
     }
 ]
