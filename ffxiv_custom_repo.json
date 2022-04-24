@@ -1666,15 +1666,15 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.2",
+        "AssemblyVersion": "0.0.3",
         "Author": "Haselnussbomber",
         "DalamudApiLevel": 6,
         "Description": "\n (https://raw.githubusercontent.com/Haselnussbomber/DalamudPlugins/main/repo.json)",
-        "DownloadCount": 11,
-        "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.0.2/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.0.2/latest.zip",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.0.3/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.0.3/latest.zip",
         "InternalName": "HaselTweaks",
-        "LastUpdate": 1650737121,
+        "LastUpdate": 1650801344,
         "Name": "HaselTweaks [Aku API 6]",
         "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks"
     }
