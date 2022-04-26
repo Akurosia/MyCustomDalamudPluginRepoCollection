@@ -439,7 +439,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.1.6.2",
+        "AssemblyVersion": "1.1.6.3",
         "Author": "UnknownX",
         "CategoryTags": [
             "jobs"
@@ -458,7 +458,7 @@
         "InternalName": "ReAction",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1650989443",
+        "LastUpdate": "1651004777",
         "Name": "ReAction [Aku API 6]",
         "Punchline": "QoL for the battle system.",
         "RepoUrl": "https://github.com/UnknownX7/ReAction"
@@ -485,14 +485,14 @@
         "InternalName": "NoClippy",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1650989443",
+        "LastUpdate": "1651004777",
         "Name": "NoClippy [Aku API 6]",
         "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
         "RepoUrl": "https://github.com/UnknownX7/NoClippy"
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.3.2",
+        "AssemblyVersion": "2.0.3.3",
         "Author": "UnknownX",
         "CategoryTags": [
             "utility"
@@ -511,7 +511,7 @@
         "InternalName": "Cammy",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1650989443",
+        "LastUpdate": "1651004777",
         "Name": "Cammy [Aku API 6]",
         "Punchline": "A simple editor for the game's camera settings",
         "RepoUrl": "https://github.com/UnknownX7/Cammy"
@@ -534,7 +534,7 @@
         "InternalName": "Fractionality",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1650989443",
+        "LastUpdate": "1651004777",
         "Name": "Fractionality [Aku API 6]",
         "Punchline": "Changes /wait and <wait> to support fractions",
         "RepoUrl": "https://github.com/UnknownX7/Fractionality"
@@ -560,7 +560,7 @@
         "InternalName": "DalamudRepoBrowser",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1650989443",
+        "LastUpdate": "1651004777",
         "Name": "DalamudRepoBrowser [Aku API 6]",
         "Punchline": "Browse and add third party repositories in an instant",
         "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser"
@@ -586,7 +586,7 @@
         "InternalName": "OOBlugin",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1650989443",
+        "LastUpdate": "1651004777",
         "Name": "OOBlugin [Aku API 6]",
         "Punchline": "oob oob",
         "RepoUrl": "https://github.com/UnknownX7/OOBlugin"
