@@ -1677,5 +1677,115 @@
         "LastUpdate": 1650940946,
         "Name": "HaselTweaks [Aku API 6]",
         "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.0.1",
+        "Author": "PunishedPineapple",
+        "DalamudApiLevel": 6,
+        "Description": "Maps the content ID (i.e., number used in your character settings folder name) to the character name and server.  Only works for characters to which you log in.\n (https://raw.githubusercontent.com/PunishedPineapple/DalamudPluginRepo/main/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/CIDNamer/latest.zip",
+        "DownloadLinkTesting": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/CIDNamer/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/CIDNamer/latest.zip",
+        "IconUrl": "https://github.com/PunishedPineapple/CIDNamer/raw/main/docs/Images/icon.png",
+        "ImageUrls": [],
+        "InternalName": "CIDNamer",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": "1650874725",
+        "Name": "CIDNamer [Aku API 6]",
+        "Punchline": "Content ID -> Character Name Mapping",
+        "RepoUrl": "https://github.com/PunishedPineapple/CIDNamer",
+        "Tags": [
+            "Settings",
+            "Utility"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.9.5.0",
+        "Author": "PunishedPineapple",
+        "DalamudApiLevel": 6,
+        "Description": "Displays the distance in yalms to the target (or optionally to the target's ring), and can display distance until aggro range for supported bosses.\n (https://raw.githubusercontent.com/PunishedPineapple/DalamudPluginRepo/main/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/Distance/latest.zip",
+        "DownloadLinkTesting": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/Distance/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/Distance/latest.zip",
+        "IconUrl": "https://github.com/PunishedPineapple/Distance/raw/main/docs/Images/icon.png",
+        "ImageUrls": [
+            "https://github.com/PunishedPineapple/Distance/raw/main/docs/Images/image1.png"
+        ],
+        "InternalName": "Distance",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": "1650874725",
+        "Name": "Distance [Aku API 6]",
+        "Punchline": "Target distance widgets.",
+        "RepoUrl": "https://github.com/PunishedPineapple/Distance",
+        "Tags": [
+            "Distance",
+            "Range",
+            "Aggro",
+            "Enmity",
+            "Hate",
+            "Pull",
+            "Hitbox",
+            "Ring",
+            "Target"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.2.2",
+        "Author": "shdwp, Iaotle",
+        "DalamudApiLevel": 6,
+        "Description": "Adds a widget keeping track of your party actions cooldowns and state, this includes raid buffs, utility and other stuff you might be interested in.\n\nPlugin shows when abilities are active, and where their cooldown is at, helping you to align your burst windows.\n\nDevelopment: shdwp, Iaotle; advisor, UX and QA: Theihe.\n (https://raw.githubusercontent.com/Iaotle/MyDalamudPlugins/master/pluginmaster.json)",
+        "DownloadLinkInstall": "https://github.com/iaotle/MyDalamudPlugins/blob/master/plugins/RaidBuffTracker/latest.zip?raw=true",
+        "DownloadLinkUpdate": "https://github.com/iaotle/MyDalamudPlugins/blob/master/plugins/RaidBuffTracker/latest.zip?raw=true",
+        "IconUrl": "https://raw.githubusercontent.com/iaotle/MyDalamudPlugins/master/plugins/RaidBuffTracker/images/icon.png",
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/shdwp/DalamudPlugins/master/plugins/RaidBuffTracker/images/preview.png"
+        ],
+        "InternalName": "RaidBuffTracker",
+        "Name": "RaidBuffTracker [Aku API 6]",
+        "Punchline": "Keep track of your party raid buff cooldowns!",
+        "Tags": [
+            "UI",
+            "Utility"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.2.0.2",
+        "Author": "a08381, Iaotle",
+        "DalamudApiLevel": 6,
+        "Description": "Works for Castrum and Praetorium.\n (https://raw.githubusercontent.com/Iaotle/MyDalamudPlugins/master/pluginmaster.json)",
+        "DownloadLinkInstall": "https://github.com/iaotle/MyDalamudPlugins/blob/master/plugins/SkipCutscene/latest.zip?raw=true",
+        "DownloadLinkUpdate": "https://github.com/iaotle/MyDalamudPlugins/blob/master/plugins/SkipCutscene/latest.zip?raw=true",
+        "ImageUrls": [],
+        "InternalName": "SkipCutscene",
+        "Name": "Skip Cutscene [Aku API 6]",
+        "Punchline": "Skips MSQ Roulette Cutscenes",
+        "Tags": [
+            "Utility"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "2.0.0.0",
+        "Author": "akira0245, Iaotle",
+        "DalamudApiLevel": 6,
+        "Description": "Use /need, /greed, and /pass to roll automatically on items.\n (https://raw.githubusercontent.com/Iaotle/MyDalamudPlugins/master/pluginmaster.json)",
+        "DownloadLinkInstall": "https://github.com/iaotle/MyDalamudPlugins/blob/master/plugins/LootMaster/latest.zip?raw=true",
+        "DownloadLinkUpdate": "https://github.com/iaotle/MyDalamudPlugins/blob/master/plugins/LootMaster/latest.zip?raw=true",
+        "IconUrl": "https://raw.githubusercontent.com/iaotle/MyDalamudPlugins/master/plugins/LootMaster/images/icon.png",
+        "InternalName": "LootMaster",
+        "Name": "LootMaster [Aku API 6]",
+        "Punchline": "Enables you to roll on items using a chat command.",
+        "Tags": [
+            "UI",
+            "Utility"
+        ]
     }
 ]
