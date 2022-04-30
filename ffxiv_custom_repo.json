@@ -1677,7 +1677,7 @@
         "InternalName": "LootMaster",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1651292625",
+        "LastUpdated": "1651304833",
         "Name": "LootMaster [Aku API 6]",
         "Punchline": "Roll loots via text command.",
         "RepoUrl": "",
@@ -1685,30 +1685,6 @@
             "akira",
             "loot",
             "roll"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.1.0.2",
-        "Author": "akira0245",
-        "DalamudApiLevel": 6,
-        "Description": "解锁并调整视距和视角。\nEasy zoom distance unlock and fov control.\n (https://raw.githubusercontent.com/akira0245/DalamudPlugins/api4/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/EasyZoom/latest.zip",
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/EasyZoom/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/EasyZoom/latest.zip",
-        "IconUrl": "https://i.loli.net/2021/09/24/grlXmGbBLpADZVi.png",
-        "InternalName": "EasyZoom",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdated": "1651292625",
-        "Name": "EasyZoom [Aku API 6]",
-        "Punchline": "Easy zoom distance unlock and fov control.",
-        "RepoUrl": "",
-        "Tags": [
-            "cam",
-            "fov",
-            "akira"
         ]
     },
     {
@@ -1725,7 +1701,7 @@
         "InternalName": "MidiBard",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1651292625",
+        "LastUpdated": "1651304833",
         "Name": "MidiBard [Aku API 6]",
         "Punchline": "Bard performance using midi files or keyboard.",
         "RepoUrl": "https://github.com/akira0245/MidiBard",
