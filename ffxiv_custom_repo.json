@@ -1368,6 +1368,29 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.1.0.0",
+        "Author": "Det",
+        "CategoryTags": [
+            "Casual",
+            "Minion"
+        ],
+        "Changelog": "Add a better Zone Change detection and some code cleanup",
+        "DalamudApiLevel": 6,
+        "Description": "Make sure to enable the checkbox in the Minion Guide if you want only your favorite minions to be swapped\n (https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/MinionRoulette/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/MinionRoulette/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/MinionRoulette/latest.zip",
+        "InternalName": "MinionRoulette",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": "1651346875",
+        "Name": "Minion Roulette [Aku API 6]",
+        "Punchline": "Swaps your minions everytime you change zones",
+        "RepoUrl": "https://github.com/InitialDet/MinionRoulette"
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.1.1",
         "Author": "Det",
         "CategoryTags": [
@@ -1387,32 +1410,10 @@
         "InternalName": "AutoHook",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1650606981",
+        "LastUpdate": "1651346875",
         "Name": "Auto Hook [Aku API 6]",
         "Punchline": "Makes fishing less boring",
         "RepoUrl": "https://github.com/InitialDet/AutoHook"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.0",
-        "Author": "Det",
-        "CategoryTags": [
-            "Casual"
-        ],
-        "Changelog": "",
-        "DalamudApiLevel": 6,
-        "Description": "If you want only your favorite minions, make sure to mark the checkbox in the minion guide\n (https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/MinionRoulette/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/MinionRoulette/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/MinionRoulette/latest.zip",
-        "InternalName": "MinionRoulette",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdate": "1650606981",
-        "Name": "Minion Roulette [Aku API 6]",
-        "Punchline": "Uses your minion roulette everytime you change zones",
-        "RepoUrl": "https://github.com/InitialDet/MinionRoulette"
     },
     {
         "ApplicableVersion": "any",
