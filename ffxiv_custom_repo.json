@@ -33,7 +33,7 @@
         "Changelog": "51a50e1: DalamudApiLevel 5 -> 6\nd8fabbd: Dalamud api 5\n92abc49: Fix missing inheritance of IDalamudPlugin",
         "DalamudApiLevel": 6,
         "Description": "Dalamud Plugin to add a link to teleport to the nearest aetheryte. Teleporter plugin required!\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
-        "DownloadCount": 650,
+        "DownloadCount": 651,
         "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.AetheryteLinkInChat",
         "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.AetheryteLinkInChat",
         "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
@@ -1661,6 +1661,78 @@
         "Tags": [
             "raid",
             "plugin"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.2.2",
+        "Author": "akira0245",
+        "DalamudApiLevel": 6,
+        "Description": "使用文本指令对战利品掷骰。\nRoll loots via text command.\n (https://raw.githubusercontent.com/akira0245/DalamudPlugins/api4/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/LootMaster/latest.zip",
+        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/LootMaster/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/LootMaster/latest.zip",
+        "IconUrl": "https://i.loli.net/2021/09/24/vfG4b9MWAZQTnjJ.png",
+        "InternalName": "LootMaster",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "1651292625",
+        "Name": "LootMaster [Aku API 6]",
+        "Punchline": "Roll loots via text command.",
+        "RepoUrl": "",
+        "Tags": [
+            "akira",
+            "loot",
+            "roll"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.1.0.2",
+        "Author": "akira0245",
+        "DalamudApiLevel": 6,
+        "Description": "解锁并调整视距和视角。\nEasy zoom distance unlock and fov control.\n (https://raw.githubusercontent.com/akira0245/DalamudPlugins/api4/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/EasyZoom/latest.zip",
+        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/EasyZoom/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/EasyZoom/latest.zip",
+        "IconUrl": "https://i.loli.net/2021/09/24/grlXmGbBLpADZVi.png",
+        "InternalName": "EasyZoom",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "1651292625",
+        "Name": "EasyZoom [Aku API 6]",
+        "Punchline": "Easy zoom distance unlock and fov control.",
+        "RepoUrl": "",
+        "Tags": [
+            "cam",
+            "fov",
+            "akira"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.9.3.1",
+        "Author": "akira0245",
+        "DalamudApiLevel": 6,
+        "Description": "使用MIDI文件或MIDI键盘进行诗人演奏。\nBard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\n (https://raw.githubusercontent.com/akira0245/DalamudPlugins/api4/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MidiBard/latest.zip",
+        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MidiBard/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MidiBard/latest.zip",
+        "IconUrl": "https://i.loli.net/2021/09/09/L1fkrwElUKYMtN3.png",
+        "InternalName": "MidiBard",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "1651292625",
+        "Name": "MidiBard [Aku API 6]",
+        "Punchline": "Bard performance using midi files or keyboard.",
+        "RepoUrl": "https://github.com/akira0245/MidiBard",
+        "Tags": [
+            "akira",
+            "perform",
+            "instrument"
         ]
     },
     {
