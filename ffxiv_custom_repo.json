@@ -1384,14 +1384,14 @@
         "InternalName": "MinionRoulette",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1651388400",
+        "LastUpdate": "1651389452",
         "Name": "Minion Roulette [Aku API 6]",
         "Punchline": "Swaps your minions everytime you change zones",
         "RepoUrl": "https://github.com/InitialDet/MinionRoulette"
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.2.1",
+        "AssemblyVersion": "1.0.2.3",
         "Author": "Det",
         "CategoryTags": [
             "other"
@@ -1410,7 +1410,7 @@
         "InternalName": "AutoHook",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1651388400",
+        "LastUpdate": "1651389452",
         "Name": "Auto Hook [Aku API 6]",
         "Punchline": "Makes fishing less boring",
         "RepoUrl": "https://github.com/InitialDet/AutoHook"
