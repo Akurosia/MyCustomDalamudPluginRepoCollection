@@ -1384,7 +1384,7 @@
         "InternalName": "MinionRoulette",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1651514538",
+        "LastUpdate": "1651521528",
         "Name": "Minion Roulette [Aku API 6]",
         "Punchline": "Swaps your minions everytime you change zones",
         "RepoUrl": "https://github.com/InitialDet/MinionRoulette"
@@ -1410,20 +1410,20 @@
         "InternalName": "AutoHook",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1651514538",
+        "LastUpdate": "1651521528",
         "Name": "Auto Hook [Aku API 6]",
         "Punchline": "Makes fishing less boring",
         "RepoUrl": "https://github.com/InitialDet/AutoHook"
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.2",
+        "AssemblyVersion": "1.0.1.0",
         "Author": "Det",
         "CategoryTags": [
             "Casual",
             "Housing"
         ],
-        "Changelog": "",
+        "Changelog": "Added an alternative targeting option",
         "DalamudApiLevel": 6,
         "Description": "Currently, the only possible way to select a housing item is to click it manually with your mouse over it, and that can be a problem if you have multiple items close to each other. \nThis plugin adds a new option when you right-click an item from the housing menu saving you a lot of trouble.\n (https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/pluginmaster.json)",
         "DownloadCount": 0,
@@ -1437,7 +1437,7 @@
         "InternalName": "TargetFurniture",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1651514538",
+        "LastUpdate": "1651521528",
         "Name": "Target Furniture [Aku API 6]",
         "Punchline": "Adds an option that let you Select/Move an housing item from the Housing Menu",
         "RepoUrl": "https://github.com/InitialDet/TargetFurniture"
