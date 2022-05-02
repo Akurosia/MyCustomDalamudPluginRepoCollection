@@ -1384,7 +1384,7 @@
         "InternalName": "MinionRoulette",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1651512553",
+        "LastUpdate": "1651514313",
         "Name": "Minion Roulette [Aku API 6]",
         "Punchline": "Swaps your minions everytime you change zones",
         "RepoUrl": "https://github.com/InitialDet/MinionRoulette"
@@ -1410,7 +1410,7 @@
         "InternalName": "AutoHook",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1651512553",
+        "LastUpdate": "1651514313",
         "Name": "Auto Hook [Aku API 6]",
         "Punchline": "Makes fishing less boring",
         "RepoUrl": "https://github.com/InitialDet/AutoHook"
@@ -1430,10 +1430,14 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/TargetFurniture/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/TargetFurniture/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/TargetFurniture/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/images/icon.png",
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/images/image1.png"
+        ],
         "InternalName": "TargetFurniture",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1651512553",
+        "LastUpdate": "1651514313",
         "Name": "Target Furniture [Aku API 6]",
         "Punchline": "Adds an option that let you Select/Move an housing item from the Housing Menu",
         "RepoUrl": "https://github.com/InitialDet/TargetFurniture"
