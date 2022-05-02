@@ -33,7 +33,7 @@
         "Changelog": "51a50e1: DalamudApiLevel 5 -> 6\nd8fabbd: Dalamud api 5\n92abc49: Fix missing inheritance of IDalamudPlugin",
         "DalamudApiLevel": 6,
         "Description": "Dalamud Plugin to add a link to teleport to the nearest aetheryte. Teleporter plugin required!\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
-        "DownloadCount": 702,
+        "DownloadCount": 703,
         "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.AetheryteLinkInChat",
         "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.AetheryteLinkInChat",
         "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
@@ -1384,7 +1384,7 @@
         "InternalName": "MinionRoulette",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1651514313",
+        "LastUpdate": "1651514538",
         "Name": "Minion Roulette [Aku API 6]",
         "Punchline": "Swaps your minions everytime you change zones",
         "RepoUrl": "https://github.com/InitialDet/MinionRoulette"
@@ -1410,7 +1410,7 @@
         "InternalName": "AutoHook",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1651514313",
+        "LastUpdate": "1651514538",
         "Name": "Auto Hook [Aku API 6]",
         "Punchline": "Makes fishing less boring",
         "RepoUrl": "https://github.com/InitialDet/AutoHook"
@@ -1430,14 +1430,14 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/TargetFurniture/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/TargetFurniture/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/TargetFurniture/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/images/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/TargetFurniture/images/icon.png",
         "ImageUrls": [
-            "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/images/image1.png"
+            "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/TargetFurniture/images/image1.png"
         ],
         "InternalName": "TargetFurniture",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1651514313",
+        "LastUpdate": "1651514538",
         "Name": "Target Furniture [Aku API 6]",
         "Punchline": "Adds an option that let you Select/Move an housing item from the Housing Menu",
         "RepoUrl": "https://github.com/InitialDet/TargetFurniture"
