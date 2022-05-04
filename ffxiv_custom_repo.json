@@ -2,22 +2,22 @@
     {
         "ApplicableVersion": "any",
         "AssemblyVersion": "0.1.0.45",
-        "Author": "puppet0x90",
+        "Author": "ueberlegen",
         "CategoryTags": [
             "akurosia_repo"
         ],
         "DalamudApiLevel": 6,
         "Description": "https://api.github.com/repos/pynom/ChatBubbles/releases/latest",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/puppet0x90/ChatBubbles/releases/download/Release/ChatBubbles.zip",
-        "DownloadLinkTesting": "https://github.com/puppet0x90/ChatBubbles/releases/download/Release/ChatBubbles.zip",
+        "DownloadLinkInstall": "https://github.com/ueberlegen/ChatBubbles/releases/download/Release/ChatBubbles.zip",
+        "DownloadLinkTesting": "https://github.com/ueberlegen/ChatBubbles/releases/download/Release/ChatBubbles.zip",
         "InternalName": "ChatBubbles_aku",
         "IsHide": false,
         "IsTestingExclusive": false,
         "LastUpdate": 1650135256,
         "LoadPriority": 0,
         "Name": "ChatBubbles_aku",
-        "RepoUrl": "https://github.com/puppet0x90/ChatBubbles",
+        "RepoUrl": "https://github.com/ueberlegen/ChatBubbles",
         "Tags": [
             "akurosia_repo"
         ],
