@@ -33,7 +33,7 @@
         "Changelog": "51a50e1: DalamudApiLevel 5 -> 6\nd8fabbd: Dalamud api 5\n92abc49: Fix missing inheritance of IDalamudPlugin",
         "DalamudApiLevel": 6,
         "Description": "Dalamud Plugin to add a link to teleport to the nearest aetheryte. Teleporter plugin required!\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
-        "DownloadCount": 727,
+        "DownloadCount": 728,
         "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.AetheryteLinkInChat",
         "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.AetheryteLinkInChat",
         "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
@@ -524,7 +524,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "6.0.8158.22021",
+        "AssemblyVersion": "6.0.8159.16967",
         "Author": "attick, daemitus, VariableVixen",
         "DalamudApiLevel": 6,
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.\n (https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json)",
@@ -535,7 +535,7 @@
         "InternalName": "XIVComboVX",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1651580082",
+        "LastUpdated": "1651656373",
         "Name": "XIV Combo Very Expanded [Aku API 6]",
         "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin"
     },
@@ -552,7 +552,7 @@
         "InternalName": "TinyCmds",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1651580082",
+        "LastUpdated": "1651656373",
         "Name": "TinyCommands [Aku API 6]",
         "RepoUrl": "https://github.com/PrincessRTFM/TinyCommands"
     },
