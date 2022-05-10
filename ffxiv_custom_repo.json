@@ -1837,7 +1837,7 @@
         "Changelog": "- [WondrousTailsDutySelector] tweak removed, use ezWondrousTails instead\r\n- bugfixes and other uninteresting developer stuff ",
         "DalamudApiLevel": 6,
         "Description": "\n (https://raw.githubusercontent.com/Haselnussbomber/DalamudPlugins/main/repo.json)",
-        "DownloadCount": 233,
+        "DownloadCount": 254,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.1.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.1.2/latest.zip",
         "InternalName": "HaselTweaks",
