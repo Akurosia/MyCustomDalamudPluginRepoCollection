@@ -1643,6 +1643,22 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.1.0.0",
+        "Author": "ascclemens",
+        "DalamudApiLevel": 6,
+        "Description": "Hide the names of characters on your screen by turning\nthem into random names.\n (https://plugins.annaclemens.io/)",
+        "DownloadLinkInstall": "https://git.sr.ht/~jkcclemens/plugin_repo/blob/main/plugins/NominaOcculta/latest.zip",
+        "DownloadLinkTesting": "https://git.sr.ht/~jkcclemens/plugin_repo/blob/main/plugins/NominaOcculta/latest.zip",
+        "DownloadLinkUpdate": "https://git.sr.ht/~jkcclemens/plugin_repo/blob/main/plugins/NominaOcculta/latest.zip",
+        "InternalName": "NominaOcculta",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": "1652155780",
+        "Name": "Nomina Occulta [Aku API 6]",
+        "Punchline": "Hide character names."
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.2.2",
         "Author": "akira0245",
         "DalamudApiLevel": 6,
