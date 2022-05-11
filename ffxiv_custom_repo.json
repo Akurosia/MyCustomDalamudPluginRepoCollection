@@ -1300,14 +1300,14 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.2.3.0",
+        "AssemblyVersion": "0.2.3.1",
         "Author": "Lichie",
         "DalamudApiLevel": 6,
         "Description": "Customizable status and cooldown tracking.\n (https://raw.githubusercontent.com/lichie567/XIVAuras/main/repo.json)",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/lichie567/XIVAuras/releases/download/0.2.3.0/XIVAuras.zip",
-        "DownloadLinkTesting": "https://github.com/lichie567/XIVAuras/releases/download/0.2.3.0/XIVAuras.zip",
-        "DownloadLinkUpdate": "https://github.com/lichie567/XIVAuras/releases/download/0.2.3.0/XIVAuras.zip",
+        "DownloadLinkInstall": "https://github.com/lichie567/XIVAuras/releases/download/0.2.3.1/XIVAuras.zip",
+        "DownloadLinkTesting": "https://github.com/lichie567/XIVAuras/releases/download/0.2.3.1/XIVAuras.zip",
+        "DownloadLinkUpdate": "https://github.com/lichie567/XIVAuras/releases/download/0.2.3.1/XIVAuras.zip",
         "IconUrl": "https://raw.githubusercontent.com/lichie567/XIVAuras/main/XIVAuras/Media/Images/icon.png",
         "InternalName": "XIVAuras",
         "IsHide": "False",
@@ -1316,7 +1316,7 @@
         "LoadPriority": 69420,
         "Name": "XIVAuras [Aku API 6]",
         "RepoUrl": "https://github.com/lichie567/XIVAuras",
-        "TestingAssemblyVersion": "0.2.3.0"
+        "TestingAssemblyVersion": "0.2.3.1"
     },
     {
         "ApplicableVersion": "any",
