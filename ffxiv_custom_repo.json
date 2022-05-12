@@ -61,7 +61,7 @@
         "Changelog": "70a64f8: feat: Support Patch 6.1\ndabbe6d: feat: Support Dalamud API 5",
         "DalamudApiLevel": 6,
         "Description": "Simple plugin to just add /calc command.\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
-        "DownloadCount": 131,
+        "DownloadCount": 132,
         "DownloadLinkInstall": "https://dl.horoscope.dev/stable/Divination.Calculator",
         "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.Calculator",
         "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
