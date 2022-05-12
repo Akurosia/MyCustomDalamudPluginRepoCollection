@@ -1643,6 +1643,23 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.14.0.0",
+        "Author": "ascclemens",
+        "DalamudApiLevel": 6,
+        "Description": "Chat 2 is a complete rewrite of the in-game chat window as a plugin. It\nsupports:\n\n- Unlimited tabs\n- Tabs that always send to a certain channel\n- More flexible filtering\n- RGB channel colouring\n- Completely variable font size\n- Sidebar tabs\n- Unread counts\n- Screenshot mode (obfuscate names)\n (https://plugins.annaclemens.io/)",
+        "DownloadLinkInstall": "https://git.sr.ht/~jkcclemens/plugin_repo/blob/main/plugins/ChatTwo/latest.zip",
+        "DownloadLinkTesting": "https://git.sr.ht/~jkcclemens/plugin_repo/blob/main/plugins/ChatTwo/latest.zip",
+        "DownloadLinkUpdate": "https://git.sr.ht/~jkcclemens/plugin_repo/blob/main/plugins/ChatTwo/latest.zip",
+        "InternalName": "ChatTwo",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": "1652410598",
+        "Name": "Chat 2 [Aku API 6]",
+        "Punchline": "Electric Boogaloo - ♪ A whole new chat, a new fantastic chat window ♪",
+        "RepoUrl": "https://git.annaclemens.io/ascclemens/ChatTwo"
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.1.0.0",
         "Author": "ascclemens",
         "DalamudApiLevel": 6,
