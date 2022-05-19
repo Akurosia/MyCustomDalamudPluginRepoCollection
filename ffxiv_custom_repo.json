@@ -25,12 +25,12 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.0.42",
+        "AssemblyVersion": "0.1.0.48",
         "Author": "Asteria Nocturna",
         "CategoryTags": [
             "utility"
         ],
-        "Changelog": "51a50e1: DalamudApiLevel 5 -> 6\nd8fabbd: Dalamud api 5\n92abc49: Fix missing inheritance of IDalamudPlugin",
+        "Changelog": "ccae22e: Delete Common\n94cb72e: Update packages.lock.json\nd329d45: Update AetheryteLinkInChatPlugin.cs\nb8b929b: Update Divination.AetheryteLinkInChat.csproj\nf41e162: Delete .gitmodules\nb2d320b: remove Common dependencies\n51a50e1: DalamudApiLevel 5 -> 6\nd8fabbd: Dalamud api 5",
         "DalamudApiLevel": 6,
         "Description": "Dalamud Plugin to add a link to teleport to the nearest aetheryte. Teleporter plugin required!\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
         "DownloadCount": 828,
@@ -49,7 +49,7 @@
         "Tags": [
             "teleporter"
         ],
-        "TestingAssemblyVersion": "0.1.0.42"
+        "TestingAssemblyVersion": "0.1.0.48"
     },
     {
         "ApplicableVersion": "any",
