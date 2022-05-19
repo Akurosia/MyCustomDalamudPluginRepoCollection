@@ -577,10 +577,36 @@
         "InternalName": "ReAction",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1652340398",
+        "LastUpdate": "1652978165",
         "Name": "ReAction [Aku API 6]",
         "Punchline": "QoL for the battle system.",
         "RepoUrl": "https://github.com/UnknownX7/ReAction"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "2.0.0.2",
+        "Author": "UnknownX",
+        "CategoryTags": [
+            "other"
+        ],
+        "Changelog": "",
+        "DalamudApiLevel": 6,
+        "Description": "An interface for browsing and managing third party repositories.\n (https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "InternalName": "DalamudRepoBrowser",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": "1652978165",
+        "Name": "DalamudRepoBrowser [Aku API 6]",
+        "Punchline": "Browse and add third party repositories in an instant",
+        "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser"
     },
     {
         "ApplicableVersion": "any",
@@ -603,85 +629,10 @@
         "InternalName": "Cammy",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1652340398",
+        "LastUpdate": "1652978165",
         "Name": "Cammy [Aku API 6]",
         "Punchline": "A simple editor for the game's camera settings",
         "RepoUrl": "https://github.com/UnknownX7/Cammy"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.0.0",
-        "Author": "UnknownX",
-        "CategoryTags": [
-            "utility"
-        ],
-        "Changelog": "",
-        "DalamudApiLevel": 6,
-        "Description": "Adds additional features to the duty recorder and automatically starts it in most instances. Please make sure the setting is enabled inside \"/record\".\n (https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ARealmRecorded/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ARealmRecorded/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ARealmRecorded/latest.zip",
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "InternalName": "ARealmRecorded",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdate": "1652340398",
-        "Name": "A Realm Recorded [Aku API 6]",
-        "Punchline": "Allows you to use the duty recorder",
-        "RepoUrl": "https://github.com/UnknownX7/ARealmRecorded"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.1.2.6",
-        "Author": "UnknownX",
-        "CategoryTags": [
-            "utility"
-        ],
-        "Changelog": "",
-        "DalamudApiLevel": 6,
-        "Description": "oob oob\n (https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "InternalName": "OOBlugin",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdate": "1652340398",
-        "Name": "OOBlugin [Aku API 6]",
-        "Punchline": "oob oob",
-        "RepoUrl": "https://github.com/UnknownX7/OOBlugin"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.1.2",
-        "Author": "UnknownX",
-        "Changelog": "",
-        "DalamudApiLevel": 6,
-        "Description": "Adds 3 decimal precision waiting to macros and removes the 60 seconds cap.\n (https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "InternalName": "Fractionality",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdate": "1652340398",
-        "Name": "Fractionality [Aku API 6]",
-        "Punchline": "Changes /wait and <wait> to support fractions",
-        "RepoUrl": "https://github.com/UnknownX7/Fractionality"
     },
     {
         "ApplicableVersion": "any",
@@ -705,36 +656,85 @@
         "InternalName": "NoClippy",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1652340398",
+        "LastUpdate": "1652978165",
         "Name": "NoClippy [Aku API 6]",
         "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
         "RepoUrl": "https://github.com/UnknownX7/NoClippy"
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.0.2",
+        "AssemblyVersion": "1.1.2.6",
         "Author": "UnknownX",
         "CategoryTags": [
-            "other"
+            "utility"
         ],
         "Changelog": "",
         "DalamudApiLevel": 6,
-        "Description": "An interface for browsing and managing third party repositories.\n (https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json)",
+        "Description": "oob oob\n (https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json)",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
         "IconUrl": "",
         "ImageUrls": [
             ""
         ],
-        "InternalName": "DalamudRepoBrowser",
+        "InternalName": "OOBlugin",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1652340398",
-        "Name": "DalamudRepoBrowser [Aku API 6]",
-        "Punchline": "Browse and add third party repositories in an instant",
-        "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser"
+        "LastUpdate": "1652978165",
+        "Name": "OOBlugin [Aku API 6]",
+        "Punchline": "oob oob",
+        "RepoUrl": "https://github.com/UnknownX7/OOBlugin"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.2.0.0",
+        "Author": "UnknownX",
+        "CategoryTags": [
+            "utility"
+        ],
+        "Changelog": "",
+        "DalamudApiLevel": 6,
+        "Description": "Adds additional features to the duty recorder and automatically starts it in most instances. Please make sure the setting is enabled inside \"/record\".\n (https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ARealmRecorded/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ARealmRecorded/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ARealmRecorded/latest.zip",
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "InternalName": "ARealmRecorded",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": "1652978165",
+        "Name": "A Realm Recorded [Aku API 6]",
+        "Punchline": "Allows you to use the duty recorder",
+        "RepoUrl": "https://github.com/UnknownX7/ARealmRecorded"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.1.2",
+        "Author": "UnknownX",
+        "Changelog": "",
+        "DalamudApiLevel": 6,
+        "Description": "Adds 3 decimal precision waiting to macros and removes the 60 seconds cap.\n (https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "InternalName": "Fractionality",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": "1652978165",
+        "Name": "Fractionality [Aku API 6]",
+        "Punchline": "Changes /wait and <wait> to support fractions",
+        "RepoUrl": "https://github.com/UnknownX7/Fractionality"
     },
     {
         "ApplicableVersion": "any",
