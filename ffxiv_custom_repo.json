@@ -1904,39 +1904,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.9.5.0",
-        "Author": "PunishedPineapple",
-        "DalamudApiLevel": 6,
-        "Description": "Displays the distance in yalms to the target (or optionally to the target's ring), and can display distance until aggro range for supported bosses.\n (https://raw.githubusercontent.com/PunishedPineapple/DalamudPluginRepo/main/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/Distance/latest.zip",
-        "DownloadLinkTesting": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/Distance/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/Distance/latest.zip",
-        "IconUrl": "https://github.com/PunishedPineapple/Distance/raw/main/docs/Images/icon.png",
-        "ImageUrls": [
-            "https://github.com/PunishedPineapple/Distance/raw/main/docs/Images/image1.png"
-        ],
-        "InternalName": "Distance",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdate": "1650874725",
-        "Name": "Distance [Aku API 6]",
-        "Punchline": "Target distance widgets.",
-        "RepoUrl": "https://github.com/PunishedPineapple/Distance",
-        "Tags": [
-            "Distance",
-            "Range",
-            "Aggro",
-            "Enmity",
-            "Hate",
-            "Pull",
-            "Hitbox",
-            "Ring",
-            "Target"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.2.2",
         "Author": "shdwp, Iaotle",
         "DalamudApiLevel": 6,
