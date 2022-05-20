@@ -577,7 +577,7 @@
         "InternalName": "ReAction",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1653045813",
+        "LastUpdate": "1653079985",
         "Name": "ReAction [Aku API 6]",
         "Punchline": "QoL for the battle system.",
         "RepoUrl": "https://github.com/UnknownX7/ReAction"
@@ -603,7 +603,7 @@
         "InternalName": "DalamudRepoBrowser",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1653045813",
+        "LastUpdate": "1653079985",
         "Name": "DalamudRepoBrowser [Aku API 6]",
         "Punchline": "Browse and add third party repositories in an instant",
         "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser"
@@ -629,7 +629,7 @@
         "InternalName": "Cammy",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1653045813",
+        "LastUpdate": "1653079985",
         "Name": "Cammy [Aku API 6]",
         "Punchline": "A simple editor for the game's camera settings",
         "RepoUrl": "https://github.com/UnknownX7/Cammy"
@@ -656,7 +656,7 @@
         "InternalName": "NoClippy",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1653045813",
+        "LastUpdate": "1653079985",
         "Name": "NoClippy [Aku API 6]",
         "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
         "RepoUrl": "https://github.com/UnknownX7/NoClippy"
@@ -682,14 +682,14 @@
         "InternalName": "OOBlugin",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1653045813",
+        "LastUpdate": "1653079985",
         "Name": "OOBlugin [Aku API 6]",
         "Punchline": "oob oob",
         "RepoUrl": "https://github.com/UnknownX7/OOBlugin"
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.3.1.0",
+        "AssemblyVersion": "0.4.0.0",
         "Author": "UnknownX",
         "CategoryTags": [
             "utility"
@@ -708,7 +708,7 @@
         "InternalName": "ARealmRecorded",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1653045813",
+        "LastUpdate": "1653079985",
         "Name": "A Realm Recorded [Aku API 6]",
         "Punchline": "Allows you to use the duty recorder",
         "RepoUrl": "https://github.com/UnknownX7/ARealmRecorded"
@@ -731,7 +731,7 @@
         "InternalName": "Fractionality",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1653045813",
+        "LastUpdate": "1653079985",
         "Name": "Fractionality [Aku API 6]",
         "Punchline": "Changes /wait and <wait> to support fractions",
         "RepoUrl": "https://github.com/UnknownX7/Fractionality"
@@ -1893,7 +1893,7 @@
         "InternalName": "CIDNamer",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1650874725",
+        "LastUpdate": "1653079200",
         "Name": "CIDNamer [Aku API 6]",
         "Punchline": "Content ID -> Character Name Mapping",
         "RepoUrl": "https://github.com/PunishedPineapple/CIDNamer",
