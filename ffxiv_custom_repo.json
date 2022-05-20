@@ -33,7 +33,7 @@
         "Changelog": "ccae22e: Delete Common\n94cb72e: Update packages.lock.json\nd329d45: Update AetheryteLinkInChatPlugin.cs\nb8b929b: Update Divination.AetheryteLinkInChat.csproj\nf41e162: Delete .gitmodules\nb2d320b: remove Common dependencies\n51a50e1: DalamudApiLevel 5 -> 6\nd8fabbd: Dalamud api 5",
         "DalamudApiLevel": 6,
         "Description": "Dalamud Plugin to add a link to teleport to the nearest aetheryte. Teleporter plugin required!\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
-        "DownloadCount": 851,
+        "DownloadCount": 857,
         "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.AetheryteLinkInChat",
         "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.AetheryteLinkInChat",
         "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
@@ -157,7 +157,7 @@
         "Changelog": null,
         "DalamudApiLevel": 6,
         "Description": "show instance id in chat when instance changed\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
-        "DownloadCount": 200,
+        "DownloadCount": 201,
         "DownloadLinkInstall": "https://dl.horoscope.dev/stable/Divination.InstanceIDViewer",
         "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.InstanceIDViewer",
         "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
@@ -577,7 +577,7 @@
         "InternalName": "ReAction",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1652978165",
+        "LastUpdate": "1653006445",
         "Name": "ReAction [Aku API 6]",
         "Punchline": "QoL for the battle system.",
         "RepoUrl": "https://github.com/UnknownX7/ReAction"
@@ -603,7 +603,7 @@
         "InternalName": "DalamudRepoBrowser",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1652978165",
+        "LastUpdate": "1653006445",
         "Name": "DalamudRepoBrowser [Aku API 6]",
         "Punchline": "Browse and add third party repositories in an instant",
         "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser"
@@ -629,7 +629,7 @@
         "InternalName": "Cammy",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1652978165",
+        "LastUpdate": "1653006445",
         "Name": "Cammy [Aku API 6]",
         "Punchline": "A simple editor for the game's camera settings",
         "RepoUrl": "https://github.com/UnknownX7/Cammy"
@@ -656,7 +656,7 @@
         "InternalName": "NoClippy",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1652978165",
+        "LastUpdate": "1653006445",
         "Name": "NoClippy [Aku API 6]",
         "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
         "RepoUrl": "https://github.com/UnknownX7/NoClippy"
@@ -682,14 +682,14 @@
         "InternalName": "OOBlugin",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1652978165",
+        "LastUpdate": "1653006445",
         "Name": "OOBlugin [Aku API 6]",
         "Punchline": "oob oob",
         "RepoUrl": "https://github.com/UnknownX7/OOBlugin"
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.2.0.0",
+        "AssemblyVersion": "0.3.0.0",
         "Author": "UnknownX",
         "CategoryTags": [
             "utility"
@@ -708,7 +708,7 @@
         "InternalName": "ARealmRecorded",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1652978165",
+        "LastUpdate": "1653006445",
         "Name": "A Realm Recorded [Aku API 6]",
         "Punchline": "Allows you to use the duty recorder",
         "RepoUrl": "https://github.com/UnknownX7/ARealmRecorded"
@@ -731,7 +731,7 @@
         "InternalName": "Fractionality",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1652978165",
+        "LastUpdate": "1653006445",
         "Name": "Fractionality [Aku API 6]",
         "Punchline": "Changes /wait and <wait> to support fractions",
         "RepoUrl": "https://github.com/UnknownX7/Fractionality"
