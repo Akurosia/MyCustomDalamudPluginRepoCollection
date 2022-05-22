@@ -689,32 +689,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.4.0.0",
-        "Author": "UnknownX",
-        "CategoryTags": [
-            "utility"
-        ],
-        "Changelog": "",
-        "DalamudApiLevel": 6,
-        "Description": "Adds additional features to the duty recorder and automatically starts it in most instances. Please make sure the setting is enabled inside \"/record\".\n (https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ARealmRecorded/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ARealmRecorded/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ARealmRecorded/latest.zip",
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "InternalName": "ARealmRecorded",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdate": "1653079985",
-        "Name": "A Realm Recorded [Aku API 6]",
-        "Punchline": "Allows you to use the duty recorder",
-        "RepoUrl": "https://github.com/UnknownX7/ARealmRecorded"
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.1.2",
         "Author": "UnknownX",
         "Changelog": "",
