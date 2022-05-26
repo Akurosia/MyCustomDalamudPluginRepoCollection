@@ -1870,7 +1870,7 @@
         "Changelog": "- [KeepInstantPortrait] hotfix for copy pasta mistake that crashes the game",
         "DalamudApiLevel": 6,
         "Description": "\n (https://raw.githubusercontent.com/Haselnussbomber/DalamudPlugins/main/repo.json)",
-        "DownloadCount": 384,
+        "DownloadCount": 389,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.2/latest.zip",
         "InternalName": "HaselTweaks",
