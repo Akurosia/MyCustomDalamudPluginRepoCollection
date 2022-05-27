@@ -524,7 +524,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.8182.2080",
+        "AssemblyVersion": "1.1.8182.20228",
         "Author": "VariableVixen",
         "DalamudApiLevel": 6,
         "Description": "If you have a hard time telling whether you're in the right spot for positional attacks, this plugin can draw guidelines on your screen to help you tell where you need to be.\n (https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json)",
@@ -535,7 +535,7 @@
         "InternalName": "PositionalGuide",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1653613797",
+        "LastUpdated": "1653650094",
         "Name": "Positional Assistant [Aku API 6]",
         "RepoUrl": "https://github.com/PrincessRTFM/PositionalAssistant"
     },
@@ -552,7 +552,7 @@
         "InternalName": "TinyCmds",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1653613797",
+        "LastUpdated": "1653650094",
         "Name": "TinyCommands [Aku API 6]",
         "RepoUrl": "https://github.com/PrincessRTFM/TinyCommands"
     },
@@ -569,7 +569,7 @@
         "InternalName": "XIVComboVX",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1653613797",
+        "LastUpdated": "1653650094",
         "Name": "XIV Combo Very Expanded [Aku API 6]",
         "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin"
     },
