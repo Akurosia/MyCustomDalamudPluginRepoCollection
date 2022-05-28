@@ -1404,7 +1404,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.0.41",
+        "AssemblyVersion": "0.0.0.42",
         "Author": "veyn",
         "DalamudApiLevel": 6,
         "Description": "A bunch of utilities to simplify bosses. ***very early alpha, use at your own risk***\n (https://raw.githubusercontent.com/awgil/ffxiv_plugin_distribution/master/pluginmaster.json)",
@@ -1414,7 +1414,7 @@
         "InternalName": "BossMod",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": "1653506045",
+        "LastUpdate": "1653734957",
         "LoadPriority": 0,
         "Name": "Boss Mod [Aku API 6]",
         "Punchline": "Don't fail at raid mechanics anymore",
