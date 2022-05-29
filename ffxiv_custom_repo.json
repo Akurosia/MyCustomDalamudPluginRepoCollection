@@ -385,10 +385,10 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.1.0.1",
+        "AssemblyVersion": "2.1.0.0",
         "Author": "Eternita",
         "DalamudApiLevel": 6,
-        "Description": "\n (https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json)",
+        "Description": "\n (https://raw.githubusercontent.com/ChunCorp/Dalamud-Plugins/main/pluginmaster.json)",
         "DownloadCount": 0,
         "DownloadLinkInstall": "https://github.com/Eternita-S/MyDalamudPlugins/raw/main/AntiAfkKick/latest.zip",
         "DownloadLinkTesting": "https://github.com/Eternita-S/MyDalamudPlugins/raw/main/AntiAfkKick/latest.zip",
@@ -729,10 +729,10 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.2.1.3",
+        "AssemblyVersion": "1.2.1.1",
         "Author": "daemitus",
         "DalamudApiLevel": 6,
-        "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).\n (https://github.com/daemitus/MyDalamudPlugins/raw/master/pluginmaster.json)",
+        "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).\n (https://raw.githubusercontent.com/ChunCorp/Dalamud-Plugins/main/pluginmaster.json)",
         "DownloadCount": 0,
         "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
@@ -742,7 +742,7 @@
         "InternalName": "YesAlready",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1652746242",
+        "LastUpdate": "1650027588",
         "LoadPriority": 1,
         "Name": "Yes Already [Aku API 6]",
         "Punchline": "Clicks Yes in various dialogs you've specified.",
@@ -2061,29 +2061,24 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.2.3",
+        "AssemblyVersion": "1.0.1.1",
         "Author": "Det",
-        "CategoryTags": [
-            "Gathering"
-        ],
-        "Changelog": "Plugin completly rewritten, it now includes individual mooch/bait configuration and more.",
         "DalamudApiLevel": 6,
-        "Description": "It hooks the fish for you, can you believe it?\n (https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/AutoHook/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/AutoHook/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/AutoHook/latest.zip",
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
+        "Description": "Hooks for you\n (https://raw.githubusercontent.com/ChunCorp/Dalamud-Plugins/main/pluginmaster.json)",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/master/AutoHook/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/master/AutoHook/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/master/AutoHook/latest.zip",
         "InternalName": "AutoHook",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1653523876",
+        "LastUpdated": "1649962171",
+        "LoadPriority": 0,
         "Name": "Auto Hook [Aku API 6]",
-        "Punchline": "Makes fishing less (or more) boring",
-        "RepoUrl": "https://github.com/InitialDet/AutoHook"
+        "Punchline": "Auto Hook",
+        "RepoUrl": "https://github.com/InitialDet/AutoHook",
+        "Tags": [
+            "fishing"
+        ]
     },
     {
         "ApplicableVersion": "any",
