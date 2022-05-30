@@ -28,7 +28,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.14.1.0",
+        "AssemblyVersion": "1.15.0.0",
         "Author": "ascclemens",
         "DalamudApiLevel": 6,
         "Description": "Chat 2 is a complete rewrite of the in-game chat window as a plugin. It\nsupports:\n\n- Unlimited tabs\n- Tabs that always send to a certain channel\n- More flexible filtering\n- RGB channel colouring\n- Completely variable font size\n- Sidebar tabs\n- Unread counts\n- Screenshot mode (obfuscate names)\n (https://plugins.annaclemens.io/)",
@@ -38,7 +38,7 @@
         "InternalName": "ChatTwo",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1652462522",
+        "LastUpdate": "1653900996",
         "Name": "Chat 2 [Aku API 6]",
         "Punchline": "Electric Boogaloo - ♪ A whole new chat, a new fantastic chat window ♪",
         "RepoUrl": "https://git.annaclemens.io/ascclemens/ChatTwo"
@@ -1573,7 +1573,7 @@
         "Changelog": "82544f1: DalamudApiLevel 5 -> 6\n16e8666: feat: Support Patch 6.1\n7a84d1e: feat: Support Patch 6.0x\n189acf0: Logging on receiving payloads\n7e2ebc3: Export constants\nf1007d2: Re-support IPC features",
         "DalamudApiLevel": 6,
         "Description": "Dalamud Plugin to support Rich Presence for FFXIV.\n (https://repo.horoscope.dev/dist/pluginmaster.json)",
-        "DownloadCount": 183,
+        "DownloadCount": 184,
         "DownloadLinkInstall": "https://dl.horoscope.dev/stable/Divination.DiscordIntegration",
         "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.DiscordIntegration",
         "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
