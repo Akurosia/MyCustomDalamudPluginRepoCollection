@@ -1775,7 +1775,7 @@
         "Changelog": "9808e0c: feat: Support Patch 6.1\n08b6aaf: feat: Support Dalamud API 6",
         "DalamudApiLevel": 6,
         "Description": "Add /voiceroid2 command into FFXIV. Require SimpleVoiceroid2Proxy (https://github.com/SlashNephy/SimpleVoiceroid2Proxy).\n (https://repo.horoscope.dev/dist/pluginmaster.json)",
-        "DownloadCount": 61,
+        "DownloadCount": 62,
         "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.Voiceroid2Talker",
         "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.Voiceroid2Talker",
         "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
@@ -2303,6 +2303,28 @@
             "money",
             "plugin",
             "tracker"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.4.0.0",
+        "Author": "zhudotexe",
+        "DalamudApiLevel": 6,
+        "Description": "Looking for that perfect house? PaissaHouse lets you receive notifications when a new plot of land is up for sale on your home world.\nView the list of all houses available on a world at https://paissadb.zhu.codes/!\n\nWant to contribute? Check out the repository (globe icon below) for instructions.\n (https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/manifest.json)",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_PaissaHouse/autoSweep.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_PaissaHouse/autoSweep.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_PaissaHouse/autoSweep.zip",
+        "IconUrl": "https://raw.githubusercontent.com/zhudotexe/FFXIV_PaissaHouse/main/images/icon.png",
+        "InternalName": "autoSweep",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": 1653952784,
+        "LoadPriority": 0,
+        "Name": "PaissaHouse [Aku API 6]",
+        "Punchline": "Crowdsourced housing alerts and lottery tracking for all.",
+        "RepoUrl": "https://github.com/zhudotexe/FFXIV_PaissaHouse",
+        "Tags": [
+            "housing"
         ]
     },
     {
