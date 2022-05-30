@@ -1572,7 +1572,7 @@
         "Changelog": "ccae22e: Delete Common\n94cb72e: Update packages.lock.json\nd329d45: Update AetheryteLinkInChatPlugin.cs\nb8b929b: Update Divination.AetheryteLinkInChat.csproj\nf41e162: Delete .gitmodules\nb2d320b: remove Common dependencies\n51a50e1: DalamudApiLevel 5 -> 6\nd8fabbd: Dalamud api 5",
         "DalamudApiLevel": 6,
         "Description": "Dalamud Plugin to add a link to teleport to the nearest aetheryte. Teleporter plugin required!\n (https://repo.horoscope.dev/dist/pluginmaster.json)",
-        "DownloadCount": 953,
+        "DownloadCount": 955,
         "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.AetheryteLinkInChat",
         "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.AetheryteLinkInChat",
         "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
