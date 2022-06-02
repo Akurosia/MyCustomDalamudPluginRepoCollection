@@ -509,10 +509,10 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.0.5",
+        "AssemblyVersion": "2.0.0.8",
         "Author": "Eternita",
         "DalamudApiLevel": 6,
-        "Description": "\n (https://raw.githubusercontent.com/TCrazylion/MyDalamudPlugins/main/myrepo.json)",
+        "Description": "\n (https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json)",
         "DownloadCount": 0,
         "DownloadLinkInstall": "https://github.com/Eternita-S/MyDalamudPlugins/raw/main/EnmityHp/latest.zip",
         "DownloadLinkTesting": "https://github.com/Eternita-S/MyDalamudPlugins/raw/main/EnmityHp/latest.zip",
@@ -523,7 +523,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "LastUpdated": "0",
-        "Name": "EnmityHp [Aku API 6]",
+        "Name": "EnemyListHP [Aku API 6]",
         "Punchline": "Displays enemies hp in enemy list",
         "RepoUrl": "https://github.com/Eternita-S/EnmityHp"
     },
@@ -1232,6 +1232,26 @@
         "Name": "Fractionality [Aku API 6]",
         "Punchline": "Changes /wait and <wait> to support fractions",
         "RepoUrl": "https://github.com/UnknownX7/Fractionality"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "2.0.0.5",
+        "Author": "Eternita",
+        "DalamudApiLevel": 6,
+        "Description": "\n (https://raw.githubusercontent.com/TCrazylion/MyDalamudPlugins/main/myrepo.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/Eternita-S/MyDalamudPlugins/raw/main/EnmityHp/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Eternita-S/MyDalamudPlugins/raw/main/EnmityHp/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Eternita-S/MyDalamudPlugins/raw/main/EnmityHp/latest.zip",
+        "IconUrl": "",
+        "ImageUrls": [],
+        "InternalName": "EnmityHp",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "0",
+        "Name": "EnmityHp [Aku API 6]",
+        "Punchline": "Displays enemies hp in enemy list",
+        "RepoUrl": "https://github.com/Eternita-S/EnmityHp"
     },
     {
         "ApplicableVersion": "any",
