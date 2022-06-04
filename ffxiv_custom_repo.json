@@ -881,7 +881,7 @@
         "AssemblyVersion": "2.3.0.2",
         "Author": "llock",
         "DalamudApiLevel": 6,
-        "Description": "Use /jailmarker to set up priority list\n (https://raw.githubusercontent.com/dynamez/AutoJailMarker/master/AutoJailMarker/repo.json)",
+        "Description": "Use /jailmarker to set up priority list\n (https://raw.githubusercontent.com/dynamez/AutoJailMarker/master/repo.json)",
         "DownloadCount": 0,
         "DownloadLinkInstall": "https://github.com/dynamez/AutoJailMarker/releases/download/2.3.0.2/latest.zip",
         "DownloadLinkTesting": "https://github.com/dynamez/AutoJailMarker/releases/download/2.3.0.2/latest.zip",
