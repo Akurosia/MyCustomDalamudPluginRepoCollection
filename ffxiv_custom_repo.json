@@ -383,12 +383,12 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.2.3",
+        "AssemblyVersion": "2.1.0.0",
         "Author": "Det",
         "CategoryTags": [
             "Gathering"
         ],
-        "Changelog": "Plugin completly rewritten, it now includes individual mooch/bait configuration and more.",
+        "Changelog": "Added Auto Cast/Mooch and selectable Patience Hooksets.",
         "DalamudApiLevel": 6,
         "Description": "It hooks the fish for you, can you believe it?\n (https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/pluginmaster.json)",
         "DownloadCount": 0,
@@ -402,7 +402,7 @@
         "InternalName": "AutoHook",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1653523876",
+        "LastUpdate": "1654552023",
         "Name": "Auto Hook [Aku API 6]",
         "Punchline": "Makes fishing less (or more) boring",
         "RepoUrl": "https://github.com/InitialDet/AutoHook"
@@ -768,7 +768,7 @@
         "InternalName": "TargetFurniture",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1653523876",
+        "LastUpdate": "1654552023",
         "Name": "Target Furniture [Aku API 6]",
         "Punchline": "Adds an option that lets you Select/Move a housing item from the Housing Menu",
         "RepoUrl": "https://github.com/InitialDet/TargetFurniture"
@@ -791,7 +791,7 @@
         "InternalName": "MinionRoulette",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1653523876",
+        "LastUpdate": "1654552023",
         "Name": "Minion Roulette [Aku API 6]",
         "Punchline": "Swaps your minions everytime you change zones",
         "RepoUrl": "https://github.com/InitialDet/MinionRoulette"
