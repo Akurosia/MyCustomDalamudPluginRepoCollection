@@ -990,13 +990,13 @@
         "InternalName": "PositionalGuide",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1654467765",
+        "LastUpdated": "1654487297",
         "Name": "Positional Assistant [Aku API 6]",
         "RepoUrl": "https://github.com/PrincessRTFM/PositionalAssistant"
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "4.4.8143.40621",
+        "AssemblyVersion": "4.4.8192.6831",
         "Author": "VariableVixen",
         "DalamudApiLevel": 6,
         "Description": "Adds tiny and simple but useful chat commands, and nothing more. It doesn't even have a UI.\n (https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json)",
@@ -1007,7 +1007,7 @@
         "InternalName": "TinyCmds",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1654467765",
+        "LastUpdated": "1654487297",
         "Name": "TinyCommands [Aku API 6]",
         "RepoUrl": "https://github.com/PrincessRTFM/TinyCommands"
     },
@@ -1024,7 +1024,7 @@
         "InternalName": "XIVComboVX",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1654467765",
+        "LastUpdated": "1654487297",
         "Name": "XIV Combo Very Expanded [Aku API 6]",
         "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin"
     },
@@ -1691,7 +1691,7 @@
         "Changelog": "82544f1: DalamudApiLevel 5 -> 6\n16e8666: feat: Support Patch 6.1\n7a84d1e: feat: Support Patch 6.0x\n189acf0: Logging on receiving payloads\n7e2ebc3: Export constants\nf1007d2: Re-support IPC features",
         "DalamudApiLevel": 6,
         "Description": "Dalamud Plugin to support Rich Presence for FFXIV.\n (https://repo.horoscope.dev/dist/pluginmaster.json)",
-        "DownloadCount": 200,
+        "DownloadCount": 201,
         "DownloadLinkInstall": "https://dl.horoscope.dev/stable/Divination.DiscordIntegration",
         "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.DiscordIntegration",
         "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
