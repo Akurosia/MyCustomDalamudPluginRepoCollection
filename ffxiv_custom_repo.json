@@ -383,7 +383,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.1.0.0",
+        "AssemblyVersion": "2.1.0.1",
         "Author": "Det",
         "CategoryTags": [
             "Gathering"
@@ -402,7 +402,7 @@
         "InternalName": "AutoHook",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1654552023",
+        "LastUpdate": "1654553637",
         "Name": "Auto Hook [Aku API 6]",
         "Punchline": "Makes fishing less (or more) boring",
         "RepoUrl": "https://github.com/InitialDet/AutoHook"
@@ -768,7 +768,7 @@
         "InternalName": "TargetFurniture",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1654552023",
+        "LastUpdate": "1654553637",
         "Name": "Target Furniture [Aku API 6]",
         "Punchline": "Adds an option that lets you Select/Move a housing item from the Housing Menu",
         "RepoUrl": "https://github.com/InitialDet/TargetFurniture"
@@ -791,7 +791,7 @@
         "InternalName": "MinionRoulette",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1654552023",
+        "LastUpdate": "1654553637",
         "Name": "Minion Roulette [Aku API 6]",
         "Punchline": "Swaps your minions everytime you change zones",
         "RepoUrl": "https://github.com/InitialDet/MinionRoulette"
