@@ -898,7 +898,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.3.1.0",
+        "AssemblyVersion": "3.0.1.0",
         "Author": "llock",
         "DalamudApiLevel": 6,
         "Description": "Use /jailmarker to set up priority list\n (https://raw.githubusercontent.com/LockonS483/AutoJailMarker/master/AutoJailMarker/repo.json)",
