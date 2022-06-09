@@ -1353,9 +1353,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.0.14",
+        "AssemblyVersion": "0.0.1.0",
         "Author": "aiczk",
-        "Changelog": "Implemented the ability to stop automatic playback/redrawing until the abilities set in config are executed.",
+        "Changelog": "Added the ability to deal cards to optimal party members simply by executing a play.\nAdded more toggles to options to enable/disable auto play/redraw.\nSuperLargeEggplant, <3, thanks for the support!",
         "DalamudApiLevel": 6,
         "Description": "Simplify the astrologian's operation.\n (https://raw.githubusercontent.com/aiczk/Astro/main/Astro/Astro.json)",
         "DownloadLinkInstall": "https://github.com/aiczk/Astro/raw/main/Resource/latest.zip",
