@@ -1951,7 +1951,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.0.0",
+        "AssemblyVersion": "2.0.0.1",
         "Author": "akira0245, modified by Ori",
         "DalamudApiLevel": 6,
         "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\n (https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/pluginmaster.json)",
@@ -1963,7 +1963,7 @@
         "InternalName": "MidiBard",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": "1653929068",
+        "LastUpdate": "1654805405",
         "LoadPriority": 0,
         "Name": "MidiBard [Aku API 6]",
         "Punchline": "Bard performance using midi files or keyboard.",
