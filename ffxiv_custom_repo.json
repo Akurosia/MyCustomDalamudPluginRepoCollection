@@ -1963,7 +1963,7 @@
         "InternalName": "MidiBard",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": "1654805405",
+        "LastUpdate": "1654818861",
         "LoadPriority": 0,
         "Name": "MidiBard [Aku API 6]",
         "Punchline": "Bard performance using midi files or keyboard.",
