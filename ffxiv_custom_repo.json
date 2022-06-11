@@ -1354,9 +1354,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.1.3",
+        "AssemblyVersion": "0.0.1.4",
         "Author": "aiczk",
-        "Changelog": "Fixed a bug that caused the option to stop autoplay/redraw when Divination was executable to behave erratically.\nThanks to SuperLargeEggplant, <3 and all who use Astro for their support.",
+        "Changelog": "Fixed the cause of the crash and changed the threshold for executing abilities to 1.3s.",
         "DalamudApiLevel": 6,
         "Description": "Simplify the astrologian's operation.\n (https://raw.githubusercontent.com/aiczk/Astro/main/Astro/Astro.json)",
         "DownloadLinkInstall": "https://github.com/aiczk/Astro/raw/main/Resource/latest.zip",
