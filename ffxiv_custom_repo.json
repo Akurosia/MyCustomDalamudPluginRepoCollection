@@ -749,33 +749,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.1.2",
-        "Author": "Det",
-        "CategoryTags": [
-            "Casual",
-            "Housing"
-        ],
-        "Changelog": "Added a new option that makes the furniture follow the point of your cursor",
-        "DalamudApiLevel": 6,
-        "Description": "Currently, the only possible way to select a housing item is to click it manually with your mouse over it, and that can be a problem if you have multiple items close to each other.\nThis plugin adds a new option when right-clicking an item from the Housing Menu that targets the item for you, saving you a lot of trouble.\n (https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/TargetFurniture/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/TargetFurniture/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/TargetFurniture/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/TargetFurniture/images/icon.png",
-        "ImageUrls": [
-            "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/TargetFurniture/images/image1.png"
-        ],
-        "InternalName": "TargetFurniture",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdate": "1654996345",
-        "Name": "Target Furniture [Aku API 6]",
-        "Punchline": "Adds an option that lets you Select/Move a housing item from the Housing Menu",
-        "RepoUrl": "https://github.com/InitialDet/TargetFurniture"
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.1.1.1",
         "Author": "Det",
         "CategoryTags": [
