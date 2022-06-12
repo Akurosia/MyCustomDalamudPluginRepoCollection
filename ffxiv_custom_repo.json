@@ -761,7 +761,7 @@
         "IsTestingExclusive": false,
         "LastUpdated": "0",
         "Name": "UnloadErrorFuckOff [Aku API 6]",
-        "Punchline": "A plugin to CLEAN THE FUCKING ANNOYING UNLOAD FAILED ERRORS, allowing you to reload plugin without restarting the game. EXTREMELY useful for developers.",
+        "Punchline": "== This plugin is only useful for plugin developers. It will do absolutely nothing for regular user. ==\nA plugin to clean unload errors, allowing you to reload plugin without restarting the game. ",
         "RepoUrl": "https://github.com/Eternita-S/UnloadErrorFuckOff"
     },
     {
