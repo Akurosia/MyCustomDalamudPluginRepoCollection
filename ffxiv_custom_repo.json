@@ -1944,7 +1944,7 @@
         "InternalName": "MacroChain-Ori",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": "1650253676",
+        "LastUpdate": "1654883956",
         "LoadPriority": 0,
         "Name": "Macro Chain-Ori [Aku API 6]",
         "Punchline": "Run multiple macros one after the other.",
@@ -1952,7 +1952,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.0.1",
+        "AssemblyVersion": "2.0.0.2",
         "Author": "akira0245, modified by Ori",
         "DalamudApiLevel": 6,
         "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\n (https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/pluginmaster.json)",
