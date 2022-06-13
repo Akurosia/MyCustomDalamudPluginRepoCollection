@@ -660,29 +660,25 @@
         "ApplicableVersion": "any",
         "AssemblyVersion": "2.1.2.1",
         "Author": "Det",
-        "CategoryTags": [
-            "Gathering",
-            "Fishing"
-        ],
         "Changelog": "Added Chum and Fish Eyes for Auto Casts, New icon By Vec7rex",
         "DalamudApiLevel": 6,
         "Description": "It hooks the fish for you, can you believe it?\n (https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/pluginmaster.json)",
-        "DownloadCount": 262,
+        "DownloadCount": 278,
         "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.1.2.1/latest.zip",
         "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.1.2.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.1.2.1/latest.zip",
         "IconUrl": "https://raw.githubusercontent.com/InitialDet/AutoHook/main/AutoHook/images/icon.png",
-        "ImageUrls": [
-            ""
-        ],
         "InternalName": "AutoHook",
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1655027789,
-        "LoadPriority": 0,
         "Name": "Auto Hook [Aku API 6]",
         "Punchline": "Makes fishing less (or more) boring",
-        "RepoUrl": "https://github.com/InitialDet/AutoHook"
+        "RepoUrl": "https://github.com/InitialDet/AutoHook",
+        "Tags": [
+            "Gathering",
+            "Fishing"
+        ]
     },
     {
         "ApplicableVersion": "any",
@@ -934,7 +930,7 @@
         "Changelog": "Added a toggle to enable/disable the plugin. Now Minions wont be resummoned if dismissed. New icon by Vec7rex",
         "DalamudApiLevel": 6,
         "Description": "Make sure to enable the checkbox in the Minion Guide if you want only your favorite minions to be swapped\n (https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/pluginmaster.json)",
-        "DownloadCount": 34,
+        "DownloadCount": 36,
         "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.1.1/latest.zip",
         "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.1.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.1.1/latest.zip",
