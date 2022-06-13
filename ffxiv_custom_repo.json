@@ -1376,9 +1376,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.1.5",
+        "AssemblyVersion": "0.0.1.6",
         "Author": "aiczk",
-        "Changelog": "It is now possible to deal three cards at once during a burst.\nWhen the \"Deal three cards at burst\" option is enabled, Auto play will not work except when the card charge count reaches 2 or while executing Divination.\nThe option \"If Divination is executable, stop auto play/redraw\" has been removed.",
+        "Changelog": "Corrected a mistake in the implementation of Floor and Round.\nIt is now possible to deal three cards at once during a burst.\nWhen the \"Deal three cards at burst\" option is enabled, Auto play will not work except when the card charge count reaches 2 or while executing Divination.\nThe option \"If Divination is executable, stop auto play/redraw\" has been removed.",
         "DalamudApiLevel": 6,
         "Description": "Simplify the astrologian's operation.\n (https://raw.githubusercontent.com/aiczk/Astro/main/Astro/Astro.json)",
         "DownloadLinkInstall": "https://github.com/aiczk/Astro/raw/main/Resource/latest.zip",
