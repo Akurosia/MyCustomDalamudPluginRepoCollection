@@ -177,7 +177,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.2",
+        "AssemblyVersion": "0.1.3",
         "Author": "Ajisai Mirai",
         "DalamudApiLevel": 6,
         "Description": "Misc stuff I made.\n (https://raw.githubusercontent.com/AjisaiMirai/plugins/main/repo.json)",
