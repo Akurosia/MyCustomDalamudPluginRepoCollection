@@ -1397,9 +1397,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.1.7",
+        "AssemblyVersion": "0.0.1.8",
         "Author": "aiczk",
-        "Changelog": "The order of priority in which cards are dealt can now be specified.",
+        "Changelog": "Correction of typos.\nThe order of priority in which cards are dealt can now be specified.",
         "DalamudApiLevel": 6,
         "Description": "Simplify the astrologian's operation.\n (https://raw.githubusercontent.com/aiczk/Astro/main/Astro/Astro.json)",
         "DownloadLinkInstall": "https://github.com/aiczk/Astro/raw/main/Resource/latest.zip",
