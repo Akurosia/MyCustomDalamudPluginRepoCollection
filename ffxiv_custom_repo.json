@@ -663,7 +663,7 @@
         "Changelog": "Added Chum and Fish Eyes for Auto Casts, New icon By Vec7rex",
         "DalamudApiLevel": 6,
         "Description": "It hooks the fish for you, can you believe it?\n (https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/pluginmaster.json)",
-        "DownloadCount": 398,
+        "DownloadCount": 405,
         "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.1.2.1/latest.zip",
         "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.1.2.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.1.2.1/latest.zip",
@@ -929,7 +929,7 @@
         "Changelog": "Added a toggle to enable/disable the plugin. Now Minions wont be resummoned if dismissed. New icon by Vec7rex",
         "DalamudApiLevel": 6,
         "Description": "Make sure to enable the checkbox in the Minion Guide if you want only your favorite minions to be swapped\n (https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/pluginmaster.json)",
-        "DownloadCount": 57,
+        "DownloadCount": 58,
         "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.1.1/latest.zip",
         "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.1.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.1.1/latest.zip",
@@ -948,28 +948,6 @@
         "Tags": [
             "Casual",
             "Minion"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "0.5.0.5",
-        "Author": "Det",
-        "DalamudApiLevel": 6,
-        "Description": "Penumbra but without debug logs, made by Adam\n (https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/pluginmaster.json)",
-        "DownloadCount": 184,
-        "DownloadLinkInstall": "https://github.com/InitialDet/LoglessPenumbra/releases/download/0.5.0.5/latest.zip",
-        "DownloadLinkTesting": "https://github.com/InitialDet/LoglessPenumbra/releases/download/0.5.0.5/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/InitialDet/LoglessPenumbra/releases/download/0.5.0.5/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/InitialDet/LoglessPenumbra/master/images/icon.png",
-        "InternalName": "Penumbra",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LastUpdated": 1655244290,
-        "LoadPriority": 69420,
-        "Name": "LoglessPenumbra [Aku API 6]",
-        "RepoUrl": "https://github.com/InitialDet/LoglessPenumbra",
-        "Tags": [
-            "modding"
         ]
     },
     {
