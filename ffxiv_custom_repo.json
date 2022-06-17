@@ -157,7 +157,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.6",
+        "AssemblyVersion": "0.0.7",
         "Author": "Ajisai Mirai",
         "DalamudApiLevel": 6,
         "Description": "Ever AFK and curious if people emoted at you? No longer.\n (https://raw.githubusercontent.com/AjisaiMirai/plugins/main/repo.json)",
