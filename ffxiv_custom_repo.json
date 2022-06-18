@@ -1437,7 +1437,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.0.51",
+        "AssemblyVersion": "0.0.0.52",
         "Author": "veyn",
         "DalamudApiLevel": 6,
         "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content. ***very early alpha, use at your own risk***\n (https://raw.githubusercontent.com/awgil/ffxiv_plugin_distribution/master/pluginmaster.json)",
@@ -1448,13 +1448,12 @@
         "ImageUrls": [
             "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image1.png",
             "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image2.png",
-            "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image3.png",
-            "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image4.png"
+            "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image3.png"
         ],
         "InternalName": "BossMod",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": "1655538437",
+        "LastUpdate": "1655563173",
         "LoadPriority": 0,
         "Name": "Boss Mod [Aku API 6]",
         "Punchline": "Don't fail at raid mechanics anymore",
