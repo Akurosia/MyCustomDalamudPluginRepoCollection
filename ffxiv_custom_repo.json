@@ -2170,9 +2170,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.1.1",
+        "AssemblyVersion": "1.0.1.2",
         "Author": "xPumaa",
-        "Changelog": "Updated to Dalamud API6",
+        "Changelog": "Removed unnecessary logging",
         "DalamudApiLevel": 6,
         "Description": "Announces the name of the loading duty roulette\n (https://raw.githubusercontent.com/xPumaa/DalamudPlugins/api5/pluginmaster.json)",
         "DownloadCount": 0,
@@ -2182,7 +2182,7 @@
         "InternalName": "DutyAnnouncer",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": "1650014524",
+        "LastUpdate": "1655634365",
         "LoadPriority": 0,
         "Name": "Duty Announcer [Aku API 6]",
         "RepoUrl": "https://github.com/xPumaa/DutyAnnouncer"
