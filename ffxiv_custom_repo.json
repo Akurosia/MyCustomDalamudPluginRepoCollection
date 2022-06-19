@@ -1028,7 +1028,7 @@
         "AssemblyVersion": "3.2.0.1",
         "Author": "llock",
         "DalamudApiLevel": 6,
-        "Description": "Use /jailmarker to set up priority list\n (https://raw.githubusercontent.com/LockonS483/AutoJailMarker/master/AutoJailMarker/repo.json)",
+        "Description": "A scuffed uwu jail auto marker\n (https://raw.githubusercontent.com/LockonS483/AutoJailMarker/master/AutoJailMarker/repo.json)",
         "DownloadCount": 0,
         "DownloadLinkInstall": "https://github.com/LockonS483/AutoJailMarker/releases/download/3.2.0.0/AutoJailMarker.zip",
         "DownloadLinkTesting": "https://github.com/LockonS483/AutoJailMarker/releases/download/3.2.0.0/AutoJailMarker.zip",
