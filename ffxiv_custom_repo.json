@@ -2152,7 +2152,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "6.0.0.0",
+        "AssemblyVersion": "6.0.0.1",
         "Author": "xPumaa",
         "DalamudApiLevel": 6,
         "Description": "Names are dumb, use icons instead. (Temp fix until the release from Haplo064)\n (https://raw.githubusercontent.com/xPumaa/DalamudPlugins/api5/pluginmaster.json)",
@@ -2163,7 +2163,7 @@
         "InternalName": "JobIcons",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": "1650412358",
+        "LastUpdate": "1655629786",
         "LoadPriority": 0,
         "Name": "JobIcons [Aku API 6]",
         "RepoUrl": "https://github.com/xPumaa/JobIcons"
