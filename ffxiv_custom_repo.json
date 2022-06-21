@@ -349,7 +349,7 @@
         "ApplicableVersion": "any",
         "AssemblyVersion": "0.2.2.11",
         "Author": "Chalkos",
-        "Changelog": "bugfix: handle clipboard exceptions",
+        "Changelog": "* 0.2.2.11\n  * fix: startup problem resolved\n  * fix: handle clipboard exceptions",
         "DalamudApiLevel": 6,
         "Description": "Helper for your day-to-day market operations.\n (https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json)",
         "DownloadCount": 0,
