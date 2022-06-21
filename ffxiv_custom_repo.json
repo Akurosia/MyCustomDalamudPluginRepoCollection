@@ -347,7 +347,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.2.2.11",
+        "AssemblyVersion": "0.2.2.12",
         "Author": "Chalkos",
         "Changelog": "* 0.2.2.12\n  * fix: startup problem resolved\n* 0.2.2.11\n  * fix: handle clipboard exceptions",
         "DalamudApiLevel": 6,
