@@ -31,7 +31,7 @@
         "AssemblyVersion": "1.1.0.0",
         "Author": "ascclemens",
         "DalamudApiLevel": 6,
-        "Description": "Hide the names of characters on your screen by turning\nthem into random names.\n (https://plugins.annaclemens.io/)",
+        "Description": "Hide the names of characters on your screen by turning\nthem into random names.\n (https://git.sr.ht/~jkcclemens/plugin_repo/blob/main/pluginmaster.json)",
         "DownloadLinkInstall": "https://git.sr.ht/~jkcclemens/plugin_repo/blob/main/plugins/NominaOcculta/latest.zip",
         "DownloadLinkTesting": "https://git.sr.ht/~jkcclemens/plugin_repo/blob/main/plugins/NominaOcculta/latest.zip",
         "DownloadLinkUpdate": "https://git.sr.ht/~jkcclemens/plugin_repo/blob/main/plugins/NominaOcculta/latest.zip",
@@ -125,35 +125,6 @@
         "Name": "Something Need Doing [Aku API 6]",
         "Punchline": "Work work.",
         "RepoUrl": "https://github.com/daemitus/SomethingNeedDoing"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.4.5",
-        "Author": "Aireil",
-        "Changelog": "- 2.0.4.5: Penumbra API update + library change for context menu button.",
-        "DalamudApiLevel": 6,
-        "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs.\n (https://raw.githubusercontent.com/ChunCorp/Dalamud-Plugins/main/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
-        "DownloadLinkTesting": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
-        "IconUrl": "https://github.com/Aireil/FFLogsViewer/raw/master/res/icon.png",
-        "ImageUrls": [
-            "https://github.com/Aireil/FFLogsViewer/raw/master/res/banner.png"
-        ],
-        "InternalName": "FFLogsViewer",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdate": "1654392840",
-        "Name": "FF Logs Viewer [Aku API 6]",
-        "Punchline": "View FF Logs ranking percentiles in-game.",
-        "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
-        "Tags": [
-            "FFLogs",
-            "FFLog",
-            "FFLo",
-            "FFL"
-        ]
     },
     {
         "ApplicableVersion": "any",
@@ -628,6 +599,35 @@
         "Name": "Penumbra [Aku API 6]",
         "RepoUrl": "https://github.com/xivdev/Penumbra",
         "TestingAssemblyVersion": "0.4.8.1"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "2.0.4.5",
+        "Author": "Aireil",
+        "Changelog": "- 2.0.4.5: Penumbra API update + library change for context menu button.",
+        "DalamudApiLevel": 6,
+        "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs.\n (https://raw.githubusercontent.com/ChunCorp/Dalamud-Plugins/main/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
+        "IconUrl": "https://github.com/Aireil/FFLogsViewer/raw/master/res/icon.png",
+        "ImageUrls": [
+            "https://github.com/Aireil/FFLogsViewer/raw/master/res/banner.png"
+        ],
+        "InternalName": "FFLogsViewer",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": "1654392840",
+        "Name": "FF Logs Viewer [Aku API 6]",
+        "Punchline": "View FF Logs ranking percentiles in-game.",
+        "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
+        "Tags": [
+            "FFLogs",
+            "FFLog",
+            "FFLo",
+            "FFL"
+        ]
     },
     {
         "ApplicableVersion": "any",
