@@ -1,10 +1,10 @@
 [
+    "https://plugins.annaclemens.io/",
     "https://raw.githubusercontent.com/Caraxi/DalamudPlugins/master/pluginmaster.json",
     "https://raw.githubusercontent.com/dynamez/AutoJailMarker/master/AutoJailMarker/repo.json",
     "https://raw.githubusercontent.com/dynamez/AutoJailMarker/master/repo.json",
     "https://raw.githubusercontent.com/kalilistic/DalamudPluginRepo/master/pluginmaster.json",
     "https://raw.githubusercontent.com/katawajojo/DalamudPlugins/main/pluginmaster.json",
     "https://raw.githubusercontent.com/serifine/XIV-Chat-Scanner/main/repo.json",
-    "https://repo.horoscope.dev/dist/pluginmaster.json",
-    "https://plugins.annaclemens.io/"
+    "https://repo.horoscope.dev/dist/pluginmaster.json"
 ]
