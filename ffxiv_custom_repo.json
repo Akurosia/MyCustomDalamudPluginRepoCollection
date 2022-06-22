@@ -1375,9 +1375,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.1.9",
+        "AssemblyVersion": "0.0.1.10",
         "Author": "aiczk",
-        "Changelog": "No changes have been made to the operation.\nThe design of each PriorityList was changed from \"Button\" to \"Selectable\" and some text was added accordingly.\nThe order of priority in which cards are dealt can now be specified.",
+        "Changelog": "Allows setting of target priority during bursts and outside of bursts.",
         "DalamudApiLevel": 6,
         "Description": "Simplify the astrologian's operation.\n (https://raw.githubusercontent.com/aiczk/Astro/main/Astro/Astro.json)",
         "DownloadLinkInstall": "https://github.com/aiczk/Astro/raw/main/Resource/latest.zip",
