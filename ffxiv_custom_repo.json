@@ -1375,9 +1375,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.1.10",
+        "AssemblyVersion": "0.0.1.11",
         "Author": "aiczk",
-        "Changelog": "Allows setting of target priority during bursts and outside of bursts.",
+        "Changelog": "It is now possible to deal cards n seconds before the burst.\nAlso, if there was already a seal when the Play was executed, the function to convert it to a redraw has been separated.\nIf you want to use this function, please turn on the relevant checkbox.",
         "DalamudApiLevel": 6,
         "Description": "Simplify the astrologian's operation.\n (https://raw.githubusercontent.com/aiczk/Astro/main/Astro/Astro.json)",
         "DownloadLinkInstall": "https://github.com/aiczk/Astro/raw/main/Resource/latest.zip",
