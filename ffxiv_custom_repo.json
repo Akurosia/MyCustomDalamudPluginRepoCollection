@@ -157,7 +157,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.8",
+        "AssemblyVersion": "0.0.9",
         "Author": "Ajisai Mirai",
         "DalamudApiLevel": 6,
         "Description": "Ever AFK and curious if people emoted at you? No longer.\n (https://raw.githubusercontent.com/AjisaiMirai/plugins/main/repo.json)",
@@ -177,7 +177,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.4",
+        "AssemblyVersion": "0.1.5",
         "Author": "Ajisai Mirai",
         "DalamudApiLevel": 6,
         "Description": "Misc stuff I made.\n (https://raw.githubusercontent.com/AjisaiMirai/plugins/main/repo.json)",
