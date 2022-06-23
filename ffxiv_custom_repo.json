@@ -1375,9 +1375,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.1.12",
+        "AssemblyVersion": "0.0.1.13",
         "Author": "aiczk",
-        "Changelog": "bug fixed.\nIt is now possible to deal cards n seconds before the burst.\nAlso, if there was already a seal when the Play was executed, the function to convert it to a redraw has been separated.\nIf you want to use this function, please turn on the relevant checkbox.",
+        "Changelog": "The \"Treat cards as in burst while divination is close to being ready\" option has been modified so that it can be enabled without turning on the \"Deal three cards at burst\" option.",
         "DalamudApiLevel": 6,
         "Description": "Simplify the astrologian's operation.\n (https://raw.githubusercontent.com/aiczk/Astro/main/Astro/Astro.json)",
         "DownloadLinkInstall": "https://github.com/aiczk/Astro/raw/main/Resource/latest.zip",
