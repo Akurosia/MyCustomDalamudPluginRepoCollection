@@ -234,7 +234,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.1.1.0",
+        "AssemblyVersion": "1.1.2.0",
         "Author": "Athavar",
         "Changelog": "Update for API 6",
         "DalamudApiLevel": 6,
@@ -248,7 +248,7 @@
         "InternalName": "Athavar.FFXIV.StreamDeckPlugin",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1649941970",
+        "LastUpdated": "1656153586",
         "Name": "StreamDeck Integration [Aku API 6]",
         "Punchline": "Enchant your experience.",
         "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.StreamDeckPlugin"
