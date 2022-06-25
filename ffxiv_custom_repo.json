@@ -1411,9 +1411,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.1.15",
+        "AssemblyVersion": "0.0.1.17",
         "Author": "aiczk",
-        "Changelog": "A command to switch astro status has been implemented.\nAdded option to prevent cards from overflowing.\nAdded option to distribute cards manually.",
+        "Changelog": "Fixed a bug in which on and off were reversed.\nAlso, the \"Avoid overflowing cards\" option is now included in the \"Deal three cards at burst\" option.",
         "DalamudApiLevel": 6,
         "Description": "Simplify the astrologian's operation.\n (https://raw.githubusercontent.com/aiczk/Astro/main/Astro/Astro.json)",
         "DownloadLinkInstall": "https://github.com/aiczk/Astro/raw/main/Resource/latest.zip",
