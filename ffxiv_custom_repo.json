@@ -718,7 +718,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.0.1",
         "Author": "Eternita",
         "DalamudApiLevel": 6,
         "Description": "\n (https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json)",
@@ -733,7 +733,7 @@
         "IsTestingExclusive": false,
         "LastUpdated": "0",
         "Name": "DSR Eye Locator [Aku API 6]",
-        "Punchline": "!!! Warning !!! This plugin was not tested yet !!! It may not work at all/crash your game !!!",
+        "Punchline": "[beta] A plugin that resolves two eyes mechanic in Dragonsong's Reprise (Ultimate).",
         "RepoUrl": "https://github.com/Eternita-S/DSREyeLocator"
     },
     {
@@ -894,7 +894,7 @@
         "Changelog": "- adjusted code to accommodate FFXIVClientStructs changes",
         "DalamudApiLevel": 6,
         "Description": "\n (https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json)",
-        "DownloadCount": 345,
+        "DownloadCount": 349,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.4/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.4/latest.zip",
         "InternalName": "HaselTweaks",
