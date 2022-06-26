@@ -1061,7 +1061,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "3.2.0.1",
+        "AssemblyVersion": "3.2.0.2",
         "Author": "llock",
         "DalamudApiLevel": 6,
         "Description": "A scuffed uwu jail auto marker\n (https://raw.githubusercontent.com/LockonS483/AutoJailMarker/master/AutoJailMarker/repo.json)",
