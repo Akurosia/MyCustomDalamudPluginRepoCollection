@@ -2297,6 +2297,29 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "2.5.0.0",
+        "Author": "Caraxi",
+        "CategoryTags": [
+            "inventory",
+            "utility"
+        ],
+        "DalamudApiLevel": 6,
+        "Description": "Filterable search for Items and Key Items.\nTry on any item without having to find someone to link it.\n (https://raw.githubusercontent.com/xPumaa/DalamudPlugins/api5/pluginmaster.json)",
+        "DownloadCount": 161782,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/ItemSearchPlugin/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/ItemSearchPlugin/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/ItemSearchPlugin/latest.zip",
+        "InternalName": "ItemSearchPlugin",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": "1656535111",
+        "LoadPriority": 0,
+        "Name": "Item Search [Aku API 6]",
+        "Punchline": "Search and link items, even if you don't have them.",
+        "RepoUrl": "https://github.com/Caraxi/ItemSearchPlugin"
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.4.4.1",
         "Author": "yomishino",
         "CategoryTags": [],
