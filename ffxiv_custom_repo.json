@@ -367,7 +367,7 @@
         "Author": "Chalkos",
         "Changelog": "* 0.2.2.12\n  * fix: startup problem resolved\n* 0.2.2.11\n  * fix: handle clipboard exceptions",
         "DalamudApiLevel": 6,
-        "Description": "Helper for your day-to-day market operations.\n (https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json)",
+        "Description": "Helper for your day-to-day market operations.\n (https://raw.githubusercontent.com/ChunCorp/Dalamud-Plugins/main/pluginmaster.json)",
         "DownloadCount": 0,
         "DownloadLinkInstall": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
         "DownloadLinkTesting": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
@@ -695,6 +695,48 @@
             "Gathering",
             "Fishing"
         ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.0.1.23",
+        "Author": "aiczk",
+        "Changelog": "ver 1.33 - Enabled to play \"Mini Burst\" card n seconds ago. \nAlso, because of the destructive change in variable names, the enable/disable status of options may have fluctuated, please check.\nver1.22 - In the \"Deal three cards at burst\" option, the priority of dealing overflow cards can now be set in the Mini Burst tab.",
+        "DalamudApiLevel": 6,
+        "Description": "Simplify the astrologian's operation.\n (https://raw.githubusercontent.com/aiczk/Astro/main/Astro/Astro.json)",
+        "DownloadLinkInstall": "https://github.com/aiczk/Astro/raw/main/Resource/latest.zip",
+        "DownloadLinkTesting": "https://github.com/aiczk/Astro/raw/main/Resource/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/aiczk/Astro/raw/main/Resource/latest.zip",
+        "IconUrl": "https://github.com/aiczk/Astro/raw/main/Resource/space.png",
+        "InternalName": "Astro",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "Name": "Astro [Aku API 6]",
+        "RepoUrl": "https://github.com/aiczk/Astro"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.3.1",
+        "Author": "Ottermandias",
+        "DalamudApiLevel": 6,
+        "Description": "Adds commands to automate some busywork and general quality of life.\n (https://raw.githubusercontent.com/ChunCorp/Dalamud-Plugins/main/pluginmaster.json)",
+        "DownloadCount": 1,
+        "DownloadLinkInstall": "https://github.com/Ottermandias/Peon/raw/main/Peon.zip",
+        "DownloadLinkTesting": "https://github.com/Ottermandias/Peon/raw/main/Peon.zip",
+        "DownloadLinkUpdate": "https://github.com/Ottermandias/Peon/raw/main/Peon.zip",
+        "IconUrl": "https://i.imgur.com/lkZqgBW.png",
+        "InternalName": "Peon",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": 1618608321,
+        "Name": "Peon [Aku API 6]",
+        "Punchline": "Work, Work",
+        "RepoUrl": "https://github.com/Ottermandias/Peon",
+        "Tags": [
+            "Automation",
+            "Botting",
+            "Quality of Life"
+        ],
+        "TestingAssemblyVersion": "1.0.3.2"
     },
     {
         "ApplicableVersion": "any",
@@ -1408,23 +1450,6 @@
         "Name": "OOBlugin [Aku API 6]",
         "Punchline": "oob oob",
         "RepoUrl": "https://github.com/UnknownX7/OOBlugin"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.1.23",
-        "Author": "aiczk",
-        "Changelog": "ver 1.33 - Enabled to play \"Mini Burst\" card n seconds ago. \nAlso, because of the destructive change in variable names, the enable/disable status of options may have fluctuated, please check.\nver1.22 - In the \"Deal three cards at burst\" option, the priority of dealing overflow cards can now be set in the Mini Burst tab.",
-        "DalamudApiLevel": 6,
-        "Description": "Simplify the astrologian's operation.\n (https://raw.githubusercontent.com/aiczk/Astro/main/Astro/Astro.json)",
-        "DownloadLinkInstall": "https://github.com/aiczk/Astro/raw/main/Resource/latest.zip",
-        "DownloadLinkTesting": "https://github.com/aiczk/Astro/raw/main/Resource/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/aiczk/Astro/raw/main/Resource/latest.zip",
-        "IconUrl": "https://github.com/aiczk/Astro/raw/main/Resource/space.png",
-        "InternalName": "Astro",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "Name": "Astro [Aku API 6]",
-        "RepoUrl": "https://github.com/aiczk/Astro"
     },
     {
         "ApplicableVersion": "any",
