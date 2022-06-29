@@ -1411,9 +1411,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.1.21",
+        "AssemblyVersion": "0.0.1.22",
         "Author": "aiczk",
-        "Changelog": "ver1.21 - The \"Enable autoplay\" option conflicts with the \"Deal 3 cards at burst\" option, and has been corrected so that only one of these options can be select.\nver1.20 - Fixed what appeared to be the cause of the crash.",
+        "Changelog": "ver1.22 - In the \"Deal three cards at burst\" option, the priority of dealing overflow cards can now be set in the Mini Burst tab.\nver1.21 - The \"Enable autoplay\" option conflicts with the \"Deal 3 cards at burst\" option, and has been corrected so that only one of these options can be select.",
         "DalamudApiLevel": 6,
         "Description": "Simplify the astrologian's operation.\n (https://raw.githubusercontent.com/aiczk/Astro/main/Astro/Astro.json)",
         "DownloadLinkInstall": "https://github.com/aiczk/Astro/raw/main/Resource/latest.zip",
