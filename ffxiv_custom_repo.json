@@ -679,7 +679,7 @@
         "Changelog": "*NEW*\n- Added a new hooking configuration when under the effect of Fisher's Intuitions\n- Added Auto Use Cordials\n- Added Auto Surface Slap/Identical Cast (Custom config only)\n\n*Adjustments*\n- Added variable delay between casts\n- Some UI tweaks",
         "DalamudApiLevel": 6,
         "Description": "It hooks the fish for you, can you believe it?\n (https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/pluginmaster.json)",
-        "DownloadCount": 544,
+        "DownloadCount": 557,
         "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.2.0.0/latest.zip",
         "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.2.0.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.2.0.0/latest.zip",
@@ -936,7 +936,7 @@
         "Changelog": "- adjusted code to accommodate FFXIVClientStructs changes",
         "DalamudApiLevel": 6,
         "Description": "\n (https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json)",
-        "DownloadCount": 425,
+        "DownloadCount": 431,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.4/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.4/latest.zip",
         "InternalName": "HaselTweaks",
@@ -1007,7 +1007,7 @@
         "Changelog": "Added a toggle to enable/disable the plugin. Now Minions wont be resummoned if dismissed. New icon by Vec7rex",
         "DalamudApiLevel": 6,
         "Description": "Make sure to enable the checkbox in the Minion Guide if you want only your favorite minions to be swapped\n (https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/pluginmaster.json)",
-        "DownloadCount": 100,
+        "DownloadCount": 101,
         "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.1.1/latest.zip",
         "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.1.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.1.1/latest.zip",
@@ -1153,7 +1153,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.0.2",
+        "AssemblyVersion": "0.1.0.3",
         "Author": "Ottermandias",
         "DalamudApiLevel": 6,
         "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.\n (https://raw.githubusercontent.com/Ottermandias/Glamourer/main/repo.json)",
@@ -1180,7 +1180,7 @@
             "Design",
             "Character"
         ],
-        "TestingAssemblyVersion": "0.1.0.2"
+        "TestingAssemblyVersion": "0.1.0.3"
     },
     {
         "ApplicableVersion": "any",
