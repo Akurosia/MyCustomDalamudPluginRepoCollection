@@ -700,9 +700,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.1.25",
+        "AssemblyVersion": "0.0.1.26",
         "Author": "aiczk",
-        "Changelog": "ver 1.25 - Debugging options implemented.\nver 1.23 - Enabled to play \"Mini Burst\" card n seconds ago. \nAlso, because of the destructive change in variable names, the enable/disable status of options may have fluctuated, please check.\nver1.22 - In the \"Deal three cards at burst\" option, the priority of dealing overflow cards can now be set in the Mini Burst tab.",
+        "Changelog": "ver 1.26 - Changed the behavior of the \"Show Debug Message\" option so that it is output to Dalamud.log\nver 1.25 - Debugging options implemented.\nver 1.23 - Enabled to play \"Mini Burst\" card n seconds ago. \nAlso, because of the destructive change in variable names, the enable/disable status of options may have fluctuated, please check.",
         "DalamudApiLevel": 6,
         "Description": "Simplify the astrologian's operation.\n (https://raw.githubusercontent.com/aiczk/Astro/main/Astro/Astro.json)",
         "DownloadLinkInstall": "https://github.com/aiczk/Astro/raw/main/Resource/latest.zip",
