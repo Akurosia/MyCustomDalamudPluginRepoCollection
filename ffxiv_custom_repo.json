@@ -627,23 +627,25 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.5.2.0",
+        "AssemblyVersion": "0.5.3.0",
         "Author": "Adam",
         "DalamudApiLevel": 6,
         "Description": "Runtime mod loader and manager.\n (https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json)",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/xivdev/Penumbra/releases/download/0.5.2.0/Penumbra.zip",
-        "DownloadLinkTesting": "https://github.com/xivdev/Penumbra/releases/download/0.5.2.0/Penumbra.zip",
-        "DownloadLinkUpdate": "https://github.com/xivdev/Penumbra/releases/download/0.5.2.0/Penumbra.zip",
+        "DownloadLinkInstall": "https://github.com/xivdev/Penumbra/releases/download/0.5.3.0/Penumbra.zip",
+        "DownloadLinkTesting": "https://github.com/xivdev/Penumbra/releases/download/0.5.3.0/Penumbra.zip",
+        "DownloadLinkUpdate": "https://github.com/xivdev/Penumbra/releases/download/0.5.3.0/Penumbra.zip",
         "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
         "InternalName": "Penumbra",
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdate": 0,
         "LoadPriority": 69420,
+        "LoadRequiredState": 2,
+        "LoadSync": true,
         "Name": "Penumbra [Aku API 6]",
         "RepoUrl": "https://github.com/xivdev/Penumbra",
-        "TestingAssemblyVersion": "0.5.2.0"
+        "TestingAssemblyVersion": "0.5.3.0"
     },
     {
         "ApplicableVersion": "any",
@@ -1153,7 +1155,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.0.3",
+        "AssemblyVersion": "0.1.0.4",
         "Author": "Ottermandias",
         "DalamudApiLevel": 6,
         "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.\n (https://raw.githubusercontent.com/Ottermandias/Glamourer/main/repo.json)",
@@ -1180,7 +1182,7 @@
             "Design",
             "Character"
         ],
-        "TestingAssemblyVersion": "0.1.0.3"
+        "TestingAssemblyVersion": "0.1.0.4"
     },
     {
         "ApplicableVersion": "any",
