@@ -1,6 +1,49 @@
 [
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "0.0.19.0",
+        "Author": "darkarchon",
+        "DalamudApiLevel": 6,
+        "Description": "OGCD assistant providing Text To Speech, (Custom) Sound Effects and unlimited extra bars to visualize and alert you for your OGCDs.\n\nThis is an early version and things might still break. For any issues please contact darkarchon#4313 on Discord.\n (https://darkarchon.internet-box.ch:8443/plogon/plogonmaster.json)",
+        "DownloadLinkInstall": "https://darkarchon.internet-box.ch:8443/plogon/OhGeeCD/latest.zip",
+        "DownloadLinkTesting": "https://darkarchon.internet-box.ch:8443/plogon/OhGeeCD/latest.zip",
+        "DownloadLinkUpdate": "https://darkarchon.internet-box.ch:8443/plogon/OhGeeCD/latest.zip",
+        "IconUrl": "https://darkarchon.internet-box.ch:8443/plogon/OhGeeCD/images/icon.png",
+        "InternalName": "OhGeeCD",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LoadPriority": 0,
+        "Name": "Oh gee, CD [Aku API 6]",
+        "Punchline": "oGCD helper",
+        "RepoUrl": "https://github.com/rootdarkarchon/OhGeeCD",
+        "Tags": [
+            "jobs",
+            "utility"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.0.1.0",
+        "Author": "darkarchon",
+        "DalamudApiLevel": 6,
+        "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.\n (https://darkarchon.internet-box.ch:8443/plogon/plogonmaster.json)",
+        "DownloadLinkInstall": "https://darkarchon.internet-box.ch:8443/plogon/MareSynchronos/latest.zip",
+        "DownloadLinkTesting": "https://darkarchon.internet-box.ch:8443/plogon/MareSynchronos/latest.zip",
+        "DownloadLinkUpdate": "https://darkarchon.internet-box.ch:8443/plogon/MareSynchronos/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/Penumbra-Sync/client/main/MareSynchronos/images/logo.png",
+        "InternalName": "MareSynchronos",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LoadPriority": 0,
+        "Name": "Mare Synchronos [Aku API 6]",
+        "Punchline": "Let others see you as you see yourself.",
+        "RepoUrl": "https://github.com/Penumbra-Sync/client",
+        "Tags": [
+            "customization"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.2.2",
         "Author": "Cai",
         "DalamudApiLevel": 6,
