@@ -703,9 +703,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.1.27",
+        "AssemblyVersion": "0.0.1.28",
         "Author": "aiczk",
-        "Changelog": "ver 1.27 - Fixed a bug that caused cards to be \"draw\" to random players when the \"Enable Burst Card\" option was selected.\nver 1.26 - Changed the behavior of the \"Show Debug Message\" option so that it is output to Dalamud.log\nver 1.25 - Debugging options implemented",
+        "Changelog": "ver 1.28 - Fixed cause of crash.\nver 1.27 - Fixed a bug that caused cards to be \"draw\" to random players when the \"Enable Burst Card\" option was selected.",
         "DalamudApiLevel": 6,
         "Description": "Simplify the astrologian's operation.\n (https://raw.githubusercontent.com/aiczk/Astro/main/Astro/Astro.json)",
         "DownloadLinkInstall": "https://github.com/aiczk/Astro/raw/main/Resource/latest.zip",
