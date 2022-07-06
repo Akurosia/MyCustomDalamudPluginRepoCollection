@@ -924,7 +924,7 @@
         "InternalName": "MidiBard",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1651304833",
+        "LastUpdated": "1657115598",
         "Name": "MidiBard [Aku API 6]",
         "Punchline": "Bard performance using midi files or keyboard.",
         "RepoUrl": "https://github.com/akira0245/MidiBard",
@@ -1491,7 +1491,7 @@
         "InternalName": "LootMaster",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1651304833",
+        "LastUpdated": "1657115598",
         "Name": "LootMaster [Aku API 6]",
         "Punchline": "Roll loots via text command.",
         "RepoUrl": "",
@@ -1499,6 +1499,52 @@
             "akira",
             "loot",
             "roll"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.0.0",
+        "Author": "akira0245",
+        "DalamudApiLevel": 6,
+        "Description": "\n (https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MultiboxPlugin/latest.zip",
+        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MultiboxPlugin/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MultiboxPlugin/latest.zip",
+        "InternalName": "MultiboxPlugin",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "1657115598",
+        "Name": "MultiboxPlugin [Aku API 6]",
+        "Punchline": "Run more then 2 copies of FF14 at a time",
+        "Tags": [
+            "akira",
+            "multi",
+            "box",
+            "mutex",
+            "mutant"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.1.0.1",
+        "Author": "akira0245",
+        "DalamudApiLevel": 6,
+        "Description": "解锁游戏窗口最小尺寸限制。\nUnlocks minimum game window size restriction.\n (https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/WindowSizeUnlock/latest.zip",
+        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/WindowSizeUnlock/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/WindowSizeUnlock/latest.zip",
+        "InternalName": "WindowSizeUnlock",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "1657115598",
+        "Name": "WindowSizeUnlock [Aku API 6]",
+        "Punchline": "Unlocks game window size restriction.",
+        "Tags": [
+            "akira",
+            "restrict",
+            "limit"
         ]
     },
     {
