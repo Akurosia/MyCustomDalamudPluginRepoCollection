@@ -924,7 +924,7 @@
         "InternalName": "MidiBard",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1657117667",
+        "LastUpdated": "1657118725",
         "Name": "MidiBard [Aku API 6]",
         "Punchline": "Bard performance using midi files or keyboard.",
         "RepoUrl": "https://github.com/akira0245/MidiBard",
@@ -1491,7 +1491,7 @@
         "InternalName": "LootMaster",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1657117667",
+        "LastUpdated": "1657118725",
         "Name": "LootMaster [Aku API 6]",
         "Punchline": "Roll loots via text command.",
         "RepoUrl": "",
@@ -1505,6 +1505,10 @@
         "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.0.0",
         "Author": "akira0245",
+        "CategoryTags": [
+            "utility",
+            "other"
+        ],
         "DalamudApiLevel": 6,
         "Description": "\n (https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/pluginmaster.json)",
         "DownloadCount": 0,
@@ -1514,7 +1518,7 @@
         "InternalName": "MultiboxPlugin",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1657117667",
+        "LastUpdated": "1657118725",
         "Name": "MultiboxPlugin [Aku API 6]",
         "Punchline": "Run more than 2 copies of FF14 at a time",
         "Tags": [
@@ -1529,6 +1533,10 @@
         "ApplicableVersion": "any",
         "AssemblyVersion": "1.1.0.1",
         "Author": "akira0245",
+        "CategoryTags": [
+            "utility",
+            "other"
+        ],
         "DalamudApiLevel": 6,
         "Description": "解锁游戏窗口最小尺寸限制。\nUnlocks minimum game window size restriction.\n (https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/pluginmaster.json)",
         "DownloadCount": 0,
@@ -1538,7 +1546,7 @@
         "InternalName": "WindowSizeUnlock",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1657117667",
+        "LastUpdated": "1657118725",
         "Name": "WindowSizeUnlock [Aku API 6]",
         "Punchline": "Unlocks game window size restriction.",
         "Tags": [
