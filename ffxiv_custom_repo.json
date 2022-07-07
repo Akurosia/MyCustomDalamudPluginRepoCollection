@@ -941,7 +941,7 @@
         "Changelog": "- adjusted code to accommodate FFXIVClientStructs changes",
         "DalamudApiLevel": 6,
         "Description": "\n (https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json)",
-        "DownloadCount": 486,
+        "DownloadCount": 493,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.4/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.4/latest.zip",
         "InternalName": "HaselTweaks",
