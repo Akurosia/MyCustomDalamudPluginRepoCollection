@@ -893,7 +893,7 @@
         "Changelog": "- [CharacterClassSwitcher] added detection for \"Select Target/Confirm\" controller button binding",
         "DalamudApiLevel": 6,
         "Description": "\n (https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json)",
-        "DownloadCount": 186,
+        "DownloadCount": 249,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.5/latest.zip",
         "InternalName": "HaselTweaks",
