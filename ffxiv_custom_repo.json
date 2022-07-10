@@ -49,22 +49,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.3.0",
-        "Author": "ascclemens",
-        "DalamudApiLevel": 6,
-        "Description": "It's more chat. Very alpha. /ecl# is the LS command.\n (https://git.sr.ht/~jkcclemens/plugin_repo/blob/main/pluginmaster.json)",
-        "DownloadLinkInstall": "https://git.sr.ht/~jkcclemens/plugin_repo/blob/main/plugins/ExtraChat/latest.zip",
-        "DownloadLinkTesting": "https://git.sr.ht/~jkcclemens/plugin_repo/blob/main/plugins/ExtraChat/latest.zip",
-        "DownloadLinkUpdate": "https://git.sr.ht/~jkcclemens/plugin_repo/blob/main/plugins/ExtraChat/latest.zip",
-        "InternalName": "ExtraChat",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdate": "1656701308",
-        "Name": "ExtraChat [Aku API 6]",
-        "Punchline": "[ALPHA] Cross-data-centre linkshells with unlimited members."
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.1.0.0",
         "Author": "ascclemens",
         "DalamudApiLevel": 6,
@@ -78,6 +62,23 @@
         "LastUpdate": "1652155780",
         "Name": "Nomina Occulta [Aku API 6]",
         "Punchline": "Hide character names."
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.1.0.0",
+        "Author": "ascclemens",
+        "DalamudApiLevel": 6,
+        "Description": "It's more chat. Very alpha. /ecl# is the LS command.\n (https://git.sr.ht/~jkcclemens/plugin_repo/blob/main/pluginmaster.json)",
+        "DownloadLinkInstall": "https://git.sr.ht/~jkcclemens/plugin_repo/blob/main/plugins/ExtraChat/latest.zip",
+        "DownloadLinkTesting": "https://git.sr.ht/~jkcclemens/plugin_repo/blob/main/plugins/ExtraChat/latest.zip",
+        "DownloadLinkUpdate": "https://git.sr.ht/~jkcclemens/plugin_repo/blob/main/plugins/ExtraChat/latest.zip",
+        "InternalName": "ExtraChat",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": "1657425990",
+        "Name": "ExtraChat [Aku API 6]",
+        "Punchline": "[ALPHA] Cross-data-centre linkshells with unlimited members.",
+        "RepoUrl": "https://git.annaclemens.io/ascclemens/ExtraChat"
     },
     {
         "ApplicableVersion": "any",
