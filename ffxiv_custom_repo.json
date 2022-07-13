@@ -1,6 +1,33 @@
 [
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.2.2",
+        "Author": "Cai",
+        "DalamudApiLevel": 6,
+        "Description": "Tracks GCD, OGCDs and combo status. Instantly visualizing what is happening with queue, animation lock and helping you get familiar with the concepts.\n (https://gist.githubusercontent.com/CaiClone/0aad66569dbf63a9bbeec6a8e95a123f/raw/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/CaiClone/DalamudPlugins/raw/GCDTracker/testing/GCDTracker/latest.zip",
+        "DownloadLinkTesting": "https://github.com/CaiClone/DalamudPlugins/raw/GCDTracker/testing/GCDTracker/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/CaiClone/DalamudPlugins/raw/GCDTracker/testing/GCDTracker/latest.zip",
+        "IconUrl": "https://github.com/CaiClone/GCDTracker/raw/main/images/icon.png",
+        "ImageUrls": [
+            "https://github.com/CaiClone/GCDTracker/raw/main/images/image1.png"
+        ],
+        "InternalName": "GCDTracker",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "1651967428",
+        "LoadPriority": 0,
+        "Name": "GCDTracker [Aku API 6]",
+        "Punchline": "Is my DRG still jumping?",
+        "RepoUrl": "https://github.com/CaiClone/GCDTracker",
+        "Tags": [
+            "combat",
+            "gcd"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.1.0.0",
         "Author": "ascclemens",
         "DalamudApiLevel": 6,
