@@ -2059,8 +2059,12 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.0.3",
+        "AssemblyVersion": "2.0.0.4",
         "Author": "akira0245, Ori, SpuriousSnail86",
+        "CategoryTags": [
+            "utility",
+            "other"
+        ],
         "DalamudApiLevel": 6,
         "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard\n (https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/pluginmaster.json)",
         "DownloadCount": 12873,
@@ -2075,11 +2079,7 @@
         "LoadPriority": 0,
         "Name": "MidiBard 2 [Aku API 6]",
         "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
-        "RepoUrl": "https://midibard.crd.co/",
-        "Tags": [
-            "Jobs",
-            "Utility"
-        ]
+        "RepoUrl": "https://midibard.crd.co/"
     },
     {
         "ApplicableVersion": "any",
