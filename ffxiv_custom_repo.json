@@ -2075,35 +2075,11 @@
         "InternalName": "MidiBard2",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": "1656463880",
+        "LastUpdate": "1657756254",
         "LoadPriority": 0,
         "Name": "MidiBard 2 [Aku API 6]",
         "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
         "RepoUrl": "https://midibard.crd.co/"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.2.5",
-        "Author": "akira0245, Ori, SpuriousSnail86",
-        "DalamudApiLevel": 6,
-        "Description": "[WARNING] This is the preview build of MidiBard 2, it's mostly stable but you may still experience bugs/crashes.\nBard performance using midi files or keyboard.\n- HSCM controller support\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard\n (https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/pluginmaster.json)",
-        "DownloadCount": 1612,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2Preview/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2Preview/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2Preview/latest.zip",
-        "IconUrl": "https://i.imgur.com/2Lr2Che.png",
-        "InternalName": "MidiBard2Preview",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LastUpdate": "1657149585",
-        "LoadPriority": 0,
-        "Name": "MidiBard 2 - Preview [Aku API 6]",
-        "Punchline": "[BETA] Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
-        "RepoUrl": "https://midibard.crd.co/",
-        "Tags": [
-            "Jobs",
-            "Utility"
-        ]
     },
     {
         "ApplicableVersion": "any",
