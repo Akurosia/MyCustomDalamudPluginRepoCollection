@@ -723,10 +723,10 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.5",
+        "AssemblyVersion": "2.0.0.0",
         "Author": "Eternita",
         "DalamudApiLevel": 6,
-        "Description": "\n (https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json)",
+        "Description": "Current functions:\nResolve eyes position\nWroth flames automarker (whole group and personal)\nTether to your chain partner\n (https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json)",
         "DownloadCount": 0,
         "DownloadLinkInstall": "https://github.com/Eternita-S/DSREyeLocator/releases/latest/download/DSREyeLocator.zip",
         "DownloadLinkTesting": "https://github.com/Eternita-S/DSREyeLocator/releases/latest/download/DSREyeLocator.zip",
@@ -737,8 +737,8 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "LastUpdated": "0",
-        "Name": "DSR Eye Locator [Aku API 6]",
-        "Punchline": "[beta] A plugin that resolves two eyes mechanic in Dragonsong's Reprise (Ultimate).",
+        "Name": "DSR Toolbox [Aku API 6]",
+        "Punchline": "[beta] A helper plugin for Dragonsong's Reprise (Ultimate).",
         "RepoUrl": "https://github.com/Eternita-S/DSREyeLocator"
     },
     {
