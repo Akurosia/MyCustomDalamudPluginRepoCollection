@@ -343,7 +343,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.0.0",
+        "AssemblyVersion": "2.0.0.1",
         "Author": "Eternita",
         "DalamudApiLevel": 6,
         "Description": "Current functions:\nResolve eyes position\nWroth flames automarker (whole group and personal)\nTether to your chain partner\n (https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json)",
@@ -868,7 +868,7 @@
         "Changelog": "- [CharacterClassSwitcher] added support for PvP Character window",
         "DalamudApiLevel": 6,
         "Description": "\n (https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json)",
-        "DownloadCount": 449,
+        "DownloadCount": 459,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.6/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.6/latest.zip",
         "InternalName": "HaselTweaks",
