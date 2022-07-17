@@ -698,19 +698,12 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.3.1",
+        "AssemblyVersion": "1.0.3.2",
         "Author": "Ottermandias",
         "DalamudApiLevel": 6,
         "Description": "Adds commands to automate some busywork and general quality of life.\n (https://raw.githubusercontent.com/ChunCorp/Dalamud-Plugins/main/pluginmaster.json)",
-        "DownloadCount": 1,
-        "DownloadLinkInstall": "https://github.com/Ottermandias/Peon/raw/main/Peon.zip",
-        "DownloadLinkTesting": "https://github.com/Ottermandias/Peon/raw/main/Peon.zip",
-        "DownloadLinkUpdate": "https://github.com/Ottermandias/Peon/raw/main/Peon.zip",
         "IconUrl": "https://i.imgur.com/lkZqgBW.png",
         "InternalName": "Peon",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LastUpdate": 1618608321,
         "Name": "Peon [Aku API 6]",
         "Punchline": "Work, Work",
         "RepoUrl": "https://github.com/Ottermandias/Peon",
@@ -718,8 +711,7 @@
             "Automation",
             "Botting",
             "Quality of Life"
-        ],
-        "TestingAssemblyVersion": "1.0.3.2"
+        ]
     },
     {
         "ApplicableVersion": "any",
