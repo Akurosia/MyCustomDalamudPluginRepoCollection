@@ -608,14 +608,14 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.5.4.6",
+        "AssemblyVersion": "0.5.4.8",
         "Author": "Adam",
         "DalamudApiLevel": 6,
         "Description": "Runtime mod loader and manager.\n (https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json)",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/xivdev/Penumbra/releases/download/0.5.4.6/Penumbra.zip",
-        "DownloadLinkTesting": "https://github.com/xivdev/Penumbra/releases/download/0.5.4.6/Penumbra.zip",
-        "DownloadLinkUpdate": "https://github.com/xivdev/Penumbra/releases/download/0.5.4.6/Penumbra.zip",
+        "DownloadLinkInstall": "https://github.com/xivdev/Penumbra/releases/download/0.5.4.8/Penumbra.zip",
+        "DownloadLinkTesting": "https://github.com/xivdev/Penumbra/releases/download/0.5.4.8/Penumbra.zip",
+        "DownloadLinkUpdate": "https://github.com/xivdev/Penumbra/releases/download/0.5.4.8/Penumbra.zip",
         "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
         "InternalName": "Penumbra",
         "IsHide": "False",
@@ -626,7 +626,7 @@
         "LoadSync": true,
         "Name": "Penumbra [Aku API 6]",
         "RepoUrl": "https://github.com/xivdev/Penumbra",
-        "TestingAssemblyVersion": "0.5.4.6"
+        "TestingAssemblyVersion": "0.5.4.8"
     },
     {
         "ApplicableVersion": "any",
@@ -2071,7 +2071,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.0.4",
+        "AssemblyVersion": "2.0.0.5",
         "Author": "akira0245, Ori, SpuriousSnail86",
         "CategoryTags": [
             "utility",
@@ -2079,7 +2079,7 @@
         ],
         "DalamudApiLevel": 6,
         "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard\n (https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/pluginmaster.json)",
-        "DownloadCount": 12873,
+        "DownloadCount": 31427,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
