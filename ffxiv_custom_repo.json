@@ -343,7 +343,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.0.2",
+        "AssemblyVersion": "2.0.0.3",
         "Author": "Eternita",
         "DalamudApiLevel": 6,
         "Description": "Current functions:\nResolve eyes position\nWroth flames automarker (whole group and personal)\nTether to your chain partner\n (https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json)",
@@ -2087,11 +2087,35 @@
         "InternalName": "MidiBard2",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": "1657756254",
+        "LastUpdate": "1658139552",
         "LoadPriority": 0,
         "Name": "MidiBard 2 [Aku API 6]",
         "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
         "RepoUrl": "https://midibard.crd.co/"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "2.1.1.0",
+        "Author": "akira0245, Ori",
+        "CategoryTags": [
+            "utility",
+            "other"
+        ],
+        "DalamudApiLevel": 6,
+        "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard\n (https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/pluginmaster.json)",
+        "DownloadCount": 2316,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2Preview/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2Preview/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2Preview/latest.zip",
+        "IconUrl": "https://i.imgur.com/2Lr2Che.png",
+        "InternalName": "MidiBard2Preview",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": "1657837265",
+        "LoadPriority": 0,
+        "Name": "MidiBard 2 - Preview [Aku API 6]",
+        "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
+        "RepoUrl": "https://midibard.org"
     },
     {
         "ApplicableVersion": "any",
