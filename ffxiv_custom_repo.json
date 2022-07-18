@@ -343,7 +343,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.0.3",
+        "AssemblyVersion": "2.0.0.4",
         "Author": "Eternita",
         "DalamudApiLevel": 6,
         "Description": "Current functions:\nResolve eyes position\nWroth flames automarker (whole group and personal)\nTether to your chain partner\n (https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json)",
@@ -2091,7 +2091,7 @@
         "LoadPriority": 0,
         "Name": "MidiBard 2 [Aku API 6]",
         "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
-        "RepoUrl": "https://midibard.crd.co/"
+        "RepoUrl": "https://midibard.org/"
     },
     {
         "ApplicableVersion": "any",
@@ -2111,7 +2111,7 @@
         "InternalName": "MidiBard2Preview",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": "1657837265",
+        "LastUpdate": "1658160066",
         "LoadPriority": 0,
         "Name": "MidiBard 2 - Preview [Aku API 6]",
         "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
