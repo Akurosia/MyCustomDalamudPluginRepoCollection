@@ -61,51 +61,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.2.8",
-        "Author": "Ajisai Mirai",
-        "DalamudApiLevel": 6,
-        "Description": "Periodically scan Universalis for watched items and notify you for price drops or raises.\n (https://github.com/AjisaiMirai/Universalis-watch-releases/raw/main/repo.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/AjisaiMirai/Universalis-watch-releases/releases/download/0.0.1/UniversalisWatch.zip",
-        "DownloadLinkTesting": "https://github.com/AjisaiMirai/Universalis-watch-releases/releases/download/0.0.1/UniversalisWatch.zip",
-        "DownloadLinkUpdate": "https://github.com/AjisaiMirai/Universalis-watch-releases/releases/download/0.0.1/UniversalisWatch.zip",
-        "IconUrl": "",
-        "InternalName": "UniversalisWatch",
-        "IsHide": "false",
-        "IsTestingExclusive": false,
-        "LastUpdated": "0",
-        "Name": "Universalis Watch [Aku API 6]",
-        "Punchline": "Never miss market opportunities again.",
-        "RepoUrl": "https://github.com/AjisaiMirai/UniversalisWatch",
-        "Tags": [
-            "Universalis",
-            "Market",
-            "Marketboard",
-            "PublicMarketBoard",
-            "fmauNeko"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.1.6",
-        "Author": "Meowdy-do",
-        "DalamudApiLevel": 6,
-        "Description": "Craft your things\n (https://github.com/DLNSrv/CraftingList/raw/main/CraftingList/repo.json)",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/Junie-774/CraftingList/main/CraftingList/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/Junie-774/CraftingList/main/CraftingList/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/Junie-774/CraftingList/main/CraftingList/latest.zip",
-        "InternalName": "CraftingList",
-        "IsHide": false,
-        "LoadPriority": 69,
-        "Name": "Crafting List [Aku API 6]",
-        "Punchline": "Craft stuffs",
-        "RepoUrl": "https://github.com/Junie-774/CraftingList",
-        "Tags": [
-            "craft"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.2",
         "Author": "Excelzn",
         "DalamudApiLevel": 6,
