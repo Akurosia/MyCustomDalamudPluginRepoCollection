@@ -61,6 +61,25 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.1.6",
+        "Author": "Meowdy-do",
+        "DalamudApiLevel": 6,
+        "Description": "Craft your things\n (https://github.com/DLNSrv/CraftingList/raw/main/CraftingList/repo.json)",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/Junie-774/CraftingList/main/CraftingList/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/Junie-774/CraftingList/main/CraftingList/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/Junie-774/CraftingList/main/CraftingList/latest.zip",
+        "InternalName": "CraftingList",
+        "IsHide": false,
+        "LoadPriority": 69,
+        "Name": "Crafting List [Aku API 6]",
+        "Punchline": "Craft stuffs",
+        "RepoUrl": "https://github.com/Junie-774/CraftingList",
+        "Tags": [
+            "craft"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.2",
         "Author": "Excelzn",
         "DalamudApiLevel": 6,

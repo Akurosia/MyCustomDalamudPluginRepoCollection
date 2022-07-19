@@ -1,5 +1,6 @@
 [
     "https://darkarchon.internet-box.ch:8443/plogon/plogonmaster.json",
+    "https://github.com/AjisaiMirai/Universalis-watch-releases/raw/main/repo.json",
     "https://plugins.annaclemens.io/",
     "https://raw.githubusercontent.com/AjisaiMirai/plugins/main/repo.json",
     "https://raw.githubusercontent.com/Caraxi/DalamudPlugins/master/pluginmaster.json",
@@ -10,6 +11,5 @@
     "https://raw.githubusercontent.com/katawajojo/DalamudPlugins/main/pluginmaster.json",
     "https://raw.githubusercontent.com/serifine/XIV-Chat-Scanner/main/repo.json",
     "https://raw.githubusercontent.com/xivdev/Penumbra/rework/repo.json",
-    "https://repo.horoscope.dev/dist/pluginmaster.json",
-    "https://github.com/AjisaiMirai/Universalis-watch-releases/raw/main/repo.json"
+    "https://repo.horoscope.dev/dist/pluginmaster.json"
 ]
