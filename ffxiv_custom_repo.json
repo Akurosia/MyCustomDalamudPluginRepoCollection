@@ -2375,7 +2375,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.1.4.0",
+        "AssemblyVersion": "2.1.5.0",
         "Author": "akira0245, Ori",
         "CategoryTags": [
             "utility",
@@ -2391,7 +2391,7 @@
         "InternalName": "MidiBard2Preview",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": "1658257842",
+        "LastUpdate": "1658342428",
         "LoadPriority": 0,
         "Name": "MidiBard 2 - Preview [Aku API 6]",
         "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
