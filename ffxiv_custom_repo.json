@@ -1075,14 +1075,14 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.0.1",
         "Author": "Eternita",
         "DalamudApiLevel": 6,
         "Description": "\n (https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json)",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/Eternita-S/MyDalamudPlugins/releases/download/Latest/UnloadErrorFuckOff.zip",
-        "DownloadLinkTesting": "https://github.com/Eternita-S/MyDalamudPlugins/releases/download/Latest/UnloadErrorFuckOff.zip",
-        "DownloadLinkUpdate": "https://github.com/Eternita-S/MyDalamudPlugins/releases/download/Latest/UnloadErrorFuckOff.zip",
+        "DownloadLinkInstall": "https://github.com/Eternita-S/UnloadErrorFuckOff/releases/latest/download/UnloadErrorFuckOff.zip",
+        "DownloadLinkTesting": "https://github.com/Eternita-S/UnloadErrorFuckOff/releases/latest/download/UnloadErrorFuckOff.zip",
+        "DownloadLinkUpdate": "https://github.com/Eternita-S/UnloadErrorFuckOff/releases/latest/download/UnloadErrorFuckOff.zip",
         "IconUrl": "",
         "ImageUrls": [],
         "InternalName": "UnloadErrorFuckOff",
@@ -1090,7 +1090,7 @@
         "IsTestingExclusive": false,
         "LastUpdated": "0",
         "Name": "UnloadErrorFuckOff [Aku API 6]",
-        "Punchline": "== This plugin is only useful for plugin developers. It will do absolutely nothing for regular user. ==\nA plugin to clean unload errors, allowing you to reload plugin without restarting the game. ",
+        "Punchline": "[For plugin developers only] A plugin that clears off load and unload errors. Plugin development is made easy once again!",
         "RepoUrl": "https://github.com/Eternita-S/UnloadErrorFuckOff"
     },
     {
