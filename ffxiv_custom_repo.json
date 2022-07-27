@@ -125,14 +125,14 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.0.6",
+        "AssemblyVersion": "0.0.0.7",
         "Author": "XIV Tools",
         "DalamudApiLevel": 6,
         "Description": "A plugin that allows you to create and apply Anamnesis-style body scaling full time.\n (https://github.com/Phenrei/CustomizePlus/raw/main/repo.json)",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/XIV-Tools/CustomizePlus/releases/download/0.0.0.6/CustomizePlus.zip",
-        "DownloadLinkTesting": "https://github.com/XIV-Tools/CustomizePlus/releases/download/0.0.0.6/CustomizePlus.zip",
-        "DownloadLinkUpdate": "https://github.com/XIV-Tools/CustomizePlus/releases/download/0.0.0.6/CustomizePlus.zip",
+        "DownloadLinkInstall": "https://github.com/XIV-Tools/CustomizePlus/releases/download/0.0.0.7/CustomizePlus.zip",
+        "DownloadLinkTesting": "https://github.com/XIV-Tools/CustomizePlus/releases/download/0.0.0.7/CustomizePlus.zip",
+        "DownloadLinkUpdate": "https://github.com/XIV-Tools/CustomizePlus/releases/download/0.0.0.7/CustomizePlus.zip",
         "IconUrl": "https://raw.githubusercontent.com/XIV-Tools/CustomizePlus/main/Data/icon.png",
         "InternalName": "CustomizePlus",
         "IsHide": "False",
@@ -141,7 +141,7 @@
         "LoadPriority": 0,
         "Name": "Customize+ [Aku API 6]",
         "RepoUrl": "https://github.com/XIV-Tools/CustomizePlus",
-        "TestingAssemblyVersion": "0.0.0.6"
+        "TestingAssemblyVersion": "0.0.0.7"
     },
     {
         "ApplicableVersion": "any",
