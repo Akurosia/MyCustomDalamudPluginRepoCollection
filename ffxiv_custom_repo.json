@@ -1446,13 +1446,13 @@
         "InternalName": "PositionalGuide",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1659201519",
+        "LastUpdated": "1659206481",
         "Name": "Positional Assistant [Aku API 6]",
         "RepoUrl": "https://github.com/PrincessRTFM/PositionalAssistant"
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "5.0.8246.23727",
+        "AssemblyVersion": "5.0.8246.33608",
         "Author": "VariableVixen",
         "DalamudApiLevel": 6,
         "Description": "Adds tiny and simple but useful chat commands, and nothing more. It doesn't even have a UI.\n (https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json)",
@@ -1463,13 +1463,13 @@
         "InternalName": "TinyCmds",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1659201519",
+        "LastUpdated": "1659206481",
         "Name": "TinyCommands [Aku API 6]",
         "RepoUrl": "https://github.com/PrincessRTFM/TinyCommands"
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "6.0.8246.31140",
+        "AssemblyVersion": "6.0.8246.33622",
         "Author": "attick, daemitus, VariableVixen",
         "DalamudApiLevel": 6,
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.\n (https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json)",
@@ -1480,7 +1480,7 @@
         "InternalName": "XIVComboVX",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1659201519",
+        "LastUpdated": "1659206481",
         "Name": "XIV Combo Very Expanded [Aku API 6]",
         "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin"
     },
