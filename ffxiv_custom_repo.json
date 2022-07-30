@@ -1479,13 +1479,38 @@
         "InternalName": "CIDNamer",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1653079200",
+        "LastUpdate": "1659171593",
         "Name": "CIDNamer [Aku API 6]",
         "Punchline": "Content ID -> Character Name Mapping",
         "RepoUrl": "https://github.com/PunishedPineapple/CIDNamer",
         "Tags": [
             "Settings",
             "Utility"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.9.0.0",
+        "Author": "PunishedPineapple",
+        "DalamudApiLevel": 6,
+        "Description": "Provides a visual representation of the HP difference between two enemies on your aggro list.  Open the plugin config window to see a preview of the gauge and to change options.\n (https://raw.githubusercontent.com/PunishedPineapple/DalamudPluginRepo/main/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/HPDiff/latest.zip",
+        "DownloadLinkTesting": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/HPDiff/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/HPDiff/latest.zip",
+        "IconUrl": "https://github.com/PunishedPineapple/HPDiff/raw/main/docs/Images/icon.png",
+        "ImageUrls": [
+            "https://github.com/PunishedPineapple/HPDiff/raw/main/docs/Images/image1.png"
+        ],
+        "InternalName": "HPDiff",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": "1659171593",
+        "Name": "HP Difference Gauge [Aku API 6]",
+        "Punchline": "Enemy HP Split Gauge",
+        "RepoUrl": "https://github.com/PunishedPineapple/HPDiff",
+        "Tags": [
+            "UI"
         ]
     },
     {
