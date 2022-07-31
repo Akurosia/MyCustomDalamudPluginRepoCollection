@@ -1098,7 +1098,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.12.0.0",
+        "AssemblyVersion": "1.12.1.0",
         "Author": "akira0245",
         "CategoryTags": [
             "utility",
@@ -1114,7 +1114,7 @@
         "InternalName": "MidiBard",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1659235330",
+        "LastUpdated": "1659247553",
         "Name": "MidiBard [Aku API 6]",
         "Punchline": "Bard performance using midi files or keyboard.",
         "RepoUrl": "https://github.com/akira0245/MidiBard",
@@ -1745,7 +1745,7 @@
         "InternalName": "ReloadPluginCommand",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1659235330",
+        "LastUpdated": "1659247553",
         "Name": "ReloadPluginCommand [Aku API 6]",
         "Punchline": "Add a reload plugin command",
         "Tags": [
@@ -1771,7 +1771,7 @@
         "InternalName": "MultiboxPlugin",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1659235330",
+        "LastUpdated": "1659247553",
         "Name": "MultiboxPlugin [Aku API 6]",
         "Punchline": "Run more than 2 copies of FF14 at a time",
         "Tags": [
@@ -1796,7 +1796,7 @@
         "InternalName": "LootMaster",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1659235330",
+        "LastUpdated": "1659247553",
         "Name": "LootMaster [Aku API 6]",
         "Punchline": "Roll loots via text command.",
         "RepoUrl": "",
@@ -1823,7 +1823,7 @@
         "InternalName": "WindowSizeUnlock",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1659235330",
+        "LastUpdated": "1659247553",
         "Name": "WindowSizeUnlock [Aku API 6]",
         "Punchline": "Unlocks game window size restriction.",
         "Tags": [
