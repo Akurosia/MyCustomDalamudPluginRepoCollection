@@ -1874,7 +1874,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.1.0",
+        "AssemblyVersion": "1.1.1",
         "Author": "Zhyra",
         "DalamudApiLevel": 6,
         "Description": "A plugin to see partyverse.app events.\n (https://raw.githubusercontent.com/ZhyraPlugins/repo/main/plugins.json)",
@@ -1887,7 +1887,7 @@
         "IsTestingExclusive": "False",
         "LoadPriority": 0,
         "Name": "PartyPlanner [Aku API 6]",
-        "Punchline": "See  partyverse.app events ingame",
+        "Punchline": "See partyverse.app events ingame",
         "RepoUrl": "https://github.com/ZhyraPlugins/PartyPlanner",
         "Tags": [
             "party"
