@@ -70,5 +70,18 @@
     "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
     "https://raw.githubusercontent.com/yomishino/MyDalamudPlugins/main/plugins.json",
     "https://raw.githubusercontent.com/yschuurmans/FFXIVMoneyTracker/master/repo.json",
-    "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/manifest.json"
+    "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/manifest.json",
+    "https://raw.githubusercontent.com/Frogworks-Interactive/PluginRepository/main/repo.json",
+    "https://raw.githubusercontent.com/NukoOoOoOoO/DalamudPlugins/dev/pluginmaster.json",
+    "https://raw.githubusercontent.com/ZhyraPlugins/repo/main/plugins.json",
+    "https://raw.githubusercontent.com/status102/TradeBuddy/master/repo.json",
+    "https://raw.githubusercontent.com/BitsOfAByte/GoodFriend/main/repo.json",
+    "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/pluginmaster.json",
+    "https://raw.githubusercontent.com/fmieres/AutoVisor/master/repo.json",
+    "https://raw.githubusercontent.com/RokasKil/DalamudPlugins/main/plugins.json",
+    "https://raw.githubusercontent.com/dodingdaga/DalamudPlugins/main/PuppetMaster.json",
+    "https://github.com/EtheirysIO/repo/raw/master/pluginmaster.json",
+    "https://github.com/Eisenhuth/TrustworthyDalamudPlugins/raw/master/pluginmaster.json",
+    "https://raw.githubusercontent.com/he0119/FFXIVBlindBoxPlugin/refactor/enum/repo.json",
+    "https://github.com/cecilia-sanare/Puppets/raw/main/repo.json"
 ]
