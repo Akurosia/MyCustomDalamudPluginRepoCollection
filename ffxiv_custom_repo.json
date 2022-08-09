@@ -578,7 +578,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.1.0.0",
+        "AssemblyVersion": "1.1.0.1",
         "Author": "BitsOfAByte",
         "Changelog": "",
         "DalamudApiLevel": 6,
