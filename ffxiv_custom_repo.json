@@ -495,7 +495,7 @@
         "InternalName": "FFLogsViewer",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1660265925",
+        "LastUpdate": "1660283018",
         "Name": "FF Logs Viewer [Aku API 6]",
         "Punchline": "在游戏里查看玩家在FFLogs上的数据的插件。",
         "RepoUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer",
@@ -1461,7 +1461,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.1.2.6",
+        "AssemblyVersion": "1.1.2.7",
         "Author": "Nuko",
         "Changelog": "-1.1.2.2:\n\t适配API6\n\t现在会自动连接到临时服务器,如果不想连的话随便输一个链接就好\n-1.1.2.3:\n\t在触发成功时会发消息\n\t现在即使不连服务器，在输入/ggnore时也会发计数详情\n-1.1.2.4:\n\t增加关闭连接成功提示的选项\n-1.1.2.5:\n\t现在消息提示的Github链接可以打开网页了\n-1.1.2.6:\n\t在触发成功时忘了给服务器发消息\n\t稍微优化了下消息\n-1.1.2.7:\n\t修复触发概率不显示百分比的问题\n\t修复在当前地图没计数时也会向服务器报告的bug",
         "DalamudApiLevel": 6,
@@ -1473,7 +1473,7 @@
         "InternalName": "RankSSpawnHelper",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1660265925",
+        "LastUpdate": "1660283018",
         "Name": "S怪触发小助手 [Aku API 6]",
         "RepoUrl": "https://github.com/NukoOoOoOoO/RankSSpawnHelper",
         "Tags": [
