@@ -87,7 +87,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.2.13.2",
+        "AssemblyVersion": "0.2.13.3",
         "Author": "Lykos",
         "DalamudApiLevel": 6,
         "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically. Built upon Mare Synchronos before Discord Auth\n (https://github.com/EtheirysIO/repo/raw/master/pluginmaster.json)",
