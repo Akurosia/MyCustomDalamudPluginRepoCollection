@@ -1338,7 +1338,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.5.10",
+        "AssemblyVersion": "0.2.1.12",
         "Author": "Koenari",
         "DalamudApiLevel": 6,
         "Description": "A collection of useful tools for RaidGroups, including loot management\n (https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/main/pluginmaster.json)",
@@ -1353,8 +1353,9 @@
         "Punchline": "All you need for Raiding",
         "RepoUrl": "https://github.com/Koenari/HimbeertoniRaidTool",
         "Tags": [
-            "raid",
-            "plugin"
+            "Raid",
+            "Loot",
+            "Equipment"
         ]
     },
     {
