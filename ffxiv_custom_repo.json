@@ -1708,16 +1708,17 @@
         "AssemblyVersion": "1.4.7",
         "Author": "Sevii",
         "DalamudApiLevel": 6,
-        "Description": "Auto updating Material UI with customizable accent color and more. Icon by Meconate\n (https://raw.githubusercontent.com/TCrazylion/MyDalamudPlugins/main/myrepo.json)",
+        "Description": "自动更新 Material UI 并且支持自定义颜色和更多功能. 图标由 Meconate 制作\n (https://raw.githubusercontent.com/TCrazylion/MyDalamudPlugins/main/myrepo.json)",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/Sevii77/ffxiv_materialui_accent/raw/master/release.zip",
-        "DownloadLinkTesting": "https://github.com/Sevii77/ffxiv_materialui_accent/raw/master/release.zip",
-        "DownloadLinkUpdate": "https://github.com/Sevii77/ffxiv_materialui_accent/raw/master/release.zip",
-        "IconUrl": "https://raw.githubusercontent.com/Sevii77/ffxiv_materialui_accent/master/images/icon.png",
+        "DownloadLinkInstall": "https://www.gitclone.com/gogs/Yarukon/dalamud-plugins/raw/master/plugins/MaterialUI/MaterialUI.zip",
+        "DownloadLinkTesting": "https://www.gitclone.com/gogs/Yarukon/dalamud-plugins/raw/master/plugins/MaterialUI/MaterialUI.zip",
+        "DownloadLinkUpdate": "https://www.gitclone.com/gogs/Yarukon/dalamud-plugins/raw/master/plugins/MaterialUI/MaterialUI.zip",
+        "IconUrl": "https://www.gitclone.com/gogs/Yarukon/dalamud-plugins/raw/master/plugins/MaterialUI/icon.png",
         "InternalName": "MaterialUI",
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdate": 0,
+        "LoadPriority": 0,
         "Name": "Material UI [Aku API 6]",
         "RepoUrl": "https://github.com/Sevii77/ffxiv_materialui_accent",
         "Tags": [
@@ -1728,8 +1729,7 @@
             "sevii",
             "accent",
             "color"
-        ],
-        "TestingAssemblyVersion": "1.4.7"
+        ]
     },
     {
         "ApplicableVersion": "any",
