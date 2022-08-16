@@ -304,10 +304,10 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.1.0.1",
+        "AssemblyVersion": "1.1.0.2",
         "Author": "cecilia-sanare",
         "DalamudApiLevel": 6,
-        "Description": "Enables you to easily and automatically sync emotes via party chat and linkshells!\n (https://github.com/cecilia-sanare/Puppets/raw/main/repo.json)",
+        "Description": "Enables you to easily and automatically sync emotes via party chat!\n (https://github.com/cecilia-sanare/Puppets/raw/main/repo.json)",
         "DownloadCount": 1,
         "DownloadLinkInstall": "https://github.com/cecilia-sanare/Puppets/raw/main/Puppets.zip",
         "DownloadLinkTesting": "https://github.com/cecilia-sanare/Puppets/raw/main/Puppets.zip",
@@ -323,7 +323,7 @@
             "Emote",
             "Syncing"
         ],
-        "TestingAssemblyVersion": "1.1.0.1"
+        "TestingAssemblyVersion": "1.1.0.2"
     },
     {
         "ApplicableVersion": "any",
