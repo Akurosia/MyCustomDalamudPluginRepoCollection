@@ -1727,7 +1727,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.4.7",
+        "AssemblyVersion": "1.4.7.1",
         "Author": "Sevii",
         "DalamudApiLevel": 6,
         "Description": "自动更新 Material UI 并且支持自定义颜色和更多功能. 图标由 Meconate 制作\n (https://raw.githubusercontent.com/TCrazylion/MyDalamudPlugins/main/myrepo.json)",
