@@ -304,13 +304,13 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.1.0.4",
+        "AssemblyVersion": "1.2.0.1",
         "Author": "cecilia-sanare",
         "DalamudApiLevel": 6,
         "Description": "Enables you to easily and automatically sync emotes via party chat!\n (https://github.com/cecilia-sanare/Puppets/raw/main/repo.json)",
-        "DownloadLinkInstall": "https://github.com/cecilia-sanare/Puppets/raw/testing/!Dist/latest.zip",
-        "DownloadLinkTesting": "https://github.com/cecilia-sanare/Puppets/raw/testing/!Dist/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/cecilia-sanare/Puppets/raw/testing/!Dist/latest.zip",
+        "DownloadLinkInstall": "https://github.com/cecilia-sanare/Puppets/raw/main/!Dist/latest.zip",
+        "DownloadLinkTesting": "https://github.com/cecilia-sanare/Puppets/raw/main/!Dist/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/cecilia-sanare/Puppets/raw/main/!Dist/latest.zip",
         "InternalName": "Puppets",
         "IsHide": "False",
         "IsTestingExclusive": "False",
@@ -321,7 +321,7 @@
             "Emote",
             "Syncing"
         ],
-        "TestingAssemblyVersion": "1.1.0.4"
+        "TestingAssemblyVersion": "1.2.0.1"
     },
     {
         "ApplicableVersion": "any",
@@ -1270,7 +1270,7 @@
         "Changelog": "- Added: A proper changelog! :D Releases will share the same format.\n\nScrollable Tabs\n- Added: Support for the Bozjan Field Records window.\n- Added: Support for scrolling in and out of the favorites tab in the Mounts and Minions windows.\n- Added: Support for scrolling between the normal sized Inventory and the Key Items window.\n  - While at it, scrolling through tabs in Key Items window has been added, but not tested. Sorry for not having over 35 key items handy to have a second tab. :P\n- Changed: On fresh installations the Inventory option is now enabled by default.\n- Fixed: Scrolling too fast doesn't skip tabs anymore. Don't ask.\n",
         "DalamudApiLevel": 6,
         "Description": "Included Tweaks:\n\n- Auto Sort Armoury Chest\n- Character Class Switcher\n- Commands\n- Custom Chat Timestamp\n- DTR\n- Expert Deliveries\n- Forced Cutscene Music\n- Hide MSQ Complete\n- Keep Instant Portrait\n- Keep Screen Awake\n- Minimap Adjustments\n- Refresh Material List\n- Reveal Duty Requirements\n- Scrollable Tabs\n- Search the markets\n\n (https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json)",
-        "DownloadCount": 437,
+        "DownloadCount": 439,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.3.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.3.3/latest.zip",
         "InternalName": "HaselTweaks",
