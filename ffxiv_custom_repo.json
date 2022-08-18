@@ -46,24 +46,24 @@
         "ApplicableVersion": "any",
         "AssemblyVersion": "2.0.4.5",
         "Author": "Aireil",
-        "Changelog": "- 2.0.4.5: Penumbra API + library change for context menu button.\n- 2.0.4.5-hc: 更改了 Github 仓库的链接\n- 2.0.4.5-hc2: 增加职业名翻译",
+        "Changelog": "- 2.0.4.5: Penumbra API update + library change for context menu button.",
         "DalamudApiLevel": 6,
-        "Description": "在游戏里查看玩家在FFLogs上的数据的插件。\n (https://raw.githubusercontent.com/NukoOoOoOoO/DalamudPlugins/dev/pluginmaster.json)",
+        "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs.\n (https://raw.githubusercontent.com/ChunCorp/Dalamud-Plugins/main/pluginmaster.json)",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
-        "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
-        "IconUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer/raw/CN-Ver/res/icon.png",
+        "DownloadLinkInstall": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
+        "IconUrl": "https://github.com/Aireil/FFLogsViewer/raw/master/res/icon.png",
         "ImageUrls": [
-            "https://github.com/NukoOoOoOoO/FFLogsViewer/raw/CN-Ver/res/banner.png"
+            "https://github.com/Aireil/FFLogsViewer/raw/master/res/banner.png"
         ],
         "InternalName": "FFLogsViewer",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1660636779",
+        "LastUpdate": "1654392840",
         "Name": "FF Logs Viewer [Aku API 6]",
-        "Punchline": "在游戏里查看玩家在FFLogs上的数据的插件。",
-        "RepoUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer",
+        "Punchline": "View FF Logs ranking percentiles in-game.",
+        "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
         "Tags": [
             "FFLogs",
             "FFLog",
@@ -1286,29 +1286,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.1.2.8",
-        "Author": "Nuko",
-        "Changelog": "-1.1.2.8:\n\t增加了查询S怪情况的功能(暂不支持多线)",
-        "DalamudApiLevel": 6,
-        "Description": "一个触发S怪用的小工具\n (https://raw.githubusercontent.com/NukoOoOoOoO/DalamudPlugins/dev/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
-        "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
-        "InternalName": "RankSSpawnHelper",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdate": "1660636779",
-        "Name": "S怪触发小助手 [Aku API 6]",
-        "RepoUrl": "https://github.com/NukoOoOoOoO/RankSSpawnHelper",
-        "Tags": [
-            "S怪触发",
-            "触发",
-            "S怪"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "0.1.0.5",
         "Author": "Ottermandias",
         "DalamudApiLevel": 6,
@@ -2226,35 +2203,6 @@
             "Glasses"
         ],
         "TestingAssemblyVersion": "1.2.2.1"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.4.1.0",
-        "Author": "he0119",
-        "CategoryTags": [
-            "utility"
-        ],
-        "DalamudApiLevel": 6,
-        "Description": "用来统计盲盒中物品获得情况的插件。\n/blindbox 打开盲盒信息界面。\n/blindbox config 打开设置界面。\n (https://raw.githubusercontent.com/he0119/FFXIVBlindBoxPlugin/refactor/enum/repo.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/he0119/FFXIVBlindBoxPlugin/releases/download/v1.4.1.0/latest.zip",
-        "DownloadLinkTesting": "https://github.com/he0119/FFXIVBlindBoxPlugin/releases/download/v1.4.1.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/he0119/FFXIVBlindBoxPlugin/releases/download/v1.4.1.0/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/he0119/FFXIVBlindBoxPlugin/main/images/icon.png",
-        "ImageUrls": [
-            "https://raw.githubusercontent.com/he0119/FFXIVBlindBoxPlugin/main/images/image1.png"
-        ],
-        "InternalName": "BlindBoxPlugin",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LastUpdate": "1652583013",
-        "LoadPriority": 0,
-        "Name": "Blind Box [Aku API 6]",
-        "Punchline": "查看盲盒中物品的获得情况。",
-        "RepoUrl": "https://github.com/he0119/FFXIVBlindBoxPlugin",
-        "Tags": [
-            "blindbox"
-        ]
     },
     {
         "ApplicableVersion": "any",
