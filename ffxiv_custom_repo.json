@@ -3236,7 +3236,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.1.5",
+        "AssemblyVersion": "1.0.1.6",
         "Author": "",
         "DalamudApiLevel": 7,
         "Description": "锁定BOSS /LockBOSS change 1 靠近水晶切换1号线路\n/LockBOSS qi骑上最近的人\n/LockBOSS cai采集最近的矿,\n (https://raw.githubusercontent.com/TCrazylion/MyDalamudPlugins/main/myrepo.json)",
@@ -3249,7 +3249,7 @@
         "InternalName": "CN_Lock",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1660131872",
+        "LastUpdated": "1660752539",
         "Name": "CN_Lock [Aku API 7]",
         "Punchline": "锁定",
         "RepoUrl": ""
