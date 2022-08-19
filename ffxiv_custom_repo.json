@@ -336,9 +336,9 @@
         "DalamudApiLevel": 6,
         "Description": "Current functions:\nResolve eyes position\nWroth flames automarker (whole group and personal)\nTether to your chain partner\n (https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json)",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/Eternita-S/DSREyeLocator/releases/latest/download/DSREyeLocator.zip",
-        "DownloadLinkTesting": "https://github.com/Eternita-S/DSREyeLocator/releases/latest/download/DSREyeLocator.zip",
-        "DownloadLinkUpdate": "https://github.com/Eternita-S/DSREyeLocator/releases/latest/download/DSREyeLocator.zip",
+        "DownloadLinkInstall": "https://github.com/NightmareXIV/DSREyeLocator/releases/latest/download/DSREyeLocator.zip",
+        "DownloadLinkTesting": "https://github.com/NightmareXIV/DSREyeLocator/releases/latest/download/DSREyeLocator.zip",
+        "DownloadLinkUpdate": "https://github.com/NightmareXIV/DSREyeLocator/releases/latest/download/DSREyeLocator.zip",
         "IconUrl": "",
         "ImageUrls": [],
         "InternalName": "DSREyeLocator",
@@ -347,7 +347,7 @@
         "LastUpdated": "0",
         "Name": "DSR Toolbox [Aku API 6]",
         "Punchline": "[beta] A helper plugin for Dragonsong's Reprise (Ultimate).",
-        "RepoUrl": "https://github.com/Eternita-S/DSREyeLocator"
+        "RepoUrl": "https://github.com/NightmareXIV/DSREyeLocator"
     },
     {
         "ApplicableVersion": "any",
@@ -356,9 +356,9 @@
         "DalamudApiLevel": 6,
         "Description": "\n (https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json)",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/Eternita-S/MyDalamudPlugins/releases/download/Latest/WExtras.zip",
-        "DownloadLinkTesting": "https://github.com/Eternita-S/MyDalamudPlugins/releases/download/Latest/WExtras.zip",
-        "DownloadLinkUpdate": "https://github.com/Eternita-S/MyDalamudPlugins/releases/download/Latest/WExtras.zip",
+        "DownloadLinkInstall": "https://github.com/NightmareXIV/MyDalamudPlugins/releases/download/Latest/WExtras.zip",
+        "DownloadLinkTesting": "https://github.com/NightmareXIV/MyDalamudPlugins/releases/download/Latest/WExtras.zip",
+        "DownloadLinkUpdate": "https://github.com/NightmareXIV/MyDalamudPlugins/releases/download/Latest/WExtras.zip",
         "IconUrl": "",
         "ImageUrls": [],
         "InternalName": "WExtras",
@@ -367,7 +367,7 @@
         "LastUpdated": "0",
         "Name": "WeathermanExtras [Aku API 6]",
         "Punchline": "Experimental Weatherman functions. Use at your own risk.",
-        "RepoUrl": "https://github.com/Eternita-S/WExtras"
+        "RepoUrl": "https://github.com/NightmareXIV/WExtras"
     },
     {
         "ApplicableVersion": "any",
@@ -376,10 +376,10 @@
         "DalamudApiLevel": 6,
         "Description": "\n (https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json)",
         "DownloadCount": 1000,
-        "DownloadLinkInstall": "https://github.com/Eternita-S/Splatoon/releases/latest/download/Splatoon.zip",
-        "DownloadLinkTesting": "https://github.com/Eternita-S/Splatoon/releases/latest/download/Splatoon.zip",
-        "DownloadLinkUpdate": "https://github.com/Eternita-S/Splatoon/releases/latest/download/Splatoon.zip",
-        "IconUrl": "https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/Splatoon/icon.png",
+        "DownloadLinkInstall": "https://github.com/NightmareXIV/Splatoon/releases/latest/download/Splatoon.zip",
+        "DownloadLinkTesting": "https://github.com/NightmareXIV/Splatoon/releases/latest/download/Splatoon.zip",
+        "DownloadLinkUpdate": "https://github.com/NightmareXIV/Splatoon/releases/latest/download/Splatoon.zip",
+        "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/Splatoon/icon.png",
         "ImageUrls": [],
         "InternalName": "Splatoon",
         "IsHide": false,
@@ -387,7 +387,7 @@
         "LastUpdated": "0",
         "Name": "Splatoon [Aku API 6]",
         "Punchline": "Infinite waymarks in the world and target circles.",
-        "RepoUrl": "https://github.com/Eternita-S/Splatoon"
+        "RepoUrl": "https://github.com/NightmareXIV/Splatoon"
     },
     {
         "ApplicableVersion": "any",
@@ -396,10 +396,10 @@
         "DalamudApiLevel": 6,
         "Description": "\n (https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json)",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/Eternita-S/TextAdvance/releases/latest/download/TextAdvance.zip",
-        "DownloadLinkTesting": "https://github.com/Eternita-S/TextAdvance/releases/latest/download/TextAdvance.zip",
-        "DownloadLinkUpdate": "https://github.com/Eternita-S/TextAdvance/releases/latest/download/TextAdvance.zip",
-        "IconUrl": "https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/TextAdvance/icon.png",
+        "DownloadLinkInstall": "https://github.com/NightmareXIV/TextAdvance/releases/latest/download/TextAdvance.zip",
+        "DownloadLinkTesting": "https://github.com/NightmareXIV/TextAdvance/releases/latest/download/TextAdvance.zip",
+        "DownloadLinkUpdate": "https://github.com/NightmareXIV/TextAdvance/releases/latest/download/TextAdvance.zip",
+        "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/TextAdvance/icon.png",
         "ImageUrls": [],
         "InternalName": "TextAdvance",
         "IsHide": false,
@@ -407,7 +407,7 @@
         "LastUpdated": "0",
         "Name": "TextAdvance [Aku API 6]",
         "Punchline": "Automatically skips subtitle boxes and confirms cutscene skipping. Useful mostly for alt levelling. Requires /at command to be typed on each log in to be enabled.",
-        "RepoUrl": "https://github.com/Eternita-S/TextAdvance"
+        "RepoUrl": "https://github.com/NightmareXIV/TextAdvance"
     },
     {
         "ApplicableVersion": "any",
@@ -416,9 +416,9 @@
         "DalamudApiLevel": 6,
         "Description": "\n (https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json)",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/Eternita-S/MyDalamudPlugins/releases/download/Latest/AntiAfkKick.zip",
-        "DownloadLinkTesting": "https://github.com/Eternita-S/MyDalamudPlugins/releases/download/Latest/AntiAfkKick.zip",
-        "DownloadLinkUpdate": "https://github.com/Eternita-S/MyDalamudPlugins/releases/download/Latest/AntiAfkKick.zip",
+        "DownloadLinkInstall": "https://github.com/NightmareXIV/MyDalamudPlugins/releases/download/Latest/AntiAfkKick.zip",
+        "DownloadLinkTesting": "https://github.com/NightmareXIV/MyDalamudPlugins/releases/download/Latest/AntiAfkKick.zip",
+        "DownloadLinkUpdate": "https://github.com/NightmareXIV/MyDalamudPlugins/releases/download/Latest/AntiAfkKick.zip",
         "IconUrl": "",
         "ImageUrls": [],
         "InternalName": "AntiAfkKick-Dalamud",
@@ -427,7 +427,7 @@
         "LastUpdated": "0",
         "Name": "AntiAfkKick [Aku API 6]",
         "Punchline": "A Dalamud plugin for preventing being auto-kicked from FFXIV due to inactivity. Install and forget, no config needed.",
-        "RepoUrl": "https://github.com/Eternita-S/AntiAfkKick"
+        "RepoUrl": "https://github.com/NightmareXIV/AntiAfkKick"
     },
     {
         "ApplicableVersion": "any",
@@ -751,9 +751,9 @@
         "DalamudApiLevel": 6,
         "Description": "Numpad is also supported. Note: some menus, like World Visit, are not supported, and whether they will be in future or not remains a question.\n (https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json)",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/Eternita-S/MyDalamudPlugins/releases/download/Latest/SelectString.zip",
-        "DownloadLinkTesting": "https://github.com/Eternita-S/MyDalamudPlugins/releases/download/Latest/SelectString.zip",
-        "DownloadLinkUpdate": "https://github.com/Eternita-S/MyDalamudPlugins/releases/download/Latest/SelectString.zip",
+        "DownloadLinkInstall": "https://github.com/NightmareXIV/MyDalamudPlugins/releases/download/Latest/SelectString.zip",
+        "DownloadLinkTesting": "https://github.com/NightmareXIV/MyDalamudPlugins/releases/download/Latest/SelectString.zip",
+        "DownloadLinkUpdate": "https://github.com/NightmareXIV/MyDalamudPlugins/releases/download/Latest/SelectString.zip",
         "IconUrl": "",
         "ImageUrls": [],
         "InternalName": "SelectString",
@@ -762,7 +762,7 @@
         "LastUpdated": "0",
         "Name": "SelectString [Aku API 6]",
         "Punchline": "Select items in menus via 0-9 keys rather than mouse.",
-        "RepoUrl": "https://github.com/Eternita-S/SelectString"
+        "RepoUrl": "https://github.com/NightmareXIV/SelectString"
     },
     {
         "ApplicableVersion": "any",
@@ -771,9 +771,9 @@
         "DalamudApiLevel": 6,
         "Description": "\n (https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json)",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/Eternita-S/MyDalamudPlugins/releases/download/Latest/Prioritizer.zip",
-        "DownloadLinkTesting": "https://github.com/Eternita-S/MyDalamudPlugins/releases/download/Latest/Prioritizer.zip",
-        "DownloadLinkUpdate": "https://github.com/Eternita-S/MyDalamudPlugins/releases/download/Latest/Prioritizer.zip",
+        "DownloadLinkInstall": "https://github.com/NightmareXIV/MyDalamudPlugins/releases/download/Latest/Prioritizer.zip",
+        "DownloadLinkTesting": "https://github.com/NightmareXIV/MyDalamudPlugins/releases/download/Latest/Prioritizer.zip",
+        "DownloadLinkUpdate": "https://github.com/NightmareXIV/MyDalamudPlugins/releases/download/Latest/Prioritizer.zip",
         "IconUrl": "",
         "ImageUrls": [],
         "InternalName": "Prioritizer",
@@ -782,7 +782,7 @@
         "LastUpdated": "0",
         "Name": "Prioritizer [Aku API 6]",
         "Punchline": "Prioritizer sets game's priority to high while crafting. No more failed crafts due to random lags while game is minimized.",
-        "RepoUrl": "https://github.com/Eternita-S/Prioritizer"
+        "RepoUrl": "https://github.com/NightmareXIV/Prioritizer"
     },
     {
         "ApplicableVersion": "any",
@@ -791,9 +791,9 @@
         "DalamudApiLevel": 6,
         "Description": "\n (https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json)",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/Eternita-S/UnloadErrorFuckOff/releases/latest/download/UnloadErrorFuckOff.zip",
-        "DownloadLinkTesting": "https://github.com/Eternita-S/UnloadErrorFuckOff/releases/latest/download/UnloadErrorFuckOff.zip",
-        "DownloadLinkUpdate": "https://github.com/Eternita-S/UnloadErrorFuckOff/releases/latest/download/UnloadErrorFuckOff.zip",
+        "DownloadLinkInstall": "https://github.com/NightmareXIV/UnloadErrorFuckOff/releases/latest/download/UnloadErrorFuckOff.zip",
+        "DownloadLinkTesting": "https://github.com/NightmareXIV/UnloadErrorFuckOff/releases/latest/download/UnloadErrorFuckOff.zip",
+        "DownloadLinkUpdate": "https://github.com/NightmareXIV/UnloadErrorFuckOff/releases/latest/download/UnloadErrorFuckOff.zip",
         "IconUrl": "",
         "ImageUrls": [],
         "InternalName": "UnloadErrorFuckOff",
@@ -802,7 +802,7 @@
         "LastUpdated": "0",
         "Name": "UnloadErrorFuckOff [Aku API 6]",
         "Punchline": "[For plugin developers only] A plugin that clears off load and unload errors. Plugin development is made easy once again!",
-        "RepoUrl": "https://github.com/Eternita-S/UnloadErrorFuckOff"
+        "RepoUrl": "https://github.com/NightmareXIV/UnloadErrorFuckOff"
     },
     {
         "ApplicableVersion": "any",
@@ -811,9 +811,9 @@
         "DalamudApiLevel": 6,
         "Description": "\n (https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json)",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/Eternita-S/Imagenation/releases/latest/download/Imagenation.zip",
-        "DownloadLinkTesting": "https://github.com/Eternita-S/Imagenation/releases/latest/download/Imagenation.zip",
-        "DownloadLinkUpdate": "https://github.com/Eternita-S/Imagenation/releases/latest/download/Imagenation.zip",
+        "DownloadLinkInstall": "https://github.com/NightmareXIV/Imagenation/releases/latest/download/Imagenation.zip",
+        "DownloadLinkTesting": "https://github.com/NightmareXIV/Imagenation/releases/latest/download/Imagenation.zip",
+        "DownloadLinkUpdate": "https://github.com/NightmareXIV/Imagenation/releases/latest/download/Imagenation.zip",
         "IconUrl": "",
         "ImageUrls": [],
         "InternalName": "Imagenation",
@@ -822,7 +822,7 @@
         "LastUpdated": "0",
         "Name": "Imagenation [Aku API 6]",
         "Punchline": "[beta] An image drawing backend. To be used together with Triggernometry.",
-        "RepoUrl": "https://github.com/Eternita-S/Imagenation"
+        "RepoUrl": "https://github.com/NightmareXIV/Imagenation"
     },
     {
         "ApplicableVersion": "any",
