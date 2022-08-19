@@ -1121,7 +1121,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.2.1.12",
+        "AssemblyVersion": "0.2.1.13",
         "Author": "Koenari",
         "DalamudApiLevel": 6,
         "Description": "A collection of useful tools for RaidGroups, including loot management\n (https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/main/pluginmaster.json)",
@@ -1129,6 +1129,11 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/master/testing/HimbeerToniRaidTool/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/master/plugins/HimbeerToniRaidTool/latest.zip",
         "IconUrl": "https://raw.githubusercontent.com/Koenari/HimbeertoniRaidTool/master/images/icon.png",
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/Koenari/HimbeertoniRaidTool/master/OtherResources/Promotion/Loot Session.png",
+            "https://raw.githubusercontent.com/Koenari/HimbeertoniRaidTool/master/OtherResources/Promotion/Raid View.png",
+            "https://raw.githubusercontent.com/Koenari/HimbeertoniRaidTool/master/OtherResources/Promotion/Solo View.png"
+        ],
         "InternalName": "HimbeertoniRaidTool",
         "IsTestingExclusive": "False",
         "LoadPriority": 0,
@@ -1340,7 +1345,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.3.4",
+        "AssemblyVersion": "0.3.5",
         "Author": "darkarchon",
         "DalamudApiLevel": 6,
         "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.\n (https://raw.githubusercontent.com/Penumbra-Sync/repo/main/plogonmaster.json)",
