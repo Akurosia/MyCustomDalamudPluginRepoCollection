@@ -3357,6 +3357,31 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "2.1.0.0",
+        "Author": "XiYu",
+        "DalamudApiLevel": 6,
+        "Description": "A plugin to do something that you always forget\n (https://raw.githubusercontent.com/TCrazylion/MyDalamudPlugins/main/myrepo.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/Karlin-Z/DalamudPlugins/raw/Api4/plugins/JobAssist/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Karlin-Z/DalamudPlugins/raw/Api4/plugins/JobAssist/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Karlin-Z/DalamudPlugins/raw/Api4/plugins/JobAssist/latest.zip",
+        "InstalledFromUrl": null,
+        "InternalName": "CN_JobAssist",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "1618843696",
+        "Name": "CN_JobAssist [Aku API 6]",
+        "Punchline": "Job Assist",
+        "RepoUrl": "",
+        "Tags": [
+            "Ninjutsu",
+            "Assist",
+            "Xiyu"
+        ],
+        "Testing": false
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.4.7.1",
         "Author": "Sevii",
         "DalamudApiLevel": 6,
