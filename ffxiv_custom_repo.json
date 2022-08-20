@@ -722,7 +722,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.1.0.0",
         "Author": "Eisenhuth",
         "DalamudApiLevel": 6,
         "Description": "Translates Nael's quotes into mechanics.\n (https://raw.githubusercontent.com/Eisenhuth/TrustworthyDalamudPlugins/master/pluginmaster.json)",
