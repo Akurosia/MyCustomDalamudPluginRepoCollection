@@ -1148,10 +1148,10 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.2.1.0",
+        "AssemblyVersion": "2.0.0.0",
         "Author": "Kouzukii",
         "CategoryTags": [
-            "inventory",
+            "ui",
             "utility"
         ],
         "DalamudApiLevel": 6,
@@ -1160,6 +1160,10 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/PriceInsight/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/PriceInsight/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/PriceInsight/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/Kouzukii/ffxiv-priceinsight/master/PriceInsight/images/icon.png",
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/Kouzukii/ffxiv-priceinsight/master/PriceInsight/images/image1.png"
+        ],
         "InternalName": "PriceInsight",
         "IsHide": "False",
         "IsTestingExclusive": "False",
