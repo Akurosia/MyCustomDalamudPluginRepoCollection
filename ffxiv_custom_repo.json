@@ -44,7 +44,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.6.0",
+        "AssemblyVersion": "2.0.6.1",
         "Author": "Aireil",
         "Changelog": "- 2.0.6.0:\n   Preliminary 6.2 update\n   Fix a bug where an incorrect encounter would be displayed if it is from the same zone. If you added a DSR entry early, you may need to re-add it, because FF Logs changed the encounter id.\n   API 7 update\n- 2.0.5.0:\n   Add swap groups, allowing you to dynamically change the layout in the main window.\n   Adding encounters in the layout is now easier.\n   Some other minor improvements.",
         "DalamudApiLevel": 7,
@@ -60,7 +60,7 @@
         "InternalName": "FFLogsViewer",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1661239285",
+        "LastUpdate": "1661290713",
         "Name": "FF Logs Viewer [Aku API 7]",
         "Punchline": "View FF Logs ranking percentiles in-game.",
         "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
