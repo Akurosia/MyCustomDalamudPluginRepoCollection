@@ -44,26 +44,26 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.4.5",
+        "AssemblyVersion": "2.0.6.0",
         "Author": "Aireil",
-        "Changelog": "- 2.0.4.5: Penumbra API + library change for context menu button.\n- 2.0.4.5-hc: 更改了 Github 仓库的链接\n- 2.0.4.5-hc2: 增加职业名翻译",
-        "DalamudApiLevel": 6,
-        "Description": "在游戏里查看玩家在FFLogs上的数据的插件。\n (https://raw.githubusercontent.com/NukoOoOoOoO/DalamudPlugins/dev/pluginmaster.json)",
+        "Changelog": "- 2.0.6.0:\n   Preliminary 6.2 update\n   Fix a bug where an incorrect encounter would be displayed if it is from the same zone. If you added a DSR entry early, you may need to re-add it, because FF Logs changed the encounter id.\n   API 7 update\n- 2.0.5.0:\n   Add swap groups, allowing you to dynamically change the layout in the main window.\n   Adding encounters in the layout is now easier.\n   Some other minor improvements.",
+        "DalamudApiLevel": 7,
+        "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.\n (https://raw.githubusercontent.com/Aireil/MyDalamudPlugins/master/pluginmaster.json)",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
-        "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
-        "IconUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer/raw/CN-Ver/res/icon.png",
+        "DownloadLinkInstall": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
+        "IconUrl": "https://github.com/Aireil/FFLogsViewer/raw/master/res/icon.png",
         "ImageUrls": [
-            "https://github.com/NukoOoOoOoO/FFLogsViewer/raw/CN-Ver/res/banner.png"
+            "https://github.com/Aireil/FFLogsViewer/raw/master/res/banner.png"
         ],
         "InternalName": "FFLogsViewer",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1661058023",
-        "Name": "FF Logs Viewer [Aku API 6]",
-        "Punchline": "在游戏里查看玩家在FFLogs上的数据的插件。",
-        "RepoUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer",
+        "LastUpdate": "1661239285",
+        "Name": "FF Logs Viewer [Aku API 7]",
+        "Punchline": "View FF Logs ranking percentiles in-game.",
+        "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
         "Tags": [
             "FFLogs",
             "FFLog",
@@ -575,6 +575,35 @@
         "Name": "Penumbra [Aku API 6]",
         "RepoUrl": "https://github.com/xivdev/Penumbra",
         "TestingAssemblyVersion": "0.5.5.0"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "2.0.4.5",
+        "Author": "Aireil",
+        "Changelog": "- 2.0.4.5: Penumbra API + library change for context menu button.\n- 2.0.4.5-hc: 更改了 Github 仓库的链接\n- 2.0.4.5-hc2: 增加职业名翻译",
+        "DalamudApiLevel": 6,
+        "Description": "在游戏里查看玩家在FFLogs上的数据的插件。\n (https://raw.githubusercontent.com/NukoOoOoOoO/DalamudPlugins/dev/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
+        "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
+        "IconUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer/raw/CN-Ver/res/icon.png",
+        "ImageUrls": [
+            "https://github.com/NukoOoOoOoO/FFLogsViewer/raw/CN-Ver/res/banner.png"
+        ],
+        "InternalName": "FFLogsViewer",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": "1661058023",
+        "Name": "FF Logs Viewer [Aku API 6]",
+        "Punchline": "在游戏里查看玩家在FFLogs上的数据的插件。",
+        "RepoUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer",
+        "Tags": [
+            "FFLogs",
+            "FFLog",
+            "FFLo",
+            "FFL"
+        ]
     },
     {
         "ApplicableVersion": "any",
