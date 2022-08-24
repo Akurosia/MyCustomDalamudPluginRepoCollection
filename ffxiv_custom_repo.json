@@ -1249,6 +1249,37 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.1.4",
+        "Author": "Det",
+        "CategoryTags": [
+            "utility"
+        ],
+        "Changelog": "6.2 update",
+        "DalamudApiLevel": 7,
+        "Description": "Currently, the only possible way to select a housing item is to click it manually with your mouse over it, and that can be a problem if you have multiple items close to each other.\nThis plugin adds a new option when right-clicking an item from the Housing Menu that targets the item for you, saving you a lot of trouble.\n (https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/InitialDet/TargetFurniture/releases/download/1.0.1.4/latest.zip",
+        "DownloadLinkTesting": "https://github.com/InitialDet/TargetFurniture/releases/download/1.0.1.4/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/InitialDet/TargetFurniture/releases/download/1.0.1.4/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/TargetFurniture/images/icon.png",
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/TargetFurniture/images/image1.png"
+        ],
+        "InternalName": "TargetFurniture",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdated": 1661350280,
+        "LoadPriority": 0,
+        "Name": "Target Furniture [Aku API 7]",
+        "Punchline": "Adds an option that lets you Select/Move a housing item from the Housing Menu",
+        "RepoUrl": "https://github.com/InitialDet/TargetFurniture",
+        "Tags": [
+            "Casual",
+            "Housing"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "0.2.1.13",
         "Author": "Koenari",
         "DalamudApiLevel": 6,
@@ -3171,9 +3202,31 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.4.1",
+        "AssemblyVersion": "1.4.1.0",
         "Author": "zhudotexe",
-        "DalamudApiLevel": 6,
+        "DalamudApiLevel": 7,
+        "Description": "Looking for that perfect house? PaissaHouse lets you receive notifications when a new plot of land is up for sale on your home world.\nView the list of all houses available on a world at https://paissadb.zhu.codes/!\n\nWant to contribute? Check out the repository (globe icon below) for instructions.\n (https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/manifest.json)",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_PaissaHouse/autoSweep.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_PaissaHouse/autoSweep.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_PaissaHouse/autoSweep.zip",
+        "IconUrl": "https://raw.githubusercontent.com/zhudotexe/FFXIV_PaissaHouse/main/images/icon.png",
+        "InternalName": "autoSweep",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": 1661351361,
+        "LoadPriority": 0,
+        "Name": "PaissaHouse [Aku API 7]",
+        "Punchline": "Crowdsourced housing alerts and lottery tracking for all.",
+        "RepoUrl": "https://github.com/zhudotexe/FFXIV_PaissaHouse",
+        "Tags": [
+            "housing"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.4.2",
+        "Author": "zhudotexe",
+        "DalamudApiLevel": 7,
         "Description": "Generates a random Arc Sys countdown message on /rcd <time>. Time must be between 5 and 30 seconds.\n (https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/manifest.json)",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_CountdownMessages/CountdownMessages.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_CountdownMessages/CountdownMessages.zip",
@@ -3181,53 +3234,13 @@
         "InternalName": "CountdownMessages",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": 1657825465,
+        "LastUpdated": 1661350907,
         "LoadPriority": 0,
-        "Name": "Countdown Messages for Xeyr [Aku API 6]",
+        "Name": "Arc Sys Countdown Messages [Aku API 7]",
+        "Punchline": "Can't escape from crossing Michigan! The lazy Susan of fate is turning! Third fish! Eviscerate!",
         "RepoUrl": "https://github.com/zhudotexe/FFXIV_CountdownMessages",
         "Tags": [
             "meme"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.0",
-        "Author": "zhudotexe",
-        "DalamudApiLevel": 6,
-        "Description": "YEAAAAAAAAHT\n (https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/manifest.json)",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_VieraVoice4/VieraVoice4.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_VieraVoice4/VieraVoice4.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_VieraVoice4/VieraVoice4.zip",
-        "IconUrl": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_VieraVoice4/images/icon.png",
-        "InternalName": "VieraVoice4",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdated": 1657825497,
-        "LoadPriority": 0,
-        "Name": "YEAAAAAAHT [Aku API 6]",
-        "RepoUrl": "https://github.com/zhudotexe/FFXIV_VieraVoice4",
-        "Tags": [
-            "meme"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.2.0",
-        "Author": "zhudotexe",
-        "DalamudApiLevel": 6,
-        "Description": "This plugin replaces active ready checks with a passive system like those in multiplayer game lobbies, allowing players to mark themselves as ready instead of relying on someone to start a ready check.\n (https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/manifest.json)",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_ReadyCheck/ReadyCheck.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_ReadyCheck/ReadyCheck.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_ReadyCheck/ReadyCheck.zip",
-        "InternalName": "ReadyCheck",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdated": 1657825362,
-        "LoadPriority": 0,
-        "Name": "ReadyCheck [Aku API 6]",
-        "RepoUrl": "https://github.com/zhudotexe/FFXIV_ReadyCheck",
-        "Tags": [
-            "utility"
         ]
     },
     {
