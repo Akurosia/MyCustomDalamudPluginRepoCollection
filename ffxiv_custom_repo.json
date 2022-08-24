@@ -1322,23 +1322,23 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.2.1.13",
+        "AssemblyVersion": "0.4.0.17",
         "Author": "Koenari",
-        "DalamudApiLevel": 6,
+        "DalamudApiLevel": 7,
         "Description": "A collection of useful tools for RaidGroups, including loot management\n (https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/main/pluginmaster.json)",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/master/plugins/HimbeerToniRaidTool/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/master/testing/HimbeerToniRaidTool/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/master/plugins/HimbeerToniRaidTool/latest.zip",
         "IconUrl": "https://raw.githubusercontent.com/Koenari/HimbeertoniRaidTool/master/images/icon.png",
         "ImageUrls": [
-            "https://raw.githubusercontent.com/Koenari/HimbeertoniRaidTool/master/OtherResources/Promotion/Loot Session.png",
-            "https://raw.githubusercontent.com/Koenari/HimbeertoniRaidTool/master/OtherResources/Promotion/Raid View.png",
-            "https://raw.githubusercontent.com/Koenari/HimbeertoniRaidTool/master/OtherResources/Promotion/Solo View.png"
+            "https://raw.githubusercontent.com/Koenari/HimbeertoniRaidTool/master/OtherResources/assets/loot_session.png",
+            "https://raw.githubusercontent.com/Koenari/HimbeertoniRaidTool/master/OtherResources/assets/raid_view.png",
+            "https://raw.githubusercontent.com/Koenari/HimbeertoniRaidTool/master/OtherResources/assets/solo_view.png"
         ],
         "InternalName": "HimbeertoniRaidTool",
         "IsTestingExclusive": "False",
         "LoadPriority": 0,
-        "Name": "Himbeertoni Raid Tool [Aku API 6]",
+        "Name": "Himbeertoni Raid Tool [Aku API 7]",
         "Punchline": "All you need for Raiding",
         "RepoUrl": "https://github.com/Koenari/HimbeertoniRaidTool",
         "Tags": [
