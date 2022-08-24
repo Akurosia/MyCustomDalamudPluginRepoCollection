@@ -812,7 +812,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.1.0.2",
+        "AssemblyVersion": "2.1.0.3",
         "Author": "Eternita",
         "DalamudApiLevel": 7,
         "Description": "\n (https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json)",
@@ -1444,7 +1444,7 @@
         "InternalName": "XIVComboExpandedCustomized",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1660869753",
+        "LastUpdated": "1661362740",
         "LoadPriority": 0,
         "Name": "XIV Combo Expanded Customized [Aku API 6]",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
