@@ -2392,7 +2392,7 @@
             "social",
             "utility"
         ],
-        "Changelog": "5d2c35b: Update DiscordIntegrationPlugin.cs\n82544f1: DalamudApiLevel 5 -> 6\n16e8666: feat: Support Patch 6.1\n7a84d1e: feat: Support Patch 6.0x\n189acf0: Logging on receiving payloads\n7e2ebc3: Export constants\nf1007d2: Re-support IPC features",
+        "Changelog": "c250b99: re-enable .NET6\n75b16f2: Update Common\n82e9aa4: Merge branch 'master' of https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration\n5d2c35b: Update DiscordIntegrationPlugin.cs\ne94834c: Update Common\n82544f1: DalamudApiLevel 5 -> 6\n16e8666: feat: Support Patch 6.1\n7a84d1e: feat: Support Patch 6.0x\n189acf0: Logging on receiving payloads\n7e2ebc3: Export constants\nf1007d2: Re-support IPC features",
         "DalamudApiLevel": 6,
         "Description": "Dalamud Plugin to support Rich Presence for FFXIV.\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
         "DownloadLinkInstall": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/stable/Divination.DiscordIntegration/latest.zip",
@@ -2410,7 +2410,7 @@
         "Tags": [
             "Discord"
         ],
-        "TestingAssemblyVersion": "0.1.0.54"
+        "TestingAssemblyVersion": "0.1.0.58"
     },
     {
         "ApplicableVersion": "any",
