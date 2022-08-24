@@ -1091,16 +1091,16 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.4.1",
+        "AssemblyVersion": "0.5.0",
         "Author": "Haselnussbomber",
-        "Changelog": "- Preliminary update for Patch 6.2",
+        "Changelog": "Updated for Patch 6.2.\n\nAdded Tweak: Aether Current Helper\n\nClick on a zone in the Aether Currents window to open up a helper window that gives you details on how to unlock them. Clicking on an aether current in the list opens the map with a flag to the position.\n\nRemoved Tweak: Keep Instant Portrait\n\nObsolete due to changes to the portrait system in Patch 6.2.",
         "DalamudApiLevel": 7,
-        "Description": "Included Tweaks:\n\n- Auto Sort Armoury Chest\n- Character Class Switcher\n- Commands\n- Custom Chat Timestamp\n- DTR\n- Expert Deliveries\n- Forced Cutscene Music\n- Hide MSQ Complete\n- Keep Instant Portrait\n- Keep Screen Awake\n- Minimap Adjustments\n- Refresh Material List\n- Reveal Duty Requirements\n- Scrollable Tabs\n- Search the markets\n- Series Exp Bar\n\n (https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json)",
-        "DownloadCount": 11,
-        "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.4.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.4.1/latest.zip",
+        "Description": "Included Tweaks:\n\n- Aether Current Helper\n- Auto Sort Armoury Chest\n- Character Class Switcher\n- Commands\n- Custom Chat Timestamp\n- DTR\n- Expert Deliveries\n- Forced Cutscene Music\n- Hide MSQ Complete\n- Keep Screen Awake\n- Minimap Adjustments\n- Refresh Material List\n- Reveal Duty Requirements\n- Scrollable Tabs\n- Search the markets\n- Series Exp Bar\n\n (https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json)",
+        "DownloadCount": 3,
+        "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.5.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.5.0/latest.zip",
         "InternalName": "HaselTweaks",
-        "LastUpdate": 1661221948,
+        "LastUpdate": 1661345356,
         "LoadPriority": 0,
         "Name": "HaselTweaks [Aku API 7]",
         "Punchline": "Some FFXIV tweaks.",
@@ -1113,7 +1113,7 @@
         "Changelog": "- Updated for Patch 6.2 (Updated Signatures)",
         "DalamudApiLevel": 7,
         "Description": "A little helper to check which Levequests have been completed and which are missing.\n (https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json)",
-        "DownloadCount": 0,
+        "DownloadCount": 18,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.2/latest.zip",
         "InternalName": "LeveHelper",
@@ -1122,23 +1122,6 @@
         "Name": "LeveHelper [Aku API 7]",
         "Punchline": "A little helper for Levequests.",
         "RepoUrl": "https://github.com/Haselnussbomber/LeveHelper"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.1",
-        "Author": "Haselnussbomber",
-        "Changelog": "First release! \n\nCouldn't test the unlock status yet, but it should work. ",
-        "DalamudApiLevel": 6,
-        "Description": "Find your aether currents.\n (https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json)",
-        "DownloadCount": 47,
-        "DownloadLinkInstall": "https://github.com/Haselnussbomber/AetherCurrentHelper/releases/download/v0.0.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/AetherCurrentHelper/releases/download/v0.0.1/latest.zip",
-        "InternalName": "AetherCurrentHelper",
-        "LastUpdate": 1661029993,
-        "LoadPriority": 0,
-        "Name": "AetherCurrentHelper [Aku API 6]",
-        "Punchline": "Find your aether currents.",
-        "RepoUrl": "https://github.com/Haselnussbomber/AetherCurrentHelper"
     },
     {
         "ApplicableVersion": "any",
@@ -2404,13 +2387,13 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.0.48",
+        "AssemblyVersion": "0.1.0.49",
         "Author": "Asteria Nocturna",
         "CategoryTags": [
             "utility"
         ],
-        "Changelog": "ccae22e: Delete Common\n94cb72e: Update packages.lock.json\nd329d45: Update AetheryteLinkInChatPlugin.cs\nb8b929b: Update Divination.AetheryteLinkInChat.csproj\nf41e162: Delete .gitmodules\nb2d320b: remove Common dependencies\n51a50e1: DalamudApiLevel 5 -> 6\nd8fabbd: Dalamud api 5",
-        "DalamudApiLevel": 6,
+        "Changelog": "ac094e7: .NET 6 and Api7\nccae22e: Delete Common\n94cb72e: Update packages.lock.json\nd329d45: Update AetheryteLinkInChatPlugin.cs\nb8b929b: Update Divination.AetheryteLinkInChat.csproj\nf41e162: Delete .gitmodules\nb2d320b: remove Common dependencies\n51a50e1: DalamudApiLevel 5 -> 6\nd8fabbd: Dalamud api 5",
+        "DalamudApiLevel": 7,
         "Description": "Dalamud Plugin to add a link to teleport to the nearest aetheryte. Teleporter plugin required!\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
         "DownloadLinkInstall": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.AetheryteLinkInChat/latest.zip",
         "DownloadLinkTesting": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.AetheryteLinkInChat/latest.zip",
@@ -2421,13 +2404,13 @@
         "IsTestingExclusive": true,
         "LastUpdated": 0,
         "LoadPriority": 0,
-        "Name": "Divination.AetheryteLinkInChat [Aku API 6]",
+        "Name": "Divination.AetheryteLinkInChat [Aku API 7]",
         "Punchline": "Easy teleport for Mob Hunting",
         "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat",
         "Tags": [
             "teleporter"
         ],
-        "TestingAssemblyVersion": "0.1.0.48"
+        "TestingAssemblyVersion": "0.1.0.49"
     },
     {
         "ApplicableVersion": "any",
@@ -3027,6 +3010,39 @@
             "EffectRange"
         ],
         "TestingAssemblyVersion": "1.4.6.1"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.4.3.1",
+        "Author": "yomishino",
+        "CategoryTags": [
+            "UI"
+        ],
+        "Changelog": "Patch 6.2 update",
+        "DalamudApiLevel": 7,
+        "Description": "This plugin detects certain objects/NPCs such as Aether Currents nearby and shows where they are by various ways, e.g. pointing to their locations on screen and notifying you in Chat.\n\nCurrently detects:\n\t- Aether Currents\n\t- Mob Hunt Elite Marks\n\t- Gathering Points\n\t- [Experimental] Quest-related NPCs/Objects \n\nNote: Because most objects/NPCs are not loaded when they are too faraway or when there are too many entities nearby (such as too many player characters), they will not be detected in this case.\n\nIcon by Lumas Arkfrost\n (https://raw.githubusercontent.com/yomishino/MyDalamudPlugins/main/plugins.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/TEST/latest.zip",
+        "DownloadLinkTesting": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/TEST/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/TEST/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/yomishino/FFXIVAetherCompass/master/res/img/icon_by_arkfrostlumas.png",
+        "ImageUrls": null,
+        "InternalName": "AetherCompass",
+        "IsHide": "False",
+        "IsTestingExclusive": "True",
+        "LastUpdate": "1661344743",
+        "LoadPriority": 0,
+        "Name": "Aether Compass [TEST] [Aku API 7]",
+        "Punchline": "Compasses that detect and mark certain nearby objects/NPCs",
+        "RepoUrl": "https://github.com/yomishino/FFXIVAetherCompass",
+        "Tags": [
+            "UI",
+            "map",
+            "compass",
+            "aether-currents",
+            "mob-hunt"
+        ],
+        "TestingAssemblyVersion": "1.4.3.1"
     },
     {
         "ApplicableVersion": "any",
