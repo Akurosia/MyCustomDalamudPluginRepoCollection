@@ -451,18 +451,18 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.1.6.4",
+        "AssemblyVersion": "1.1.6.0",
         "Author": "UnknownX",
         "CategoryTags": [
             "jobs"
         ],
         "Changelog": "",
         "DalamudApiLevel": 6,
-        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.\n (https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json)",
+        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.\n (https://raw.githubusercontent.com/Silempoleer/Armolion/main/pluginmaster.json)",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/43eb1580a90b33b300941a88ffcab11fa1752cf8/plugins/ReAction/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/43eb1580a90b33b300941a88ffcab11fa1752cf8/plugins/ReAction/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/43eb1580a90b33b300941a88ffcab11fa1752cf8/plugins/ReAction/latest.zip",
         "IconUrl": "",
         "ImageUrls": [
             ""
@@ -470,7 +470,7 @@
         "InternalName": "ReAction",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1658878503",
+        "LastUpdate": "1650083513",
         "Name": "ReAction [Aku API 6]",
         "Punchline": "QoL for the battle system.",
         "RepoUrl": "https://github.com/UnknownX7/ReAction"
@@ -496,7 +496,7 @@
         "InternalName": "DalamudRepoBrowser",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1658878503",
+        "LastUpdate": "1661329216",
         "Name": "DalamudRepoBrowser [Aku API 6]",
         "Punchline": "Browse and add third party repositories in an instant",
         "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser"
@@ -522,7 +522,7 @@
         "InternalName": "Cammy",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1658878503",
+        "LastUpdate": "1661329216",
         "Name": "Cammy [Aku API 6]",
         "Punchline": "A simple editor for the game's camera settings",
         "RepoUrl": "https://github.com/UnknownX7/Cammy"
@@ -537,7 +537,7 @@
         ],
         "Changelog": "",
         "DalamudApiLevel": 6,
-        "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.\n (https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json)",
+        "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.\n (https://raw.githubusercontent.com/ChunCorp/Dalamud-Plugins/main/pluginmaster.json)",
         "DownloadCount": 0,
         "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
@@ -549,7 +549,7 @@
         "InternalName": "NoClippy",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1658878503",
+        "LastUpdate": "1653186885",
         "Name": "NoClippy [Aku API 6]",
         "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
         "RepoUrl": "https://github.com/UnknownX7/NoClippy"
@@ -1667,6 +1667,56 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.1.2",
+        "Author": "UnknownX",
+        "Changelog": "",
+        "DalamudApiLevel": 6,
+        "Description": "Adds 3 decimal precision waiting to macros and removes the 60 seconds cap.\n (https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "InternalName": "Fractionality",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": "1661329216",
+        "Name": "Fractionality [Aku API 6]",
+        "Punchline": "Changes /wait and <wait> to support fractions",
+        "RepoUrl": "https://github.com/UnknownX7/Fractionality"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.4.0.10",
+        "Author": "UnknownX",
+        "CategoryTags": [
+            "jobs",
+            "utility"
+        ],
+        "Changelog": "",
+        "DalamudApiLevel": 7,
+        "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.\n (https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "InternalName": "NoClippy",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": "1661329216",
+        "Name": "NoClippy [Aku API 7]",
+        "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
+        "RepoUrl": "https://github.com/UnknownX7/NoClippy"
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.1.2.6",
         "Author": "UnknownX",
         "CategoryTags": [
@@ -1686,33 +1736,36 @@
         "InternalName": "OOBlugin",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1658878503",
+        "LastUpdate": "1661329216",
         "Name": "OOBlugin [Aku API 6]",
         "Punchline": "oob oob",
         "RepoUrl": "https://github.com/UnknownX7/OOBlugin"
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.1.2",
+        "AssemblyVersion": "1.1.6.5",
         "Author": "UnknownX",
+        "CategoryTags": [
+            "jobs"
+        ],
         "Changelog": "",
-        "DalamudApiLevel": 6,
-        "Description": "Adds 3 decimal precision waiting to macros and removes the 60 seconds cap.\n (https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json)",
+        "DalamudApiLevel": 7,
+        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.\n (https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json)",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
         "IconUrl": "",
         "ImageUrls": [
             ""
         ],
-        "InternalName": "Fractionality",
+        "InternalName": "ReAction",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1658878503",
-        "Name": "Fractionality [Aku API 6]",
-        "Punchline": "Changes /wait and <wait> to support fractions",
-        "RepoUrl": "https://github.com/UnknownX7/Fractionality"
+        "LastUpdate": "1661329216",
+        "Name": "ReAction [Aku API 7]",
+        "Punchline": "QoL for the battle system.",
+        "RepoUrl": "https://github.com/UnknownX7/ReAction"
     },
     {
         "ApplicableVersion": "any",
