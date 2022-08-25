@@ -1257,7 +1257,7 @@
         "Changelog": "Patch 6.2 Update",
         "DalamudApiLevel": 7,
         "Description": "It hooks the fish for you, can you believe it?\n (https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/pluginmaster.json)",
-        "DownloadCount": 0,
+        "DownloadCount": 467,
         "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.2.3.2/latest.zip",
         "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.2.3.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.2.3.2/latest.zip",
@@ -1303,37 +1303,6 @@
         "Tags": [
             "Casual",
             "Minion"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.1.4",
-        "Author": "Det",
-        "CategoryTags": [
-            "utility"
-        ],
-        "Changelog": "6.2 update",
-        "DalamudApiLevel": 7,
-        "Description": "Currently, the only possible way to select a housing item is to click it manually with your mouse over it, and that can be a problem if you have multiple items close to each other.\nThis plugin adds a new option when right-clicking an item from the Housing Menu that targets the item for you, saving you a lot of trouble.\n (https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/pluginmaster.json)",
-        "DownloadCount": 7,
-        "DownloadLinkInstall": "https://github.com/InitialDet/TargetFurniture/releases/download/1.0.1.4/latest.zip",
-        "DownloadLinkTesting": "https://github.com/InitialDet/TargetFurniture/releases/download/1.0.1.4/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/InitialDet/TargetFurniture/releases/download/1.0.1.4/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/TargetFurniture/images/icon.png",
-        "ImageUrls": [
-            "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/TargetFurniture/images/image1.png"
-        ],
-        "InternalName": "TargetFurniture",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LastUpdated": 1661350280,
-        "LoadPriority": 0,
-        "Name": "Target Furniture [Aku API 7]",
-        "Punchline": "Adds an option that lets you Select/Move a housing item from the Housing Menu",
-        "RepoUrl": "https://github.com/InitialDet/TargetFurniture",
-        "Tags": [
-            "Casual",
-            "Housing"
         ]
     },
     {
@@ -2810,13 +2779,16 @@
         "InternalName": "MakePlacePlugin",
         "LoadPriority": 0,
         "Name": "MakePlace Plugin [Aku API 7]",
+        "Punchline": "Automatically save & load furniture layouts in your house.",
         "RepoUrl": "https://github.com/jawslouis/MakePlacePlugin",
         "Tags": [
             "makeplace",
             "housing",
             "furniture",
             "jawslouis"
-        ]
+        ],
+        "_Dip17Channel": null,
+        "_isDip17Plugin": false
     },
     {
         "ApplicableVersion": "any",
