@@ -137,25 +137,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.2.2.13",
-        "Author": "Chalkos",
-        "Changelog": "patch 6.2 fix, dalamud api7 and .net6",
-        "DalamudApiLevel": 7,
-        "Description": "Helper for your day-to-day market operations.\n (https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
-        "DownloadLinkTesting": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
-        "InternalName": "Marketbuddy",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdated": "1632419669",
-        "Name": "Marketbuddy [Aku API 7]",
-        "Punchline": "Less clicks, more gil!",
-        "RepoUrl": "https://github.com/chalkos/Marketbuddy"
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "0.2.14.0",
         "Author": "Lykos",
         "DalamudApiLevel": 7,
@@ -455,7 +436,7 @@
         "InternalName": "Cammy",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1661390827",
+        "LastUpdate": "1661461908",
         "Name": "Cammy [Aku API 7]",
         "Punchline": "A simple editor for the game's camera settings",
         "RepoUrl": "https://github.com/UnknownX7/Cammy"
@@ -482,14 +463,14 @@
         "InternalName": "NoClippy",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1661390827",
+        "LastUpdate": "1661461908",
         "Name": "NoClippy [Aku API 7]",
         "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
         "RepoUrl": "https://github.com/UnknownX7/NoClippy"
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.1.6.5",
+        "AssemblyVersion": "1.1.6.6",
         "Author": "UnknownX",
         "CategoryTags": [
             "jobs"
@@ -508,7 +489,7 @@
         "InternalName": "ReAction",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1661390827",
+        "LastUpdate": "1661461908",
         "Name": "ReAction [Aku API 7]",
         "Punchline": "QoL for the battle system.",
         "RepoUrl": "https://github.com/UnknownX7/ReAction"
