@@ -137,25 +137,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.2.2.13",
-        "Author": "Chalkos",
-        "Changelog": "patch 6.2 fix, dalamud api7 and .net6",
-        "DalamudApiLevel": 7,
-        "Description": "Helper for your day-to-day market operations.\n (https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
-        "DownloadLinkTesting": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
-        "InternalName": "Marketbuddy",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdated": "1632419669",
-        "Name": "Marketbuddy [Aku API 7]",
-        "Punchline": "Less clicks, more gil!",
-        "RepoUrl": "https://github.com/chalkos/Marketbuddy"
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "0.2.14.0",
         "Author": "Lykos",
         "DalamudApiLevel": 7,
@@ -998,6 +979,32 @@
         "RepoUrl": "https://github.com/zhudotexe/FFXIV_CountdownMessages",
         "Tags": [
             "meme"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "3.2.1.0",
+        "Author": "llock",
+        "DalamudApiLevel": 7,
+        "Description": "A scuffed uwu jail auto marker\n (https://raw.githubusercontent.com/LockonS483/AutoJailMarker/master/AutoJailMarker/repo.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/LockonS483/AutoJailMarker/releases/download/3.2.1.0/AutoJailMarker.zip",
+        "DownloadLinkTesting": "https://github.com/LockonS483/AutoJailMarker/releases/download/3.2.1.0/AutoJailMarker.zip",
+        "DownloadLinkUpdate": "https://github.com/LockonS483/AutoJailMarker/releases/download/3.2.1.0/AutoJailMarker.zip",
+        "IconUrl": "https://raw.githubusercontent.com/LockonS483/AutoJailMarker/master/Data/TitIco.png",
+        "ImageUrls": null,
+        "InternalName": "AutoJailMarker",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdated": 1661443794,
+        "LoadPriority": 0,
+        "Name": "Auto Jail Marker [Aku API 7]",
+        "Punchline": "Simple Jails",
+        "RepoUrl": "https://github.com/LockonS483/AutoJailMarker",
+        "Tags": [
+            "titan",
+            "jails",
+            "uwu"
         ]
     },
     {
