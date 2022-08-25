@@ -137,25 +137,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.2.2.13",
-        "Author": "Chalkos",
-        "Changelog": "patch 6.2 fix, dalamud api7 and .net6",
-        "DalamudApiLevel": 7,
-        "Description": "Helper for your day-to-day market operations.\n (https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
-        "DownloadLinkTesting": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
-        "InternalName": "Marketbuddy",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdated": "1632419669",
-        "Name": "Marketbuddy [Aku API 7]",
-        "Punchline": "Less clicks, more gil!",
-        "RepoUrl": "https://github.com/chalkos/Marketbuddy"
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "0.2.14.0",
         "Author": "Lykos",
         "DalamudApiLevel": 7,
@@ -767,6 +748,32 @@
         "Tags": [
             "meme"
         ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "69.1.6.5",
+        "Author": "eqbot",
+        "CategoryTags": [
+            "jobs"
+        ],
+        "Changelog": "",
+        "DalamudApiLevel": 7,
+        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.\n (https://raw.githubusercontent.com/eqbot/DalamudPluginRepo/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
+        "DownloadLinkTesting": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "InternalName": "ReAction",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": "1651075658",
+        "Name": "ReAction_Custom [Aku API 7]",
+        "Punchline": "QoL for the battle system.",
+        "RepoUrl": "https://github.com/eqbot/ReAction_Custom"
     },
     {
         "ApplicableVersion": "any",
