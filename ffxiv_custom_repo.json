@@ -115,13 +115,12 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.2.1.0",
         "Author": "BardToolbox",
         "CategoryTags": [
             "utility",
             "other"
         ],
-        "DalamudApiLevel": 6,
+        "DalamudApiLevel": 7,
         "Description": "\n (https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/pluginmaster.json)",
         "DownloadCount": 2635,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip",
@@ -131,9 +130,9 @@
         "InternalName": "BardToolbox",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": "1659551723",
+        "LastUpdate": "1659559139",
         "LoadPriority": 0,
-        "Name": "BardToolbox [Aku API 6]",
+        "Name": "BardToolbox [Aku API 7]",
         "Punchline": "Bard party utilities.",
         "RepoUrl": "https://github.com/BardToolbox/BardToolbox-Release",
         "Tags": [
@@ -1739,9 +1738,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.4.7",
+        "AssemblyVersion": "1.4.8",
         "Author": "Sevii",
-        "DalamudApiLevel": 6,
+        "DalamudApiLevel": 7,
         "Description": "Auto updating Material UI with customizable accent color and more. Icon by Meconate\n (https://raw.githubusercontent.com/Sevii77/ffxiv_materialui_accent/master/repo.json)",
         "DownloadCount": 0,
         "DownloadLinkInstall": "https://github.com/Sevii77/ffxiv_materialui_accent/raw/master/release.zip",
@@ -1752,7 +1751,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdate": 0,
-        "Name": "Material UI [Aku API 6]",
+        "Name": "Material UI [Aku API 7]",
         "RepoUrl": "https://github.com/Sevii77/ffxiv_materialui_accent",
         "Tags": [
             "ui",
@@ -1763,7 +1762,7 @@
             "accent",
             "color"
         ],
-        "TestingAssemblyVersion": "1.4.7"
+        "TestingAssemblyVersion": "1.4.8"
     },
     {
         "ApplicableVersion": "any",
