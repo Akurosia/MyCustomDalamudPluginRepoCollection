@@ -30,9 +30,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.2.5",
+        "AssemblyVersion": "0.2.7",
         "Author": "Ajisai Mirai",
-        "Changelog": "0.2.3: Updated to latest game build.\n0.2.2: Fixed issue where a log would fire from overseer, if receiver string was empty.(Emote without target).\n0.2.1: Added 'ignore self' to overseer. Don't log traffic when we emote to someone we added.\n0.2.0: Fixed minor things. Added 'Overseer'. Add people where you want to log their emote traffic aswell. (Receiving and sending).",
+        "Changelog": "0.2.7:Skipped some version, idk why. Fixed issue regarding our trimmer.\n0.2.3: Updated to latest game build.\n0.2.2: Fixed issue where a log would fire from overseer, if receiver string was empty.(Emote without target).\n0.2.1: Added 'ignore self' to overseer. Don't log traffic when we emote to someone we added.\n0.2.0: Fixed minor things. Added 'Overseer'. Add people where you want to log their emote traffic aswell. (Receiving and sending).",
         "DalamudApiLevel": 7,
         "Description": "Ever AFK and curious if people emoted at you? No longer.\n (https://raw.githubusercontent.com/AjisaiMirai/plugins/main/repo.json)",
         "DownloadCount": 0,
@@ -134,6 +134,25 @@
         "TestingAssemblyVersion": null,
         "_Dip17Channel": null,
         "_isDip17Plugin": false
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.2.2.13",
+        "Author": "Chalkos",
+        "Changelog": "patch 6.2 fix, dalamud api7 and .net6",
+        "DalamudApiLevel": 7,
+        "Description": "Helper for your day-to-day market operations.\n (https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
+        "DownloadLinkTesting": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
+        "InternalName": "Marketbuddy",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "1632419669",
+        "Name": "Marketbuddy [Aku API 7]",
+        "Punchline": "Less clicks, more gil!",
+        "RepoUrl": "https://github.com/chalkos/Marketbuddy"
     },
     {
         "ApplicableVersion": "any",
