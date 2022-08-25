@@ -1,35 +1,6 @@
 [
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.6.1",
-        "Author": "Aireil",
-        "Changelog": "- 2.0.6.0:\n   Preliminary 6.2 update\n   Fix a bug where an incorrect encounter would be displayed if it is from the same zone. If you added a DSR entry early, you may need to re-add it, because FF Logs changed the encounter id.\n   API 7 update\n- 2.0.5.0:\n   Add swap groups, allowing you to dynamically change the layout in the main window.\n   Adding encounters in the layout is now easier.\n   Some other minor improvements.",
-        "DalamudApiLevel": 7,
-        "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.\n (https://raw.githubusercontent.com/Aireil/MyDalamudPlugins/master/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
-        "DownloadLinkTesting": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
-        "IconUrl": "https://github.com/Aireil/FFLogsViewer/raw/master/res/icon.png",
-        "ImageUrls": [
-            "https://github.com/Aireil/FFLogsViewer/raw/master/res/banner.png"
-        ],
-        "InternalName": "FFLogsViewer",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdate": "1661290713",
-        "Name": "FF Logs Viewer [Aku API 7]",
-        "Punchline": "View FF Logs ranking percentiles in-game.",
-        "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
-        "Tags": [
-            "FFLogs",
-            "FFLog",
-            "FFLo",
-            "FFL"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "0.2.5",
         "Author": "Ajisai Mirai",
         "Changelog": "0.2.3: Updated to latest game build.\n0.2.2: Fixed issue where a log would fire from overseer, if receiver string was empty.(Emote without target).\n0.2.1: Added 'ignore self' to overseer. Don't log traffic when we emote to someone we added.\n0.2.0: Fixed minor things. Added 'Overseer'. Add people where you want to log their emote traffic aswell. (Receiving and sending).",
@@ -134,25 +105,6 @@
         "TestingAssemblyVersion": null,
         "_Dip17Channel": null,
         "_isDip17Plugin": false
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "0.2.2.13",
-        "Author": "Chalkos",
-        "Changelog": "patch 6.2 fix, dalamud api7 and .net6",
-        "DalamudApiLevel": 7,
-        "Description": "Helper for your day-to-day market operations.\n (https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
-        "DownloadLinkTesting": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
-        "InternalName": "Marketbuddy",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdated": "1632419669",
-        "Name": "Marketbuddy [Aku API 7]",
-        "Punchline": "Less clicks, more gil!",
-        "RepoUrl": "https://github.com/chalkos/Marketbuddy"
     },
     {
         "ApplicableVersion": "any",
@@ -353,29 +305,6 @@
         "RepoUrl": "https://github.com/EtheirysIO/client",
         "Tags": [
             "customization"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.0.3",
-        "Author": "Frogworks Interactive",
-        "DalamudApiLevel": 7,
-        "Description": "description\n (https://raw.githubusercontent.com/Frogworks-Interactive/PluginRepository/main/repo.json)",
-        "DownloadCount": 3,
-        "DownloadLinkInstall": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.3-alpha/latest.zip",
-        "DownloadLinkTesting": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.3-alpha/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.3-alpha/latest.zip",
-        "InternalName": "EasySort",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LastUpdated": 1660650117,
-        "Name": "Easy Inventory Sort [Aku API 7]",
-        "Punchline": "sort your inventory a little faster",
-        "RepoUrl": "https://github.com/Frogworks-Interactive/EasySort",
-        "Tags": [
-            "sort",
-            "plugin",
-            "inventory"
         ]
     },
     {
@@ -742,27 +671,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.4.0.0",
-        "Author": "attick, daemitus, alymphocyte, grammernatzi, kam",
-        "DalamudApiLevel": 7,
-        "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!\nUpdated for API5\n (https://raw.githubusercontent.com/captainbinary/MyDalamudPlugins/master/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/captainbinary/MyDalamudPlugins/raw/master/plugins/XIVComboKamified/latest.zip",
-        "DownloadLinkTesting": "https://github.com/captainbinary/MyDalamudPlugins/raw/master/plugins/XIVComboKamified/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/captainbinary/MyDalamudPlugins/raw/master/plugins/XIVComboKamified/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/captainbinary/XIVComboPluginKamified/master/res/icon.png",
-        "ImageUrls": [],
-        "InternalName": "XIVComboExpandedest",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdated": "1661385560",
-        "LoadPriority": 0,
-        "Name": "XIV Combo Kamified [Aku API 7]",
-        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button. Plus extras.",
-        "RepoUrl": "https://github.com/captainbinary/XIVComboPluginKamified"
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "4.0.0.0",
         "Author": "Liza Carvelli",
         "DalamudApiLevel": 7,
@@ -802,33 +710,6 @@
             "Syncing"
         ],
         "TestingAssemblyVersion": "1.2.1.1"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.0.49",
-        "Author": "Asteria Nocturna",
-        "CategoryTags": [
-            "utility"
-        ],
-        "Changelog": "ac094e7: .NET 6 and Api7\nccae22e: Delete Common\n94cb72e: Update packages.lock.json\nd329d45: Update AetheryteLinkInChatPlugin.cs\nb8b929b: Update Divination.AetheryteLinkInChat.csproj\nf41e162: Delete .gitmodules\nb2d320b: remove Common dependencies\n51a50e1: DalamudApiLevel 5 -> 6\nd8fabbd: Dalamud api 5",
-        "DalamudApiLevel": 7,
-        "Description": "Dalamud Plugin to add a link to teleport to the nearest aetheryte. Teleporter plugin required!\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
-        "DownloadLinkInstall": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.AetheryteLinkInChat/latest.zip",
-        "DownloadLinkTesting": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.AetheryteLinkInChat/latest.zip",
-        "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
-        "ImageUrls": [],
-        "InternalName": "Divination.AetheryteLinkInChat",
-        "IsHide": false,
-        "IsTestingExclusive": true,
-        "LastUpdated": 0,
-        "LoadPriority": 0,
-        "Name": "Divination.AetheryteLinkInChat [Aku API 7]",
-        "Punchline": "Easy teleport for Mob Hunting",
-        "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat",
-        "Tags": [
-            "teleporter"
-        ],
-        "TestingAssemblyVersion": "0.1.0.49"
     },
     {
         "ApplicableVersion": "any",
@@ -894,52 +775,6 @@
         "Name": "XIVAuras [Aku API 7]",
         "RepoUrl": "https://github.com/lichie567/XIVAuras",
         "TestingAssemblyVersion": "0.2.4.0"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.1.0.2",
-        "Author": "SaltyCog",
-        "DalamudApiLevel": 7,
-        "Description": "Perform various behaviors/commands right after logging into a character.\n (https://raw.githubusercontent.com/saltycog/DalamudPlugins/master/repo.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/saltycog/ffxiv-startup-commands/releases/download/1.1.0.2/ffxiv-startup-commands.zip",
-        "DownloadLinkTesting": "https://github.com/saltycog/ffxiv-startup-commands/releases/download/1.1.0.2/ffxiv-startup-commands.zip",
-        "DownloadLinkUpdate": "https://github.com/saltycog/ffxiv-startup-commands/releases/download/1.1.0.2/ffxiv-startup-commands.zip",
-        "IconUrl": "https://raw.githubusercontent.com/saltycog/ffxiv-startup-commands/master/icon.png",
-        "InternalName": "StartupCommands",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LastUpdate": 1633826656,
-        "Name": "Startup Commands [Aku API 7]",
-        "RepoUrl": "https://github.com/saltycog/ffxiv-startup-commands",
-        "Tags": [
-            "startup",
-            "login",
-            "commands",
-            "saltycog"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "0.5.6.1",
-        "Author": "Adam",
-        "DalamudApiLevel": 7,
-        "Description": "Runtime mod loader and manager.\n (https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/xivdev/Penumbra/releases/download/0.5.6.1/Penumbra.zip",
-        "DownloadLinkTesting": "https://github.com/xivdev/Penumbra/releases/download/0.5.6.1/Penumbra.zip",
-        "DownloadLinkUpdate": "https://github.com/xivdev/Penumbra/releases/download/0.5.6.1/Penumbra.zip",
-        "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
-        "InternalName": "Penumbra",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LastUpdate": 0,
-        "LoadPriority": 69420,
-        "LoadRequiredState": 2,
-        "LoadSync": true,
-        "Name": "Penumbra [Aku API 7]",
-        "RepoUrl": "https://github.com/xivdev/Penumbra",
-        "TestingAssemblyVersion": "0.5.6.1"
     },
     {
         "ApplicableVersion": "any",
