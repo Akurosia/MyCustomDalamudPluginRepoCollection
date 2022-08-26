@@ -194,25 +194,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.2.2.13",
-        "Author": "Chalkos",
-        "Changelog": "patch 6.2 fix, dalamud api7 and .net6",
-        "DalamudApiLevel": 7,
-        "Description": "Helper for your day-to-day market operations.\n (https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
-        "DownloadLinkTesting": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
-        "InternalName": "Marketbuddy",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdated": "1632419669",
-        "Name": "Marketbuddy [Aku API 7]",
-        "Punchline": "Less clicks, more gil!",
-        "RepoUrl": "https://github.com/chalkos/Marketbuddy"
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "0.2.14.0",
         "Author": "Lykos",
         "DalamudApiLevel": 7,
@@ -442,57 +423,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "7.0.8273.19887",
-        "Author": "attick, daemitus, VariableVixen",
-        "DalamudApiLevel": 7,
-        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.\n (https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
-        "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
-        "InternalName": "XIVComboVX",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdated": "1661511812",
-        "Name": "XIV Combo Very Expanded [Aku API 7]",
-        "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.8272.6138",
-        "Author": "VariableVixen",
-        "DalamudApiLevel": 7,
-        "Description": "If you have a hard time telling whether you're in the right spot for positional attacks, this plugin can draw guidelines on your screen to help you tell where you need to be.\n (https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/PositionalGuide/latest.zip",
-        "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/PositionalGuide/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/PositionalGuide/latest.zip",
-        "InternalName": "PositionalGuide",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdated": "1661511812",
-        "Name": "Positional Assistant [Aku API 7]",
-        "RepoUrl": "https://github.com/PrincessRTFM/PositionalAssistant"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "6.0.8272.6168",
-        "Author": "VariableVixen",
-        "DalamudApiLevel": 7,
-        "Description": "Adds tiny and simple but useful chat commands, and nothing more. It doesn't even have a UI.\n (https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
-        "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
-        "InternalName": "TinyCmds",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdated": "1661511812",
-        "Name": "TinyCommands [Aku API 7]",
-        "RepoUrl": "https://github.com/PrincessRTFM/TinyCommands"
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "0.9.1.2",
         "Author": "PunishedPineapple",
         "DalamudApiLevel": 7,
@@ -539,6 +469,85 @@
             "Settings",
             "Utility"
         ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "2.0.3.4",
+        "Author": "UnknownX",
+        "CategoryTags": [
+            "utility"
+        ],
+        "Changelog": "",
+        "DalamudApiLevel": 7,
+        "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoomhack, if you aren't comfortable with that fact, don't install it.\n (https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "InternalName": "Cammy",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": "1661476171",
+        "Name": "Cammy [Aku API 7]",
+        "Punchline": "A simple editor for the game's camera settings",
+        "RepoUrl": "https://github.com/UnknownX7/Cammy"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.4.0.11",
+        "Author": "UnknownX",
+        "CategoryTags": [
+            "jobs",
+            "utility"
+        ],
+        "Changelog": "",
+        "DalamudApiLevel": 7,
+        "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.\n (https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "InternalName": "NoClippy",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": "1661476171",
+        "Name": "NoClippy [Aku API 7]",
+        "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
+        "RepoUrl": "https://github.com/UnknownX7/NoClippy"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.1.6.6",
+        "Author": "UnknownX",
+        "CategoryTags": [
+            "jobs"
+        ],
+        "Changelog": "",
+        "DalamudApiLevel": 7,
+        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.\n (https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "InternalName": "ReAction",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": "1661476171",
+        "Name": "ReAction [Aku API 7]",
+        "Punchline": "QoL for the battle system.",
+        "RepoUrl": "https://github.com/UnknownX7/ReAction"
     },
     {
         "ApplicableVersion": "any",
@@ -679,27 +688,6 @@
         "Name": "Boss Mod [Aku API 7]",
         "Punchline": "Don't fail at raid mechanics anymore",
         "RepoUrl": "https://github.com/awgil/ffxiv_bossmod"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.4.0.2",
-        "Author": "attick, daemitus, alymphocyte, grammernatzi, kam",
-        "DalamudApiLevel": 7,
-        "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!\nUpdated for API5\n (https://raw.githubusercontent.com/captainbinary/MyDalamudPlugins/master/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/captainbinary/MyDalamudPlugins/raw/master/plugins/XIVComboKamified/latest.zip",
-        "DownloadLinkTesting": "https://github.com/captainbinary/MyDalamudPlugins/raw/master/plugins/XIVComboKamified/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/captainbinary/MyDalamudPlugins/raw/master/plugins/XIVComboKamified/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/captainbinary/XIVComboPluginKamified/master/res/icon.png",
-        "ImageUrls": [],
-        "InternalName": "XIVComboExpandedest",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdated": "1661385560",
-        "LoadPriority": 0,
-        "Name": "XIV Combo Kamified [Aku API 7]",
-        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button. Plus extras.",
-        "RepoUrl": "https://github.com/captainbinary/XIVComboPluginKamified"
     },
     {
         "ApplicableVersion": "any",
