@@ -338,23 +338,21 @@
         "AssemblyVersion": "0.0.1.0",
         "Author": "XIV Tools",
         "DalamudApiLevel": 7,
-        "Description": "A plugin that allows you to create and apply Anamnesis-style body scaling full time.\n (https://raw.githubusercontent.com/Maxunit/MyDalamudPlugins/master/pluginmaster.json)",
+        "Description": "A plugin that allows you to create and apply Anamnesis-style body scaling full time.\n (https://raw.githubusercontent.com/XIV-Tools/DalamudPlugins/main/repo.json)",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/CustomizePlus/latest.zip",
-        "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/CustomizePlus/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/CustomizePlus/latest.zip",
+        "DownloadLinkInstall": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
+        "DownloadLinkTesting": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
+        "DownloadLinkUpdate": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
+        "IconUrl": "https://raw.githubusercontent.com/XIV-Tools/CustomizePlus/main/Data/icon.png",
         "InternalName": "CustomizePlus",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdated": "1661436241",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": 0,
         "LoadPriority": 0,
         "Name": "Customize+ [Aku API 7]",
         "Punchline": "Customize your character beyond FFXIV's limitations.",
-        "Tags": [
-            "anamnesis",
-            "customize",
-            "XIV Tools"
-        ]
+        "RepoUrl": "https://github.com/XIV-Tools/CustomizePlus",
+        "TestingAssemblyVersion": "0.0.1.0"
     },
     {
         "ApplicableVersion": "any",
