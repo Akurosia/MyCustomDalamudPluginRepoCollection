@@ -359,7 +359,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.1.0",
+        "AssemblyVersion": "0.0.1.1",
         "Author": "XIV Tools",
         "DalamudApiLevel": 7,
         "Description": "A plugin that allows you to create and apply Anamnesis-style body scaling full time.\n (https://raw.githubusercontent.com/XIV-Tools/DalamudPlugins/main/repo.json)",
@@ -376,7 +376,7 @@
         "Name": "Customize+ [Aku API 7]",
         "Punchline": "Customize your character beyond FFXIV's limitations.",
         "RepoUrl": "https://github.com/XIV-Tools/CustomizePlus",
-        "TestingAssemblyVersion": "0.0.1.0"
+        "TestingAssemblyVersion": "0.0.1.1"
     },
     {
         "ApplicableVersion": "any",
@@ -424,6 +424,25 @@
             "teleporter"
         ],
         "TestingAssemblyVersion": "0.1.0.50"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.2.0",
+        "Author": "xPumaa",
+        "Changelog": "API 7",
+        "DalamudApiLevel": 7,
+        "Description": "Announces the name of the loading duty roulette\n (https://raw.githubusercontent.com/xPumaa/DalamudPlugins/main/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/DutyAnnouncer/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/DutyAnnouncer/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/DutyAnnouncer/latest.zip",
+        "InternalName": "DutyAnnouncer",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": "1661637819",
+        "LoadPriority": 0,
+        "Name": "Duty Announcer [Aku API 7]",
+        "RepoUrl": "https://github.com/xPumaa/DutyAnnouncer"
     },
     {
         "ApplicableVersion": "any",
