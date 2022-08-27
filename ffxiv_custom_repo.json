@@ -42,6 +42,27 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.3.5",
+        "Author": "Taurenkey & Puni.sh",
+        "Changelog": "- Specialist action \"Careful Observation\" no longer stalls automatic execution.",
+        "DalamudApiLevel": 7,
+        "Description": "The all-in-one crafting plugin.\n (https://love.puni.sh/ment.json)",
+        "DownloadLinkInstall": "https://love.puni.sh/plugins/Artisan/latest.zip",
+        "DownloadLinkTesting": "https://love.puni.sh/plugins/Artisan/latest.zip",
+        "DownloadLinkUpdate": "https://love.puni.sh/plugins/Artisan/latest.zip",
+        "IconUrl": "https://love.puni.sh/resources/artisan.png",
+        "InternalName": "Artisan",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": "1661598206",
+        "Name": "Artisan [Aku API 7]",
+        "Punchline": "A 'simple' crafting plugin.",
+        "Tags": [
+            "crafting"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.4.5",
         "Author": "Athavar",
         "Changelog": "Update to net6. Yes module temporary disabled",
@@ -85,6 +106,42 @@
             "titan",
             "jails",
             "uwu"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.2.0.8",
+        "Author": "Puni.sh",
+        "DalamudApiLevel": 7,
+        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.\n (https://love.puni.sh/ment.json)",
+        "DownloadLinkInstall": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
+        "DownloadLinkTesting": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
+        "DownloadLinkUpdate": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
+        "IconUrl": "https://love.puni.sh/resources/auto-retainer.png",
+        "InternalName": "AutoRetainer",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": "1661468404",
+        "Name": "AutoRetainer [Aku API 7]"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.2.0.4",
+        "Author": "Puni.sh",
+        "Changelog": "- Adds option to disable anticipation on MNK during AoE",
+        "DalamudApiLevel": 7,
+        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.\n (https://love.puni.sh/ment.json)",
+        "DownloadLinkInstall": "https://love.puni.sh/plugins/Avarice/latest.zip",
+        "DownloadLinkTesting": "https://love.puni.sh/plugins/Avarice/latest.zip",
+        "DownloadLinkUpdate": "https://love.puni.sh/plugins/Avarice/latest.zip",
+        "IconUrl": "https://love.puni.sh/resources/avarice.png",
+        "InternalName": "Avarice",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": "1661389532",
+        "Name": "Avarice [Aku API 7]",
+        "Tags": [
+            "combat"
         ]
     },
     {
@@ -934,6 +991,25 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "2.0.0.2",
+        "Author": "Haplo064",
+        "DalamudApiLevel": 7,
+        "Description": "Showing exactly where to stand since 2020.\n (https://raw.githubusercontent.com/xPumaa/DalamudPlugins/main/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/PixelPerfect/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/PixelPerfect/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/PixelPerfect/latest.zip",
+        "InternalName": "PixelPerfect",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": "1661518809",
+        "LoadPriority": 0,
+        "Name": "Pixel Perfect [Aku API 7]",
+        "Punchline": "Reveals your hitbox, and an optional ring.",
+        "RepoUrl": "https://github.com/xPumaa/PixelPerfect"
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.4.0.2",
         "Author": "Speshkitty",
         "Changelog": "1.4.0.2\n - Updated for patch 6.2\n\n1.4.0.1\n - Handles changing characters properly\n\n1.4.0.0\n - Microstutters fixed (With thanks to SiliconExarch)\n - Fixed points not loading on map change\n - Character and Servers are now SHA256'ed before being sent to the database",
@@ -1088,6 +1164,25 @@
         "Name": "Something Need Doing [Aku API 7]",
         "Punchline": "Work work.",
         "RepoUrl": "https://github.com/daemitus/SomethingNeedDoing"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.1.0.0",
+        "Author": "xPumaa",
+        "DalamudApiLevel": 7,
+        "Description": "Tells you when to extract materia when you're actually paying attention.\n (https://raw.githubusercontent.com/xPumaa/DalamudPlugins/main/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/SpiritbondWatcher/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/SpiritbondWatcher/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/SpiritbondWatcher/latest.zip",
+        "InternalName": "SpiritbondWatcher",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": "1661435035",
+        "LoadPriority": 0,
+        "Name": "Spiritbond Watcher [Aku API 7]",
+        "Punchline": "Extract materia when you're paying attention.",
+        "RepoUrl": "https://github.com/xPumaa/SpiritbondWatcher"
     },
     {
         "ApplicableVersion": "any",
