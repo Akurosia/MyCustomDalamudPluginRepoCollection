@@ -832,9 +832,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.10.1",
+        "AssemblyVersion": "0.1.10.2",
         "Author": "Ajisai Mirai",
-        "Changelog": "0.1.10.1: Re-added AFK timer patch. Assumption being this will reset the isle kick aswell.\n0.1.9: Updated to latest game build.",
+        "Changelog": "0.1.10.2: Enabled hook.\n0.1.10.1: Re-added AFK timer patch. Assumption being this will reset the isle kick aswell.\n0.1.9: Updated to latest game build.",
         "DalamudApiLevel": 7,
         "Description": "Misc stuff I made.\n (https://raw.githubusercontent.com/AjisaiMirai/plugins/main/repo.json)",
         "DownloadCount": 0,
