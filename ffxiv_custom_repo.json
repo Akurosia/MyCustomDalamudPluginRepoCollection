@@ -583,7 +583,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.4.1.20",
+        "AssemblyVersion": "0.4.2.21",
         "Author": "Koenari",
         "DalamudApiLevel": 7,
         "Description": "A collection of useful tools for RaidGroups, including loot management\n (https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/main/pluginmaster.json)",
@@ -601,7 +601,7 @@
         "LoadPriority": 0,
         "Name": "Himbeertoni Raid Tool [Aku API 7]",
         "Punchline": "All you need for Raiding",
-        "RepoUrl": "https://github.com/Koenari/HimbeertoniRaidTool",
+        "RepoUrl": "https://github.com/Koenari/HimbeertoniRaidTool/wiki",
         "Tags": [
             "Raid",
             "Loot",
@@ -1431,7 +1431,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.0.1",
+        "AssemblyVersion": "0.1.8274.41703",
         "Author": "Tama Gotchi",
         "DalamudApiLevel": 7,
         "Description": "/chatstat for all your chat stats\n (https://raw.githubusercontent.com/aka-tamagotchi/EgirlPlugins/main/repo.json)",
