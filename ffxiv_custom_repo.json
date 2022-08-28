@@ -329,12 +329,13 @@
         "InternalName": "ChatScanner",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdated": 1642896928265,
+        "LastUpdate": 0,
+        "LoadPriority": 69420,
+        "LoadRequiredState": 2,
+        "LoadSync": true,
         "Name": "Chat Scanner [Aku API 7]",
         "RepoUrl": "https://github.com/serifine/XIV-Chat-Scanner",
-        "Tags": [
-            "Serifine"
-        ]
+        "TestingAssemblyVersion": "2.0.1"
     },
     {
         "ApplicableVersion": "any",
@@ -1388,6 +1389,25 @@
         "Name": "XIVAuras [Aku API 7]",
         "RepoUrl": "https://github.com/lichie567/XIVAuras",
         "TestingAssemblyVersion": "0.2.4.0"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.0.0.1",
+        "Author": "Tama Gotchi",
+        "DalamudApiLevel": 7,
+        "Description": "/chatstat for all your chat stats\n (https://raw.githubusercontent.com/aka-tamagotchi/EgirlPlugins/main/repo.json)",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/digital-pet/EgirlPlugins/main/plugins/XIVChatTypeTool/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/digital-pet/EgirlPlugins/main/plugins/XIVChatTypeTool/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/digital-pet/EgirlPlugins/main/plugins/XIVChatTypeTool/latest.zip",
+        "InternalName": "XIVChatTypeTool",
+        "LoadPriority": 0,
+        "Name": "XIVChatTypeTool [Aku API 7]",
+        "Punchline": "Internal dev tools for fun and profit",
+        "Tags": [
+            "sample",
+            "plugin",
+            "goats"
+        ]
     },
     {
         "ApplicableVersion": "any",
