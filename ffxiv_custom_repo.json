@@ -134,9 +134,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.3.5",
+        "AssemblyVersion": "1.0.4.0",
         "Author": "Taurenkey & Puni.sh",
-        "Changelog": "- Specialist action \"Careful Observation\" no longer stalls automatic execution.",
+        "Changelog": "- Testing lower level Muscle Memory usage.\r\n- Adds Macro system.",
         "DalamudApiLevel": 7,
         "Description": "The all-in-one crafting plugin.\n (https://love.puni.sh/ment.json)",
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Artisan/latest.zip",
@@ -146,7 +146,7 @@
         "InternalName": "Artisan",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1661598206",
+        "LastUpdate": "1661799040",
         "Name": "Artisan [Aku API 7]",
         "Punchline": "A 'simple' crafting plugin.",
         "Tags": [
