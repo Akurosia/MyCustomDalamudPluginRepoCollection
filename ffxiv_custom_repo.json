@@ -1504,32 +1504,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.1.6.6",
-        "Author": "UnknownX",
-        "CategoryTags": [
-            "jobs"
-        ],
-        "Changelog": "",
-        "DalamudApiLevel": 7,
-        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.\n (https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "InternalName": "ReAction",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdate": "1661683315",
-        "Name": "ReAction [Aku API 7]",
-        "Punchline": "QoL for the battle system.",
-        "RepoUrl": "https://github.com/UnknownX7/ReAction"
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "69.1.6.5",
         "Author": "eqbot",
         "CategoryTags": [
@@ -1553,6 +1527,32 @@
         "Name": "ReAction_Custom [Aku API 7]",
         "Punchline": "QoL for the battle system.",
         "RepoUrl": "https://github.com/eqbot/ReAction_Custom"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.1.6.6",
+        "Author": "UnknownX",
+        "CategoryTags": [
+            "jobs"
+        ],
+        "Changelog": "",
+        "DalamudApiLevel": 7,
+        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.\n (https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "InternalName": "ReAction",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": "1661683315",
+        "Name": "ReAction [Aku API 7]",
+        "Punchline": "QoL for the battle system.",
+        "RepoUrl": "https://github.com/UnknownX7/ReAction"
     },
     {
         "ApplicableVersion": "any",
