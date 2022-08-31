@@ -671,6 +671,40 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.0.112",
+        "Author": "[Author]",
+        "CategoryTags": [
+            "other",
+            "jobs",
+            "ui",
+            "minigames",
+            "inventory",
+            "sound",
+            "social",
+            "utility"
+        ],
+        "Changelog": "1e1cb90: Reusable workflows を使う\n0cce2fd: 🧹 dotnet format\nbaf23bb: Merge remote-tracking branch 'origin/master'\n\n# Conflicts:\n#\tDivination.Template/PluginConfig.cs\n#\tDivination.Template/PluginConfigWindow.cs\n#\tDivination.Template/PluginDefinition.cs\n#\tDivination.Template/TemplatePlugin.cs\n6dec12c: テンプレ更新\n4482cde: 🧹 dotnet format\n359cb33: Update stuff\nf6887e7: CI で dotnet format する\na2cb269: Common の Submodule を廃止\nf24c8b0: .editorconfig 追加\ncc36b47: Update dependencies\nf294b24: 🔧 chore(renovate): update config\n052fe47: 実装変更\n120d9b7: fix linebreak\nda9fb7c: .NET 6\nba75470: Update README.md\n59e16a9: Update Common\n7ba0189: Update Common\n4240d06: rollback: .net5\n8025025: Merge pull request #1 from horoscope-dev/net6.0\n\nfeat: Support .NET 6.0\nbeb2593: Update Common\ncada42d: feat: Support .NET 6.0\nbad7f72: Add --nologo argument\ne44d374: Disable parallel build for GitVersion compatibility\n4e9f978: Update build.yml\n04bf10d: Fix escape issue FINALLY\n7e9e6a5: Update build.yml\n451573e: Escape quote \n\nRef https://github.com/dotnet/msbuild/issues/471\nc0b03f7: Set pull_strategy: NO-PULL\n42d22e8: Update Divination.Template.json",
+        "DalamudApiLevel": 7,
+        "Description": "[Description]\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
+        "DownloadLinkInstall": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.Template/latest.zip",
+        "DownloadLinkTesting": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.Template/latest.zip",
+        "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
+        "ImageUrls": [],
+        "InternalName": "Divination.Template",
+        "IsHide": false,
+        "IsTestingExclusive": true,
+        "LastUpdated": 0,
+        "LoadPriority": 0,
+        "Name": "[Name] [Aku API 7]",
+        "Punchline": "[Punchline]",
+        "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Template",
+        "Tags": [
+            "[Tag]"
+        ],
+        "TestingAssemblyVersion": "0.1.0.112"
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.6.0",
         "Author": "Bluefissure",
         "DalamudApiLevel": 7,
