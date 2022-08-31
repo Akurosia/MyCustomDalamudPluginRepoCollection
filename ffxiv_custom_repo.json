@@ -644,6 +644,33 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.0.46",
+        "Author": "Asteria Nocturna",
+        "CategoryTags": [
+            "social"
+        ],
+        "Changelog": "82c55ad: gitversion.json を読む\nd1d912b: バージョン戦略を変更\n12fcc04: アクション変えてみる\n8788afe: バージョン情報の表記を修正\n4e068da: csproj に TargetFramework を書かない\n5555f4c: 🧹 dotnet format\n6e294d7: Dalamud 7\n773ad0a: Common を Nuget 経由で参照する\n1b9d765: 🔧 chore(renovate): update config\nc250b99: re-enable .NET6\n75b16f2: Update Common\n82e9aa4: Merge branch 'master' of https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration\n5d2c35b: Update DiscordIntegrationPlugin.cs\ne94834c: Update Common\n82544f1: DalamudApiLevel 5 -> 6\n16e8666: feat: Support Patch 6.1\n7a84d1e: feat: Support Patch 6.0x",
+        "DalamudApiLevel": 7,
+        "Description": "Dalamud Plugin to support Rich Presence for FFXIV.\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
+        "DownloadLinkInstall": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/stable/Divination.DiscordIntegration/latest.zip",
+        "DownloadLinkTesting": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.DiscordIntegration/latest.zip",
+        "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
+        "ImageUrls": [],
+        "InternalName": "Divination.DiscordIntegration",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": 0,
+        "LoadPriority": 0,
+        "Name": "Divination.DiscordIntegration [Aku API 7]",
+        "Punchline": "Fully-customizable Discord Rich Presence",
+        "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration",
+        "Tags": [
+            "Discord"
+        ],
+        "TestingAssemblyVersion": "0.1.0.67"
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.6.0",
         "Author": "Bluefissure",
         "DalamudApiLevel": 7,
@@ -1097,7 +1124,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.3.8",
+        "AssemblyVersion": "0.3.9",
         "Author": "darkarchon",
         "DalamudApiLevel": 7,
         "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.\n (https://raw.githubusercontent.com/Penumbra-Sync/repo/main/plogonmaster.json)",
