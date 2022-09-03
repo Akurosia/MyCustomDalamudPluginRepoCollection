@@ -821,6 +821,29 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.7.0.0",
+        "Author": "Kaciexx",
+        "DalamudApiLevel": 7,
+        "Description": "Plugin that let you vibe your controller or toys\n (https://raw.githubusercontent.com/kaciexx/FFXIV_Vibe_Plugin/master/repo.json)",
+        "DownloadCount": 2350,
+        "DownloadLinkInstall": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v1.7.0.0/FFXIV_Vibe_Plugin_v1.7.0.0.zip",
+        "DownloadLinkTesting": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v1.7.0.0/FFXIV_Vibe_Plugin_v1.7.0.0.zip",
+        "DownloadLinkUpdate": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v1.7.0.0/FFXIV_Vibe_Plugin_v1.7.0.0.zip",
+        "IconUrl": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/raw/master/Data/logo.png",
+        "InternalName": "FFXIV_Vibe_Plugin",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdated": 1662225133,
+        "Name": "FFXIV Vibe Plugin [Aku API 7]",
+        "RepoUrl": "https://github.com/kaciexx/FFXIV_Vibe_Plugin",
+        "Tags": [
+            "vibe",
+            "vibration",
+            "wave"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "4.0.0.0",
         "Author": "Liza Carvelli",
         "DalamudApiLevel": 7,
