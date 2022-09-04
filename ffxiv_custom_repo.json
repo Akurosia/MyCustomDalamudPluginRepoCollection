@@ -2007,7 +2007,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.2.9.1",
+        "AssemblyVersion": "0.2.10.1",
         "Author": "Ajisai Mirai",
         "Changelog": "0.2.9.1: Updated to latest patch.\n0.2.8: Implemented dynamic saving size. Adjustable in settings.\n0.2.7: Skipped some version, idk why. Fixed issue regarding our trimmer.\nRecap: Added overseer. Updated to latest game patch.",
         "DalamudApiLevel": 7,
