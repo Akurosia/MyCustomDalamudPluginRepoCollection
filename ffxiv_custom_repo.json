@@ -1181,7 +1181,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.3.10",
+        "AssemblyVersion": "0.3.11",
         "Author": "darkarchon",
         "DalamudApiLevel": 7,
         "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.\n (https://raw.githubusercontent.com/Penumbra-Sync/repo/main/plogonmaster.json)",
@@ -1482,6 +1482,23 @@
         "Name": "ObjectExplorer [Aku API 7]",
         "Punchline": "[beta] A convenient way to explore current objects around you. Currently supports players only.",
         "RepoUrl": "https://github.com/NightmareXIV/ObjectExplorer"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.0.0",
+        "Author": "ascclemes",
+        "DalamudApiLevel": 7,
+        "Description": "Dark Souls-like messaging system.\n (https://plugins.annaclemens.io/)",
+        "DownloadLinkInstall": "https://git.sr.ht/~jkcclemens/plugin_repo/blob/main/plugins/OrangeGuidanceTomestone/latest.zip",
+        "DownloadLinkTesting": "https://git.sr.ht/~jkcclemens/plugin_repo/blob/main/plugins/OrangeGuidanceTomestone/latest.zip",
+        "DownloadLinkUpdate": "https://git.sr.ht/~jkcclemens/plugin_repo/blob/main/plugins/OrangeGuidanceTomestone/latest.zip",
+        "InternalName": "OrangeGuidanceTomestone",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": "1662319194",
+        "Name": "Orange Guidance Tomestone [Aku API 7]",
+        "Punchline": "Leave messages like in Souls games. Great chest ahead.",
+        "RepoUrl": "https://git.anna.lgbt/ascclemens/OrangeGuidanceTomestone"
     },
     {
         "ApplicableVersion": "any",
