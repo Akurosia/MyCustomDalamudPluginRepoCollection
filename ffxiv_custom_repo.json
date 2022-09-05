@@ -1226,6 +1226,22 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "2.0.0.1",
+        "Author": "Iaotle, StarryNight",
+        "DalamudApiLevel": 7,
+        "Description": "Various commands to need, greed, or pass on all loot.\n (https://raw.githubusercontent.com/katawajojo/DalamudPlugins/main/pluginmaster.json)",
+        "DownloadLinkInstall": "https://github.com/katawajojo/DalamudPlugins/raw/main/LootMaster/latest.zip",
+        "DownloadLinkTesting": "https://github.com/katawajojo/DalamudPlugins/raw/main/LootMaster/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/katawajojo/DalamudPlugins/raw/main/LootMaster/latest.zip",
+        "InternalName": "LootMaster",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LoadPriority": 0,
+        "Name": "LootMaster [Aku API 7]",
+        "Punchline": "Dungeon Loot Made Lazy."
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "2.1.0.5",
         "Author": "Caraxi, Modified by Ori",
         "CategoryTags": [
@@ -1836,6 +1852,22 @@
             "gold saucer",
             "yojimbo"
         ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "4.1.0.1",
+        "Author": "Liza Carvelli",
+        "DalamudApiLevel": 7,
+        "Description": "\n (https://raw.githubusercontent.com/katawajojo/DalamudPlugins/main/pluginmaster.json)",
+        "DownloadLinkInstall": "https://github.com/katawajojo/DalamudPlugins/raw/main/SliceIsRight/latest.zip",
+        "DownloadLinkTesting": "https://github.com/katawajojo/DalamudPlugins/raw/main/SliceIsRight/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/katawajojo/DalamudPlugins/raw/main/SliceIsRight/latest.zip",
+        "InternalName": "SliceIsRight",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LoadPriority": 0,
+        "Name": "Slice Is Right [Aku API 7]",
+        "Punchline": "Shows where Bamboo falls."
     },
     {
         "ApplicableVersion": "any",
