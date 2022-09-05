@@ -1007,8 +1007,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.4.3.26",
+        "AssemblyVersion": "0.4.3.27",
         "Author": "Koenari",
+        "Changelog": "Fixed chaning of main job\nFixed HQ gear fetched from etro.gg\nAdded more default BiS sets",
         "DalamudApiLevel": 7,
         "Description": "A collection of useful tools for RaidGroups, including loot management\n (https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/main/pluginmaster.json)",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/master/plugins/HimbeerToniRaidTool/latest.zip",
