@@ -1815,22 +1815,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "4.1.0.1",
-        "Author": "Liza Carvelli",
-        "DalamudApiLevel": 7,
-        "Description": "\n (https://raw.githubusercontent.com/katawajojo/DalamudPlugins/main/pluginmaster.json)",
-        "DownloadLinkInstall": "https://github.com/katawajojo/DalamudPlugins/raw/main/SliceIsRight/latest.zip",
-        "DownloadLinkTesting": "https://github.com/katawajojo/DalamudPlugins/raw/main/SliceIsRight/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/katawajojo/DalamudPlugins/raw/main/SliceIsRight/latest.zip",
-        "InternalName": "SliceIsRight",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LoadPriority": 0,
-        "Name": "Slice Is Right",
-        "Punchline": "Shows where Bamboo falls."
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.3.0.7",
         "Author": "daemitus",
         "DalamudApiLevel": 7,
