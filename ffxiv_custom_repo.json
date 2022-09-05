@@ -951,7 +951,7 @@
         "Changelog": "- Improved Tweak Descriptions\n\nRenamed Tweak: Requisite Materials -> Material Allocation\n\nI play with the german client and picked the wrong window title from the games sheets.  Sorry for the confusion.",
         "DalamudApiLevel": 7,
         "Description": "Included Tweaks:\n\n- Aether Current Helper\n- Auto Sort Armoury Chest\n- Character Class Switcher\n- Commands\n- Custom Chat Timestamp\n- DTR\n- Expert Deliveries\n- Forced Cutscene Music\n- Hide MSQ Complete\n- Keep Screen Awake\n- Minimap Adjustments\n- Refresh Material List\n- Reveal Duty Requirements\n- Scrollable Tabs\n- Search the markets\n- Series Exp Bar\n\n (https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json)",
-        "DownloadCount": 381,
+        "DownloadCount": 501,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.2/latest.zip",
         "InternalName": "HaselTweaks",
