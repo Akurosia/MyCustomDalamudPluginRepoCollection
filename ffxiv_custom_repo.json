@@ -155,27 +155,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.4.0",
-        "Author": "Taurenkey & Puni.sh",
-        "Changelog": "- Testing lower level Muscle Memory usage.\r\n- Adds Macro system.",
-        "DalamudApiLevel": 7,
-        "Description": "The all-in-one crafting plugin.\n (https://love.puni.sh/ment.json)",
-        "DownloadLinkInstall": "https://love.puni.sh/plugins/Artisan/latest.zip",
-        "DownloadLinkTesting": "https://love.puni.sh/plugins/Artisan/latest.zip",
-        "DownloadLinkUpdate": "https://love.puni.sh/plugins/Artisan/latest.zip",
-        "IconUrl": "https://love.puni.sh/resources/artisan.png",
-        "InternalName": "Artisan",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdate": "1661799040",
-        "Name": "Artisan",
-        "Punchline": "A 'simple' crafting plugin.",
-        "Tags": [
-            "crafting"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.4.5",
         "Author": "Athavar",
         "Changelog": "Update to net6. Yes module temporary disabled",
@@ -284,22 +263,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.2.0.8",
-        "Author": "Puni.sh",
-        "DalamudApiLevel": 7,
-        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.\n (https://love.puni.sh/ment.json)",
-        "DownloadLinkInstall": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
-        "DownloadLinkTesting": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
-        "DownloadLinkUpdate": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
-        "IconUrl": "https://love.puni.sh/resources/auto-retainer.png",
-        "InternalName": "AutoRetainer",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdate": "1661468404",
-        "Name": "AutoRetainer"
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.2.0.4",
         "Author": "Puni.sh",
         "Changelog": "- Adds option to disable anticipation on MNK during AoE",
@@ -314,26 +277,6 @@
         "IsTestingExclusive": false,
         "LastUpdate": "1661389532",
         "Name": "Avarice [Aku API 7]",
-        "Tags": [
-            "combat"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.2.0.4",
-        "Author": "Puni.sh",
-        "Changelog": "- Adds option to disable anticipation on MNK during AoE",
-        "DalamudApiLevel": 7,
-        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.\n (https://love.puni.sh/ment.json)",
-        "DownloadLinkInstall": "https://love.puni.sh/plugins/Avarice/latest.zip",
-        "DownloadLinkTesting": "https://love.puni.sh/plugins/Avarice/latest.zip",
-        "DownloadLinkUpdate": "https://love.puni.sh/plugins/Avarice/latest.zip",
-        "IconUrl": "https://love.puni.sh/resources/avarice.png",
-        "InternalName": "Avarice",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdate": "1661389532",
-        "Name": "Avarice",
         "Tags": [
             "combat"
         ]
