@@ -18,7 +18,7 @@
         "IsTestingExclusive": "False",
         "LastUpdate": "1661498386",
         "LoadPriority": 0,
-        "Name": "ActionEffectRange [Aku API 7]",
+        "Name": "ActionEffectRange",
         "Punchline": "Provides a visual cue on the effect range of the AoE action just used.",
         "RepoUrl": "https://github.com/yomishino/FFXIVActionEffectRange",
         "Tags": [
@@ -47,7 +47,7 @@
         "IsTestingExclusive": "True",
         "LastUpdate": "1661343098",
         "LoadPriority": 0,
-        "Name": "ActionEffectRange [TEST] [Aku API 7]",
+        "Name": "ActionEffectRange [TEST]",
         "Punchline": "Provides a visual cue on the effect range of the AoE action just used.",
         "RepoUrl": "https://github.com/yomishino/FFXIVActionEffectRange",
         "Tags": [
@@ -79,7 +79,7 @@
         "IsTestingExclusive": "True",
         "LastUpdate": "1661682093",
         "LoadPriority": 0,
-        "Name": "Aether Compass [TEST] [Aku API 7]",
+        "Name": "Aether Compass [TEST]",
         "Punchline": "Compasses that detect and mark certain nearby objects/NPCs",
         "RepoUrl": "https://github.com/yomishino/FFXIVAetherCompass",
         "Tags": [
@@ -155,6 +155,27 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.4.0",
+        "Author": "Taurenkey & Puni.sh",
+        "Changelog": "- Testing lower level Muscle Memory usage.\r\n- Adds Macro system.",
+        "DalamudApiLevel": 7,
+        "Description": "The all-in-one crafting plugin.\n (https://love.puni.sh/ment.json)",
+        "DownloadLinkInstall": "https://love.puni.sh/plugins/Artisan/latest.zip",
+        "DownloadLinkTesting": "https://love.puni.sh/plugins/Artisan/latest.zip",
+        "DownloadLinkUpdate": "https://love.puni.sh/plugins/Artisan/latest.zip",
+        "IconUrl": "https://love.puni.sh/resources/artisan.png",
+        "InternalName": "Artisan",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": "1661799040",
+        "Name": "Artisan",
+        "Punchline": "A 'simple' crafting plugin.",
+        "Tags": [
+            "crafting"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.4.5",
         "Author": "Athavar",
         "Changelog": "Update to net6. Yes module temporary disabled",
@@ -211,7 +232,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1661351873,
-        "Name": "Auto Hook [Aku API 7]",
+        "Name": "Auto Hook",
         "Punchline": "Makes fishing less (or more) boring",
         "RepoUrl": "https://github.com/InitialDet/AutoHook",
         "Tags": [
@@ -263,6 +284,22 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.2.0.8",
+        "Author": "Puni.sh",
+        "DalamudApiLevel": 7,
+        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.\n (https://love.puni.sh/ment.json)",
+        "DownloadLinkInstall": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
+        "DownloadLinkTesting": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
+        "DownloadLinkUpdate": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
+        "IconUrl": "https://love.puni.sh/resources/auto-retainer.png",
+        "InternalName": "AutoRetainer",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": "1661468404",
+        "Name": "AutoRetainer"
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.2.0.4",
         "Author": "Puni.sh",
         "Changelog": "- Adds option to disable anticipation on MNK during AoE",
@@ -283,6 +320,26 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.2.0.4",
+        "Author": "Puni.sh",
+        "Changelog": "- Adds option to disable anticipation on MNK during AoE",
+        "DalamudApiLevel": 7,
+        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.\n (https://love.puni.sh/ment.json)",
+        "DownloadLinkInstall": "https://love.puni.sh/plugins/Avarice/latest.zip",
+        "DownloadLinkTesting": "https://love.puni.sh/plugins/Avarice/latest.zip",
+        "DownloadLinkUpdate": "https://love.puni.sh/plugins/Avarice/latest.zip",
+        "IconUrl": "https://love.puni.sh/resources/avarice.png",
+        "InternalName": "Avarice",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": "1661389532",
+        "Name": "Avarice",
+        "Tags": [
+            "combat"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.5.7",
         "Author": "LeonBlade",
         "DalamudApiLevel": 7,
@@ -296,7 +353,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1661392885,
-        "Name": "Burning Down the House [Aku API 7]",
+        "Name": "Burning Down the House",
         "RepoUrl": "https://github.com/LeonBlade/BDTHPlugin",
         "Tags": [
             "bdth",
@@ -502,7 +559,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "LastUpdate": "1661683315",
-        "Name": "Cammy [Aku API 7]",
+        "Name": "Cammy",
         "Punchline": "A simple editor for the game's camera settings",
         "RepoUrl": "https://github.com/UnknownX7/Cammy"
     },
@@ -611,7 +668,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "LastUpdate": "1661683315",
-        "Name": "DalamudRepoBrowser [Aku API 7]",
+        "Name": "DalamudRepoBrowser",
         "Punchline": "Browse and add third party repositories in an instant",
         "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser"
     },
@@ -744,6 +801,25 @@
         "LastUpdate": "1661637819",
         "LoadPriority": 0,
         "Name": "Duty Announcer [Aku API 7]",
+        "RepoUrl": "https://github.com/xPumaa/DutyAnnouncer"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.2.0",
+        "Author": "xPumaa",
+        "Changelog": "API 7",
+        "DalamudApiLevel": 7,
+        "Description": "Announces the name of the loading duty roulette\n (https://raw.githubusercontent.com/xPumaa/DalamudPlugins/main/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/DutyAnnouncer/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/DutyAnnouncer/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/DutyAnnouncer/latest.zip",
+        "InternalName": "DutyAnnouncer",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": "1661637819",
+        "LoadPriority": 0,
+        "Name": "Duty Announcer",
         "RepoUrl": "https://github.com/xPumaa/DutyAnnouncer"
     },
     {
@@ -884,7 +960,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "LastUpdate": "1661683315",
-        "Name": "Fractionality [Aku API 7]",
+        "Name": "Fractionality",
         "Punchline": "Changes /wait and <wait> to support fractions",
         "RepoUrl": "https://github.com/UnknownX7/Fractionality"
     },
@@ -902,7 +978,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "false",
         "LastUpdate": 1618608322,
-        "Name": "Glamourer [Aku API 7]",
+        "Name": "Glamourer",
         "Punchline": "Change and save appearance of players.",
         "RepoUrl": "https://github.com/Ottermandias/Glamourer",
         "Tags": [
@@ -951,7 +1027,7 @@
         "Changelog": "- Improved Tweak Descriptions\n\nRenamed Tweak: Requisite Materials -> Material Allocation\n\nI play with the german client and picked the wrong window title from the games sheets.  Sorry for the confusion.",
         "DalamudApiLevel": 7,
         "Description": "Included Tweaks:\n\n- Aether Current Helper\n- Auto Sort Armoury Chest\n- Character Class Switcher\n- Commands\n- Custom Chat Timestamp\n- DTR\n- Expert Deliveries\n- Forced Cutscene Music\n- Hide MSQ Complete\n- Keep Screen Awake\n- Minimap Adjustments\n- Refresh Material List\n- Reveal Duty Requirements\n- Scrollable Tabs\n- Search the markets\n- Series Exp Bar\n\n (https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json)",
-        "DownloadCount": 0,
+        "DownloadCount": 381,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.2/latest.zip",
         "InternalName": "HaselTweaks",
@@ -976,7 +1052,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1661394511,
-        "Name": "Heels Plugin [Aku API 7]",
+        "Name": "Heels Plugin",
         "RepoUrl": "https://github.com/LeonBlade/HeelsPlugin",
         "Tags": [
             "heels",
@@ -1118,7 +1194,7 @@
         "Changelog": "Wanted Targets\n\n- Added: Zaghnal",
         "DalamudApiLevel": 7,
         "Description": "A little helper to check which Levequests have been completed and which are missing.\n (https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json)",
-        "DownloadCount": 176,
+        "DownloadCount": 181,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.3/latest.zip",
         "InternalName": "LeveHelper",
@@ -1451,7 +1527,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "LastUpdate": "1661683315",
-        "Name": "NoClippy [Aku API 7]",
+        "Name": "NoClippy",
         "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
         "RepoUrl": "https://github.com/UnknownX7/NoClippy"
     },
@@ -1477,7 +1553,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "LastUpdate": "1661683315",
-        "Name": "OOBlugin [Aku API 7]",
+        "Name": "OOBlugin",
         "Punchline": "oob oob",
         "RepoUrl": "https://github.com/UnknownX7/OOBlugin"
     },
@@ -1500,23 +1576,6 @@
         "Name": "ObjectExplorer [Aku API 7]",
         "Punchline": "[beta] A convenient way to explore current objects around you. Currently supports players only.",
         "RepoUrl": "https://github.com/NightmareXIV/ObjectExplorer"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.0",
-        "Author": "ascclemes",
-        "DalamudApiLevel": 7,
-        "Description": "Dark Souls-like messaging system.\n (https://plugins.annaclemens.io/)",
-        "DownloadLinkInstall": "https://git.sr.ht/~jkcclemens/plugin_repo/blob/main/plugins/OrangeGuidanceTomestone/latest.zip",
-        "DownloadLinkTesting": "https://git.sr.ht/~jkcclemens/plugin_repo/blob/main/plugins/OrangeGuidanceTomestone/latest.zip",
-        "DownloadLinkUpdate": "https://git.sr.ht/~jkcclemens/plugin_repo/blob/main/plugins/OrangeGuidanceTomestone/latest.zip",
-        "InternalName": "OrangeGuidanceTomestone",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdate": "1662319194",
-        "Name": "Orange Guidance Tomestone [Aku API 7]",
-        "Punchline": "Leave messages like in Souls games. Great chest ahead.",
-        "RepoUrl": "https://git.anna.lgbt/ascclemens/OrangeGuidanceTomestone"
     },
     {
         "ApplicableVersion": "any",
@@ -1563,22 +1622,20 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.0.2",
-        "Author": "Haplo064",
+        "AssemblyVersion": "2.0.8272.6138",
+        "Author": "VariableVixen",
         "DalamudApiLevel": 7,
-        "Description": "Showing exactly where to stand since 2020.\n (https://raw.githubusercontent.com/xPumaa/DalamudPlugins/main/pluginmaster.json)",
+        "Description": "If you have a hard time telling whether you're in the right spot for positional attacks, this plugin can draw guidelines on your screen to help you tell where you need to be.\n (https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json)",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/PixelPerfect/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/PixelPerfect/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/PixelPerfect/latest.zip",
-        "InternalName": "PixelPerfect",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LastUpdate": "1661518809",
-        "LoadPriority": 0,
-        "Name": "Pixel Perfect [Aku API 7]",
-        "Punchline": "Reveals your hitbox, and an optional ring.",
-        "RepoUrl": "https://github.com/xPumaa/PixelPerfect"
+        "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/PositionalGuide/latest.zip",
+        "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/PositionalGuide/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/PositionalGuide/latest.zip",
+        "InternalName": "PositionalGuide",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "1661857972",
+        "Name": "Positional Assistant [Aku API 7]",
+        "RepoUrl": "https://github.com/PrincessRTFM/PositionalAssistant"
     },
     {
         "ApplicableVersion": "any",
@@ -1594,7 +1651,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "LastUpdated": "1661757778",
-        "Name": "Positional Assistant [Aku API 7]",
+        "Name": "Positional Assistant",
         "RepoUrl": "https://github.com/PrincessRTFM/PositionalAssistant"
     },
     {
@@ -1734,7 +1791,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "LastUpdate": "1661683315",
-        "Name": "ReAction [Aku API 7]",
+        "Name": "ReAction",
         "Punchline": "QoL for the battle system.",
         "RepoUrl": "https://github.com/UnknownX7/ReAction"
     },
@@ -1793,7 +1850,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "LoadPriority": 0,
-        "Name": "Slice Is Right [Aku API 7]",
+        "Name": "Slice Is Right",
         "Punchline": "Shows where Bamboo falls."
     },
     {
@@ -1833,6 +1890,25 @@
         "LastUpdate": "1661435035",
         "LoadPriority": 0,
         "Name": "Spiritbond Watcher [Aku API 7]",
+        "Punchline": "Extract materia when you're paying attention.",
+        "RepoUrl": "https://github.com/xPumaa/SpiritbondWatcher"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.1.0.0",
+        "Author": "xPumaa",
+        "DalamudApiLevel": 7,
+        "Description": "Tells you when to extract materia when you're actually paying attention.\n (https://raw.githubusercontent.com/xPumaa/DalamudPlugins/main/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/SpiritbondWatcher/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/SpiritbondWatcher/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/SpiritbondWatcher/latest.zip",
+        "InternalName": "SpiritbondWatcher",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": "1661435035",
+        "LoadPriority": 0,
+        "Name": "Spiritbond Watcher",
         "Punchline": "Extract materia when you're paying attention.",
         "RepoUrl": "https://github.com/xPumaa/SpiritbondWatcher"
     },
@@ -1938,8 +2014,25 @@
         "InternalName": "TinyCmds",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1661757778",
+        "LastUpdated": "1661857972",
         "Name": "TinyCommands [Aku API 7]",
+        "RepoUrl": "https://github.com/PrincessRTFM/TinyCommands"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "6.0.8272.6168",
+        "Author": "VariableVixen",
+        "DalamudApiLevel": 7,
+        "Description": "Adds tiny and simple but useful chat commands, and nothing more. It doesn't even have a UI.\n (https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
+        "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
+        "InternalName": "TinyCmds",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "1661757778",
+        "Name": "TinyCommands",
         "RepoUrl": "https://github.com/PrincessRTFM/TinyCommands"
     },
     {
@@ -1963,7 +2056,7 @@
         "IsTestingExclusive": "False",
         "LastUpdate": "1661499783",
         "LoadPriority": 0,
-        "Name": "Title Renamed [Aku API 7]",
+        "Name": "Title Renamed",
         "Punchline": "Check out my new title! ... Uhmm, renamed, I mean.",
         "RepoUrl": "https://github.com/yomishino/FFXIVTitleRenamed",
         "Tags": [
@@ -1993,7 +2086,7 @@
         "IsTestingExclusive": "True",
         "LastUpdate": "1661342778",
         "LoadPriority": 0,
-        "Name": "Title Renamed [TEST] [Aku API 7]",
+        "Name": "Title Renamed [TEST]",
         "Punchline": "Check out my new title! ... Uhmm, renamed, I mean.",
         "RepoUrl": "https://github.com/yomishino/FFXIVTitleRenamed",
         "Tags": [
@@ -2168,6 +2261,23 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "7.0.8277.20171",
+        "Author": "attick, daemitus, VariableVixen",
+        "DalamudApiLevel": 7,
+        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.\n (https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
+        "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
+        "InternalName": "XIVComboVX",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "1661857972",
+        "Name": "XIV Combo Very Expanded [Aku API 7]",
+        "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin"
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "7.0.8276.13271",
         "Author": "attick, daemitus, VariableVixen",
         "DalamudApiLevel": 7,
@@ -2180,7 +2290,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "LastUpdated": "1661757778",
-        "Name": "XIV Combo Very Expanded [Aku API 7]",
+        "Name": "XIV Combo Very Expanded",
         "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin"
     },
     {
