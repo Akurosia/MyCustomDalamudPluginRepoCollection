@@ -1,6 +1,26 @@
 [
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.0.0",
+        "Author": "Eternita",
+        "DalamudApiLevel": 7,
+        "Description": "Splatoon v2.1.0.8+ REQUIRED! Current functions: display of P6S unsafe tiles. \n (https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/NightmareXIV/AbyssosToolbox/releases/latest/download/AbyssosToolbox.zip",
+        "DownloadLinkTesting": "https://github.com/NightmareXIV/AbyssosToolbox/releases/latest/download/AbyssosToolbox.zip",
+        "DownloadLinkUpdate": "https://github.com/NightmareXIV/AbyssosToolbox/releases/latest/download/AbyssosToolbox.zip",
+        "IconUrl": "",
+        "ImageUrls": [],
+        "InternalName": "AbyssosToolbox",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "0",
+        "Name": "AbyssosToolbox [Aku API 7]",
+        "Punchline": "An assistance tool for fights in Abyssos.",
+        "RepoUrl": "https://github.com/NightmareXIV/AbyssosToolbox"
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.4.6.2",
         "Author": "yomishino",
         "CategoryTags": [],
@@ -1819,7 +1839,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.1.0.7",
+        "AssemblyVersion": "2.1.0.8",
         "Author": "Eternita",
         "DalamudApiLevel": 7,
         "Description": "\n (https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json)",
