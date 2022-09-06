@@ -1858,7 +1858,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.1.0.8",
+        "AssemblyVersion": "2.1.0.9",
         "Author": "Eternita",
         "DalamudApiLevel": 7,
         "Description": "\n (https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json)",
