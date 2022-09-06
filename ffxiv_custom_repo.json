@@ -1,10 +1,10 @@
 [
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.0.1",
         "Author": "Eternita",
         "DalamudApiLevel": 7,
-        "Description": "Splatoon v2.1.0.8+ REQUIRED! Current functions: display of P6S unsafe tiles. \n (https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json)",
+        "Description": "Splatoon v2.1.1.0+ REQUIRED! Current functions: display of P6S unsafe tiles. \n (https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json)",
         "DownloadCount": 0,
         "DownloadLinkInstall": "https://github.com/NightmareXIV/AbyssosToolbox/releases/latest/download/AbyssosToolbox.zip",
         "DownloadLinkTesting": "https://github.com/NightmareXIV/AbyssosToolbox/releases/latest/download/AbyssosToolbox.zip",
