@@ -1116,7 +1116,7 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/JobIcons/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/JobIcons/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/JobIcons/latest.zip",
-        "InternalName": "JobIcons",
+        "InternalName": "JobIcons2",
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdate": "1662335479",
