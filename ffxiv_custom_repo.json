@@ -1048,6 +1048,29 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.2.1.0",
+        "Author": "Bluefissure",
+        "DalamudApiLevel": 7,
+        "Description": "Automatically save/load the positions of housing furnitures.\n (https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/HousingPos/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/HousingPos/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/HousingPos/latest.zip",
+        "InternalName": "HousingPos",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": "1662611491",
+        "LoadPriority": 0,
+        "Name": "HousingPos [Aku API 7]",
+        "Punchline": "A housing tool",
+        "RepoUrl": "https://github.com/Bluefissure/HousingPos",
+        "Tags": [
+            "bluefissure",
+            "housing"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.0.2",
         "Author": "NightmareXIV",
         "DalamudApiLevel": 7,
