@@ -1019,9 +1019,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.4.4.28",
+        "AssemblyVersion": "0.4.5.29",
         "Author": "Koenari",
-        "Changelog": "Fixed Examine\nReworked edit player interface\nPolished Ui\nFix HP calc\nBetter group creation",
+        "Changelog": "Massive performance improvement\nAdded Dmg per (100)Potency calculation",
         "DalamudApiLevel": 7,
         "Description": "A collection of useful tools for RaidGroups, including loot management\n (https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/main/pluginmaster.json)",
         "DownloadCount": 0,
