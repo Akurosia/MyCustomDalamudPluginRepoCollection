@@ -643,14 +643,14 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.0.50",
+        "AssemblyVersion": "0.1.0.53",
         "Author": "Asteria Nocturna",
         "CategoryTags": [
             "utility"
         ],
-        "Changelog": "8067ed4: 🔧 chore(renovate): update config\nac094e7: .NET 6 and Api7\nccae22e: Delete Common\n94cb72e: Update packages.lock.json\nd329d45: Update AetheryteLinkInChatPlugin.cs\nb8b929b: Update Divination.AetheryteLinkInChat.csproj\nf41e162: Delete .gitmodules\nb2d320b: remove Common dependencies\n51a50e1: DalamudApiLevel 5 -> 6\nd8fabbd: Dalamud api 5",
+        "Changelog": "0d27d70: .NET 6\n55768eb: Merge pull request #4 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.10.3\na5ffb08: Update dependency gitversion.tool to v5.10.3\n8067ed4: 🔧 chore(renovate): update config\nac094e7: .NET 6 and Api7\nccae22e: Delete Common\n94cb72e: Update packages.lock.json\nd329d45: Update AetheryteLinkInChatPlugin.cs\nb8b929b: Update Divination.AetheryteLinkInChat.csproj\nf41e162: Delete .gitmodules\nb2d320b: remove Common dependencies\n51a50e1: DalamudApiLevel 5 -> 6\nd8fabbd: Dalamud api 5",
         "DalamudApiLevel": 7,
-        "Description": "Dalamud Plugin to add a link to teleport to the nearest aetheryte. Teleporter plugin required!\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
+        "Description": "Add a link to teleport to the nearest aetheryte into map link in chat. Teleporter plugin required!\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
         "DownloadCount": 0,
         "DownloadLinkInstall": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.AetheryteLinkInChat/latest.zip",
         "DownloadLinkTesting": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.AetheryteLinkInChat/latest.zip",
@@ -662,12 +662,12 @@
         "LastUpdated": 0,
         "LoadPriority": 0,
         "Name": "Divination.AetheryteLinkInChat [Aku API 7]",
-        "Punchline": "Easy teleport for Mob Hunting",
+        "Punchline": "Quick teleport for Mob Hunting",
         "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat",
         "Tags": [
             "teleporter"
         ],
-        "TestingAssemblyVersion": "0.1.0.50"
+        "TestingAssemblyVersion": "0.1.0.53"
     },
     {
         "ApplicableVersion": "any",
