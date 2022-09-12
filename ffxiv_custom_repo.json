@@ -155,9 +155,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.4.1",
+        "AssemblyVersion": "1.0.4.6",
         "Author": "Taurenkey & Puni.sh",
-        "Changelog": "- Adds \"Craft X Times\" feature.\r\n- Adds optional delay to auto mode.\r\n- Consolidated repeat last craft into Endurance mode.\r\n- Various other tweaks and bug fixes.",
+        "Changelog": "- Bug fixes to endurance mode's memory.\r\n- Adds CP cost to macro names in macro menu.",
         "DalamudApiLevel": 7,
         "Description": "The all-in-one crafting plugin.\n (https://love.puni.sh/ment.json)",
         "DownloadCount": 0,
@@ -168,7 +168,7 @@
         "InternalName": "Artisan",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1662390330",
+        "LastUpdate": "1662795588",
         "Name": "Artisan [Aku API 7]",
         "Punchline": "A 'simple' crafting plugin.",
         "Tags": [
