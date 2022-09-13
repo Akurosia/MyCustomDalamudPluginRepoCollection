@@ -786,7 +786,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.0.7",
+        "AssemblyVersion": "2.0.0.8",
         "Author": "NightmareXIV",
         "DalamudApiLevel": 7,
         "Description": "Current functions:\nResolve eyes position\nWroth flames automarker (whole group and personal)\nTether to your chain partner\n (https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json)",
@@ -1696,9 +1696,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.13.1",
+        "AssemblyVersion": "0.1.13.2",
         "Author": "Ajisai Mirai",
-        "Changelog": "0.1.13.1: Updated to new patch.\n0.1.11.1: Updated to latest patch.\n0.1.10.3: Made sure anti-kick only works in island\n0.1.10.2: Enabled hook.\n0.1.10.1: Re-added AFK timer patch. Assumption being this will reset the island kick aswell.\n0.1.9: Updated to latest game build.",
+        "Changelog": "0.1.13.2: Fixed loading crash.\n0.1.13.1: Updated to new patch.\n0.1.11.1: Updated to latest patch.\n0.1.10.3: Made sure anti-kick only works in island\n0.1.10.2: Enabled hook.\n0.1.10.1: Re-added AFK timer patch. Assumption being this will reset the island kick aswell.\n0.1.9: Updated to latest game build.",
         "DalamudApiLevel": 7,
         "Description": "Misc stuff I made.\n (https://raw.githubusercontent.com/AjisaiMirai/plugins/main/repo.json)",
         "DownloadCount": 0,
