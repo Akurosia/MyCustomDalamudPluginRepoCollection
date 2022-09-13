@@ -1696,9 +1696,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.11.1",
+        "AssemblyVersion": "0.1.13.1",
         "Author": "Ajisai Mirai",
-        "Changelog": "0.1.11.1: Updated to latest patch.\n0.1.10.3: Made sure anti-kick only works in island\n0.1.10.2: Enabled hook.\n0.1.10.1: Re-added AFK timer patch. Assumption being this will reset the island kick aswell.\n0.1.9: Updated to latest game build.",
+        "Changelog": "0.1.13.1: Updated to new patch.\n0.1.11.1: Updated to latest patch.\n0.1.10.3: Made sure anti-kick only works in island\n0.1.10.2: Enabled hook.\n0.1.10.1: Re-added AFK timer patch. Assumption being this will reset the island kick aswell.\n0.1.9: Updated to latest game build.",
         "DalamudApiLevel": 7,
         "Description": "Misc stuff I made.\n (https://raw.githubusercontent.com/AjisaiMirai/plugins/main/repo.json)",
         "DownloadCount": 0,
@@ -2555,9 +2555,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.2.12.1",
+        "AssemblyVersion": "0.2.14.0",
         "Author": "Ajisai Mirai",
-        "Changelog": "0.2.12.1: I swear I can code\n0.2.11.1: Just kidding, now the log list is fixed.\n0.2.10.2: Added checkbox to disable my notifs (You better not), fixed issue with log drawing.\n0.2.9.1: Updated to latest patch.\n0.2.7: Added overseer. Updated to latest game patch.",
+        "Changelog": "0.2.14.0: Updated command and added a command (Suggested).\n0.2.13.1: Updated to new patch.\n0.2.12.1: I swear I can code\n0.2.11.1: Just kidding, now the log list is fixed.\n0.2.10.2: Added checkbox to disable my notifs (You better not), fixed issue with log drawing.\n0.2.9.1: Updated to latest patch.\n0.2.7: Added overseer. Updated to latest game patch.",
         "DalamudApiLevel": 7,
         "Description": "Ever AFK and curious if people emoted at you? No longer.\n (https://raw.githubusercontent.com/AjisaiMirai/plugins/main/repo.json)",
         "DownloadCount": 0,
