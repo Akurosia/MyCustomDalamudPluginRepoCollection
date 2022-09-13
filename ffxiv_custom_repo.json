@@ -2555,7 +2555,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.2.14.0",
+        "AssemblyVersion": "0.2.15.0",
         "Author": "Ajisai Mirai",
         "Changelog": "0.2.14.0: Updated command and added a command (Suggested).\n0.2.13.1: Updated to new patch.\n0.2.12.1: I swear I can code\n0.2.11.1: Just kidding, now the log list is fixed.\n0.2.10.2: Added checkbox to disable my notifs (You better not), fixed issue with log drawing.\n0.2.9.1: Updated to latest patch.\n0.2.7: Added overseer. Updated to latest game patch.",
         "DalamudApiLevel": 7,
