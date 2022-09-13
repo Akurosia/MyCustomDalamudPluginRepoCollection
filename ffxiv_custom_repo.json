@@ -2555,9 +2555,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.2.15.0",
+        "AssemblyVersion": "0.2.15.2",
         "Author": "Ajisai Mirai",
-        "Changelog": "0.2.14.0: Updated command and added a command (Suggested).\n0.2.13.1: Updated to new patch.\n0.2.12.1: I swear I can code\n0.2.11.1: Just kidding, now the log list is fixed.\n0.2.10.2: Added checkbox to disable my notifs (You better not), fixed issue with log drawing.\n0.2.9.1: Updated to latest patch.\n0.2.7: Added overseer. Updated to latest game patch.",
+        "Changelog": "0.2.15.2: Fixed commands once more, they're working now as intented.\n0.2.14.0: Updated command and added a command (Suggested).\n0.2.13.1: Updated to new patch.\n0.2.12.1: I swear I can code\n0.2.11.1: Just kidding, now the log list is fixed.\n0.2.10.2: Added checkbox to disable my notifs (You better not), fixed issue with log drawing.\n0.2.9.1: Updated to latest patch.\n0.2.7: Added overseer. Updated to latest game patch.",
         "DalamudApiLevel": 7,
         "Description": "Ever AFK and curious if people emoted at you? No longer.\n (https://raw.githubusercontent.com/AjisaiMirai/plugins/main/repo.json)",
         "DownloadCount": 0,
