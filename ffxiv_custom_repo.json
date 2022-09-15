@@ -1289,9 +1289,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.4.5.29",
+        "AssemblyVersion": "0.5.0.30",
         "Author": "Koenari",
-        "Changelog": "Massive performance improvement\nAdded Dmg per (100)Potency calculation",
+        "Changelog": "You can now edit gear manually",
         "DalamudApiLevel": 7,
         "Description": "A collection of useful tools for RaidGroups, including loot management\n (https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/main/pluginmaster.json)",
         "DownloadCount": 0,
