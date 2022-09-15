@@ -2826,31 +2826,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.9.5.0",
-        "Author": "Paissa Heavy Industries",
-        "DalamudApiLevel": 7,
-        "Description": "This plugin allows Triggernometry (and other programs, why not) some means to interact with the game directly.\n (https://raw.githubusercontent.com/vamdoza/Dalamud-Repo/main/repo.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.5.0/Telesto_0_9_5_0.zip",
-        "DownloadLinkTesting": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.5.0/Telesto_0_9_5_0.zip",
-        "DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.5.0/Telesto_0_9_5_0.zip",
-        "IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/telesto.png",
-        "InternalName": "Telesto",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LastUpdated": 0,
-        "Name": "Temp_Telesto [Aku API 7]",
-        "RepoUrl": "https://github.com/paissaheavyindustries/Telesto",
-        "Tags": [
-            "telesto",
-            "prrp",
-            "trigger",
-            "triggernometry",
-            "meow"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "3.0.0.4",
         "Author": "NightmareXIV",
         "DalamudApiLevel": 7,
@@ -3547,26 +3522,6 @@
         "Name": "Yes Already [Aku API 7]",
         "Punchline": "Clicks Yes in various dialogs you've specified.",
         "RepoUrl": "https://github.com/daemitus/YesAlready"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.4",
-        "Author": "",
-        "DalamudApiLevel": 7,
-        "Description": "/zoom set设置视距,/zoom freecam进入自由相机\n (https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json)\n (https://raw.githubusercontent.com/tssailzz8/MyCustomDalamudPluginRepoCollection/main/ffxiv_custom_repo.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
-        "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
-        "IconUrl": "",
-        "ImageUrls": [],
-        "InternalName": "Zoom",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdated": "1660405680",
-        "Name": "Zoom [Aku API 7] [Aku API 7]",
-        "Punchline": "视距",
-        "RepoUrl": ""
     },
     {
         "ApplicableVersion": "any",
