@@ -3481,30 +3481,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "7.0.0.1",
-        "Author": "Aki, k-kz, ele-starshade, damolitionn, Taurenkey, Augporto, grimgal",
-        "Changelog": "Custom Build For Private Use Only, For PUblic Use Please Check The Public Build On Github.",
-        "DalamudApiLevel": 7,
-        "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.\n (https://raw.githubusercontent.com/Nik-Potokar/Personal/main/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/Nik-Potokar/Personal/raw/main/plugins/XIVSlothCombo/latest.zip",
-        "DownloadLinkTesting": "https://github.com/Nik-Potokar/Personal/raw/main/plugins/XIVSlothCombo/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Nik-Potokar/Personal/raw/main/plugins/XIVSlothCombo/latest.zip",
-        "IconUrl": "https://i.imgur.com/UeRukF8.png",
-        "ImageUrls": [
-            "https://i.imgur.com/UeRukF8.png"
-        ],
-        "InternalName": "XIVSlothCombo",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdated": "1662013754",
-        "LoadPriority": 0,
-        "Name": "XIVSlothComboFF [Aku API 7]",
-        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-        "RepoUrl": "https://github.com/Nik-Potokar/CustomXIVComboForFriends"
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "3.0.17.0",
         "Author": "Aki, k-kz, ele-starshade, damolitionn, Taurenkey, Augporto, grimgal",
         "Changelog": "FFXIV 6.2 Update! Features, Fixes & Enhancements for Framework, Globals, AST, BLU, DNC, DRK, GNB, NIN, NINPvP, RPR and SAM. Please check the project's GitHub or Discord for a full changelog.",
@@ -3526,6 +3502,30 @@
         "Name": "XIVSlothCombo4 [Aku API 7]",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
         "RepoUrl": "https://github.com/iluvrust/XIVSlothCombo"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "7.0.0.1",
+        "Author": "Aki, k-kz, ele-starshade, damolitionn, Taurenkey, Augporto, grimgal",
+        "Changelog": "Custom Build For Private Use Only, For PUblic Use Please Check The Public Build On Github.",
+        "DalamudApiLevel": 7,
+        "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.\n (https://raw.githubusercontent.com/Nik-Potokar/Personal/main/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/Nik-Potokar/Personal/raw/main/plugins/XIVSlothCombo/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Nik-Potokar/Personal/raw/main/plugins/XIVSlothCombo/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Nik-Potokar/Personal/raw/main/plugins/XIVSlothCombo/latest.zip",
+        "IconUrl": "https://i.imgur.com/UeRukF8.png",
+        "ImageUrls": [
+            "https://i.imgur.com/UeRukF8.png"
+        ],
+        "InternalName": "XIVSlothCombo",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "1662013754",
+        "LoadPriority": 0,
+        "Name": "XIVSlothComboFF [Aku API 7]",
+        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
+        "RepoUrl": "https://github.com/Nik-Potokar/CustomXIVComboForFriends"
     },
     {
         "ApplicableVersion": "any",
