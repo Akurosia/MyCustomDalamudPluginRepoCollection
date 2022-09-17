@@ -840,6 +840,27 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "2.0.0.5",
+        "Author": "goat",
+        "DalamudApiLevel": 7,
+        "Description": "This plugin allows you to use your character data from your main character on all others.\n\nIn-game, use the configuration menu to choose your main character, the restart the game to start syncing!\n (https://raw.githubusercontent.com/buengese/DalamudPlugins/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/Dalamud.CharacterSync/latest.zip",
+        "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/Dalamud.CharacterSync/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/Dalamud.CharacterSync/latest.zip",
+        "IconUrl": "https://github.com/goaaats/Dalamud.CharacterSync/raw/master/res/icon.png",
+        "ImageUrls": [],
+        "InternalName": "Dalamud.CharacterSync",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": "1663419009",
+        "LoadPriority": 0,
+        "Name": "Character Data Sync [Aku API 7]",
+        "Punchline": "Sync your character data from your main character to all others",
+        "RepoUrl": "https://github.com/goaaats/Dalamud.CharacterSync"
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "2.0.2.1",
         "Author": "UnknownX",
         "CategoryTags": [
@@ -1464,6 +1485,25 @@
         "Tags": [
             "utility"
         ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.1.0.0",
+        "Author": "Caraxi, buengese",
+        "DalamudApiLevel": 7,
+        "Description": "Filterable search for Items and Key Items.\nTry on any item without having to find someone to link it.\n (https://raw.githubusercontent.com/buengese/DalamudPlugins/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearch2/latest.zip",
+        "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearch2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearch2/latest.zip",
+        "InternalName": "ItemSearch2",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": "1663419009",
+        "LoadPriority": 0,
+        "Name": "ItemSearch2 [Aku API 7]",
+        "Punchline": "Search and link items, even if you don't have them.",
+        "RepoUrl": "https://github.com/buengese/ItemSearchPlugin"
     },
     {
         "ApplicableVersion": "any",
