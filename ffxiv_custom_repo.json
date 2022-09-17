@@ -1935,6 +1935,39 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.1.4",
+        "Author": "Meisterlala",
+        "CategoryTags": [
+            "UI"
+        ],
+        "DalamudApiLevel": 7,
+        "Description": "Shows you an image of a random neko character. Click on the image to view the next one.\nYou can choose different image sources, allowing you to look at Catboys, Waifus, Cats, Dogs and more.\n\nSupported APIs:\nTwitter, Nekos.life, Catboys, Dog CEO, The Cat API, Pic.re, Waifu.im, Waifu.pics and shibe.online\n\nWarning: You might see naughty images\n (https://raw.githubusercontent.com/Meisterlala/NekoFans/master/repo.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.1.4/NekoFans.zip",
+        "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.1.4/NekoFans.zip",
+        "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.1.4/NekoFans.zip",
+        "IconUrl": "https://raw.githubusercontent.com/Meisterlala/NekoFans/master/icon.png",
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/Meisterlala/NekoFans/master/images/image1.png",
+            "https://raw.githubusercontent.com/Meisterlala/NekoFans/master/images/image2.png"
+        ],
+        "InternalName": "Neko",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdated": 1663452130,
+        "Name": "Neko Fans [Aku API 7]",
+        "Punchline": "Frustrated in a dungeon? Look at a cute cat girl!",
+        "RepoUrl": "https://github.com/Meisterlala/NekoFans",
+        "Tags": [
+            "anime",
+            "neko",
+            "waifu",
+            "miqote",
+            "image"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.1",
         "Author": "Meisterlala",
         "CategoryTags": [
