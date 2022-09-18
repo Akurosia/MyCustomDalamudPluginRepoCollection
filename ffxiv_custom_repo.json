@@ -1289,35 +1289,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.5.1.31",
-        "Author": "Koenari",
-        "Changelog": "You can now edit gear manually\nNew player experience should be better now",
-        "DalamudApiLevel": 7,
-        "Description": "A collection of useful tools for RaidGroups, including loot management\n (https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/main/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/master/plugins/HimbeerToniRaidTool/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/master/testing/HimbeerToniRaidTool/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/master/plugins/HimbeerToniRaidTool/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/Koenari/HimbeertoniRaidTool/master/images/icon.png",
-        "ImageUrls": [
-            "https://raw.githubusercontent.com/Koenari/HimbeertoniRaidTool/master/OtherResources/assets/loot_session.png",
-            "https://raw.githubusercontent.com/Koenari/HimbeertoniRaidTool/master/OtherResources/assets/raid_view.png",
-            "https://raw.githubusercontent.com/Koenari/HimbeertoniRaidTool/master/OtherResources/assets/solo_view.png"
-        ],
-        "InternalName": "HimbeertoniRaidTool",
-        "IsTestingExclusive": "False",
-        "LoadPriority": 0,
-        "Name": "Himbeertoni Raid Tool [Aku API 7]",
-        "Punchline": "All you need for Raiding",
-        "RepoUrl": "https://github.com/Koenari/HimbeertoniRaidTool/wiki",
-        "Tags": [
-            "Raid",
-            "Loot",
-            "Equipment"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.2.1.0",
         "Author": "Bluefissure",
         "DalamudApiLevel": 7,
