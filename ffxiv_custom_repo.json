@@ -1289,9 +1289,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.5.0.30",
+        "AssemblyVersion": "0.5.1.31",
         "Author": "Koenari",
-        "Changelog": "You can now edit gear manually",
+        "Changelog": "You can now edit gear manually\nNew player experience should be better now",
         "DalamudApiLevel": 7,
         "Description": "A collection of useful tools for RaidGroups, including loot management\n (https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/main/pluginmaster.json)",
         "DownloadCount": 0,
