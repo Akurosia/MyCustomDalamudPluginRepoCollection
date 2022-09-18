@@ -1888,6 +1888,30 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.1.1.0",
+        "Author": "Eisenhuth",
+        "DalamudApiLevel": 7,
+        "Description": "Translates Nael's quotes into mechanics.\n (https://raw.githubusercontent.com/Eisenhuth/TrustworthyDalamudPlugins/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
+        "IconUrl": "",
+        "ImageUrls": [],
+        "InternalName": "NaelPlugin",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "0",
+        "Name": "Nael'd it for UCOB [Aku API 7]",
+        "Punchline": "because reading chat is not a mechanic",
+        "RepoUrl": "https://github.com/Eisenhuth/dalamud-nael",
+        "Tags": [
+            "ui",
+            "chat"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "0.0.0.7",
         "Author": "yasatoma",
         "DalamudApiLevel": 7,
