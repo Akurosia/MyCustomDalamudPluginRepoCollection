@@ -1565,7 +1565,7 @@
         "InternalName": "Lock",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1663425686",
+        "LastUpdated": "1663564579",
         "Name": "Lock [Aku API 7]",
         "Punchline": "锁定",
         "RepoUrl": ""
@@ -2657,7 +2657,7 @@
         "InternalName": "SeeBuff",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1663425686",
+        "LastUpdated": "1663564579",
         "Name": "SeeBuff [Aku API 7]",
         "Punchline": "buff显示",
         "RepoUrl": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip"
@@ -3309,7 +3309,7 @@
         "InternalName": "XIVComboExpandedest",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1663425686",
+        "LastUpdated": "1663564579",
         "Name": "XIVComboExpandedest [Aku API 7]",
         "Punchline": "1-1-1.",
         "RepoUrl": ""
@@ -3479,7 +3479,7 @@
         "InternalName": "Zoom",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1663425686",
+        "LastUpdated": "1663564579",
         "Name": "Zoom [Aku API 7]",
         "Punchline": "视距",
         "RepoUrl": ""
