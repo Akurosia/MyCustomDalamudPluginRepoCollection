@@ -1,7 +1,7 @@
 [
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.2",
+        "AssemblyVersion": "1.0.0.3",
         "Author": "NightmareXIV",
         "DalamudApiLevel": 7,
         "Description": "Splatoon v2.1.1.0+ REQUIRED! Current functions: display of P6S unsafe tiles. \n (https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json)",
