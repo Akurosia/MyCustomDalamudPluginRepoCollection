@@ -2655,7 +2655,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "5.0",
+        "AssemblyVersion": "5.1",
         "Author": "Liza Carvelli",
         "DalamudApiLevel": 7,
         "Description": "Shows where Bamboo falls.\n (https://raw.githubusercontent.com/carvelli/Dalamud-Plugins/master/dist/pluginmaster.json)",
@@ -2666,7 +2666,7 @@
         "InternalName": "SliceIsRight",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1661434813",
+        "LastUpdated": "1663933995",
         "LoadPriority": 0,
         "Name": "Slice is Right [Aku API 7]",
         "Punchline": "Shows where Bamboo falls.",
