@@ -236,7 +236,7 @@
         "ApplicableVersion": "any",
         "AssemblyVersion": "1.4.6",
         "Author": "Athavar",
-        "Changelog": "Update to net6. Yes module temporary disabled",
+        "Changelog": "Add AutoSpear Module",
         "DalamudApiLevel": 7,
         "Description": "Various tools for private use.\n (https://raw.githubusercontent.com/Athavar/Athavar.FFXIV.DalaRepo/master/pluginmaster.json)",
         "DownloadCount": 0,
@@ -248,7 +248,7 @@
         "InternalName": "Athavar.FFXIV.Plugin",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1664228371",
+        "LastUpdated": "1664234007",
         "Name": "Athavar's ToolBox [Aku API 7]",
         "Punchline": "Various tools for private use.",
         "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.Plugin"
