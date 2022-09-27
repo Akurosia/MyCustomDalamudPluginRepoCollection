@@ -3231,7 +3231,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.4.0.5",
+        "AssemblyVersion": "1.4.0.6",
         "Author": "attick, daemitus, alymphocyte, grammernatzi",
         "Changelog": "1.4.0.3:\r\n* Sidewinder to Pitch Perfect added.\r\n* Minor dancer bug fixed where Flourish to Fan Dance 3 was toggled by the Fan Dance 4 version instead.\r\n* Red Mage Verproc into Jolt Plus Option added.\r\n* Drill to Bioblaster added.\r\n  \r\n1.4.0.0:\r\n* 6.2 support (obviously)\r\n* Jump to Mirage Dive re-added, Minor Arcana to Crown Play removed.\r\n\r\nIf a recent change isn't documented on this changelog, it is because it doesn't affect plugin functionality, or is a minor bugfix.",
         "DalamudApiLevel": 7,
@@ -3245,7 +3245,7 @@
         "InternalName": "XIVComboExpandedest",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1663643743",
+        "LastUpdate": "1664305363",
         "LoadPriority": 0,
         "Name": "XIV Combo Expandedest [Aku API 7]",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button. Plus extras.",
