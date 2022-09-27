@@ -156,9 +156,9 @@
     {
         "ApplicableVersion": "any",
         "AssemblyVersion": "2.1.0.2",
-        "Author": "NightmareXIV",
+        "Author": "Eternita",
         "DalamudApiLevel": 7,
-        "Description": "\n (https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json)",
+        "Description": "\n (https://raw.githubusercontent.com/RikaKagurasaka/MyDalamudPlugins/main/pluginmaster.json)",
         "DownloadCount": 0,
         "DownloadLinkInstall": "https://github.com/NightmareXIV/AntiAfkKick/releases/latest/download/AntiAfkKick-Dalamud.zip",
         "DownloadLinkTesting": "https://github.com/NightmareXIV/AntiAfkKick/releases/latest/download/AntiAfkKick-Dalamud.zip",
@@ -176,9 +176,9 @@
     {
         "ApplicableVersion": "any",
         "AssemblyVersion": "2.1.0.2",
-        "Author": "Eternita",
+        "Author": "NightmareXIV",
         "DalamudApiLevel": 7,
-        "Description": "\n (https://raw.githubusercontent.com/RikaKagurasaka/MyDalamudPlugins/main/pluginmaster.json)",
+        "Description": "\n (https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json)",
         "DownloadCount": 0,
         "DownloadLinkInstall": "https://github.com/NightmareXIV/AntiAfkKick/releases/latest/download/AntiAfkKick-Dalamud.zip",
         "DownloadLinkTesting": "https://github.com/NightmareXIV/AntiAfkKick/releases/latest/download/AntiAfkKick-Dalamud.zip",
@@ -371,7 +371,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.2.0.4",
+        "AssemblyVersion": "2.0.0.0",
         "Author": "Puni.sh",
         "Changelog": "- Adds option to disable anticipation on MNK during AoE",
         "DalamudApiLevel": 7,
@@ -381,11 +381,14 @@
         "DownloadLinkTesting": "https://love.puni.sh/plugins/Avarice/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Avarice/latest.zip",
         "IconUrl": "https://love.puni.sh/resources/avarice.png",
+        "ImageUrls": null,
         "InternalName": "Avarice",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1661389532",
+        "LastUpdate": "1663979350",
         "Name": "Avarice [Aku API 7]",
+        "Punchline": null,
+        "RepoUrl": null,
         "Tags": [
             "combat"
         ]
