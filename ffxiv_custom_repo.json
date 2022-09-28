@@ -2840,6 +2840,27 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.1.0",
+        "Author": "Excelzn",
+        "DalamudApiLevel": 7,
+        "Description": "Whitelist RP speech\n (https://raw.githubusercontent.com/Excelzn/DalamudPlugins/main/repo.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/Excelzn/Subspeak/releases/download/subspeak-v1.1.0/v1.1.0.zip",
+        "DownloadLinkTesting": "https://github.com/Excelzn/Subspeak/releases/download/subspeak-v1.1.0/v1.1.0.zip",
+        "DownloadLinkUpdate": "https://github.com/Excelzn/Subspeak/releases/download/subspeak-v1.1.0/v1.1.0.zip",
+        "InternalName": "Subspeak",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": 1664406631,
+        "Name": "Subspeak [Aku API 7]",
+        "RepoUrl": "https://github.com/Excelzn/Subspeak",
+        "Tags": [
+            "subspeak",
+            "whitelist"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "0.9.6.0",
         "Author": "Paissa Heavy Industries",
         "DalamudApiLevel": 7,
