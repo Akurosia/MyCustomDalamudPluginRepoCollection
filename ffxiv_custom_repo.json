@@ -326,8 +326,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.2.0.8",
+        "AssemblyVersion": "1.2.1.1",
         "Author": "Puni.sh",
+        "Changelog": null,
         "DalamudApiLevel": 7,
         "Description": "Collect and assign ventures to your retainers from the comfort of your bed.\n (https://love.puni.sh/ment.json)",
         "DownloadCount": 0,
@@ -335,11 +336,15 @@
         "DownloadLinkTesting": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
         "IconUrl": "https://love.puni.sh/resources/auto-retainer.png",
+        "ImageUrls": null,
         "InternalName": "AutoRetainer",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1661468404",
-        "Name": "AutoRetainer [Aku API 7]"
+        "LastUpdate": "1664326780",
+        "Name": "AutoRetainer [Aku API 7]",
+        "Punchline": null,
+        "RepoUrl": null,
+        "Tags": null
     },
     {
         "ApplicableVersion": "any",
@@ -1621,7 +1626,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.4.21",
+        "AssemblyVersion": "0.4.22",
         "Author": "darkarchon",
         "DalamudApiLevel": 7,
         "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.\n (https://raw.githubusercontent.com/Penumbra-Sync/repo/main/plogonmaster.json)",
