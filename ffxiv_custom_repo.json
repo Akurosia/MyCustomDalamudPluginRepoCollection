@@ -1621,7 +1621,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.4.20",
+        "AssemblyVersion": "0.4.21",
         "Author": "darkarchon",
         "DalamudApiLevel": 7,
         "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.\n (https://raw.githubusercontent.com/Penumbra-Sync/repo/main/plogonmaster.json)",
@@ -2293,14 +2293,14 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.5.8.7",
+        "AssemblyVersion": "0.5.9.0",
         "Author": "Adam",
         "DalamudApiLevel": 7,
         "Description": "Runtime mod loader and manager.\n (https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json)",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/xivdev/Penumbra/releases/download/0.5.8.7/Penumbra.zip",
-        "DownloadLinkTesting": "https://github.com/xivdev/Penumbra/releases/download/0.5.8.7/Penumbra.zip",
-        "DownloadLinkUpdate": "https://github.com/xivdev/Penumbra/releases/download/0.5.8.7/Penumbra.zip",
+        "DownloadLinkInstall": "https://github.com/xivdev/Penumbra/releases/download/0.5.9.0/Penumbra.zip",
+        "DownloadLinkTesting": "https://github.com/xivdev/Penumbra/releases/download/0.5.9.0/Penumbra.zip",
+        "DownloadLinkUpdate": "https://github.com/xivdev/Penumbra/releases/download/0.5.9.0/Penumbra.zip",
         "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
         "InternalName": "Penumbra",
         "IsHide": "False",
@@ -2311,7 +2311,7 @@
         "LoadSync": true,
         "Name": "Penumbra [Aku API 7]",
         "RepoUrl": "https://github.com/xivdev/Penumbra",
-        "TestingAssemblyVersion": "0.5.8.7"
+        "TestingAssemblyVersion": "0.5.9.0"
     },
     {
         "ApplicableVersion": "any",
