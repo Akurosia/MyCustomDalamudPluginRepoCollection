@@ -2343,7 +2343,7 @@
         "InternalName": "PositionalGuide",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1664726140",
+        "LastUpdated": "1664925379",
         "Name": "Positional Assistant [Aku API 7]",
         "RepoUrl": "https://github.com/PrincessRTFM/PositionalAssistant"
     },
@@ -2950,7 +2950,7 @@
         "InternalName": "TinyCmds",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1664726140",
+        "LastUpdated": "1664925379",
         "Name": "TinyCommands [Aku API 7]",
         "RepoUrl": "https://github.com/PrincessRTFM/TinyCommands"
     },
@@ -3354,7 +3354,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "7.0.8310.28650",
+        "AssemblyVersion": "7.0.8312.41870",
         "Author": "attick, daemitus, VariableVixen",
         "DalamudApiLevel": 7,
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.\n (https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json)",
@@ -3365,7 +3365,7 @@
         "InternalName": "XIVComboVX",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1664726140",
+        "LastUpdated": "1664925379",
         "Name": "XIV Combo Very Expanded [Aku API 7]",
         "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin"
     },
