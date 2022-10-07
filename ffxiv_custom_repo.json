@@ -2241,7 +2241,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.3.3",
+        "AssemblyVersion": "1.4.0",
         "Author": "Zhyra",
         "DalamudApiLevel": 7,
         "Description": "A plugin to see partyverse.app events.\n (https://raw.githubusercontent.com/ZhyraPlugins/repo/main/plugins.json)",
