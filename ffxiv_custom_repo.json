@@ -2357,7 +2357,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.8272.6138",
+        "AssemblyVersion": "2.0.8316.41070",
         "Author": "VariableVixen",
         "DalamudApiLevel": 7,
         "Description": "If you have a hard time telling whether you're in the right spot for positional attacks, this plugin can draw guidelines on your screen to help you tell where you need to be.\n (https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json)",
@@ -2368,7 +2368,7 @@
         "InternalName": "PositionalGuide",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1665048873",
+        "LastUpdated": "1665269376",
         "Name": "Positional Assistant [Aku API 7]",
         "RepoUrl": "https://github.com/PrincessRTFM/PositionalAssistant"
     },
@@ -2964,7 +2964,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "6.0.8300.6547",
+        "AssemblyVersion": "6.0.8316.41070",
         "Author": "VariableVixen",
         "DalamudApiLevel": 7,
         "Description": "Adds tiny and simple but useful chat commands, and nothing more. It doesn't even have a UI.\n (https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json)",
@@ -2975,7 +2975,7 @@
         "InternalName": "TinyCmds",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1665048873",
+        "LastUpdated": "1665269376",
         "Name": "TinyCommands [Aku API 7]",
         "RepoUrl": "https://github.com/PrincessRTFM/TinyCommands"
     },
@@ -3379,7 +3379,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "7.0.8314.17220",
+        "AssemblyVersion": "7.0.8316.41065",
         "Author": "attick, daemitus, VariableVixen",
         "DalamudApiLevel": 7,
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.\n (https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json)",
@@ -3390,7 +3390,7 @@
         "InternalName": "XIVComboVX",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1665048873",
+        "LastUpdated": "1665269376",
         "Name": "XIV Combo Very Expanded [Aku API 7]",
         "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin"
     },
