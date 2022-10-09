@@ -195,9 +195,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.4.6",
+        "AssemblyVersion": "1.0.5.0",
         "Author": "Taurenkey & Puni.sh",
-        "Changelog": "- Bug fixes to endurance mode's memory.\r\n- Adds CP cost to macro names in macro menu.",
+        "Changelog": "- Crafting lists have been released! Check Discord for details.\r\n- Updated support for non-English clients.\r\n- Additional bug fixes made to Endurance mode checks.",
         "DalamudApiLevel": 7,
         "Description": "The all-in-one crafting plugin.\n (https://love.puni.sh/ment.json)",
         "DownloadCount": 0,
@@ -208,7 +208,7 @@
         "InternalName": "Artisan",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1662795588",
+        "LastUpdate": "1665306644",
         "Name": "Artisan [Aku API 7]",
         "Punchline": "A 'simple' crafting plugin.",
         "Tags": [
