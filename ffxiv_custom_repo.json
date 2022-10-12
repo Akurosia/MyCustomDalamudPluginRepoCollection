@@ -2593,7 +2593,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.0.1",
+        "AssemblyVersion": "0.0.0.3",
         "Author": "Speedas",
         "CategoryTags": [],
         "DalamudApiLevel": 7,
