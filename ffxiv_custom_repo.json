@@ -2593,6 +2593,23 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "0.0.0.1",
+        "Author": "Speedas",
+        "CategoryTags": [],
+        "DalamudApiLevel": 7,
+        "Description": "A radar plugin used for bot hunting (no stalking).\n (https://raw.githubusercontent.com/RokasKil/DalamudPlugins/main/plugins.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "http://46.101.96.114/plugins/RadarPlugin.zip",
+        "DownloadLinkTesting": "http://46.101.96.114/plugins/RadarPlugin.zip",
+        "DownloadLinkUpdate": "http://46.101.96.114/plugins/RadarPlugin.zip",
+        "InternalName": "RadarPlugin",
+        "LoadPriority": 0,
+        "Name": "Radar Plugin [Aku API 7]",
+        "Punchline": "A radar plugin used for bot hunting (no stalking).",
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.1.6.6",
         "Author": "UnknownX",
         "Changelog": "",
