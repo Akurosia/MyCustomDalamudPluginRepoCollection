@@ -808,6 +808,26 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "2.0.0.7",
+        "Author": "Eternita",
+        "DalamudApiLevel": 7,
+        "Description": "Current functions:\nResolve eyes position\nWroth flames automarker (whole group and personal)\nTether to your chain partner\n (https://raw.githubusercontent.com/RikaKagurasaka/MyDalamudPlugins/main/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/NightmareXIV/DSREyeLocator/releases/latest/download/DSREyeLocator.zip",
+        "DownloadLinkTesting": "https://github.com/NightmareXIV/DSREyeLocator/releases/latest/download/DSREyeLocator.zip",
+        "DownloadLinkUpdate": "https://github.com/NightmareXIV/DSREyeLocator/releases/latest/download/DSREyeLocator.zip",
+        "IconUrl": "",
+        "ImageUrls": [],
+        "InternalName": "DSREyeLocator",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "0",
+        "Name": "DSR Toolbox [Aku API 7]",
+        "Punchline": "A helper plugin for Dragonsong's Reprise (Ultimate).",
+        "RepoUrl": "https://github.com/NightmareXIV/DSREyeLocator"
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "2.0.2.1",
         "Author": "UnknownX",
         "CategoryTags": [
