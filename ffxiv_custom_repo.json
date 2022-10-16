@@ -682,6 +682,29 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "6.2.51.0",
+        "Author": "DodingDaga",
+        "DalamudApiLevel": 7,
+        "Description": "For the lulz\n (https://raw.githubusercontent.com/dodingdaga/DalamudPlugins/main/PuppetMaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/dodingdaga/DalamudPlugins/releases/download/cc6.2.51.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/dodingdaga/DalamudPlugins/releases/download/cc6.2.51.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/dodingdaga/DalamudPlugins/releases/download/cc6.2.51.0/latest.zip",
+        "InternalName": "Copycat",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "1659261000",
+        "LoadPriority": 0,
+        "Name": "Right Back At You [Aku API 7]",
+        "Punchline": "Nothing but a second-rate, trying hard, copycat!",
+        "RepoUrl": "https://github.com/dodingdaga/DalamudPlugins",
+        "Tags": [
+            "plugin",
+            "emote"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.4.2",
         "Author": "zhudotexe",
         "DalamudApiLevel": 7,
@@ -3621,31 +3644,5 @@
         "Name": "Zoom [Aku API 7]",
         "Punchline": "视距",
         "RepoUrl": ""
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "6.2.51.0",
-        "Author": "DodingDaga",
-        "DalamudApiLevel": 7,
-        "Description": "For the lulz\n (https://raw.githubusercontent.com/dodingdaga/DalamudPlugins/main/PuppetMaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/dodingdaga/DalamudPlugins/releases/download/cc6.2.51.0/Copycat.zip",
-        "DownloadLinkTesting": "https://github.com/dodingdaga/DalamudPlugins/releases/download/cc6.2.51.0/Copycat.zip",
-        "DownloadLinkUpdate": "https://github.com/dodingdaga/DalamudPlugins/releases/download/cc6.2.51.0/Copycat.zip",
-        "InternalName": "rbay",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdated": "1659261000",
-        "LoadPriority": 0,
-        "Name": "Right Back At You [Aku API 7]",
-        "Punchline": "Nothing but a second-rate, trying hard, copycat!",
-        "RepoUrl": "https://github.com/dodingdaga/DalamudPlugins",
-        "Tags": [
-            "plugin",
-            "dodingdaga",
-            "copycat",
-            "emote",
-            "react"
-        ]
     }
 ]
