@@ -1673,6 +1673,24 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "0.5.2.0",
+        "Author": "darkarchon, eqbot",
+        "DalamudApiLevel": 7,
+        "Description": "Extra options for Mare Synchronos!\n (https://raw.githubusercontent.com/eqbot/DalamudPluginRepo/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/MareSynchronos/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/eqbot/Mare-Client/privacy-settings/MareSynchronos/images/icon.png",
+        "InternalName": "MareSynchronos+",
+        "LoadPriority": 0,
+        "Name": "Mare Synchronos Client+ [Aku API 7]",
+        "Punchline": "Expanded clientside settings for Mare Synchronos",
+        "RepoUrl": "https://github.com/eqbot/Mare-Client",
+        "Tags": [
+            "customization"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "0.3.0.0",
         "Author": "Chalkos",
         "Changelog": "Update Dalamud API level",
