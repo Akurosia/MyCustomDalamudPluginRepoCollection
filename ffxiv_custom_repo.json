@@ -534,7 +534,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "7.0.8275.18053",
+        "AssemblyVersion": "7.1.2.24489",
         "Author": "buttplug",
         "DalamudApiLevel": 7,
         "Description": "One time my squat plug ricocheted into someones head\n (https://raw.githubusercontent.com/thesuccubus/repo/main/pluginmaster.json)",
@@ -545,7 +545,7 @@
         "InternalName": "Buttplugin",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1661681238",
+        "LastUpdated": "1665929654",
         "Name": "buttplugin [Aku API 7]",
         "RepoUrl": ""
     },
