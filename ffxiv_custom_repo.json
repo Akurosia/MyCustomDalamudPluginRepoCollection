@@ -2829,7 +2829,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.1.1.1",
+        "AssemblyVersion": "2.2.0.2",
         "Author": "NightmareXIV",
         "DalamudApiLevel": 7,
         "Description": "\n (https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json)",
