@@ -1669,7 +1669,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.5.4",
+        "AssemblyVersion": "0.5.5",
         "Author": "darkarchon",
         "DalamudApiLevel": 7,
         "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.\n (https://raw.githubusercontent.com/Penumbra-Sync/repo/main/plogonmaster.json)",
