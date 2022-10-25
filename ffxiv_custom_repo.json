@@ -1669,6 +1669,48 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "0.5.5",
+        "Author": "darkarchon",
+        "DalamudApiLevel": 7,
+        "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.\n (https://raw.githubusercontent.com/Penumbra-Sync/repo/main/plogonmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/Penumbra-Sync/repo/main/MareSynchronos/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/Penumbra-Sync/repo/main/MareSynchronos/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/Penumbra-Sync/repo/main/MareSynchronos/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/Penumbra-Sync/repo/main/MareSynchronos/images/icon.png",
+        "InternalName": "MareSynchronos",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LoadPriority": 0,
+        "Name": "Mare Synchronos [Aku API 7]",
+        "Punchline": "Let others see you as you see yourself.",
+        "RepoUrl": "https://github.com/Penumbra-Sync/client",
+        "Tags": [
+            "customization"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.5.3.0",
+        "Author": "darkarchon, eqbot",
+        "DalamudApiLevel": 7,
+        "Description": "Extra options for Mare Synchronos!\n (https://raw.githubusercontent.com/eqbot/DalamudPluginRepo/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/MareSynchronosPlus/latest.zip",
+        "DownloadLinkTesting": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/MareSynchronosPlus/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/MareSynchronosPlus/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/eqbot/Mare-Client/privacy-settings/MareSynchronos/images/icon.png",
+        "InternalName": "MareSynchronosPlus",
+        "LoadPriority": 0,
+        "Name": "Mare Synchronos Client+ [Aku API 7]",
+        "Punchline": "Expanded clientside settings for Mare Synchronos",
+        "RepoUrl": "https://github.com/eqbot/Mare-Client",
+        "Tags": [
+            "customization"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "0.3.0.0",
         "Author": "Chalkos",
         "Changelog": "Update Dalamud API level",
