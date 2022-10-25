@@ -156,9 +156,9 @@
     {
         "ApplicableVersion": "any",
         "AssemblyVersion": "2.1.0.2",
-        "Author": "Eternita",
+        "Author": "NightmareXIV",
         "DalamudApiLevel": 7,
-        "Description": "\n (https://raw.githubusercontent.com/RikaKagurasaka/MyDalamudPlugins/main/pluginmaster.json)",
+        "Description": "\n (https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json)",
         "DownloadCount": 0,
         "DownloadLinkInstall": "https://github.com/NightmareXIV/AntiAfkKick/releases/latest/download/AntiAfkKick-Dalamud.zip",
         "DownloadLinkTesting": "https://github.com/NightmareXIV/AntiAfkKick/releases/latest/download/AntiAfkKick-Dalamud.zip",
@@ -176,9 +176,9 @@
     {
         "ApplicableVersion": "any",
         "AssemblyVersion": "2.1.0.2",
-        "Author": "NightmareXIV",
+        "Author": "Eternita",
         "DalamudApiLevel": 7,
-        "Description": "\n (https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json)",
+        "Description": "\n (https://raw.githubusercontent.com/RikaKagurasaka/MyDalamudPlugins/main/pluginmaster.json)",
         "DownloadCount": 0,
         "DownloadLinkInstall": "https://github.com/NightmareXIV/AntiAfkKick/releases/latest/download/AntiAfkKick-Dalamud.zip",
         "DownloadLinkTesting": "https://github.com/NightmareXIV/AntiAfkKick/releases/latest/download/AntiAfkKick-Dalamud.zip",
