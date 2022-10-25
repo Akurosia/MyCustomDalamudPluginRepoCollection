@@ -195,7 +195,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.0.2",
+        "AssemblyVersion": "0.0.0.4",
         "Author": "aRkker",
         "Changelog": "0.0.0.1\nInitial release for testing",
         "DalamudApiLevel": 7,
@@ -207,7 +207,7 @@
         "InternalName": "AntiDickheadChatmodule",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": "1666725609",
+        "LastUpdate": "1666726517",
         "LoadPriority": 0,
         "Name": "Anti-Dickhead ChatModule [Aku API 7]",
         "Punchline": "Removes periods, and capitals",
