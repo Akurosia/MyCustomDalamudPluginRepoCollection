@@ -808,8 +808,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.1.1",
+        "AssemblyVersion": "0.0.1.2",
         "Author": "XIV Tools",
+        "Changelog": "0.0.1.2\nMare Synchronos Support - Thanks to help from FizzyGames and ZoomyZebra for the IPC implementation",
         "DalamudApiLevel": 7,
         "Description": "A plugin that allows you to create and apply Anamnesis-style body scaling full time.\n (https://raw.githubusercontent.com/XIV-Tools/DalamudPlugins/main/repo.json)",
         "DownloadCount": 0,
@@ -825,7 +826,7 @@
         "Name": "Customize+ [Aku API 7]",
         "Punchline": "Customize your character beyond FFXIV's limitations.",
         "RepoUrl": "https://github.com/XIV-Tools/CustomizePlus",
-        "TestingAssemblyVersion": "0.0.1.1"
+        "TestingAssemblyVersion": "0.0.1.2"
     },
     {
         "ApplicableVersion": "any",
