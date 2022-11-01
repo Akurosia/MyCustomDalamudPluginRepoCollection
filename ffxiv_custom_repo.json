@@ -257,9 +257,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.4.8",
+        "AssemblyVersion": "1.4.9",
         "Author": "Athavar",
-        "Changelog": "Update for 6.25",
+        "Changelog": "Update for 6.28",
         "DalamudApiLevel": 7,
         "Description": "Various tools for private use.\n (https://raw.githubusercontent.com/Athavar/Athavar.FFXIV.DalaRepo/master/pluginmaster.json)",
         "DownloadCount": 0,
@@ -271,7 +271,7 @@
         "InternalName": "Athavar.FFXIV.Plugin",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1667332092",
+        "LastUpdated": "1667333707",
         "Name": "Athavar's ToolBox [Aku API 7]",
         "Punchline": "Various tools for private use.",
         "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.Plugin"
