@@ -765,7 +765,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.0.22",
+        "AssemblyVersion": "0.0.0.23",
         "Author": "aRkker",
         "Changelog": "0.0.0.22\nAdded season 4 support",
         "DalamudApiLevel": 7,
