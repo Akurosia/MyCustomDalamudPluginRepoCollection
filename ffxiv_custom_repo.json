@@ -777,7 +777,7 @@
         "InternalName": "CrystallineConflictWinsTracker",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": "1667340120",
+        "LastUpdate": "1667344640",
         "LoadPriority": 0,
         "Name": "Crystalline Conflict Winratio tracker [Aku API 7]",
         "Punchline": "See how shite you are",
@@ -2178,6 +2178,29 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "0.0.0.2",
+        "Author": "aRkker",
+        "Changelog": "0.0.0.1\nIts a whole new world",
+        "DalamudApiLevel": 7,
+        "Description": "More or less more or less music\n (https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/OmicronMountMusicFixer/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/OmicronMountMusicFixer/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/OmicronMountMusicFixer/latest.zip",
+        "InternalName": "OmicronMountMusicFixer",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": "1667430962",
+        "LoadPriority": 0,
+        "Name": "Omicron music enabler [Aku API 7]",
+        "Punchline": "Haha yes mount wrong music :)",
+        "Tags": [
+            "other",
+            "social"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "0.2.0.0",
         "Author": "Chirp",
         "DalamudApiLevel": 7,
@@ -2353,6 +2376,29 @@
         "Name": "Penumbra [Aku API 7]",
         "RepoUrl": "https://github.com/xivdev/Penumbra",
         "TestingAssemblyVersion": "0.5.11.1"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.0.1",
+        "Author": "aRkker",
+        "DalamudApiLevel": 7,
+        "Description": "Runtime mod loader and manager, with aRkkers api tweaks lol\n (https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/Penumbra/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/Penumbra/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/Penumbra/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
+        "InternalName": "Penumbra",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": "1667431096",
+        "LoadPriority": 69420,
+        "Name": "Penumbra-Modded [Aku API 7]",
+        "Punchline": "I added some API stuff lol",
+        "RepoUrl": "https://github.com/xivdev/Penumbra",
+        "Tags": [
+            "modding"
+        ]
     },
     {
         "ApplicableVersion": "any",
