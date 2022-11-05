@@ -2379,29 +2379,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.1",
-        "Author": "aRkker",
-        "DalamudApiLevel": 7,
-        "Description": "Runtime mod loader and manager, with aRkkers api tweaks lol\n (https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/Penumbra/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/Penumbra/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/Penumbra/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
-        "InternalName": "Penumbra",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LastUpdate": "1667431096",
-        "LoadPriority": 69420,
-        "Name": "Penumbra-Modded [Aku API 7]",
-        "Punchline": "I added some API stuff lol",
-        "RepoUrl": "https://github.com/xivdev/Penumbra",
-        "Tags": [
-            "modding"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "0.0.0.2",
         "Author": "yasatoma",
         "DalamudApiLevel": 7,
