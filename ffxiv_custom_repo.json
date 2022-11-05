@@ -1198,7 +1198,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.2.3",
+        "AssemblyVersion": "1.0.2.4",
         "Author": "Cai",
         "DalamudApiLevel": 7,
         "Description": "Tracks GCD, OGCDs and combo status. Instantly visualizing what is happening with queue, animation lock and helping you get familiar with the concepts.\n (https://gist.githubusercontent.com/CaiClone/0aad66569dbf63a9bbeec6a8e95a123f/raw/pluginmaster.json)",
@@ -1213,7 +1213,7 @@
         "InternalName": "GCDTracker",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1663093783",
+        "LastUpdated": "1667647664",
         "LoadPriority": 0,
         "Name": "GCDTracker [Aku API 7]",
         "Punchline": "Is my DRG still jumping?",
