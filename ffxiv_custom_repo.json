@@ -2283,7 +2283,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.15",
+        "AssemblyVersion": "1.16",
         "Author": "Liza Carvelli",
         "DalamudApiLevel": 7,
         "Description": "Shows possible trap & hoard coffer locations in Palace of the Dead & Heaven on High. Requires Splatoon to be installed.\n (https://raw.githubusercontent.com/carvelli/Dalamud-Plugins/master/dist/pluginmaster.json)",
