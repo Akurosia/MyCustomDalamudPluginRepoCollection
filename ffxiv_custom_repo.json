@@ -901,7 +901,7 @@
         "CategoryTags": [
             "utility"
         ],
-        "Changelog": "460130e: stg のバイナリを使う\n46d1612: Update README.md\n97968fd: リファクタリング\n0d27d70: .NET 6\n55768eb: Merge pull request #4 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.10.3\na5ffb08: Update dependency gitversion.tool to v5.10.3\n8067ed4: 🔧 chore(renovate): update config\nac094e7: .NET 6 and Api7\nccae22e: Delete Common\n94cb72e: Update packages.lock.json\nd329d45: Update AetheryteLinkInChatPlugin.cs\nb8b929b: Update Divination.AetheryteLinkInChat.csproj\nf41e162: Delete .gitmodules\nb2d320b: remove Common dependencies\n51a50e1: DalamudApiLevel 5 -> 6\nd8fabbd: Dalamud api 5",
+        "Changelog": "355c8e4: 🧹 dotnet format\n1555d9d: reusable workflows を使う\n460130e: stg のバイナリを使う\n46d1612: Update README.md\n97968fd: リファクタリング\n0d27d70: .NET 6\n55768eb: Merge pull request #4 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.10.3\na5ffb08: Update dependency gitversion.tool to v5.10.3\n8067ed4: 🔧 chore(renovate): update config\nac094e7: .NET 6 and Api7\nccae22e: Delete Common\n94cb72e: Update packages.lock.json\nd329d45: Update AetheryteLinkInChatPlugin.cs\nb8b929b: Update Divination.AetheryteLinkInChat.csproj\nf41e162: Delete .gitmodules\nb2d320b: remove Common dependencies\n51a50e1: DalamudApiLevel 5 -> 6\nd8fabbd: Dalamud api 5",
         "DalamudApiLevel": 7,
         "Description": "Add a link to teleport to the nearest aetheryte into map link in chat. Teleporter plugin required!\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
         "DownloadCount": 0,
@@ -920,16 +920,16 @@
         "Tags": [
             "teleporter"
         ],
-        "TestingAssemblyVersion": "0.1.0.56"
+        "TestingAssemblyVersion": "0.1.0.57"
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.0.46",
+        "AssemblyVersion": "0.1.0.73",
         "Author": "Asteria Nocturna",
         "CategoryTags": [
             "social"
         ],
-        "Changelog": "f5f8ed5: 🧹 dotnet format\n4c36da1: Reusable workflows を使う\n7d4b5fe: クリーンアップ\nd5fead1: パス修正\n82c55ad: gitversion.json を読む\nd1d912b: バージョン戦略を変更\n12fcc04: アクション変えてみる\n8788afe: バージョン情報の表記を修正\n4e068da: csproj に TargetFramework を書かない\n5555f4c: 🧹 dotnet format\n6e294d7: Dalamud 7\n773ad0a: Common を Nuget 経由で参照する\n1b9d765: 🔧 chore(renovate): update config\nc250b99: re-enable .NET6\n75b16f2: Update Common\n82e9aa4: Merge branch 'master' of https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration\n5d2c35b: Update DiscordIntegrationPlugin.cs\ne94834c: Update Common\n82544f1: DalamudApiLevel 5 -> 6\n16e8666: feat: Support Patch 6.1\n7a84d1e: feat: Support Patch 6.0x",
+        "Changelog": "dae271d: Merge pull request #12 from horoscope-dev/renovate/discordrichpresence-1.x\n\nUpdate dependency DiscordRichPresence to v1.1.1.14\ncade51e: Update dependency DiscordRichPresence to v1.1.1.14\nf5f8ed5: 🧹 dotnet format\n4c36da1: Reusable workflows を使う\n7d4b5fe: クリーンアップ\nd5fead1: パス修正\n82c55ad: gitversion.json を読む\nd1d912b: バージョン戦略を変更\n12fcc04: アクション変えてみる\n8788afe: バージョン情報の表記を修正\n4e068da: csproj に TargetFramework を書かない\n5555f4c: 🧹 dotnet format\n6e294d7: Dalamud 7\n773ad0a: Common を Nuget 経由で参照する\n1b9d765: 🔧 chore(renovate): update config\nc250b99: re-enable .NET6\n75b16f2: Update Common\n82e9aa4: Merge branch 'master' of https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration\n5d2c35b: Update DiscordIntegrationPlugin.cs\ne94834c: Update Common\n82544f1: DalamudApiLevel 5 -> 6\n16e8666: feat: Support Patch 6.1\n7a84d1e: feat: Support Patch 6.0x",
         "DalamudApiLevel": 7,
         "Description": "Dalamud Plugin to support Rich Presence for FFXIV.\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
         "DownloadCount": 0,
@@ -948,7 +948,7 @@
         "Tags": [
             "Discord"
         ],
-        "TestingAssemblyVersion": "0.1.0.70"
+        "TestingAssemblyVersion": "0.1.0.73"
     },
     {
         "ApplicableVersion": "any",
