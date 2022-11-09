@@ -349,7 +349,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.2.1.7",
+        "AssemblyVersion": "2.0.0.3",
         "Author": "Puni.sh",
         "DalamudApiLevel": 7,
         "Description": "Collect and assign ventures to your retainers from the comfort of your bed.\n (https://love.puni.sh/ment.json)",
@@ -361,7 +361,7 @@
         "InternalName": "AutoRetainer",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1666278290",
+        "LastUpdate": "1668045104",
         "Name": "AutoRetainer [Aku API 7]"
     },
     {
