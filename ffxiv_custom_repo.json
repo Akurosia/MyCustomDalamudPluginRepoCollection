@@ -1009,6 +1009,31 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "6.11.1.0",
+        "Author": "Horoscope developers",
+        "Changelog": "983d0c9: 🧹 dotnet format\n0c37ca6: reusable workflow を使う\nd38dffc: 🔧 chore(renovate): update config\nf7080d1: .NET 6/Api7\n575f29e: Bump version to 6.11.0\n87fb5ed: DalamudApiLevel 5 -> 6\n55b6259: Dalamud api 5\n47e921a: Update build.yaml\nbacd86d: fix\n6d27f69: fix project name\n6577000: fix PLUGIN_PROJECT_NAME\n00685a5: rename\nbfe5652: Dlalamud API4\n0f7745f: Dlalamud API4\n240d645: Delete InstanceIDViewer.sln.DotSettings.user\nedfde33: Create README.md\nef1e4df: fix\n5c73961: init",
+        "DalamudApiLevel": 7,
+        "Description": "show instance id in chat when instance changed\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/stable/Divination.InstanceIDViewer/latest.zip",
+        "DownloadLinkTesting": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.InstanceIDViewer/latest.zip",
+        "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
+        "ImageUrls": [],
+        "InternalName": "Divination.InstanceIDViewer",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": 0,
+        "LoadPriority": 0,
+        "Name": "Divination.InstanceIDViewer [Aku API 7]",
+        "Punchline": "",
+        "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
+        "Tags": [
+            "Discord"
+        ],
+        "TestingAssemblyVersion": "6.11.1.4"
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "0.1.0.112",
         "Author": "[Author]",
         "CategoryTags": [
@@ -1041,6 +1066,63 @@
             "[Tag]"
         ],
         "TestingAssemblyVersion": "0.1.0.112"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.0.52",
+        "Author": "Asteria Nocturna",
+        "CategoryTags": [
+            "social"
+        ],
+        "Changelog": "ffa0a46: 🧹 dotnet format\n63fc144: API 7\n54f71b8: 🔧 chore(renovate): update config\ne88a5f9: feat: Support Patch 6.1\n39f73bc: feat: Support Dalamud API 5",
+        "DalamudApiLevel": 7,
+        "Description": "Dalamud Plugin to add tweet function and Twitter timeline in FFXIV chat\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.TwitterIntegration/latest.zip",
+        "DownloadLinkTesting": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.TwitterIntegration/latest.zip",
+        "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
+        "ImageUrls": [],
+        "InternalName": "Divination.TwitterIntegration",
+        "IsHide": false,
+        "IsTestingExclusive": true,
+        "LastUpdated": 0,
+        "LoadPriority": 0,
+        "Name": "Divination.TwitterIntegration [Aku API 7]",
+        "Punchline": "Tweet in FFXIV chat.",
+        "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration",
+        "Tags": [
+            "Twitter"
+        ],
+        "TestingAssemblyVersion": "0.1.0.52"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.0.50",
+        "Author": "Asteria Nocturna",
+        "CategoryTags": [
+            "utility"
+        ],
+        "Changelog": "bf74b5c: 🧹 dotnet format\n0f21f2f: API 7\n0f5b930: 🔧 chore(renovate): update config\n9808e0c: feat: Support Patch 6.1\n08b6aaf: feat: Support Dalamud API 6",
+        "DalamudApiLevel": 7,
+        "Description": "Add /voiceroid2 command into FFXIV. Require SimpleVoiceroid2Proxy (https://github.com/SlashNephy/SimpleVoiceroid2Proxy).\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.Voiceroid2Talker/latest.zip",
+        "DownloadLinkTesting": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.Voiceroid2Talker/latest.zip",
+        "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
+        "ImageUrls": [],
+        "InternalName": "Divination.Voiceroid2Talker",
+        "IsHide": false,
+        "IsTestingExclusive": true,
+        "LastUpdated": 0,
+        "LoadPriority": 0,
+        "Name": "Divination.Voiceroid2Talker [Aku API 7]",
+        "Punchline": "Text-to-Speech for Voiceroid2",
+        "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker",
+        "Tags": [
+            "Text-to-speech",
+            "Voiceroid"
+        ],
+        "TestingAssemblyVersion": "0.1.0.50"
     },
     {
         "ApplicableVersion": "any",
