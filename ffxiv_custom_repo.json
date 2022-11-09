@@ -1034,6 +1034,34 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.0.58",
+        "Author": "Asteria Nocturna",
+        "CategoryTags": [
+            "utility"
+        ],
+        "Changelog": "9c4e535: Merge remote-tracking branch 'origin/master'\nc2095ea: サブモジュール除去\n00c46f8: 🧹 dotnet format\n0db1577: API 7\n707d83e: 🔧 chore(renovate): update config\nc48c154: feat: Support Patch 6.1\n7245a13: feat: Support Dalamud API 5\nb2ad1e6: Update build.yml\n9a10147: Update build.yml\ncbc810c: Update build.yml\n9aca661: Update build.yml\n0d7aea6: Update build.yml\nf5b1206: Update build.yml",
+        "DalamudApiLevel": 7,
+        "Description": "Add /power save, /power balance, /power perf, /monitoroff commands for power management\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.PowerUtils/latest.zip",
+        "DownloadLinkTesting": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.PowerUtils/latest.zip",
+        "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
+        "ImageUrls": [],
+        "InternalName": "Divination.PowerUtils",
+        "IsHide": false,
+        "IsTestingExclusive": true,
+        "LastUpdated": 0,
+        "LoadPriority": 0,
+        "Name": "Divination.PowerUtils [Aku API 7]",
+        "Punchline": "Save Energy!",
+        "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils",
+        "Tags": [
+            "Command"
+        ],
+        "TestingAssemblyVersion": "0.1.0.58"
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "0.1.0.112",
         "Author": "[Author]",
         "CategoryTags": [
