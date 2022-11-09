@@ -924,6 +924,34 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.0.45",
+        "Author": "Asteria Nocturna",
+        "CategoryTags": [
+            "utility"
+        ],
+        "Changelog": "17dadef: 🧹 dotnet format\n90f0198: API 7\nbc3e948: 🔧 chore(renovate): update config\n70a64f8: feat: Support Patch 6.1\ndabbe6d: feat: Support Dalamud API 5",
+        "DalamudApiLevel": 7,
+        "Description": "Simple plugin to just add /calc command.\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/stable/Divination.Calculator/latest.zip",
+        "DownloadLinkTesting": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.Calculator/latest.zip",
+        "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
+        "ImageUrls": [],
+        "InternalName": "Divination.Calculator",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": 0,
+        "LoadPriority": 0,
+        "Name": "Divination.Calculator [Aku API 7]",
+        "Punchline": "/calc 33 - 4",
+        "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator",
+        "Tags": [
+            "utility"
+        ],
+        "TestingAssemblyVersion": "0.1.0.50"
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "0.1.0.71",
         "Author": "Asteria Nocturna",
         "CategoryTags": [
