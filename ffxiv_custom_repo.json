@@ -957,7 +957,7 @@
         "CategoryTags": [
             "utility"
         ],
-        "Changelog": "b7fdf26: メモリ範囲を変更\nfc19909: 🧹 dotnet format\naa8d5b2: リファクタリング\n5d555ef: Merge pull request #2 from horoscope-dev/renovate/dalamudpackager-2.x\n\nchore(deps): update dependency dalamudpackager to v2.1.8\n4473e28: chore(deps): update dependency dalamudpackager to v2.1.8\nad4d625: Template の変更に追従\n688db78: 🔧 chore(renovate): update config\n6aecbc7: feat: Support Patch 6.1\n8a9c2bb: fix: result won't show due to queue\n3181092: feat: log on matched packets\n13ee3a6: fix: network value filtering\n3a68e91: feat: add Clear button\n2213911: fix: index is no longer skipped\ne3c613d: fix: network data can overflow\n97079b1: feat: show Opcode\n4e31c81: fix: priority between LocalPlayer and Target\n0b3ca6c: fix: Enum.GetName receives non-enum accidentally\nc451ef4: fix: allow unsafe codes\n39638e2: feat: readable memory data view\nbae282b: delete: /cc command\n\nbecause native console is no longer used\nd20ae01: feat: readable columns\nfeaa556: feat: Support Dalamud API 5",
+        "Changelog": "fc5a6c9: SeIconChar も表示可能にする\nb7fdf26: メモリ範囲を変更\nfc19909: 🧹 dotnet format\naa8d5b2: リファクタリング\n5d555ef: Merge pull request #2 from horoscope-dev/renovate/dalamudpackager-2.x\n\nchore(deps): update dependency dalamudpackager to v2.1.8\n4473e28: chore(deps): update dependency dalamudpackager to v2.1.8\nad4d625: Template の変更に追従\n688db78: 🔧 chore(renovate): update config\n6aecbc7: feat: Support Patch 6.1\n8a9c2bb: fix: result won't show due to queue\n3181092: feat: log on matched packets\n13ee3a6: fix: network value filtering\n3a68e91: feat: add Clear button\n2213911: fix: index is no longer skipped\ne3c613d: fix: network data can overflow\n97079b1: feat: show Opcode\n4e31c81: fix: priority between LocalPlayer and Target\n0b3ca6c: fix: Enum.GetName receives non-enum accidentally\nc451ef4: fix: allow unsafe codes\n39638e2: feat: readable memory data view\nbae282b: delete: /cc command\n\nbecause native console is no longer used\nd20ae01: feat: readable columns\nfeaa556: feat: Support Dalamud API 5",
         "DalamudApiLevel": 7,
         "Description": "Tiny tool to inspect game...\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
         "DownloadCount": 0,
@@ -977,7 +977,7 @@
             "Development",
             "Debug"
         ],
-        "TestingAssemblyVersion": "0.1.0.71"
+        "TestingAssemblyVersion": "0.1.0.72"
     },
     {
         "ApplicableVersion": "any",
