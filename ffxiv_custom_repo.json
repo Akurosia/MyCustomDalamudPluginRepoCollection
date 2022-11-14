@@ -2368,11 +2368,11 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.0.2",
         "Author": "aRkker",
-        "Changelog": "1.0.0.0\nShamelessly copied OrchestrionPlugin's implementation for song changes, Penumbra no longer necessary",
+        "Changelog": "1.0.0.1\nMissing data paths",
         "DalamudApiLevel": 7,
-        "Description": "More or less more or less music\n (https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/pluginmaster.json)",
+        "Description": "This plugin swaps the Miiw Miisv mount music to the Elysion theme from the Omicron beast tribe dailies. I found that this should have been the music from the get-go, but alas it wasnt. Now, with this plugin, it can be so\n (https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/pluginmaster.json)",
         "DownloadCount": 0,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/OmicronMountMusicFixer/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/OmicronMountMusicFixer/latest.zip",
@@ -2380,10 +2380,10 @@
         "InternalName": "OmicronMountMusicFixer",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": "1668425182",
+        "LastUpdate": "1668425843",
         "LoadPriority": 0,
         "Name": "Omicron music enabler [Aku API 7]",
-        "Punchline": "Haha yes mount wrong music :)",
+        "Punchline": "Swap the Miiw Miisv music for Cradle of Hope",
         "Tags": [
             "other",
             "social"
