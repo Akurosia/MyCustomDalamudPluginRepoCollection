@@ -218,9 +218,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.5.5",
+        "AssemblyVersion": "1.0.5.6",
         "Author": "Taurenkey & Puni.sh",
-        "Changelog": "- Adds Teamcraft list import/export to crafting lists.\r\n- Fixes to Endurance mode for certain crafts with long names.\r\n- Crafting lists will no longer reset crafting stance between items if processing the same item.\r\n- Other bug fixes",
+        "Changelog": "- Increases the text length of imports up to 10,000,000 characters per box.",
         "DalamudApiLevel": 7,
         "Description": "The all-in-one crafting plugin.\n (https://love.puni.sh/ment.json)",
         "DownloadCount": 0,
@@ -231,7 +231,7 @@
         "InternalName": "Artisan",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1668412128",
+        "LastUpdate": "1668445970",
         "Name": "Artisan [Aku API 7]",
         "Punchline": "A 'simple' crafting plugin.",
         "Tags": [
