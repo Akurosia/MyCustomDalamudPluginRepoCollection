@@ -3421,9 +3421,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.1.0",
+        "AssemblyVersion": "1.0.1.1",
         "Author": "Ajisai Mirai",
-        "Changelog": "Updated to .28",
+        "Changelog": "1.0.1.1: Added fallback hook.\nUpdated to .28",
         "DalamudApiLevel": 7,
         "Description": "Ever AFK and curious if people emoted at you? No longer.\n (https://raw.githubusercontent.com/AjisaiMirai/plugins/main/repo.json)",
         "DownloadCount": 0,
