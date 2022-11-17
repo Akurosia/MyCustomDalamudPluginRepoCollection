@@ -2630,7 +2630,7 @@
         "InternalName": "PositionalGuide",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1667818869",
+        "LastUpdated": "1668683191",
         "Name": "Positional Assistant [Aku API 7]",
         "RepoUrl": "https://github.com/PrincessRTFM/PositionalAssistant"
     },
@@ -3263,7 +3263,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "6.0.8346.19819",
+        "AssemblyVersion": "6.0.8356.19977",
         "Author": "VariableVixen",
         "DalamudApiLevel": 7,
         "Description": "Adds tiny and simple but useful chat commands, and nothing more. It doesn't even have a UI.\n (https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json)",
@@ -3274,7 +3274,7 @@
         "InternalName": "TinyCmds",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1667818869",
+        "LastUpdated": "1668683191",
         "Name": "TinyCommands [Aku API 7]",
         "RepoUrl": "https://github.com/PrincessRTFM/TinyCommands"
     },
@@ -3689,7 +3689,7 @@
         "InternalName": "XIVComboVX",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1667818869",
+        "LastUpdated": "1668683191",
         "Name": "XIV Combo Very Expanded [Aku API 7]",
         "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin"
     },
