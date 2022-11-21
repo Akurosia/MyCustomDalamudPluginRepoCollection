@@ -929,7 +929,7 @@
         "CategoryTags": [
             "utility"
         ],
-        "Changelog": "17dadef: 🧹 dotnet format\n90f0198: API 7\nbc3e948: 🔧 chore(renovate): update config\n70a64f8: feat: Support Patch 6.1\ndabbe6d: feat: Support Dalamud API 5",
+        "Changelog": "26b4ffa: Merge pull request #2 from horoscope-dev/renovate/dalamudpackager-2.x\n\nchore(deps): update dependency dalamudpackager to v2.1.8\n1c32ca6: chore(deps): update dependency dalamudpackager to v2.1.8\n17dadef: 🧹 dotnet format\n90f0198: API 7\nbc3e948: 🔧 chore(renovate): update config\n70a64f8: feat: Support Patch 6.1\ndabbe6d: feat: Support Dalamud API 5",
         "DalamudApiLevel": 7,
         "Description": "Simple plugin to just add /calc command.\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
         "DownloadCount": 0,
@@ -948,7 +948,7 @@
         "Tags": [
             "utility"
         ],
-        "TestingAssemblyVersion": "0.1.0.50"
+        "TestingAssemblyVersion": "0.1.0.53"
     },
     {
         "ApplicableVersion": "any",
