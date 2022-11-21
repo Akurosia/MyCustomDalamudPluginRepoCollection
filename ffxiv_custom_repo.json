@@ -1011,7 +1011,10 @@
         "ApplicableVersion": "any",
         "AssemblyVersion": "6.11.1.0",
         "Author": "Horoscope developers",
-        "Changelog": "4afbd88: 🧹 dotnet format\n841b8b4: DtrBar でサーバー情報バーにインスタンスIDを表示するように\n1d2a188: ビルド構成が間違っていた\n983d0c9: 🧹 dotnet format\n0c37ca6: reusable workflow を使う\nd38dffc: 🔧 chore(renovate): update config\nf7080d1: .NET 6/Api7\n575f29e: Bump version to 6.11.0\n87fb5ed: DalamudApiLevel 5 -> 6\n55b6259: Dalamud api 5\n47e921a: Update build.yaml\nbacd86d: fix\n6d27f69: fix project name\n6577000: fix PLUGIN_PROJECT_NAME\n00685a5: rename\nbfe5652: Dlalamud API4\n0f7745f: Dlalamud API4\n240d645: Delete InstanceIDViewer.sln.DotSettings.user\nedfde33: Create README.md\nef1e4df: fix\n5c73961: init",
+        "CategoryTags": [
+            "social"
+        ],
+        "Changelog": "4778e15: Merge pull request #4 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nUpdate dependency GitVersion.MsBuild to v5.11.1\n2675eac: Merge pull request #3 from horoscope-dev/renovate/dalamudpackager-2.x\n\nUpdate dependency DalamudPackager to v2.1.8\nc84e2e4: 🧹 dotnet format\nd7ddaa4: Update dependency GitVersion.MsBuild to v5.11.1\n580363e: Update dependency DalamudPackager to v2.1.8\n4afbd88: 🧹 dotnet format\n841b8b4: DtrBar でサーバー情報バーにインスタンスIDを表示するように\n1d2a188: ビルド構成が間違っていた\n983d0c9: 🧹 dotnet format\n0c37ca6: reusable workflow を使う\nd38dffc: 🔧 chore(renovate): update config\nf7080d1: .NET 6/Api7\n575f29e: Bump version to 6.11.0\n87fb5ed: DalamudApiLevel 5 -> 6\n55b6259: Dalamud api 5\n47e921a: Update build.yaml\nbacd86d: fix\n6d27f69: fix project name\n6577000: fix PLUGIN_PROJECT_NAME\n00685a5: rename\nbfe5652: Dlalamud API4\n0f7745f: Dlalamud API4\n240d645: Delete InstanceIDViewer.sln.DotSettings.user\nedfde33: Create README.md\nef1e4df: fix\n5c73961: init",
         "DalamudApiLevel": 7,
         "Description": "show instance id in chat when instance changed\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
         "DownloadCount": 0,
@@ -1030,7 +1033,7 @@
         "Tags": [
             "Discord"
         ],
-        "TestingAssemblyVersion": "6.11.1.7"
+        "TestingAssemblyVersion": "6.11.1.13"
     },
     {
         "ApplicableVersion": "any",
