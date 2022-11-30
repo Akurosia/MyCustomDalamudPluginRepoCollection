@@ -1536,6 +1536,30 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "0.0.0.9",
+        "Author": "GiR-Zippo, Meowchestra",
+        "CategoryTags": [
+            "utility",
+            "other"
+        ],
+        "DalamudApiLevel": 7,
+        "Description": "LightAmp & BardMusicPlayer companion for enhanced functionality.\n (https://raw.githubusercontent.com/GiR-Zippo/Hypnotoad-Plugin/master/PluginDir/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/GiR-Zippo/Hypnotoad-Plugin/master/PluginDir/HypnotoadPlugin/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/GiR-Zippo/Hypnotoad-Plugin/master/PluginDir/HypnotoadPlugin/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/GiR-Zippo/Hypnotoad-Plugin/master/PluginDir/HypnotoadPlugin/latest.zip",
+        "IconUrl": "",
+        "InternalName": "HypnotoadPlugin",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": "1669828984",
+        "LoadPriority": 0,
+        "Name": "HypnotoadPlugin [Aku API 7]",
+        "Punchline": "Companion plugin for enhanced functionality.",
+        "RepoUrl": ""
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "0.0.0.4",
         "Author": "GiR-Zippo",
         "CategoryTags": [
