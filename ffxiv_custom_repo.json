@@ -1322,27 +1322,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "4.1",
-        "Author": "Liza Carvelli",
-        "DalamudApiLevel": 7,
-        "Description": "Plays a sound when a fish is caught, depending on tug-strength\n (https://raw.githubusercontent.com/carvelli/Dalamud-Plugins/master/dist/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/carvelli/Fish-Notify/releases/download/v4.1/FishNotify-4.1.zip",
-        "DownloadLinkUpdate": "https://github.com/carvelli/Fish-Notify/releases/download/v4.1/FishNotify-4.1.zip",
-        "InternalName": "FishNotify",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdate": 0,
-        "LoadPriority": 0,
-        "Name": "Fish Notify [Aku API 7]",
-        "Punchline": "Plays a sound when a fish is caught",
-        "RepoUrl": "https://github.com/carvelli/Fish-Notify",
-        "Tags": [
-            "fishing"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.1.3",
         "Author": "UnknownX",
         "CategoryTags": [
@@ -2479,31 +2458,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.22",
-        "Author": "Liza Carvelli",
-        "DalamudApiLevel": 7,
-        "Description": "Shows possible trap & hoard coffer locations in Palace of the Dead & Heaven on High. Requires Splatoon to be installed.\n (https://raw.githubusercontent.com/carvelli/Dalamud-Plugins/master/dist/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/carvelli/PalacePal/releases/download/v1.22/Palace.Pal-1.22.zip",
-        "DownloadLinkUpdate": "https://github.com/carvelli/PalacePal/releases/download/v1.22/Palace.Pal-1.22.zip",
-        "IconUrl": "https://raw.githubusercontent.com/carvelli/Dalamud-Plugins/master/dist/Palace Pal.png",
-        "InternalName": "Palace Pal",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdate": 0,
-        "LoadPriority": 0,
-        "Name": "Palace Pal [Aku API 7]",
-        "Punchline": "Shows possible trap & hoard coffer locations in Palace of the Dead & Heaven on High.",
-        "RepoUrl": "https://github.com/carvelli/PalacePal",
-        "Tags": [
-            "potd",
-            "palace",
-            "hoh",
-            "splatoon"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.7",
         "Author": "shdwp, Avaflow, a1hena, a1hena",
         "Changelog": "a314ba5: Update PartyIcons.json\n4f8a4a9: fix ci error\nf8f6c98: implovement pluginrepo\nbf67d9d: Update PartyIcons.csproj\n6413831: Update to API v7/net6 and port to Dalamud.ContextMenu\ncd6e660: Merge pull request #55 from status102/main\n\nUpdate PlayerStylesheet.cs\ne05c1d4: Build info updated\n9fc8f1a: Ported context menu to dalamud api; Added opcodes fetching from the web; Minor code cleanups\n811aff1: Update PlayerStylesheet.cs\n\nreplace the rolename with d1234, when EasternNamingConvention is true\nb676188: release: v1.0.6\n4485b81: release: 1.0.5\nc4a1179: fix: reset modes if config is invalid (fixes #46)\n349ba37: fix: disable in PvP matches\nc162d1a: fix: don't allow potential rce with notice text\na3a3df3: chore: reformat/cleanup to prepare for refactoring\nc03c654: fix icon url\n1434dca: v1.0.4.0: FFXIV 6.1 / Dalamud api6 update\nb0e601b: hotfix: add notice\naddba2b: Added bozja nameplate settings; Added Hide option to nameplates; Added small job icons and role mode; Fixed plugin not respecting game name abbreviation settings; Raised limit for static assignment text entry to 64 characters\n0c0c7a2: Show status icons in Small Icon preset\nb29a20d: More fixes for party list hud updater\n5e7e482: Fix for party list roles reverting back to slot numbers after death\n9a96617: Feature to display roles in the Party List\nb0342f8: Icon pack option; OnlyColor chat mode option; Fixed MSQ dungeons counting as raids; Added static assignments; Added icon set and icon size option\n9f53310: Removed role suggestion toast; Fixed missing H2 in context menu; Fixed misplaced chat prefix in alliance; Fixed misaligned role number in BigIconAndRole preset; BigIconAndRole is now BigIconAndPartyNumber\n06d96d0: Added chat message prefixes (role & job); Improved chat role tracker; Improved Eastern Naming Convention option, which now also alters names in context menu\nf16cbaf: EW update; Added eastern role naming convention option; Minor updates\nc2f69b0: Assets update, regex support for role tracker, minor fixes\nd389383: Added images and help text\n00025e5: Initial",
@@ -2989,45 +2943,6 @@
         "Name": "SelectString [Aku API 7]",
         "Punchline": "Select items in menus via 0-9 keys rather than mouse.",
         "RepoUrl": "https://github.com/NightmareXIV/SelectString"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "5.2",
-        "Author": "Liza Carvelli",
-        "DalamudApiLevel": 7,
-        "Description": "Shows where Bamboo falls.\n (https://raw.githubusercontent.com/carvelli/Dalamud-Plugins/master/dist/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/carvelli/Slice-Is-Right/releases/download/v5.2/SliceIsRight-5.2.zip",
-        "DownloadLinkUpdate": "https://github.com/carvelli/Slice-Is-Right/releases/download/v5.2/SliceIsRight-5.2.zip",
-        "InternalName": "SliceIsRight",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdate": 0,
-        "LoadPriority": 0,
-        "Name": "Slice is Right [Aku API 7]",
-        "Punchline": "Shows where Bamboo falls.",
-        "RepoUrl": "https://github.com/carvelli/Slice-Is-Right",
-        "Tags": [
-            "gold saucer",
-            "yojimbo"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "4.1.0.1",
-        "Author": "Liza Carvelli",
-        "DalamudApiLevel": 7,
-        "Description": "\n (https://raw.githubusercontent.com/katawajojo/DalamudPlugins/main/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/katawajojo/DalamudPlugins/raw/main/SliceIsRight/latest.zip",
-        "DownloadLinkTesting": "https://github.com/katawajojo/DalamudPlugins/raw/main/SliceIsRight/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/katawajojo/DalamudPlugins/raw/main/SliceIsRight/latest.zip",
-        "InternalName": "SliceIsRight",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LoadPriority": 0,
-        "Name": "Slice Is Right [Aku API 7]",
-        "Punchline": "Shows where Bamboo falls."
     },
     {
         "ApplicableVersion": "any",
