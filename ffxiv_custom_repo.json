@@ -1536,7 +1536,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.1.0",
+        "AssemblyVersion": "0.0.1.1",
         "Author": "GiR-Zippo, Meowchestra",
         "CategoryTags": [
             "utility",
@@ -1552,7 +1552,7 @@
         "InternalName": "HypnotoadPlugin",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": "1669842257",
+        "LastUpdate": "1669857098",
         "LoadPriority": 0,
         "Name": "HypnotoadPlugin [Aku API 7]",
         "Punchline": "Companion plugin for enhanced functionality.",
