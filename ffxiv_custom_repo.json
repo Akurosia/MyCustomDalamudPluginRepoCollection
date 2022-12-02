@@ -3046,7 +3046,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "3.0.0.0",
+        "AssemblyVersion": "3.0.0.1",
         "Author": "NightmareXIV",
         "DalamudApiLevel": 7,
         "Description": "\n (https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json)",
