@@ -2530,14 +2530,14 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.6.0.0",
+        "AssemblyVersion": "0.6.0.1",
         "Author": "Adam",
         "DalamudApiLevel": 7,
         "Description": "Runtime mod loader and manager.\n (https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json)",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/xivdev/Penumbra/releases/download/0.6.0.0/Penumbra.zip",
-        "DownloadLinkTesting": "https://github.com/xivdev/Penumbra/releases/download/0.6.0.0/Penumbra.zip",
-        "DownloadLinkUpdate": "https://github.com/xivdev/Penumbra/releases/download/0.6.0.0/Penumbra.zip",
+        "DownloadLinkInstall": "https://github.com/xivdev/Penumbra/releases/download/0.6.0.1/Penumbra.zip",
+        "DownloadLinkTesting": "https://github.com/xivdev/Penumbra/releases/download/0.6.0.1/Penumbra.zip",
+        "DownloadLinkUpdate": "https://github.com/xivdev/Penumbra/releases/download/0.6.0.1/Penumbra.zip",
         "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
         "InternalName": "Penumbra",
         "IsHide": "False",
@@ -2548,7 +2548,7 @@
         "LoadSync": true,
         "Name": "Penumbra [Aku API 7]",
         "RepoUrl": "https://github.com/xivdev/Penumbra",
-        "TestingAssemblyVersion": "0.6.0.0"
+        "TestingAssemblyVersion": "0.6.0.1"
     },
     {
         "ApplicableVersion": "any",
@@ -3046,7 +3046,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "3.0.0.1",
+        "AssemblyVersion": "3.0.0.2",
         "Author": "NightmareXIV",
         "DalamudApiLevel": 7,
         "Description": "\n (https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json)",
