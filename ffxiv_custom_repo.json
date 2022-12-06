@@ -1865,6 +1865,29 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.0",
+        "Author": "Zhyra",
+        "DalamudApiLevel": 7,
+        "Description": "Help the community by uploading market data using this plugin!\n (https://raw.githubusercontent.com/ZhyraPlugins/repo/main/plugins.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/ZhyraPlugins/MarketUploader/releases/latest/download/latest.zip",
+        "DownloadLinkTesting": "https://github.com/ZhyraPlugins/MarketUploader/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/ZhyraPlugins/MarketUploader/releases/latest/download/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/ZhyraPlugins/MarketUploader/master/MarketUploader/images/icon.png",
+        "InternalName": "MarketUploader",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LoadPriority": 0,
+        "Name": "Market Uploader [Aku API 7]",
+        "Punchline": "Uploads market data to various aggregators.",
+        "RepoUrl": "https://github.com/ZhyraPlugins/MarketUploader",
+        "Tags": [
+            "market",
+            "uploader"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "0.3.0.0",
         "Author": "Chalkos",
         "Changelog": "Update Dalamud API level",
