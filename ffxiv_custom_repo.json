@@ -1065,7 +1065,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.0.115",
+        "AssemblyVersion": "0.1.0.0",
         "Author": "[Author]",
         "CategoryTags": [
             "other",
@@ -1077,7 +1077,7 @@
             "social",
             "utility"
         ],
-        "Changelog": "571b79f: Common 更新\n3d1efdb: 余分なプレフィックスを取る\ndb8d2f7: Directory.Build.props を廃止\n1e1cb90: Reusable workflows を使う\n0cce2fd: 🧹 dotnet format\nbaf23bb: Merge remote-tracking branch 'origin/master'\n\n# Conflicts:\n#\tDivination.Template/PluginConfig.cs\n#\tDivination.Template/PluginConfigWindow.cs\n#\tDivination.Template/PluginDefinition.cs\n#\tDivination.Template/TemplatePlugin.cs\n6dec12c: テンプレ更新\n4482cde: 🧹 dotnet format\n359cb33: Update stuff\nf6887e7: CI で dotnet format する\na2cb269: Common の Submodule を廃止\nf24c8b0: .editorconfig 追加\ncc36b47: Update dependencies\nf294b24: 🔧 chore(renovate): update config\n052fe47: 実装変更\n120d9b7: fix linebreak\nda9fb7c: .NET 6\nba75470: Update README.md\n59e16a9: Update Common\n7ba0189: Update Common\n4240d06: rollback: .net5\n8025025: Merge pull request #1 from horoscope-dev/net6.0\n\nfeat: Support .NET 6.0\nbeb2593: Update Common\ncada42d: feat: Support .NET 6.0\nbad7f72: Add --nologo argument\ne44d374: Disable parallel build for GitVersion compatibility\n4e9f978: Update build.yml\n04bf10d: Fix escape issue FINALLY\n7e9e6a5: Update build.yml",
+        "Changelog": "9a65177: Initial commit",
         "DalamudApiLevel": 7,
         "Description": "[Description]\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
         "DownloadCount": 0,
@@ -1092,11 +1092,11 @@
         "LoadPriority": 0,
         "Name": "[Name] [Aku API 7]",
         "Punchline": "[Punchline]",
-        "RepoUrl": "https://github.com/horoscope-dev/Divination.Template",
+        "RepoUrl": "https://github.com/horoscope-dev/Divination.FaloopIntegration",
         "Tags": [
             "[Tag]"
         ],
-        "TestingAssemblyVersion": "0.1.0.115"
+        "TestingAssemblyVersion": "0.1.0.0"
     },
     {
         "ApplicableVersion": "any",
