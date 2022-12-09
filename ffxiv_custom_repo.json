@@ -1009,13 +1009,13 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.0.1",
+        "AssemblyVersion": "0.1.0.4",
         "Author": "Asteria Nocturna",
         "CategoryTags": [
             "social",
             "utility"
         ],
-        "Changelog": "ffe49d7: 🧹 dotnet format\ne0f8938: Publish\n9a65177: Initial commit",
+        "Changelog": "3ce229e: Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1\n1ee9d92: Update dependency gitversion.tool to v5.11.1\nffe49d7: 🧹 dotnet format\ne0f8938: Publish\n9a65177: Initial commit",
         "DalamudApiLevel": 7,
         "Description": "Provide simple integration with Faloop. Mob notification in chat.\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
         "DownloadCount": 0,
@@ -1034,7 +1034,7 @@
         "Tags": [
             "mobhunt"
         ],
-        "TestingAssemblyVersion": "0.1.0.1"
+        "TestingAssemblyVersion": "0.1.0.4"
     },
     {
         "ApplicableVersion": "any",
