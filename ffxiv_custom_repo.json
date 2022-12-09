@@ -1009,6 +1009,35 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.0.1",
+        "Author": "Asteria Nocturna",
+        "CategoryTags": [
+            "social",
+            "utility"
+        ],
+        "Changelog": "ffe49d7: 🧹 dotnet format\ne0f8938: Publish\n9a65177: Initial commit",
+        "DalamudApiLevel": 7,
+        "Description": "Provide simple integration with Faloop. Mob notification in chat.\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.FaloopIntegration/latest.zip",
+        "DownloadLinkTesting": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.FaloopIntegration/latest.zip",
+        "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
+        "ImageUrls": [],
+        "InternalName": "Divination.FaloopIntegration",
+        "IsHide": false,
+        "IsTestingExclusive": true,
+        "LastUpdated": 0,
+        "LoadPriority": 0,
+        "Name": "Divination.FaloopIntegration [Aku API 7]",
+        "Punchline": "Faloop notification in chat",
+        "RepoUrl": "https://github.com/horoscope-dev/Divination.FaloopIntegration",
+        "Tags": [
+            "mobhunt"
+        ],
+        "TestingAssemblyVersion": "0.1.0.1"
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "6.11.1.0",
         "Author": "Horoscope developers",
         "CategoryTags": [
