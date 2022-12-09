@@ -2509,28 +2509,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.4.1",
-        "Author": "Zhyra",
-        "DalamudApiLevel": 7,
-        "Description": "A plugin to see partyverse.app events.\n (https://raw.githubusercontent.com/ZhyraPlugins/repo/main/plugins.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/ZhyraPlugins/PartyPlanner/releases/latest/download/latest.zip",
-        "DownloadLinkTesting": "https://github.com/ZhyraPlugins/PartyPlanner/releases/latest/download/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/ZhyraPlugins/PartyPlanner/releases/latest/download/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/ZhyraPlugins/PartyPlanner/master/PartyPlanner/images/icon.png",
-        "InternalName": "PartyPlanner",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LoadPriority": 0,
-        "Name": "PartyPlanner [Aku API 7]",
-        "Punchline": "See partyverse.app events ingame",
-        "RepoUrl": "https://github.com/ZhyraPlugins/PartyPlanner",
-        "Tags": [
-            "party"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.9.4.1",
         "Author": "SpuriousSnail86",
         "CategoryTags": [
