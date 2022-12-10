@@ -896,12 +896,12 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.0.61",
+        "AssemblyVersion": "0.1.0.67",
         "Author": "Asteria Nocturna",
         "CategoryTags": [
             "utility"
         ],
-        "Changelog": "24e53ae: Update README.md\n9431318: 🧹 dotnet format\nbb142f1: Teleporter plugin is no longer needed\n355c8e4: 🧹 dotnet format\n1555d9d: reusable workflows を使う\n460130e: stg のバイナリを使う\n46d1612: Update README.md\n97968fd: リファクタリング\n0d27d70: .NET 6\n55768eb: Merge pull request #4 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.10.3\na5ffb08: Update dependency gitversion.tool to v5.10.3\n8067ed4: 🔧 chore(renovate): update config\nac094e7: .NET 6 and Api7\nccae22e: Delete Common\n94cb72e: Update packages.lock.json\nd329d45: Update AetheryteLinkInChatPlugin.cs\nb8b929b: Update Divination.AetheryteLinkInChat.csproj\nf41e162: Delete .gitmodules\nb2d320b: remove Common dependencies\n51a50e1: DalamudApiLevel 5 -> 6\nd8fabbd: Dalamud api 5",
+        "Changelog": "1483f69: Update README.md\n4896680: アプデ\n156f394: Merge pull request #14 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1\n4ff148e: エーテライト名が途中で改行された場合にテレポできなくなっていたのを修正\n76a575d: 名前変更\n24e53ae: Update README.md\n9431318: 🧹 dotnet format\nbb142f1: Teleporter plugin is no longer needed\n2efd9f2: Update dependency gitversion.tool to v5.11.1\n355c8e4: 🧹 dotnet format\n1555d9d: reusable workflows を使う\n460130e: stg のバイナリを使う\n46d1612: Update README.md\n97968fd: リファクタリング\n0d27d70: .NET 6\n55768eb: Merge pull request #4 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.10.3\na5ffb08: Update dependency gitversion.tool to v5.10.3\n8067ed4: 🔧 chore(renovate): update config\nac094e7: .NET 6 and Api7\nccae22e: Delete Common\n94cb72e: Update packages.lock.json\nd329d45: Update AetheryteLinkInChatPlugin.cs\nb8b929b: Update Divination.AetheryteLinkInChat.csproj\nf41e162: Delete .gitmodules\nb2d320b: remove Common dependencies\n51a50e1: DalamudApiLevel 5 -> 6\nd8fabbd: Dalamud api 5",
         "DalamudApiLevel": 7,
         "Description": "Add a link to teleport to the nearest aetheryte into map link in chat.\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
         "DownloadCount": 0,
@@ -920,7 +920,7 @@
         "Tags": [
             "teleporter"
         ],
-        "TestingAssemblyVersion": "0.1.0.61"
+        "TestingAssemblyVersion": "0.1.0.67"
     },
     {
         "ApplicableVersion": "any",
