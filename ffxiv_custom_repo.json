@@ -2144,7 +2144,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.0.7",
+        "AssemblyVersion": "0.0.0.8",
         "Author": "yasatoma",
         "DalamudApiLevel": 7,
         "Description": "Change Nameplate's color to favorite color per role, and hide FreeCompanyName.\n (https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/pluginmaster.json)",
@@ -2157,7 +2157,7 @@
         "InternalName": "NameplateColor",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1661740277",
+        "LastUpdate": "1670813946",
         "LoadPriority": 0,
         "Name": "NameplateColor [Aku API 7]",
         "Punchline": "Nameplate Color Change.",
