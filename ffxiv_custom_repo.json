@@ -901,7 +901,7 @@
         "CategoryTags": [
             "utility"
         ],
-        "Changelog": "6ad4fab: 🧹 dotnet format\n89c9721: Merge pull request #13 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nUpdate dependency GitVersion.MsBuild to v5.11.1\n401240e: Merge remote-tracking branch 'origin/master'\n2bb099b: テレポをキュー可能に (Close #16)\n1483f69: Update README.md\n4896680: アプデ\n156f394: Merge pull request #14 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1\n4ff148e: エーテライト名が途中で改行された場合にテレポできなくなっていたのを修正\n76a575d: 名前変更\n24e53ae: Update README.md\n9431318: 🧹 dotnet format\nbb142f1: Teleporter plugin is no longer needed\nc12b05d: 🧹 dotnet format\n2efd9f2: Update dependency gitversion.tool to v5.11.1\n56c92fa: Update dependency GitVersion.MsBuild to v5.11.1\n355c8e4: 🧹 dotnet format\n1555d9d: reusable workflows を使う\n460130e: stg のバイナリを使う\n46d1612: Update README.md\n97968fd: リファクタリング\n0d27d70: .NET 6\n55768eb: Merge pull request #4 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.10.3\na5ffb08: Update dependency gitversion.tool to v5.10.3\n8067ed4: 🔧 chore(renovate): update config\nac094e7: .NET 6 and Api7\nccae22e: Delete Common\n94cb72e: Update packages.lock.json\nd329d45: Update AetheryteLinkInChatPlugin.cs\nb8b929b: Update Divination.AetheryteLinkInChat.csproj\nf41e162: Delete .gitmodules",
+        "Changelog": "3fa44a8: Merge remote-tracking branch 'origin/master'\n6d3d940: エリア移動中にもキューする\n6ad4fab: 🧹 dotnet format\n89c9721: Merge pull request #13 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nUpdate dependency GitVersion.MsBuild to v5.11.1\n401240e: Merge remote-tracking branch 'origin/master'\n2bb099b: テレポをキュー可能に (Close #16)\n1483f69: Update README.md\n4896680: アプデ\n156f394: Merge pull request #14 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1\n4ff148e: エーテライト名が途中で改行された場合にテレポできなくなっていたのを修正\n76a575d: 名前変更\n24e53ae: Update README.md\n9431318: 🧹 dotnet format\nbb142f1: Teleporter plugin is no longer needed\nc12b05d: 🧹 dotnet format\n2efd9f2: Update dependency gitversion.tool to v5.11.1\n56c92fa: Update dependency GitVersion.MsBuild to v5.11.1\n355c8e4: 🧹 dotnet format\n1555d9d: reusable workflows を使う\n460130e: stg のバイナリを使う\n46d1612: Update README.md\n97968fd: リファクタリング\n0d27d70: .NET 6\n55768eb: Merge pull request #4 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.10.3\na5ffb08: Update dependency gitversion.tool to v5.10.3\n8067ed4: 🔧 chore(renovate): update config\nac094e7: .NET 6 and Api7\nccae22e: Delete Common\n94cb72e: Update packages.lock.json\nd329d45: Update AetheryteLinkInChatPlugin.cs",
         "DalamudApiLevel": 7,
         "Description": "Add a link to teleport to the nearest aetheryte into map link in chat.\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
         "DownloadCount": 0,
@@ -920,7 +920,7 @@
         "Tags": [
             "teleporter"
         ],
-        "TestingAssemblyVersion": "0.1.0.72"
+        "TestingAssemblyVersion": "0.1.0.75"
     },
     {
         "ApplicableVersion": "any",
@@ -1015,7 +1015,7 @@
             "social",
             "utility"
         ],
-        "Changelog": "87be32a: 🧹 dotnet format\naa0c69a: main.js に埋め込まれた JSON を読み取る\n0c13f30: Session\n7a25bab: ランクに応じた記号を使うように修正\n27ebc30: 報告者名があれば使う\nbd12183: 同じパーティ募集は無視\n3d3a520: 自分のパーティ募集は無視\nad8b5df: コンテンツ中に通知を無効化する設定を追加\n66fb2c7: リファクタリング\n2a38ff7: Merge remote-tracking branch 'origin/master'\n0d8490a: パーティ募集に対応\n6ab1db2: 🧹 dotnet format\n5805511: 設定を整理\n82aad7b: 10秒以上のときに秒数を出す\n4f9dc76: Merge remote-tracking branch 'origin/master'\ndbf9970: タイムゾーンを修正\nee6f83b: 🧹 dotnet format\na785e82: Merge remote-tracking branch 'origin/master'\neb2d307: デバッグログを追加\n008ce6b: 同名のイベントに対して他にハンドラーを受け取れないようだった\n3ce229e: Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1\n1ee9d92: Update dependency gitversion.tool to v5.11.1\nffe49d7: 🧹 dotnet format\ne0f8938: Publish\n9a65177: Initial commit",
+        "Changelog": "890454d: Merge remote-tracking branch 'origin/master'\n12b6ff2: パーティ募集を廃止\n87be32a: 🧹 dotnet format\naa0c69a: main.js に埋め込まれた JSON を読み取る\n0c13f30: Session\n7a25bab: ランクに応じた記号を使うように修正\n27ebc30: 報告者名があれば使う\nbd12183: 同じパーティ募集は無視\n3d3a520: 自分のパーティ募集は無視\nad8b5df: コンテンツ中に通知を無効化する設定を追加\n66fb2c7: リファクタリング\n2a38ff7: Merge remote-tracking branch 'origin/master'\n0d8490a: パーティ募集に対応\n6ab1db2: 🧹 dotnet format\n5805511: 設定を整理\n82aad7b: 10秒以上のときに秒数を出す\n4f9dc76: Merge remote-tracking branch 'origin/master'\ndbf9970: タイムゾーンを修正\nee6f83b: 🧹 dotnet format\na785e82: Merge remote-tracking branch 'origin/master'\neb2d307: デバッグログを追加\n008ce6b: 同名のイベントに対して他にハンドラーを受け取れないようだった\n3ce229e: Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1\n1ee9d92: Update dependency gitversion.tool to v5.11.1\nffe49d7: 🧹 dotnet format\ne0f8938: Publish\n9a65177: Initial commit",
         "DalamudApiLevel": 7,
         "Description": "Provide simple integration with Faloop. Mob notification in chat.\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
         "DownloadCount": 0,
@@ -1034,7 +1034,7 @@
         "Tags": [
             "mobhunt"
         ],
-        "TestingAssemblyVersion": "0.1.0.23"
+        "TestingAssemblyVersion": "0.1.0.26"
     },
     {
         "ApplicableVersion": "any",
