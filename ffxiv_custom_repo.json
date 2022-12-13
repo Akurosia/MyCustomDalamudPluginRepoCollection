@@ -1015,7 +1015,7 @@
             "social",
             "utility"
         ],
-        "Changelog": "7a25bab: ランクに応じた記号を使うように修正\n27ebc30: 報告者名があれば使う\nbd12183: 同じパーティ募集は無視\n3d3a520: 自分のパーティ募集は無視\nad8b5df: コンテンツ中に通知を無効化する設定を追加\n66fb2c7: リファクタリング\n2a38ff7: Merge remote-tracking branch 'origin/master'\n0d8490a: パーティ募集に対応\n6ab1db2: 🧹 dotnet format\n5805511: 設定を整理\n82aad7b: 10秒以上のときに秒数を出す\n4f9dc76: Merge remote-tracking branch 'origin/master'\ndbf9970: タイムゾーンを修正\nee6f83b: 🧹 dotnet format\na785e82: Merge remote-tracking branch 'origin/master'\neb2d307: デバッグログを追加\n008ce6b: 同名のイベントに対して他にハンドラーを受け取れないようだった\n3ce229e: Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1\n1ee9d92: Update dependency gitversion.tool to v5.11.1\nffe49d7: 🧹 dotnet format\ne0f8938: Publish\n9a65177: Initial commit",
+        "Changelog": "87be32a: 🧹 dotnet format\naa0c69a: main.js に埋め込まれた JSON を読み取る\n0c13f30: Session\n7a25bab: ランクに応じた記号を使うように修正\n27ebc30: 報告者名があれば使う\nbd12183: 同じパーティ募集は無視\n3d3a520: 自分のパーティ募集は無視\nad8b5df: コンテンツ中に通知を無効化する設定を追加\n66fb2c7: リファクタリング\n2a38ff7: Merge remote-tracking branch 'origin/master'\n0d8490a: パーティ募集に対応\n6ab1db2: 🧹 dotnet format\n5805511: 設定を整理\n82aad7b: 10秒以上のときに秒数を出す\n4f9dc76: Merge remote-tracking branch 'origin/master'\ndbf9970: タイムゾーンを修正\nee6f83b: 🧹 dotnet format\na785e82: Merge remote-tracking branch 'origin/master'\neb2d307: デバッグログを追加\n008ce6b: 同名のイベントに対して他にハンドラーを受け取れないようだった\n3ce229e: Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1\n1ee9d92: Update dependency gitversion.tool to v5.11.1\nffe49d7: 🧹 dotnet format\ne0f8938: Publish\n9a65177: Initial commit",
         "DalamudApiLevel": 7,
         "Description": "Provide simple integration with Faloop. Mob notification in chat.\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
         "DownloadCount": 0,
@@ -1034,7 +1034,7 @@
         "Tags": [
             "mobhunt"
         ],
-        "TestingAssemblyVersion": "0.1.0.21"
+        "TestingAssemblyVersion": "0.1.0.23"
     },
     {
         "ApplicableVersion": "any",
