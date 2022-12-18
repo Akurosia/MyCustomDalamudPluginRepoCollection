@@ -2918,6 +2918,30 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.0.0",
+        "Author": "Eisenhuth",
+        "DalamudApiLevel": 7,
+        "Description": "quickly restarts the game\n (https://raw.githubusercontent.com/Eisenhuth/TrustworthyDalamudPlugins/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-restart/releases/latest/download/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-restart/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-restart/releases/latest/download/latest.zip",
+        "IconUrl": "",
+        "ImageUrls": [],
+        "InternalName": "RestartPlugin",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "0",
+        "Name": "Dalamud Restart [Aku API 7]",
+        "Punchline": "the option from the /xldev menu, now as a chat command",
+        "RepoUrl": "https://github.com/Eisenhuth/dalamud-restart",
+        "Tags": [
+            "restart",
+            "utility"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "0.3.5",
         "Author": "EdeGoldstein",
         "DalamudApiLevel": 7,
