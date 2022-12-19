@@ -2124,6 +2124,32 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "0.0.3",
+        "Author": "Daniel Guiomarino",
+        "DalamudApiLevel": 7,
+        "Description": "Adds a command to be able to search for specific loots and its location.\n (https://raw.githubusercontent.com/danielbrenom/MonsterLootHunter/main/repo.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/danielbrenom/MonsterLootHunter/main/MonsterLootHunter.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/danielbrenom/MonsterLootHunter/main/MonsterLootHunter.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/danielbrenom/MonsterLootHunter/main/MonsterLootHunter.zip",
+        "IconUrl": null,
+        "ImageUrls": null,
+        "InternalName": "MonsterLootHunter",
+        "IsHide": "False",
+        "IsTestingExclusive": "True",
+        "LastUpdate": 1651950000,
+        "Name": "MonsterLootHunter [T] [Aku API 7]",
+        "Punchline": "A monster loot finder plugin.",
+        "RepoUrl": "https://github.com/danielbrenom/MonsterLootHunter",
+        "Tags": [
+            "Monster",
+            "Loot",
+            "Finder"
+        ],
+        "TestingAssemblyVersion": "0.0.3"
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.9.4.1",
         "Author": "SpuriousSnail86",
         "CategoryTags": [
