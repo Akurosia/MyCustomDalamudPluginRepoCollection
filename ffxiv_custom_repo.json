@@ -2930,6 +2930,29 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.2.1.81",
+        "Author": "Nuko",
+        "DalamudApiLevel": 7,
+        "Description": "一个触发S怪用的小工具\n (https://raw.githubusercontent.com/NukoOoOoOoO/DalamudPlugins/dev/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
+        "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
+        "InternalName": "RankSSpawnHelper",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": "1671750138",
+        "Name": "S怪触发小助手 [Aku API 7]",
+        "Punchline": "一个触发S怪用的小工具",
+        "RepoUrl": "https://github.com/NukoOoOoOoO/RankSSpawnHelper",
+        "Tags": [
+            "S怪触发",
+            "触发",
+            "S怪"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.1.6.6",
         "Author": "UnknownX",
         "Changelog": "",
