@@ -1911,7 +1911,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0",
+        "AssemblyVersion": "1.0.1",
         "Author": "Zhyra",
         "DalamudApiLevel": 7,
         "Description": "Help the community by uploading market data using this plugin!\n (https://raw.githubusercontent.com/ZhyraPlugins/repo/main/plugins.json)",
