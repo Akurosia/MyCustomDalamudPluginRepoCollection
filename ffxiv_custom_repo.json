@@ -1884,6 +1884,33 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "2.18",
+        "Author": "Jawslouis (modified by Renji)",
+        "DalamudApiLevel": 7,
+        "Description": "Automatically save & load the positions of house furniture. Import/export layouts from the MakePlace program.\n (https://raw.githubusercontent.com/SigoDest/sigodest.github.io/main/repo.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/SigoDest/sigodest.github.io/raw/main/MakePlacePlugin-latest.zip",
+        "DownloadLinkTesting": "https://github.com/SigoDest/sigodest.github.io/raw/main/MakePlacePlugin-latest.zip",
+        "DownloadLinkUpdate": "https://github.com/SigoDest/sigodest.github.io/raw/main/MakePlacePlugin-latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/icon.png",
+        "InternalName": "MakePlacePlugin",
+        "LastUpdate": 1671760103,
+        "LoadPriority": 0,
+        "Name": "MakePlace Plugin (Candyman Edition) [Aku API 7]",
+        "Punchline": "Automatically save & load furniture layouts in your house.",
+        "RepoUrl": "https://github.com/SigoDest/sigodest.github.io",
+        "Tags": [
+            "makeplace",
+            "housing",
+            "furniture",
+            "jawslouis",
+            "candyman"
+        ],
+        "_Dip17Channel": null,
+        "_isDip17Plugin": false
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.0",
         "Author": "Zhyra",
         "DalamudApiLevel": 7,
