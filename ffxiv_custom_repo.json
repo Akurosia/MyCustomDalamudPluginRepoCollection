@@ -946,7 +946,7 @@
         "CategoryTags": [
             "social"
         ],
-        "Changelog": "97ceb0f: リポジトリ変更\n6a4dab2: Update README\ndae271d: Merge pull request #12 from horoscope-dev/renovate/discordrichpresence-1.x\n\nUpdate dependency DiscordRichPresence to v1.1.1.14\ncade51e: Update dependency DiscordRichPresence to v1.1.1.14\nf5f8ed5: 🧹 dotnet format\n4c36da1: Reusable workflows を使う\n7d4b5fe: クリーンアップ\nd5fead1: パス修正\n82c55ad: gitversion.json を読む\nd1d912b: バージョン戦略を変更\n12fcc04: アクション変えてみる\n8788afe: バージョン情報の表記を修正\n4e068da: csproj に TargetFramework を書かない\n5555f4c: 🧹 dotnet format\n6e294d7: Dalamud 7\n773ad0a: Common を Nuget 経由で参照する\n1b9d765: 🔧 chore(renovate): update config\nc250b99: re-enable .NET6\n75b16f2: Update Common\n82e9aa4: Merge branch 'master' of https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration\n5d2c35b: Update DiscordIntegrationPlugin.cs\ne94834c: Update Common\n82544f1: DalamudApiLevel 5 -> 6\n16e8666: feat: Support Patch 6.1",
+        "Changelog": "675aa21: Common 更新\n34ce59f: Dalamud が提供する Newtonsoft.Json を使う\n9e1fdec: Merge pull request #15 from horoscope-dev/renovate/discordrichpresence-1.x\n\nUpdate dependency DiscordRichPresence to v1.1.3.18\n0d30f64: Merge pull request #13 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nUpdate dependency GitVersion.MsBuild to v5.11.1\nede5fab: Merge pull request #14 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1\nf98ebfc: Update dependency DiscordRichPresence to v1.1.3.18\n97ceb0f: リポジトリ変更\ne51c076: 🧹 dotnet format\nf51539c: Update dependency gitversion.tool to v5.11.1\nb2ba067: Update dependency GitVersion.MsBuild to v5.11.1\n6a4dab2: Update README\ndae271d: Merge pull request #12 from horoscope-dev/renovate/discordrichpresence-1.x\n\nUpdate dependency DiscordRichPresence to v1.1.1.14\ncade51e: Update dependency DiscordRichPresence to v1.1.1.14\nf5f8ed5: 🧹 dotnet format\n4c36da1: Reusable workflows を使う\n7d4b5fe: クリーンアップ\nd5fead1: パス修正\n82c55ad: gitversion.json を読む\nd1d912b: バージョン戦略を変更\n12fcc04: アクション変えてみる\n8788afe: バージョン情報の表記を修正\n4e068da: csproj に TargetFramework を書かない\n5555f4c: 🧹 dotnet format\n6e294d7: Dalamud 7\n773ad0a: Common を Nuget 経由で参照する\n1b9d765: 🔧 chore(renovate): update config\nc250b99: re-enable .NET6\n75b16f2: Update Common\n82e9aa4: Merge branch 'master' of https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration\n5d2c35b: Update DiscordIntegrationPlugin.cs",
         "DalamudApiLevel": 7,
         "Description": "Dalamud Plugin to support Rich Presence for FFXIV.\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
         "DownloadCount": 0,
@@ -965,7 +965,7 @@
         "Tags": [
             "Discord"
         ],
-        "TestingAssemblyVersion": "0.1.0.75"
+        "TestingAssemblyVersion": "0.1.0.84"
     },
     {
         "ApplicableVersion": "any",
@@ -1089,12 +1089,12 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.0.52",
+        "AssemblyVersion": "0.1.0.56",
         "Author": "Asteria Nocturna",
         "CategoryTags": [
             "social"
         ],
-        "Changelog": "ffa0a46: 🧹 dotnet format\n63fc144: API 7\n54f71b8: 🔧 chore(renovate): update config\ne88a5f9: feat: Support Patch 6.1\n39f73bc: feat: Support Dalamud API 5",
+        "Changelog": "731b882: Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nchore(deps): update dependency gitversion.tool to v5.11.1\n7da899e: Merge pull request #11 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1\nf6033dd: 🧹 dotnet format\n40896cf: chore(deps): update dependency gitversion.tool to v5.11.1\ncc15592: chore(deps): update dependency gitversion.msbuild to v5.11.1\nffa0a46: 🧹 dotnet format\n63fc144: API 7\n54f71b8: 🔧 chore(renovate): update config\ne88a5f9: feat: Support Patch 6.1\n39f73bc: feat: Support Dalamud API 5",
         "DalamudApiLevel": 7,
         "Description": "Dalamud Plugin to add tweet function and Twitter timeline in FFXIV chat\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
         "DownloadCount": 0,
@@ -1109,20 +1109,20 @@
         "LoadPriority": 0,
         "Name": "Divination.TwitterIntegration [Aku API 7]",
         "Punchline": "Tweet in FFXIV chat.",
-        "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration",
+        "RepoUrl": "https://github.com/horoscope-dev/Divination.TwitterIntegration",
         "Tags": [
             "Twitter"
         ],
-        "TestingAssemblyVersion": "0.1.0.52"
+        "TestingAssemblyVersion": "0.1.0.56"
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.0.50",
+        "AssemblyVersion": "0.1.0.56",
         "Author": "Asteria Nocturna",
         "CategoryTags": [
             "utility"
         ],
-        "Changelog": "bf74b5c: 🧹 dotnet format\n0f21f2f: API 7\n0f5b930: 🔧 chore(renovate): update config\n9808e0c: feat: Support Patch 6.1\n08b6aaf: feat: Support Dalamud API 6",
+        "Changelog": "a9c071a: Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nchore(deps): update dependency gitversion.tool to v5.11.1\n58cbb32: Merge pull request #11 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1\nb95a902: 🧹 dotnet format\nfb86636: chore(deps): update dependency gitversion.tool to v5.11.1\neb8e9c9: chore(deps): update dependency gitversion.msbuild to v5.11.1\nbf74b5c: 🧹 dotnet format\n0f21f2f: API 7\n0f5b930: 🔧 chore(renovate): update config\n9808e0c: feat: Support Patch 6.1\n08b6aaf: feat: Support Dalamud API 6",
         "DalamudApiLevel": 7,
         "Description": "Add /voiceroid2 command into FFXIV. Require SimpleVoiceroid2Proxy (https://github.com/SlashNephy/SimpleVoiceroid2Proxy).\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
         "DownloadCount": 0,
@@ -1137,12 +1137,12 @@
         "LoadPriority": 0,
         "Name": "Divination.Voiceroid2Talker [Aku API 7]",
         "Punchline": "Text-to-Speech for Voiceroid2",
-        "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker",
+        "RepoUrl": "https://github.com/horoscope-dev/Divination.Voiceroid2Talker",
         "Tags": [
             "Text-to-speech",
             "Voiceroid"
         ],
-        "TestingAssemblyVersion": "0.1.0.50"
+        "TestingAssemblyVersion": "0.1.0.56"
     },
     {
         "ApplicableVersion": "any",
