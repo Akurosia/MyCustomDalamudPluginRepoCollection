@@ -856,7 +856,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.0.81",
+        "AssemblyVersion": "0.1.0.90",
         "Author": "Asteria Nocturna",
         "CategoryTags": [
             "utility"
