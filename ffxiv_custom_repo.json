@@ -861,7 +861,7 @@
         "CategoryTags": [
             "utility"
         ],
-        "Changelog": "c70b494: 🧹 dotnet format\n4c541c9: コスト調整\n9abc81d: AetherytePayload を作った\n368c9a9: DalamudLinkPayload を挿入する位置を変更\n81dff22: 書き込むメッセージを予め改行してあるのでスペースを取り除く必要はない\ncd513a2: fix loc on queued teleporting message\n51b6759: Merge remote-tracking branch 'origin/master'\n547f98b: ミスって default になってた\n3febecf: 🧹 dotnet format\nfeeb6e7: ローカライズの機能を Common に追いやった\n36c8e22: 🧹 dotnet format\nfaa11ba: Merge remote-tracking branch 'origin/master'\n\n# Conflicts:\n#\tDivination.AetheryteLinkInChat/AetheryteSolver.cs\n#\tDivination.AetheryteLinkInChat/Localize/Localization.cs\n#\tDivination.AetheryteLinkInChat/Teleporter.cs\n980c26e: 対象の ConditionFlag を追加\nf67e06b: キューのテレポを実行する場合にもメッセージを出す\nc57d8de: Update README.md\na473294: 都市内エーテライトを利用する場合は距離ゼロ\n56c1cf7: 🧹 dotnet format\n176ce9a: チャットのフォーマット変更\nfd3a79a: エリア移動にはコストを足す\n9786355: 隣接エリアを跨ぐ最短経路を計算できるように\n2e9d59f: ローカライズ\n3fa44a8: Merge remote-tracking branch 'origin/master'\n6d3d940: エリア移動中にもキューする\n6ad4fab: 🧹 dotnet format\n89c9721: Merge pull request #13 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nUpdate dependency GitVersion.MsBuild to v5.11.1\n401240e: Merge remote-tracking branch 'origin/master'\n2bb099b: テレポをキュー可能に (Close #16)\n1483f69: Update README.md\n4896680: アプデ\n156f394: Merge pull request #14 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1",
+        "Changelog": "9d054d0: Common 更新\ndd2b5f9: AetheryteList API を使う\nc70b494: 🧹 dotnet format\n4c541c9: コスト調整\n9abc81d: AetherytePayload を作った\n368c9a9: DalamudLinkPayload を挿入する位置を変更\n81dff22: 書き込むメッセージを予め改行してあるのでスペースを取り除く必要はない\ncd513a2: fix loc on queued teleporting message\n51b6759: Merge remote-tracking branch 'origin/master'\n547f98b: ミスって default になってた\n3febecf: 🧹 dotnet format\nfeeb6e7: ローカライズの機能を Common に追いやった\n36c8e22: 🧹 dotnet format\nfaa11ba: Merge remote-tracking branch 'origin/master'\n\n# Conflicts:\n#\tDivination.AetheryteLinkInChat/AetheryteSolver.cs\n#\tDivination.AetheryteLinkInChat/Localize/Localization.cs\n#\tDivination.AetheryteLinkInChat/Teleporter.cs\n980c26e: 対象の ConditionFlag を追加\nf67e06b: キューのテレポを実行する場合にもメッセージを出す\nc57d8de: Update README.md\na473294: 都市内エーテライトを利用する場合は距離ゼロ\n56c1cf7: 🧹 dotnet format\n176ce9a: チャットのフォーマット変更\nfd3a79a: エリア移動にはコストを足す\n9786355: 隣接エリアを跨ぐ最短経路を計算できるように\n2e9d59f: ローカライズ\n3fa44a8: Merge remote-tracking branch 'origin/master'\n6d3d940: エリア移動中にもキューする\n6ad4fab: 🧹 dotnet format\n89c9721: Merge pull request #13 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nUpdate dependency GitVersion.MsBuild to v5.11.1\n401240e: Merge remote-tracking branch 'origin/master'\n2bb099b: テレポをキュー可能に (Close #16)\n1483f69: Update README.md",
         "DalamudApiLevel": 7,
         "Description": "Add a link to teleport to the nearest aetheryte into map link in chat.\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
         "DownloadCount": 0,
@@ -880,7 +880,7 @@
         "Tags": [
             "teleporter"
         ],
-        "TestingAssemblyVersion": "0.1.0.95"
+        "TestingAssemblyVersion": "0.1.0.98"
     },
     {
         "ApplicableVersion": "any",
@@ -889,7 +889,7 @@
         "CategoryTags": [
             "utility"
         ],
-        "Changelog": "a3438d0: Merge pull request #12 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1\n26b4ffa: Merge pull request #2 from horoscope-dev/renovate/dalamudpackager-2.x\n\nchore(deps): update dependency dalamudpackager to v2.1.8\n2ce1f36: 🧹 dotnet format\n62e0bb9: chore(deps): update dependency gitversion.msbuild to v5.11.1\n1c32ca6: chore(deps): update dependency dalamudpackager to v2.1.8\n17dadef: 🧹 dotnet format\n90f0198: API 7\nbc3e948: 🔧 chore(renovate): update config\n70a64f8: feat: Support Patch 6.1\ndabbe6d: feat: Support Dalamud API 5",
+        "Changelog": "c0aab4f: Merge pull request #3 from horoscope-dev/renovate/gitversion.tool-5.x\n\nchore(deps): update dependency gitversion.tool to v5.11.1\na3438d0: Merge pull request #12 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1\n26b4ffa: Merge pull request #2 from horoscope-dev/renovate/dalamudpackager-2.x\n\nchore(deps): update dependency dalamudpackager to v2.1.8\n2ce1f36: 🧹 dotnet format\n485afbe: chore(deps): update dependency gitversion.tool to v5.11.1\n62e0bb9: chore(deps): update dependency gitversion.msbuild to v5.11.1\n1c32ca6: chore(deps): update dependency dalamudpackager to v2.1.8\n17dadef: 🧹 dotnet format\n90f0198: API 7\nbc3e948: 🔧 chore(renovate): update config\n70a64f8: feat: Support Patch 6.1\ndabbe6d: feat: Support Dalamud API 5",
         "DalamudApiLevel": 7,
         "Description": "Simple plugin to just add /calc command.\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
         "DownloadCount": 0,
@@ -908,7 +908,7 @@
         "Tags": [
             "utility"
         ],
-        "TestingAssemblyVersion": "0.1.0.56"
+        "TestingAssemblyVersion": "0.1.0.58"
     },
     {
         "ApplicableVersion": "any",
@@ -917,7 +917,7 @@
         "CategoryTags": [
             "utility"
         ],
-        "Changelog": "fc5a6c9: SeIconChar も表示可能にする\nb7fdf26: メモリ範囲を変更\nfc19909: 🧹 dotnet format\naa8d5b2: リファクタリング\n5d555ef: Merge pull request #2 from horoscope-dev/renovate/dalamudpackager-2.x\n\nchore(deps): update dependency dalamudpackager to v2.1.8\n4473e28: chore(deps): update dependency dalamudpackager to v2.1.8\nad4d625: Template の変更に追従\n688db78: 🔧 chore(renovate): update config\n6aecbc7: feat: Support Patch 6.1\n8a9c2bb: fix: result won't show due to queue\n3181092: feat: log on matched packets\n13ee3a6: fix: network value filtering\n3a68e91: feat: add Clear button\n2213911: fix: index is no longer skipped\ne3c613d: fix: network data can overflow\n97079b1: feat: show Opcode\n4e31c81: fix: priority between LocalPlayer and Target\n0b3ca6c: fix: Enum.GetName receives non-enum accidentally\nc451ef4: fix: allow unsafe codes\n39638e2: feat: readable memory data view\nbae282b: delete: /cc command\n\nbecause native console is no longer used\nd20ae01: feat: readable columns\nfeaa556: feat: Support Dalamud API 5",
+        "Changelog": "a84b585: Merge pull request #3 from horoscope-dev/renovate/gitversion.tool-5.x\n\nchore(deps): update dependency gitversion.tool to v5.11.1\n2f79521: Merge pull request #12 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1\n9db02f8: 🧹 dotnet format\nad40198: chore(deps): update dependency gitversion.msbuild to v5.11.1\nfeb14f8: chore(deps): update dependency gitversion.tool to v5.11.1\nfc5a6c9: SeIconChar も表示可能にする\nb7fdf26: メモリ範囲を変更\nfc19909: 🧹 dotnet format\naa8d5b2: リファクタリング\n5d555ef: Merge pull request #2 from horoscope-dev/renovate/dalamudpackager-2.x\n\nchore(deps): update dependency dalamudpackager to v2.1.8\n4473e28: chore(deps): update dependency dalamudpackager to v2.1.8\nad4d625: Template の変更に追従\n688db78: 🔧 chore(renovate): update config\n6aecbc7: feat: Support Patch 6.1\n8a9c2bb: fix: result won't show due to queue\n3181092: feat: log on matched packets\n13ee3a6: fix: network value filtering\n3a68e91: feat: add Clear button\n2213911: fix: index is no longer skipped\ne3c613d: fix: network data can overflow\n97079b1: feat: show Opcode\n4e31c81: fix: priority between LocalPlayer and Target\n0b3ca6c: fix: Enum.GetName receives non-enum accidentally\nc451ef4: fix: allow unsafe codes\n39638e2: feat: readable memory data view",
         "DalamudApiLevel": 7,
         "Description": "Tiny tool to inspect game...\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
         "DownloadCount": 0,
@@ -932,12 +932,12 @@
         "LoadPriority": 0,
         "Name": "Divination.Debugger [Aku API 7]",
         "Punchline": "You don't need this unless you are developer.",
-        "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger",
+        "RepoUrl": "https://github.com/horoscope-dev/Divination.Debugger",
         "Tags": [
             "Development",
             "Debug"
         ],
-        "TestingAssemblyVersion": "0.1.0.72"
+        "TestingAssemblyVersion": "0.1.0.77"
     },
     {
         "ApplicableVersion": "any",
@@ -1003,7 +1003,7 @@
         "CategoryTags": [
             "social"
         ],
-        "Changelog": "4778e15: Merge pull request #4 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nUpdate dependency GitVersion.MsBuild to v5.11.1\n2675eac: Merge pull request #3 from horoscope-dev/renovate/dalamudpackager-2.x\n\nUpdate dependency DalamudPackager to v2.1.8\nc84e2e4: 🧹 dotnet format\nd7ddaa4: Update dependency GitVersion.MsBuild to v5.11.1\n580363e: Update dependency DalamudPackager to v2.1.8\n4afbd88: 🧹 dotnet format\n841b8b4: DtrBar でサーバー情報バーにインスタンスIDを表示するように\n1d2a188: ビルド構成が間違っていた\n983d0c9: 🧹 dotnet format\n0c37ca6: reusable workflow を使う\nd38dffc: 🔧 chore(renovate): update config\nf7080d1: .NET 6/Api7\n575f29e: Bump version to 6.11.0\n87fb5ed: DalamudApiLevel 5 -> 6\n55b6259: Dalamud api 5\n47e921a: Update build.yaml\nbacd86d: fix\n6d27f69: fix project name\n6577000: fix PLUGIN_PROJECT_NAME\n00685a5: rename\nbfe5652: Dlalamud API4\n0f7745f: Dlalamud API4\n240d645: Delete InstanceIDViewer.sln.DotSettings.user\nedfde33: Create README.md\nef1e4df: fix\n5c73961: init",
+        "Changelog": "314e729: Merge pull request #11 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1\n3775611: Update dependency gitversion.tool to v5.11.1\n4778e15: Merge pull request #4 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nUpdate dependency GitVersion.MsBuild to v5.11.1\n2675eac: Merge pull request #3 from horoscope-dev/renovate/dalamudpackager-2.x\n\nUpdate dependency DalamudPackager to v2.1.8\nc84e2e4: 🧹 dotnet format\nd7ddaa4: Update dependency GitVersion.MsBuild to v5.11.1\n580363e: Update dependency DalamudPackager to v2.1.8\n4afbd88: 🧹 dotnet format\n841b8b4: DtrBar でサーバー情報バーにインスタンスIDを表示するように\n1d2a188: ビルド構成が間違っていた\n983d0c9: 🧹 dotnet format\n0c37ca6: reusable workflow を使う\nd38dffc: 🔧 chore(renovate): update config\nf7080d1: .NET 6/Api7\n575f29e: Bump version to 6.11.0\n87fb5ed: DalamudApiLevel 5 -> 6\n55b6259: Dalamud api 5\n47e921a: Update build.yaml\nbacd86d: fix\n6d27f69: fix project name\n6577000: fix PLUGIN_PROJECT_NAME\n00685a5: rename\nbfe5652: Dlalamud API4\n0f7745f: Dlalamud API4\n240d645: Delete InstanceIDViewer.sln.DotSettings.user\nedfde33: Create README.md\nef1e4df: fix\n5c73961: init",
         "DalamudApiLevel": 7,
         "Description": "show instance id in chat when instance changed\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
         "DownloadCount": 0,
@@ -1018,20 +1018,20 @@
         "LoadPriority": 0,
         "Name": "Divination.InstanceIDViewer [Aku API 7]",
         "Punchline": "",
-        "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
+        "RepoUrl": "https://github.com/horoscope-dev/Divination.InstanceIDViewer",
         "Tags": [
             "Discord"
         ],
-        "TestingAssemblyVersion": "6.11.1.13"
+        "TestingAssemblyVersion": "6.11.1.15"
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.0.58",
+        "AssemblyVersion": "0.1.0.63",
         "Author": "Asteria Nocturna",
         "CategoryTags": [
             "utility"
         ],
-        "Changelog": "9c4e535: Merge remote-tracking branch 'origin/master'\nc2095ea: サブモジュール除去\n00c46f8: 🧹 dotnet format\n0db1577: API 7\n707d83e: 🔧 chore(renovate): update config\nc48c154: feat: Support Patch 6.1\n7245a13: feat: Support Dalamud API 5\nb2ad1e6: Update build.yml\n9a10147: Update build.yml\ncbc810c: Update build.yml\n9aca661: Update build.yml\n0d7aea6: Update build.yml\nf5b1206: Update build.yml",
+        "Changelog": "930b290: Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nchore(deps): update dependency gitversion.tool to v5.11.1\n2fbe9fe: Merge pull request #11 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1\n7593cba: 🧹 dotnet format\na19a69e: chore(deps): update dependency gitversion.tool to v5.11.1\nab8761f: chore(deps): update dependency gitversion.msbuild to v5.11.1\n9c4e535: Merge remote-tracking branch 'origin/master'\nc2095ea: サブモジュール除去\n00c46f8: 🧹 dotnet format\n0db1577: API 7\n707d83e: 🔧 chore(renovate): update config\nc48c154: feat: Support Patch 6.1\n7245a13: feat: Support Dalamud API 5\nb2ad1e6: Update build.yml\n9a10147: Update build.yml\ncbc810c: Update build.yml\n9aca661: Update build.yml\n0d7aea6: Update build.yml\nf5b1206: Update build.yml",
         "DalamudApiLevel": 7,
         "Description": "Add /power save, /power balance, /power perf, /monitoroff commands for power management\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
         "DownloadCount": 0,
@@ -1046,11 +1046,11 @@
         "LoadPriority": 0,
         "Name": "Divination.PowerUtils [Aku API 7]",
         "Punchline": "Save Energy!",
-        "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils",
+        "RepoUrl": "https://github.com/horoscope-dev/Divination.PowerUtils",
         "Tags": [
             "Command"
         ],
-        "TestingAssemblyVersion": "0.1.0.58"
+        "TestingAssemblyVersion": "0.1.0.63"
     },
     {
         "ApplicableVersion": "any",
