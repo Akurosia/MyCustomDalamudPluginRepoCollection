@@ -1094,12 +1094,12 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.0.56",
+        "AssemblyVersion": "0.1.0.60",
         "Author": "Asteria Nocturna",
         "CategoryTags": [
             "social"
         ],
-        "Changelog": "731b882: Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nchore(deps): update dependency gitversion.tool to v5.11.1\n7da899e: Merge pull request #11 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1\nf6033dd: 🧹 dotnet format\n40896cf: chore(deps): update dependency gitversion.tool to v5.11.1\ncc15592: chore(deps): update dependency gitversion.msbuild to v5.11.1\nffa0a46: 🧹 dotnet format\n63fc144: API 7\n54f71b8: 🔧 chore(renovate): update config\ne88a5f9: feat: Support Patch 6.1\n39f73bc: feat: Support Dalamud API 5",
+        "Changelog": "72f71b2: 🧹 dotnet format\nd69d7b5: アップグレード\ne90d154: file-scoped namespace\n731b882: Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nchore(deps): update dependency gitversion.tool to v5.11.1\n7da899e: Merge pull request #11 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1\nf6033dd: 🧹 dotnet format\n40896cf: chore(deps): update dependency gitversion.tool to v5.11.1\ncc15592: chore(deps): update dependency gitversion.msbuild to v5.11.1\nffa0a46: 🧹 dotnet format\n63fc144: API 7\n54f71b8: 🔧 chore(renovate): update config\ne88a5f9: feat: Support Patch 6.1\n39f73bc: feat: Support Dalamud API 5",
         "DalamudApiLevel": 7,
         "Description": "Dalamud Plugin to add tweet function and Twitter timeline in FFXIV chat\n (https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json)",
         "DownloadCount": 0,
@@ -1118,7 +1118,7 @@
         "Tags": [
             "Twitter"
         ],
-        "TestingAssemblyVersion": "0.1.0.56"
+        "TestingAssemblyVersion": "0.1.0.60"
     },
     {
         "ApplicableVersion": "any",
