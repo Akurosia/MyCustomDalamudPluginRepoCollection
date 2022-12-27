@@ -329,8 +329,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.1.0.0",
+        "AssemblyVersion": "2.2.0.0",
         "Author": "Puni.sh",
+        "Changelog": null,
         "DalamudApiLevel": 7,
         "Description": "Collect and assign ventures to your retainers from the comfort of your bed.\n (https://love.puni.sh/ment.json)",
         "DownloadCount": 0,
@@ -338,11 +339,15 @@
         "DownloadLinkTesting": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
         "IconUrl": "https://love.puni.sh/resources/auto-retainer.png",
+        "ImageUrls": null,
         "InternalName": "AutoRetainer",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1670889038",
-        "Name": "AutoRetainer [Aku API 7]"
+        "LastUpdate": "1671570348",
+        "Name": "AutoRetainer [Aku API 7]",
+        "Punchline": null,
+        "RepoUrl": null,
+        "Tags": null
     },
     {
         "ApplicableVersion": "any",
