@@ -664,6 +664,31 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.0.0",
+        "Author": "Eisenhuth",
+        "DalamudApiLevel": 7,
+        "Description": "Lets you interact with ChatGPT through the in-game chat. Configuration requires an API key.\n (https://raw.githubusercontent.com/Eisenhuth/TrustworthyDalamudPlugins/master/pluginmaster.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
+        "IconUrl": "",
+        "ImageUrls": [],
+        "InternalName": "ChatGPTPlugin",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "0",
+        "Name": "ChatGPT for FFXIV [Aku API 7]",
+        "Punchline": "has science gone too far?",
+        "RepoUrl": "https://github.com/Eisenhuth/dalamud-chatgpt",
+        "Tags": [
+            "ui",
+            "chat",
+            "ai"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "2.1.0",
         "Author": "Serifine",
         "DalamudApiLevel": 7,
