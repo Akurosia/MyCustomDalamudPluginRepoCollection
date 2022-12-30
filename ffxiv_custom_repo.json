@@ -3501,6 +3501,34 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "0.0.3.0",
+        "Author": "status102",
+        "Changelog": "",
+        "DalamudApiLevel": 7,
+        "Description": "记录交易历史，根据预期价格计算预期交易金额。雇员出售列表中的道具如果有设置预期价格，单价绿色为大于等于预期价格，小于时则为红色。在市场布告板搜索道具时，在物品名字处显示预期价格。\n (https://raw.githubusercontent.com/status102/TradeBuddy/master/repo.json)",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/status102/TradeBuddy/master/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/status102/TradeBuddy/master/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/status102/TradeBuddy/master/latest.zip",
+        "ImageUrls": [
+            "https://github.com/status102/TradeBuddy/raw/master/Image/History.png",
+            "https://github.com/status102/TradeBuddy/raw/master/Image/Setting_.png"
+        ],
+        "InternalName": "TradeBuddy",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": 1658232356,
+        "Name": "Trade Buddy [Aku API 7]",
+        "Punchline": "记录交易历史，根据预期价格计算交易金额，并在雇员出售列表和市场布告板",
+        "RepoUrl": "https://github.com/status102/TradeBuddy",
+        "Tags": [
+            "Trade",
+            "MarketBoard",
+            "RetainerSell"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.0.2",
         "Author": "NightmareXIV",
         "DalamudApiLevel": 7,
