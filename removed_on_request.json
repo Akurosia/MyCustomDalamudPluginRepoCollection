@@ -3,5 +3,11 @@
     "https://raw.githubusercontent.com/eqbot/DalamudPluginRepo/master/pluginmaster.json",
     "https://raw.githubusercontent.com/Penumbra-Sync/repo/main/plogonmaster.json",
     "https://raw.githubusercontent.com/carvelli/Dalamud-Plugins/master/dist/pluginmaster.json",
-    "https://raw.githubusercontent.com/KangasZ/DalamudPluginRepository/main/plugin_repository.json"
+    "https://raw.githubusercontent.com/KangasZ/DalamudPluginRepository/main/plugin_repository.json",
+    "https://raw.githubusercontent.com/Caraxi/Penumbra/master/repo.json",
+    "https://raw.githubusercontent.com/JemMalone/Penumbra/master/repo.json",
+    "https://raw.githubusercontent.com/MarkCartooN/Penumbra/master/repo.json",
+    "https://raw.githubusercontent.com/Saeldur/Penumbra/master/repo.json",
+    "https://raw.githubusercontent.com/VaracolacisCrew/Penumbra_/master/repo.json",
+    "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
 ]
