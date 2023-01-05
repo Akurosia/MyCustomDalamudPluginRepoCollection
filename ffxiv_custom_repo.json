@@ -198,9 +198,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.5.6",
+        "AssemblyVersion": "1.0.6.0",
         "Author": "Taurenkey & Puni.sh",
-        "Changelog": "- Increases the text length of imports up to 10,000,000 characters per box.",
+        "Changelog": "- Please visit the Discord for a full list of changes.",
         "DalamudApiLevel": 7,
         "Description": "The all-in-one crafting plugin.\n (https://love.puni.sh/ment.json)",
         "DownloadCount": 0,
@@ -211,7 +211,7 @@
         "InternalName": "Artisan",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1668445970",
+        "LastUpdate": "1672916430",
         "Name": "Artisan [Aku API 7]",
         "Punchline": "A 'simple' crafting plugin.",
         "Tags": [
