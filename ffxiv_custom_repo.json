@@ -198,7 +198,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.6.0",
+        "AssemblyVersion": "1.0.6.1",
         "Author": "Taurenkey & Puni.sh",
         "Changelog": "- Please visit the Discord for a full list of changes.",
         "DalamudApiLevel": 7,
@@ -211,7 +211,7 @@
         "InternalName": "Artisan",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1672916430",
+        "LastUpdate": "1672929292",
         "Name": "Artisan [Aku API 7]",
         "Punchline": "A 'simple' crafting plugin.",
         "Tags": [
