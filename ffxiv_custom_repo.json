@@ -106,11 +106,14 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.5.0.3",
+        "AssemblyVersion": "1.6.0.0",
         "Author": "yomishino",
-        "Changelog": "New compass for Island Sanctuary (testing)",
+        "CategoryTags": [
+            "UI"
+        ],
+        "Changelog": "- New compass Eureka Elementals for detecting elementals in Eureka (by apeith)\n- Update and bug fixes for Island Sanctuary Compass options",
         "DalamudApiLevel": 7,
-        "Description": "[Important!] Please disable AND uninstall any non-preview version if you'd like to install this version.\n\nThis plugin detects certain objects/NPCs such as Aether Currents nearby and shows where they are by various ways, e.g. pointing to their locations on screen and notifying you in Chat.\n\nCurrently detects:\n\t- Aether Currents\n\t- Mob Hunt Elite Marks\n\t- Gathering Points\n\t- [Experimental] Island Sanctuary Gathering Objects and Animals\n\t- [Experimental] Quest-related NPCs/Objects \n\nNote: Because most objects/NPCs are not loaded when they are too faraway or when there are too many entities nearby (such as too many player characters), they will not be detected in this case.\n\nIcon by Lumas Arkfrost\n (https://raw.githubusercontent.com/yomishino/MyDalamudPlugins/main/plugins.json)",
+        "Description": "[Important!] Please disable AND uninstall any non-preview version if you'd like to install this version.\n\nThis plugin detects certain objects/NPCs such as Aether Currents nearby and shows where they are by various ways, e.g. pointing to their locations on screen and notifying you in Chat.\n\nCurrently detects:\n\t- Aether Currents\n\t- Mob Hunt Elite Marks\n\t- Gathering Points\n\t- [Experimental] Island Sanctuary Gathering Objects and Animals\n\t- [Experimental] Quest-related NPCs/Objects\n\t- [Experimental] Eureka Elementals (by apetih) \n\nNote: Because most objects/NPCs are not loaded when they are too faraway or when there are too many entities nearby (such as too many player characters), they will not be detected in this case.\n\nIcon by Lumas Arkfrost\n (https://raw.githubusercontent.com/yomishino/MyDalamudPlugins/main/plugins.json)",
         "DownloadCount": 0,
         "DownloadLinkInstall": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/TEST/latest.zip",
         "DownloadLinkTesting": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/TEST/latest.zip",
@@ -119,17 +122,16 @@
         "ImageUrls": "",
         "InternalName": "AetherCompassPreview",
         "IsTestingExclusive": "True",
-        "LastUpdate": "1662124684",
+        "LastUpdate": "1672939685",
         "LoadPriority": 0,
         "Name": "Aether Compass [PREVIEW] [TEST] [Aku API 7]",
         "Punchline": "Compasses that detect and mark certain nearby objects/NPCs",
         "RepoUrl": "https://github.com/yomishino/FFXIVAetherCompass",
         "Tags": [
-            "UI",
             "map",
             "compass"
         ],
-        "TestingAssemblyVersion": "1.5.0.3"
+        "TestingAssemblyVersion": "1.6.0.0"
     },
     {
         "ApplicableVersion": "any",
